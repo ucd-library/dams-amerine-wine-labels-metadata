@@ -1,0 +1,212 @@
+{
+  "@id": "",
+  "@context": {
+    "fast": "http://id.worldcat.org/fast/",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "name": {
+      "@id": "http://schema.org/name"
+    }
+  },
+  "@type": [
+    "ucdlib:LabelService",
+    "ucdlib:Service"
+  ],
+  "@graph": [
+    {
+      "@id": "fast:1101236",
+      "name": "Rum"
+    },
+    {
+      "@id": "fast:1115874",
+      "name": "Sherry"
+    },
+    {
+      "@id": "fast:1128729",
+      "name": "Sparkling wines"
+    },
+    {
+      "@id": "fast:1175983",
+      "name": "Wine labels"
+    },
+    {
+      "@id": "fast:1204155",
+      "name": "United States"
+    },
+    {
+      "@id": "fast:1204289",
+      "name": "France"
+    },
+    {
+      "@id": "fast:1204303",
+      "name": "Spain"
+    },
+    {
+      "@id": "fast:1204543",
+      "name": "Australia"
+    },
+    {
+      "@id": "fast:1204565",
+      "name": "Italy"
+    },
+    {
+      "@id": "fast:1204616",
+      "name": "South Africa"
+    },
+    {
+      "@id": "fast:1204901",
+      "name": "Austria"
+    },
+    {
+      "@id": "fast:1204928",
+      "name": "California"
+    },
+    {
+      "@id": "fast:1205213",
+      "name": "Cyprus"
+    },
+    {
+      "@id": "fast:1205401",
+      "name": "Switzerland"
+    },
+    {
+      "@id": "fast:1205917",
+      "name": "Germany--Württemberg"
+    },
+    {
+      "@id": "fast:1206043",
+      "name": "Spain--Catalonia"
+    },
+    {
+      "@id": "fast:1206081",
+      "name": "France--Burgundy"
+    },
+    {
+      "@id": "fast:1206680",
+      "name": "Spain--Málaga"
+    },
+    {
+      "@id": "fast:1207340",
+      "name": "Spain--La Rioja"
+    },
+    {
+      "@id": "fast:1208380",
+      "name": "Greece"
+    },
+    {
+      "@id": "fast:1208476",
+      "name": "Portugal"
+    },
+    {
+      "@id": "fast:1210272",
+      "name": "Germany"
+    },
+    {
+      "@id": "fast:1210281",
+      "name": "Soviet Union"
+    },
+    {
+      "@id": "fast:1211575",
+      "name": "Jamaica"
+    },
+    {
+      "@id": "fast:1214787",
+      "name": "France--Rhône"
+    },
+    {
+      "@id": "fast:1215566",
+      "name": "Spain--Villafranca del Panadés"
+    },
+    {
+      "@id": "fast:1223955",
+      "name": "Spain--Valdepeñas"
+    },
+    {
+      "@id": "fast:1233917",
+      "name": "Spain--San Sadurní de Noya"
+    },
+    {
+      "@id": "fast:1239515",
+      "name": "Africa, North"
+    },
+    {
+      "@id": "fast:1239757",
+      "name": "France--Médoc"
+    },
+    {
+      "@id": "fast:1240997",
+      "name": "Germany--Rheingau"
+    },
+    {
+      "@id": "fast:1241484",
+      "name": "Balkan Peninsula"
+    },
+    {
+      "@id": "fast:1244296",
+      "name": "Germany--Franconia"
+    },
+    {
+      "@id": "fast:1244515",
+      "name": "South America"
+    },
+    {
+      "@id": "fast:1245064",
+      "name": "Europe"
+    },
+    {
+      "@id": "fast:1256791",
+      "name": "Moldova"
+    },
+    {
+      "@id": "fast:1262022",
+      "name": "Spain--Barranca de Navarra Region"
+    },
+    {
+      "@id": "fast:1272622",
+      "name": "Germany--Rheinhessen-Pfalz"
+    },
+    {
+      "@id": "fast:1330577",
+      "name": "Spain--Pontevedra (Province)"
+    },
+    {
+      "@id": "fast:1343792",
+      "name": "Europe--Moselle River Region"
+    },
+    {
+      "@id": "fast:1745588",
+      "name": "Non-alcoholic wines"
+    },
+    {
+      "@id": "fast:1746284",
+      "name": "Red wines"
+    },
+    {
+      "@id": "fast:1746285",
+      "name": "White wines"
+    },
+    {
+      "@id": "fast:1746582",
+      "name": "Table wines"
+    },
+    {
+      "@id": "fast:1759083",
+      "name": "France--Bordeaux Region (Aquitaine)"
+    },
+    {
+      "@id": "fast:811244",
+      "name": "Aperitifs"
+    },
+    {
+      "@id": "fast:837918",
+      "name": "Brandy"
+    },
+    {
+      "@id": "fast:933048",
+      "name": "Fortified wines"
+    },
+    {
+      "@id": "fast:999516",
+      "name": "Liqueurs"
+    }
+  ]
+}
