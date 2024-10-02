@@ -1,9 +1,6 @@
 *.jpg
 *.ttl
 *.jq
-title.json
-v1
-*-
 context.json
 titles.rq
 titles.json

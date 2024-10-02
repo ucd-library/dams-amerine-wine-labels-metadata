@@ -1,9 +1,5 @@
 * Amerine Wine Labels
 
-    #+begin_src jq
-      (.[1] |
-    #+end_src
-
 ** 2024-10 Add Titles
    I need a method to add the wine label information from Eric into the label
    data.
