@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1205401"
   },
   "schema:identifier": [
-    "label_1002",
     "ark:/85140/d4tc9x"
   ],
   "schema:inLanguage": "de-CH",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Swiss",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Swiss",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Quennoz & Escher, Propriétaires. Domaine Clos \"St-Remy\" § Dôle. St. Remy. Still red wine.  § Sion (Valais)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Sion (Valais)",
+  "wine_label:digitization_number": "1002/",
+  "wine_label:folder": "Still--Swiss",
+  "wine_label:marginalia": "\"At Home. 1947. B.  (Thin)\" \"Present: CEH, Jr., Carolyn, ELH, CEH\"",
+  "wine_label:producer": "Quennoz & Escher, Propriétaires. Domaine Clos \"St-Remy\"",
+  "wine_label:wine_type": "Dôle. St. Remy. Still red wine. "
 }

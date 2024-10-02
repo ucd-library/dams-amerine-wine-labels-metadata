@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_3304",
     "ark:/85140/d4dd7s"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Burgundy Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Domaine Monopole Jules Belin, Propriétaire. Clos des Forêts § Nuit-Saint-Georges. Cuvée hors Ligne. Red Burgundy Wine. § Premeaux; Nuit St. Georges; Côte d'Or",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Premeaux; Nuit St. Georges; Côte d'Or",
+  "wine_label:digitization_number": "3304/",
+  "wine_label:folder": "Red--Still--Burgundy Red",
+  "wine_label:marginalia": "\"Cote de Nuits, Nuits St. Georges. 1re Cuvee\"",
+  "wine_label:producer": "Domaine Monopole Jules Belin, Propriétaire. Clos des Forêts",
+  "wine_label:wine_type": "Nuit-Saint-Georges. Cuvée hors Ligne. Red Burgundy Wine."
 }

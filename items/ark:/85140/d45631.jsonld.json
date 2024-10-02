@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "label_1309",
     "ark:/85140/d45631"
   ],
   "schema:inLanguage": "de-LU",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Caves Coopératives des Vignerons § Stadtbredimus-Dieffert. Riesling Nature. § Stadtbredimus s/ Moselle. Gr. D. de Luxbg",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Stadtbredimus s/ Moselle. Gr. D. de Luxbg",
+  "wine_label:date": "1937",
+  "wine_label:digitization_number": "1309/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "\"Dinner. Cercle de l'Union. March '45.  C+\" \"Luxembourg. (White)\"",
+  "wine_label:producer": "Caves Coopératives des Vignerons",
+  "wine_label:wine_type": "Stadtbredimus-Dieffert. Riesling Nature."
 }

@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_3475",
     "ark:/85140/d49t3g"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--California White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "B. Chibari & Sons, Fresno. § Santa Clara Valley Chablis. Reserve § Santa Clara County",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Santa Clara County",
+  "wine_label:digitization_number": "3475/",
+  "wine_label:folder": "White--Still--California White",
+  "wine_label:marginalia": "\"maa\"",
+  "wine_label:producer": "B. Chibari & Sons, Fresno.",
+  "wine_label:wine_type": "Santa Clara Valley Chablis. Reserve"
 }

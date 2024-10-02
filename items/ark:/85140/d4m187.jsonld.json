@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204155"
   },
   "schema:identifier": [
-    "ark:/85140/d4m187",
-    "label_4866"
+    "ark:/85140/d4m187"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "United States Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--United States Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Georg und Karl Ludwig Schmitt'sches Weingut § Niersteiner Georghof. Light White Rhein Wine. § Nierstein am Rhein",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Nierstein am Rhein",
+  "wine_label:date": "1962",
+  "wine_label:digitization_number": "4866/",
+  "wine_label:folder": "Still--United States Folder",
+  "wine_label:producer": "Georg und Karl Ludwig Schmitt'sches Weingut",
+  "wine_label:wine_type": "Niersteiner Georghof. Light White Rhein Wine."
 }

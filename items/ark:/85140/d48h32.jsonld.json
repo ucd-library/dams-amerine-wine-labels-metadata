@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/933048"
   },
   "schema:identifier": [
-    "ark:/85140/d48h32",
-    "label_2175"
+    "ark:/85140/d48h32"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Fortified",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Misc Fortified",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "I.V.C. Wineries § California Pale Dry Sherry § Guasti",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Guasti",
+  "wine_label:digitization_number": "2175/",
+  "wine_label:folder": "Fortified--Misc Fortified",
+  "wine_label:marginalia": "\"maa\"",
+  "wine_label:producer": "I.V.C. Wineries",
+  "wine_label:wine_type": "California Pale Dry Sherry"
 }

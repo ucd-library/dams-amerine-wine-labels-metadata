@@ -17,7 +17,6 @@
     "@id": "http://id.worldcat.org/fast/1204303"
   },
   "schema:identifier": [
-    "label_3731",
     "ark:/85140/d47m79"
   ],
   "schema:inLanguage": "es-ES",
@@ -25,11 +24,13 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spain Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "S. Sadurni de Noya § Raventós Codorníu",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "3731/",
+  "wine_label:folder": "Still--Spain Folder",
+  "wine_label:producer": "S. Sadurni de Noya",
+  "wine_label:wine_type": "Raventós Codorníu"
 }

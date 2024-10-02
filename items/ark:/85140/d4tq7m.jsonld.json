@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4tq7m",
-    "label_4067"
+    "ark:/85140/d4tq7m"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Red Bordeaux (for book) folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Red Bordeaux (for book) folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Château Lascombes. § Haut-Médoc § Margaux",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Margaux",
+  "wine_label:date": "1948",
+  "wine_label:digitization_number": "4067/",
+  "wine_label:folder": "Red--Still--Red Bordeaux (for book) folder",
+  "wine_label:marginalia": "\"2nd Growth. MAA-76\"",
+  "wine_label:producer": "Château Lascombes.",
+  "wine_label:wine_type": "Haut-Médoc"
 }

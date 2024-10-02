@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_2925",
     "ark:/85140/d4ch64"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Bordeaux White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Société Coopérative Vinicole de Sigolsheim § Clevner- Riesling (Pinot Riesling) § Mambourg; Sigolsheim; Haut Rhin",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Mambourg; Sigolsheim; Haut Rhin",
+  "wine_label:digitization_number": "2925/",
+  "wine_label:folder": "White--Still--Bordeaux White",
+  "wine_label:marginalia": "\"FPG\"",
+  "wine_label:producer": "Société Coopérative Vinicole de Sigolsheim",
+  "wine_label:wine_type": "Clevner- Riesling (Pinot Riesling)"
 }

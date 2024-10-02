@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4dd4n",
-    "label_2530"
+    "ark:/85140/d4dd4n"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Burgundy White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Caves J. Moreau & Fils. Clos des Hospices § Chablis Grand Premier Crû § Chablis",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Chablis",
+  "wine_label:date": "1929",
+  "wine_label:digitization_number": "2530/",
+  "wine_label:folder": "White--Still--Burgundy White",
+  "wine_label:marginalia": "\"Dinner by Carl Ganter. Bhmn Club, July 1941 A-\" \"Chablis 1er Cru\" \"Present: Ch. Justice Stone, Ganter, FPG, Blanquie, Selleck, Sterling Carr, CEH, Eustice Cullinan, Amerine\"",
+  "wine_label:producer": "Caves J. Moreau & Fils. Clos des Hospices",
+  "wine_label:wine_type": "Chablis Grand Premier Crû"
 }

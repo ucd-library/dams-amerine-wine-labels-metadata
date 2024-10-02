@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_2820",
     "ark:/85140/d4xx1b"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Bordeaux White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Schröder & Schyler & Cie § Graves § Bordeaux",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Bordeaux",
+  "wine_label:digitization_number": "2820/",
+  "wine_label:folder": "White--Still--Bordeaux White",
+  "wine_label:marginalia": "\"Dinner. Channing's. March, 1940. C+\" \"(Graves)\" \"Present: CH, MBH, ELH, CEH\"",
+  "wine_label:producer": "Schröder & Schyler & Cie",
+  "wine_label:wine_type": "Graves"
 }

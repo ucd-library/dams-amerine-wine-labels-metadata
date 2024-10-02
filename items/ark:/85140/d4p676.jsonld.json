@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_2853",
     "ark:/85140/d4p676"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Bordeaux White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Château d'Yquem. Lur -Saluces § Sauternes",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1934",
+  "wine_label:digitization_number": "2853/",
+  "wine_label:folder": "White--Still--Bordeaux White",
+  "wine_label:marginalia": "\"Bordelais Dinner. Wine + Food Society. Bohemian Club. May 28, 1940.  .90\" \"1st Grand Cru. Sauternes\"",
+  "wine_label:producer": "Château d'Yquem. Lur -Saluces",
+  "wine_label:wine_type": "Sauternes"
 }

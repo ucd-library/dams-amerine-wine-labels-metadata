@@ -22,22 +22,20 @@
     }
   ],
   "schema:identifier": [
-    "label_4001",
     "ark:/85140/d4c15x"
   ],
   "schema:inLanguage": "en-JM",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Jamaica Rum Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Spirit--Jamaica Rum Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": " § Rhum Vieux  § Martinique Rum",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Rhum Vieux ",
+  "wine_label:digitization_number": "4001/",
+  "wine_label:folder": "Spirit--Jamaica Rum Folder",
+  "wine_label:wine_type": "Martinique Rum"
 }

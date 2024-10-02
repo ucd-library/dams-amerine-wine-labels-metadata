@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1204289"
   },
   "schema:identifier": [
-    "label_4133",
     "ark:/85140/d49f0j"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--France Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "August Fort, Propriétaire. Château de Nouvelles. § Hautes Corbières. § Tuchan; Aude",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Tuchan; Aude",
+  "wine_label:digitization_number": "4133/",
+  "wine_label:folder": "Still--France Folder",
+  "wine_label:producer": "August Fort, Propriétaire. Château de Nouvelles.",
+  "wine_label:wine_type": "Hautes Corbières."
 }

@@ -22,22 +22,25 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d40670",
-    "label_2541"
+    "ark:/85140/d40670"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Burgundy White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Montée de Tonnerre  Marcel Droin, Propriétaire-Viticulteur § Chablis § Chablis Vin fin de Chablis, Montée de Tonnerre § Chablis, Yonne, France",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Chablis",
+  "wine_label:city_region": "Chablis, Yonne, France",
+  "wine_label:date": "1943",
+  "wine_label:digitization_number": "2541/",
+  "wine_label:folder": "White--Still--Burgundy White",
+  "wine_label:marginalia": "\"Chablis\" \"FPG, MG. 11/47\"  ",
+  "wine_label:producer": "Montée de Tonnerre  Marcel Droin, Propriétaire-Viticulteur",
+  "wine_label:questions": "Under \"marginalia: I read \"7 P only\" and \"N M 11/47\"  Which is right?",
+  "wine_label:wine_type": "Chablis Vin fin de Chablis, Montée de Tonnerre"
 }

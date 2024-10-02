@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d42d7p",
-    "label_2672"
+    "ark:/85140/d42d7p"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhone Misc & French Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Rhone Misc & French Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Louis Latour § Beaujolais § Beaune; Côte d'Or",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Beaune; Côte d'Or",
+  "wine_label:digitization_number": "2672/",
+  "wine_label:folder": "Red--Still--Rhone Misc & French Red",
+  "wine_label:marginalia": "\"Dinner. 27th Wedding Anniversary. Palace Hotel. April 6, 1942.  B-. Light - little too acid\" \"Beaujolais\" \"ELH, CEH\"",
+  "wine_label:producer": "Louis Latour",
+  "wine_label:wine_type": "Beaujolais"
 }

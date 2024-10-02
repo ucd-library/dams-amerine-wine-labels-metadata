@@ -22,19 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4t102",
-    "label_2643"
+    "ark:/85140/d4t102"
   ],
   "schema:inLanguage": "fr-FR",
   "schema:keywords": "Rhone Misc & French Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Rhone Misc & French Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Maurice Croz Propriétaire. Carquelin. § Moulin à Vent. 1er Cru Classé",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1933",
+  "wine_label:digitization_number": "2643/",
+  "wine_label:folder": "Red--Still--Rhone Misc & French Red",
+  "wine_label:marginalia": "\"Wine Dinner. Bohemian Club. 2/13/41. (Amerine Sire). B\" \"Beaujolais\"",
+  "wine_label:producer": "Maurice Croz Propriétaire. Carquelin.",
+  "wine_label:wine_type": "Moulin à Vent. 1er Cru Classé"
 }

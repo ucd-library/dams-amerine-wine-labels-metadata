@@ -22,19 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4qm34",
-    "label_2574"
+    "ark:/85140/d4qm34"
   ],
   "schema:inLanguage": "fr-FR",
   "schema:keywords": "Burgundy White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Burgundy White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Nath [l] Johnstone & Fils § Poully",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1929",
+  "wine_label:digitization_number": "2574/",
+  "wine_label:folder": "White--Still--Burgundy White",
+  "wine_label:marginalia": "\"Sterling Carr's Lunch. French Club. Jan. 16, 1941. B\" \"Present: Carr, Griffiths, Judge St. Sure, Amerine, Paul Kieffer, Judge Haney, Carl Ganter, CEH\"",
+  "wine_label:producer": "Nath [l] Johnstone & Fils",
+  "wine_label:wine_type": "Poully"
 }

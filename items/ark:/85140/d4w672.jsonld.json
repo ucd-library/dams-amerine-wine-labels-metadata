@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4w672",
-    "label_2774"
+    "ark:/85140/d4w672"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhone Misc & French Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Rhone Misc & French Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Établissements J.N. Monmousseau. Cuvée exportation. § Vin Mousseux. Méthode Champenoise § Montrichard L & C",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Montrichard L & C",
+  "wine_label:digitization_number": "2774/",
+  "wine_label:folder": "Red--Still--Rhone Misc & French Red",
+  "wine_label:marginalia": "\"Caves 5/20/50\"",
+  "wine_label:producer": "Établissements J.N. Monmousseau. Cuvée exportation.",
+  "wine_label:wine_type": "Vin Mousseux. Méthode Champenoise"
 }

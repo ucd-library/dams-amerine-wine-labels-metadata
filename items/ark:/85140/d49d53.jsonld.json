@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d49d53",
-    "label_2763"
+    "ark:/85140/d49d53"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhone Misc & French Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Rhone Misc & French Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Marnier-Lapostolle, Propre. Château de Sancerre. § Sancerre. Sauvignon.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "2763/",
+  "wine_label:folder": "Red--Still--Rhone Misc & French Red",
+  "wine_label:marginalia": "\"Carmen\"",
+  "wine_label:producer": "Marnier-Lapostolle, Propre. Château de Sancerre.",
+  "wine_label:wine_type": "Sancerre. Sauvignon."
 }

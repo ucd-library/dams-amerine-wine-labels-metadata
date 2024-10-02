@@ -17,21 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "label_0685",
     "ark:/85140/d4s326"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Wachstum  Dr. H. Thanisch § Berncasteler Doctor § Mosel-Saar-Ruwer. Spätlese § Graben",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Berncasteler Doctor",
+  "wine_label:city_region": "Graben",
+  "wine_label:date": "1946",
+  "wine_label:digitization_number": "0685/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Dinner. Brenners Park Hotel. 6.16.50. Baden-Baden. A. ELH, CEH\"",
+  "wine_label:producer": "Wachstum  Dr. H. Thanisch",
+  "wine_label:wine_type": "Mosel-Saar-Ruwer. Spätlese"
 }

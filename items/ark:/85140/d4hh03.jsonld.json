@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "label_1492",
     "ark:/85140/d4hh03"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Urbana Wine Company, Inc. § New York State Tokay Wine.   § Urbana Hammondsport NY",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Urbana Hammondsport NY",
+  "wine_label:digitization_number": "1492/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "\"FPG\"",
+  "wine_label:producer": "Urbana Wine Company, Inc.",
+  "wine_label:wine_type": "New York State Tokay Wine.  "
 }

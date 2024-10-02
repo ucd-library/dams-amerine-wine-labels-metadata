@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "label_2492",
     "ark:/85140/d49t0b"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Burgundy White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": " § Chevalier Montrachet. \"Les Demoiselles\"",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1935",
+  "wine_label:digitization_number": "2492/",
+  "wine_label:folder": "White--Still--Burgundy White",
+  "wine_label:marginalia": "\"Dinner. Raoul Blanquie. 2/19/44 B+\" \"Côte de Beaune. Puligny-Montrachet. Tête de Cuvée\" \"Present: Blanquie, Lynn White, Lucia, Jeff Smith, Farnham, Selleck, Michel Weill, Francoz, CEH\"",
+  "wine_label:wine_type": "Chevalier Montrachet. \"Les Demoiselles\""
 }

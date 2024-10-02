@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_2396",
     "ark:/85140/d4qh4g"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Medoc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Medoc Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Château La Côte Haut-Brion § Pessac-Bordeaux. Grand Vin. § Pessac-Bordeaux. ",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Pessac-Bordeaux. ",
+  "wine_label:date": "1929",
+  "wine_label:digitization_number": "2396/",
+  "wine_label:folder": "Red--Still--Medoc Red",
+  "wine_label:marginalia": "\"Carr\"",
+  "wine_label:producer": "Château La Côte Haut-Brion",
+  "wine_label:wine_type": "Pessac-Bordeaux. Grand Vin."
 }

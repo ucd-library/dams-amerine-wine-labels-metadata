@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4k06t",
-    "label_1778"
+    "ark:/85140/d4k06t"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Deinhard & Co. § Brauneberger § Coblenz am Rhein und an die Mosel",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Coblenz am Rhein und an die Mosel",
+  "wine_label:date": "1930",
+  "wine_label:digitization_number": "1778/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:marginalia": "\"Jeff Smith's dinner for Gen'l Waite. Palace Hotel. 3/15/44. B\" \"Middle Moselle\" \"Present: Jeff Smith, Gen'l Waite, Col. Lyon, Geo Selleck, Esquin, Dr. Crowe, French Conant, Francoz, Ferd Wieder, Russ Curtis, Earl Bennett, Blanquie, CEH\"",
+  "wine_label:producer": "Deinhard & Co.",
+  "wine_label:wine_type": "Brauneberger"
 }

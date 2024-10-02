@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "label_3912",
     "ark:/85140/d4vd9k"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Naturrein-Unvergoren Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Germany Naturrein-Unvergoren Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "J. Latscha § Feiner Deutscher Wermut Wein § Frankfurt a. Main",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Frankfurt a. Main",
+  "wine_label:digitization_number": "3912/",
+  "wine_label:folder": "Still--Germany Naturrein-Unvergoren Folder",
+  "wine_label:producer": "J. Latscha",
+  "wine_label:wine_type": "Feiner Deutscher Wermut Wein"
 }

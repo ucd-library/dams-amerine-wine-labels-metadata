@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_0799",
     "ark:/85140/d42031"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--France Misc White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Coopérative Vinicole. § Muscadet de Sèvre et Maine § La Haie-Fouassière",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "La Haie-Fouassière",
+  "wine_label:digitization_number": "0799/",
+  "wine_label:folder": "White--Still--France Misc White",
+  "wine_label:marginalia": "\"Loire (White)\" \"F. Wieder\"",
+  "wine_label:producer": "Coopérative Vinicole.",
+  "wine_label:wine_type": "Muscadet de Sèvre et Maine"
 }

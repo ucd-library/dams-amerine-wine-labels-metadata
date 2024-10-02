@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204155"
   },
   "schema:identifier": [
-    "label_4825",
     "ark:/85140/d4wq90"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "United States Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--United States Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "L.D. McLean Co. § Selma Brand § Select California Port § San Francisco",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Selma Brand",
+  "wine_label:city_region": "San Francisco",
+  "wine_label:digitization_number": "4825/",
+  "wine_label:folder": "Still--United States Folder",
+  "wine_label:producer": "L.D. McLean Co.",
+  "wine_label:wine_type": "Select California Port"
 }

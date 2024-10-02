@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4z62s",
-    "label_0792"
+    "ark:/85140/d4z62s"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--France Misc White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Marcel & Roger Breyer,  Propriétaires. \nChâteau de Belle Rive.\n § Clos des Quarts de Chaume; Coteaux du Layon § Rochefort S. Loire (Maine & Loire)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Rochefort S. Loire (Maine & Loire)",
+  "wine_label:digitization_number": "0792/",
+  "wine_label:folder": "White--Still--France Misc White",
+  "wine_label:marginalia": "\"Anjou\" Jeff\"",
+  "wine_label:producer": "Marcel & Roger Breyer,  Propriétaires. \nChâteau de Belle Rive.\n",
+  "wine_label:wine_type": "Clos des Quarts de Chaume; Coteaux du Layon"
 }

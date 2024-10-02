@@ -17,21 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d4gd0r",
-    "label_0757"
+    "ark:/85140/d4gd0r"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Maison Bujard § Grand Perlé § Séleccion de Chasselas § Lutry (Suisse)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Grand Perlé",
+  "wine_label:city_region": "Lutry (Suisse)",
+  "wine_label:digitization_number": "0757/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Dinner. Dolder Grand. Zurich. 5/19/52. B- (petillant)\"",
+  "wine_label:producer": "Maison Bujard",
+  "wine_label:wine_type": "Séleccion de Chasselas"
 }

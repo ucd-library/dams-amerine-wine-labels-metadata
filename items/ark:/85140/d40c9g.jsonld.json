@@ -17,21 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d40c9g",
-    "label_0753"
+    "ark:/85140/d40c9g"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Grundbacher & Co. § Dragunerwy. § Schafiser",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Dragunerwy.",
+  "wine_label:date": "1950",
+  "wine_label:digitization_number": "0753/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Lunch. Gasthaus Löwen. Heiden.  5/15/52. C (Gassy).",
+  "wine_label:producer": "Grundbacher & Co.",
+  "wine_label:wine_type": "Schafiser"
 }

@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1272622"
   },
   "schema:identifier": [
-    "label_2094",
     "ark:/85140/d4r07r"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhein Hessen Rheinfalz",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhein Hessen Rheinfalz",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": " § Deidesheimer Leinhöhle Riesling. Edelbeeren Auslese.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1920",
+  "wine_label:digitization_number": "2094/",
+  "wine_label:folder": "Still--Rhein Hessen Rheinfalz",
+  "wine_label:marginalia": "\"Rheinfalz\" \"Harold Price\"",
+  "wine_label:wine_type": "Deidesheimer Leinhöhle Riesling. Edelbeeren Auslese."
 }

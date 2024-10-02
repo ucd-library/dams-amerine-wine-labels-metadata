@@ -22,22 +22,24 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4ng68",
-    "label_0268"
+    "ark:/85140/d4ng68"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--California Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Wente Bros. § Valle de Oro § California Rosé § Livermore",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Valle de Oro",
+  "wine_label:city_region": "Livermore",
+  "wine_label:date": "Undated",
+  "wine_label:digitization_number": "0268/",
+  "wine_label:folder": "Red--Still--California Red",
+  "wine_label:marginalia": "\"Dinner at Home. 1944. B.  Present:  CEH, ELH, Mother, Alice\"",
+  "wine_label:producer": "Wente Bros.",
+  "wine_label:wine_type": "California Rosé"
 }

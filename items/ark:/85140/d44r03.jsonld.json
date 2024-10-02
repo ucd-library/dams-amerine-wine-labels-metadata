@@ -16,21 +16,21 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "ark:/85140/d44r03",
-    "label_4916"
+    "ark:/85140/d44r03"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Removed from UC Reporters Notebook folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Removed from UC Reporters Notebook folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "S. Schmitt, Söhne § Leiwener Klostergarten § Longuich/Mosel; Mosel.Saar. Ruwer",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Longuich/Mosel; Mosel.Saar. Ruwer",
+  "wine_label:date": "1969",
+  "wine_label:digitization_number": "4916/",
+  "wine_label:folder": "Removed from UC Reporters Notebook folder",
+  "wine_label:producer": "S. Schmitt, Söhne",
+  "wine_label:wine_type": "Leiwener Klostergarten"
 }

@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_2768",
     "ark:/85140/d4nq4x"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhone Misc & French Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Rhone Misc & French Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Caves August Fort. Château de Nouvelles. Les Caves Tauch-Fitou. § Fitou § Tuchan; Aude; Languedoc",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Tuchan; Aude; Languedoc",
+  "wine_label:digitization_number": "2768/",
+  "wine_label:folder": "Red--Still--Rhone Misc & French Red",
+  "wine_label:marginalia": "\"Dinner. Windward Nassau. 3/15/53. C-\" \"Corbières\" \"Present: PHS, LH [I?], ELH, CEH\" (Written on label \"Corbières\"",
+  "wine_label:producer": "Caves August Fort. Château de Nouvelles. Les Caves Tauch-Fitou.",
+  "wine_label:wine_type": "Fitou"
 }

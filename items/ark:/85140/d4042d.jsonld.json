@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_3346",
     "ark:/85140/d4042d"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Burgundy Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Ed. Kressmann & Co., Bordeaux & Nuits St-Georges, Cave à Beaune. § Aloxe-Corton § Bordeaux, France Nuits St. Georges",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Bordeaux, France Nuits St. Georges",
+  "wine_label:digitization_number": "3346/",
+  "wine_label:folder": "Red--Still--Burgundy Red",
+  "wine_label:marginalia": "\"Informal Dinner. Bd. of Gov., W + F Soc., Le Cercle, Feb. 1944, C+\" \"Côte de Baune, Aloxe-Corton, District Wine\" ",
+  "wine_label:producer": "Ed. Kressmann & Co., Bordeaux & Nuits St-Georges, Cave à Beaune.",
+  "wine_label:wine_type": "Aloxe-Corton"
 }

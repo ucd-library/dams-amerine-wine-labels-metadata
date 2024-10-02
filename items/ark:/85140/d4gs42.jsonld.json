@@ -17,21 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "label_0664",
     "ark:/85140/d4gs42"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Joseph Drouhin, Propriétaire § Clos des Mouches § Beaune. § Beaune (Côte-d'Or)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Clos des Mouches",
+  "wine_label:city_region": "Beaune (Côte-d'Or)",
+  "wine_label:date": "1948",
+  "wine_label:digitization_number": "0664/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Lunch. Restaurant Marché. 5/31/50. Beaune. B. Present: ELC, CEH\".",
+  "wine_label:producer": "Joseph Drouhin, Propriétaire",
+  "wine_label:wine_type": "Beaune."
 }

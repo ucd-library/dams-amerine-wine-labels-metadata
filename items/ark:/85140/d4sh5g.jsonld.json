@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_2558",
     "ark:/85140/d4sh5g"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Burgundy White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Long Depaquis, seul propriétaire de Chablis-Moulonne § Chablis Grenouille § Chablis",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Chablis",
+  "wine_label:date": "1929",
+  "wine_label:digitization_number": "2558/",
+  "wine_label:folder": "White--Still--Burgundy White",
+  "wine_label:marginalia": "\"Dinner. Griffiths. 6/26/41. A. \" \"Chablis 1re Cru\" \"Present: Mr. + Mrs. FPG, Mr. + Mrs [...ckay?], Mr + Mrs. [Coslegeur?],M.A. Amerine, CEH\"",
+  "wine_label:producer": "Long Depaquis, seul propriétaire de Chablis-Moulonne",
+  "wine_label:wine_type": "Chablis Grenouille"
 }

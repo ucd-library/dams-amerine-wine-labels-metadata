@@ -17,21 +17,19 @@
     "@id": "http://id.worldcat.org/fast/999516"
   },
   "schema:identifier": [
-    "label_0402",
     "ark:/85140/d4bg7v"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Apperitives and Liqueurs",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Spirit--Apperitives and Liqueurs",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": " § Curaçao Triple Sec",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "0402/",
+  "wine_label:folder": "Spirit--Apperitives and Liqueurs",
+  "wine_label:marginalia": "\"Jeff Smith. Brussels\"",
+  "wine_label:wine_type": "Curaçao Triple Sec"
 }

@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1205401"
   },
   "schema:identifier": [
-    "ark:/85140/d42h02",
-    "label_1093"
+    "ark:/85140/d42h02"
   ],
   "schema:inLanguage": "de-CH",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Swiss",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Swiss",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "VOLG. Verband Ostschweiz. Landwirtschaftl. Genossenschaften (V.O.L.G.) § Riesling-Sylvaner § Winterthur",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Winterthur",
+  "wine_label:date": "1946",
+  "wine_label:digitization_number": "1093/",
+  "wine_label:folder": "Still--Swiss",
+  "wine_label:marginalia": "\"Switzerland. Jeff Smith. Europe\"",
+  "wine_label:producer": "VOLG. Verband Ostschweiz. Landwirtschaftl. Genossenschaften (V.O.L.G.)",
+  "wine_label:wine_type": "Riesling-Sylvaner"
 }

@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4h32q",
-    "label_0811"
+    "ark:/85140/d4h32q"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--France Misc White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Shipped by A. de Marconnay § Saumur. Crackling Dry White Wine. § Chacé",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Chacé",
+  "wine_label:digitization_number": "0811/",
+  "wine_label:folder": "White--Still--France Misc White",
+  "wine_label:marginalia": "\"Wieder\"",
+  "wine_label:producer": "Shipped by A. de Marconnay",
+  "wine_label:wine_type": "Saumur. Crackling Dry White Wine."
 }

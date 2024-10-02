@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1272622"
   },
   "schema:identifier": [
-    "label_2074",
     "ark:/85140/d49w82"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhein Hessen Rheinfalz",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhein Hessen Rheinfalz",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "J. Langenbach & Söhne Nachf. § Niersteiner \"Fisch-Krone\" § Worms a. Rh",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Worms a. Rh",
+  "wine_label:date": "1935",
+  "wine_label:digitization_number": "2074/",
+  "wine_label:folder": "Still--Rhein Hessen Rheinfalz",
+  "wine_label:marginalia": "\"Rheinhessen\" \"Buck\"",
+  "wine_label:producer": "J. Langenbach & Söhne Nachf.",
+  "wine_label:wine_type": "Niersteiner \"Fisch-Krone\""
 }

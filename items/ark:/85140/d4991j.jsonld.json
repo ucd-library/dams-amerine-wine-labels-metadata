@@ -17,21 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d4991j",
-    "label_0650"
+    "ark:/85140/d4991j"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Chateau Guiraud Peyrebrune § Médoc § Appellation Médoc Contrôlée",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Appellation Médoc Contrôlée",
+  "wine_label:date": "1947?",
+  "wine_label:digitization_number": "0650/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Lunch. Hotel Moderne. Villefranche. 5/23/50. C. Present: ELC, CEH\"",
+  "wine_label:producer": "Chateau Guiraud Peyrebrune",
+  "wine_label:wine_type": "Médoc"
 }

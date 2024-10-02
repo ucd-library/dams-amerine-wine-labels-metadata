@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_0882",
     "ark:/85140/d4b04w"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Sparkling--France Misc White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "G.H. Mumm & Co. Société Vinicole de Champagne. Successeur. § Champagne très sec. § Reims",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Reims",
+  "wine_label:date": "1933",
+  "wine_label:digitization_number": "0882/",
+  "wine_label:folder": "White--Sparkling--France Misc White",
+  "wine_label:marginalia": "\"Dinner. Board of Governors. Wine + Food Soc. 6/27/45.  Cercle de l'Union. A-\"Present: Arthur Brouillet, Francoz, Burt Adams, Merrill Brown, René Vaysie, Jim Howe, Leonard Buck, Sal Lucia, Selleck, Jeff Smith, Arnold Fox, Albert Sigal, Farnham Griffiths, CEH\"",
+  "wine_label:producer": "G.H. Mumm & Co. Société Vinicole de Champagne. Successeur.",
+  "wine_label:wine_type": "Champagne très sec."
 }

@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_0205",
     "ark:/85140/d4sk55"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--California Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Casa Madrone § Cabernet § Rutherford",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Rutherford",
+  "wine_label:date": "Undated",
+  "wine_label:digitization_number": "0205/",
+  "wine_label:folder": "Red--Still--California Red",
+  "wine_label:marginalia": "\"Pre-prohibition. [Selleck]\"",
+  "wine_label:producer": "Casa Madrone",
+  "wine_label:wine_type": "Cabernet"
 }

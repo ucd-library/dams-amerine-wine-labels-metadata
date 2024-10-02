@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1272622"
   },
   "schema:identifier": [
-    "label_2070",
     "ark:/85140/d4tw8q"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhein Hessen Rheinfalz",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhein Hessen Rheinfalz",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Georg Schmitt'sches Weingut § Niersteiner Rehbach-Mundelpfad. Auslese. § Nierstein am Rhein",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Nierstein am Rhein",
+  "wine_label:date": "1929",
+  "wine_label:digitization_number": "2070/",
+  "wine_label:folder": "Still--Rhein Hessen Rheinfalz",
+  "wine_label:marginalia": "\"CRG\"",
+  "wine_label:producer": "Georg Schmitt'sches Weingut",
+  "wine_label:wine_type": "Niersteiner Rehbach-Mundelpfad. Auslese."
 }

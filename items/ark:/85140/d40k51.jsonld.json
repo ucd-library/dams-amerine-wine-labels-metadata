@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204565"
   },
   "schema:identifier": [
-    "label_0126",
     "ark:/85140/d40k51"
   ],
   "schema:inLanguage": "it-IT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Italy",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Italy",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Tenute Flli Bruzzoni § Moscato Spumante § Streve (Piemonte)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Streve (Piemonte)",
+  "wine_label:digitization_number": "0126/",
+  "wine_label:folder": "Still--Italy",
+  "wine_label:marginalia": "\"White.\" \"Selleck\"",
+  "wine_label:producer": "Tenute Flli Bruzzoni",
+  "wine_label:wine_type": "Moscato Spumante"
 }

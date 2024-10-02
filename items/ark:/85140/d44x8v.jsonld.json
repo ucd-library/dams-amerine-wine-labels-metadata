@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1205401"
   },
   "schema:identifier": [
-    "label_4676",
     "ark:/85140/d44x8v"
   ],
   "schema:inLanguage": "de-CH",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Switzerland Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Switzerland Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "R. Gilliard § Les Murettes. Fendant -Pétillant. § Sion",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Sion",
+  "wine_label:digitization_number": "4676/",
+  "wine_label:folder": "Still--Switzerland Folder",
+  "wine_label:producer": "R. Gilliard",
+  "wine_label:wine_type": "Les Murettes. Fendant -Pétillant."
 }

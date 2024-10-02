@@ -17,21 +17,22 @@
     "@id": "http://id.worldcat.org/fast/933048"
   },
   "schema:identifier": [
-    "ark:/85140/d46w9h",
-    "label_2129"
+    "ark:/85140/d46w9h"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Fortified",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Misc Fortified",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Rodrigues Pinho § Rainha Santa § Gaya; Porto",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Gaya; Porto",
+  "wine_label:date": "1920",
+  "wine_label:digitization_number": "2129/",
+  "wine_label:folder": "Fortified--Misc Fortified",
+  "wine_label:marginalia": "\"FPG\"",
+  "wine_label:producer": "Rodrigues Pinho",
+  "wine_label:wine_type": "Rainha Santa"
 }

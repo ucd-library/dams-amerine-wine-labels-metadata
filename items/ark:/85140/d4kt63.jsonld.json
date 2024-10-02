@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "label_3945",
     "ark:/85140/d4kt63"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Rheingau Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Germany Rheingau Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "G.H.v. Mumm'sche Kellerei. § Johannisberger Goldatzel. Spätlese Rheingau.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1951",
+  "wine_label:digitization_number": "3945/",
+  "wine_label:folder": "Still--Germany Rheingau Folder",
+  "wine_label:producer": "G.H.v. Mumm'sche Kellerei.",
+  "wine_label:wine_type": "Johannisberger Goldatzel. Spätlese Rheingau."
 }

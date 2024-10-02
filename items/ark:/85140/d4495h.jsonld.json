@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4495h",
-    "label_2269"
+    "ark:/85140/d4495h"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Medoc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Medoc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "  Château Margaux. § Bordeaux. Grand Vin § Bordeaux",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Bordeaux",
+  "wine_label:date": "1899",
+  "wine_label:digitization_number": "2269/",
+  "wine_label:folder": "Red--Still--Medoc Red",
+  "wine_label:marginalia": "\"Served by Alfred Knopf at his home in Purchase, NY, Sept. 1951\" \"FPG + MMG say wine in perfect condition.  MM says best claret she ever drank\".  \"FPG\"",
+  "wine_label:producer": "  Château Margaux.",
+  "wine_label:wine_type": "Bordeaux. Grand Vin"
 }

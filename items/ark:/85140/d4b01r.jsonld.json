@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1204565"
   },
   "schema:identifier": [
-    "ark:/85140/d4b01r",
-    "label_0108"
+    "ark:/85140/d4b01r"
   ],
   "schema:inLanguage": "it-IT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Italy",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Italy",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Duca Salaparuta § Corvo. Italian Light White Wine § Palermo",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Palermo",
+  "wine_label:date": "1938",
+  "wine_label:digitization_number": "0108/",
+  "wine_label:folder": "Still--Italy",
+  "wine_label:marginalia": "\" \"Pleasantly good\" maa.\" \"White\"",
+  "wine_label:producer": "Duca Salaparuta",
+  "wine_label:wine_type": "Corvo. Italian Light White Wine"
 }

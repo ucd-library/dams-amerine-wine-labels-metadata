@@ -14,21 +14,20 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "ark:/85140/d4bf30",
-    "label_4899"
+    "ark:/85140/d4bf30"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Additions Various Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Trapiche § Cuvée '89. Merlot 60%-Malbec 40% § Mendoza; Argentina",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Mendoza; Argentina",
+  "wine_label:digitization_number": "4899/",
+  "wine_label:folder": "Still",
+  "wine_label:producer": "Trapiche",
+  "wine_label:wine_type": "Cuvée '89. Merlot 60%-Malbec 40%"
 }

@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_2293",
     "ark:/85140/d41d47"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Medoc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Medoc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "D. Cordier, Propriétaire. Chateau Gruaud-Larose-Sarget § Bordeaux",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1928",
+  "wine_label:digitization_number": "2293/",
+  "wine_label:folder": "Red--Still--Medoc Red",
+  "wine_label:marginalia": "\"Dinner for Maynard Amerine. Cercle de l'Union. 6/11/49. B\" \"Present: John Esquin, Else Esquin, Harold Price, Sal Lucia, [Leah] Lucia, Geo. Selleck, Helen Selleck, Leonard Buck, Beryl Buck, Farnham Griffiths, Marjorie Griffiths, Jeff Smith, Dorothy Smith, CEH, ELH\"",
+  "wine_label:producer": "D. Cordier, Propriétaire. Chateau Gruaud-Larose-Sarget",
+  "wine_label:wine_type": "Bordeaux"
 }

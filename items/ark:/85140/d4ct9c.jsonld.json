@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204155"
   },
   "schema:identifier": [
-    "label_4798",
     "ark:/85140/d4ct9c"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "United States Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--United States Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Armand Roux § Beaujolais Supérieure. Burgundy Red Wine. § Romaneche (Saône et Loire)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Romaneche (Saône et Loire)",
+  "wine_label:date": "1962",
+  "wine_label:digitization_number": "4798/",
+  "wine_label:folder": "Still--United States Folder",
+  "wine_label:producer": "Armand Roux",
+  "wine_label:wine_type": "Beaujolais Supérieure. Burgundy Red Wine."
 }

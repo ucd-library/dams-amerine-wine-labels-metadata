@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4ch7h",
-    "label_3103"
+    "ark:/85140/d4ch7h"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Georges Thienpont, Propriétaire. Vieux Château Certan § Pomerol. 1er Grand Cru",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1947",
+  "wine_label:digitization_number": "3103/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:marginalia": "\"FPG\"",
+  "wine_label:producer": "Georges Thienpont, Propriétaire. Vieux Château Certan",
+  "wine_label:wine_type": "Pomerol. 1er Grand Cru"
 }

@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1210272"
   },
   "schema:identifier": [
-    "ark:/85140/d4s42j",
-    "label_3812"
+    "ark:/85140/d4s42j"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Germany Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Cresenz Graf von Schönborn § Hattenheimer Pfaffenberg Auslese § Rheingau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Rheingau",
+  "wine_label:digitization_number": "3812/",
+  "wine_label:folder": "Still--Germany Folder",
+  "wine_label:producer": "Cresenz Graf von Schönborn",
+  "wine_label:wine_type": "Hattenheimer Pfaffenberg Auslese"
 }

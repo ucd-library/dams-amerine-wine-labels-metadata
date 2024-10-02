@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_2439",
     "ark:/85140/d45d67"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Medoc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Medoc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Société Vinicole de Pauillac § Rosé 50 § Pauillac (Gironde)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Pauillac (Gironde)",
+  "wine_label:digitization_number": "2439/",
+  "wine_label:folder": "Red--Still--Medoc Red",
+  "wine_label:marginalia": "\"F. Wieder\"",
+  "wine_label:producer": "Société Vinicole de Pauillac",
+  "wine_label:wine_type": "Rosé 50"
 }

@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4h65w",
-    "label_1941"
+    "ark:/85140/d4h65w"
   ],
   "schema:inLanguage": "es-ES",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spanish Sherry",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Spanish Sherry",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Gonzales, Byass & Co., Ltd. § Coronation Sherry § Very Fine Oloroso § Jerez",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Coronation Sherry",
+  "wine_label:city_region": "Jerez",
+  "wine_label:digitization_number": "1941/",
+  "wine_label:folder": "Fortified--Spanish Sherry",
+  "wine_label:producer": "Gonzales, Byass & Co., Ltd.",
+  "wine_label:wine_type": "Very Fine Oloroso"
 }

@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "ark:/85140/d41310",
-    "label_0598"
+    "ark:/85140/d41310"
   ],
   "schema:inLanguage": "de",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhinegau",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhinegau",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "J. Langenbach & Söhne Nachf. § Langenbach Rüdesheimer § Worms a/Rh.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Worms a/Rh.",
+  "wine_label:date": "1934",
+  "wine_label:digitization_number": "0598/",
+  "wine_label:folder": "Still--Rhinegau",
+  "wine_label:marginalia": "\"Rheingau. Jeff\"",
+  "wine_label:producer": "J. Langenbach & Söhne Nachf.",
+  "wine_label:wine_type": "Langenbach Rüdesheimer"
 }

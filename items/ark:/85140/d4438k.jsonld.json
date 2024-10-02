@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_2896",
     "ark:/85140/d4438k"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Bordeaux White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "E. Boeckel § Zotzenberg § Mittelbergheim; Alsace",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Mittelbergheim; Alsace",
+  "wine_label:digitization_number": "2896/",
+  "wine_label:folder": "White--Still--Bordeaux White",
+  "wine_label:marginalia": "\"FPG\"",
+  "wine_label:producer": "E. Boeckel",
+  "wine_label:wine_type": "Zotzenberg"
 }

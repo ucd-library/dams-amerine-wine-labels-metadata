@@ -16,21 +16,23 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "label_5071",
     "ark:/85140/d4418w"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "A. Repsold Co., San Francisco.  § Cantaria § Riesling § Napa",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Cantaria",
+  "wine_label:city_region": "Napa",
+  "wine_label:date": "1912",
+  "wine_label:digitization_number": "5071/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:marginalia": "Riesl. Blend #8 #11 & 6 - 1914 [??] 1912 called [??] 1913 bot. Dec. 14, 1917 [??] #11 [???].  59 bx. J.R. in tank with yeast [?] on pomace (21-60) 280 g. 15-66. Violent fermentation Oct. 15 stops at 1 1/2 - 91. #23 tank 1/2 - 74 add 700 g. to [?]. Bat filled with [?] dry [?] Alc. 12.3 [??] Blend with [??]. ",
+  "wine_label:producer": "A. Repsold Co., San Francisco. ",
+  "wine_label:wine_type": "Riesling"
 }

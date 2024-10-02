@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_0894",
     "ark:/85140/d4s33k"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Sparkling--France Misc White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Reyers § Champagne. Extra Dry. § Reims",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Reims",
+  "wine_label:date": "1943",
+  "wine_label:digitization_number": "0894/",
+  "wine_label:folder": "White--Sparkling--France Misc White",
+  "wine_label:marginalia": "\"Charity's Wedding. 12/18/49\"",
+  "wine_label:producer": "Reyers",
+  "wine_label:wine_type": "Champagne. Extra Dry."
 }

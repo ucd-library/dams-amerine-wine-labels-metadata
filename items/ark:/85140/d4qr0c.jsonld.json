@@ -22,21 +22,20 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4qr0c",
-    "label_4687"
+    "ark:/85140/d4qr0c"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Aperetifs & Liqueurs Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Spirit",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Stirling Bonding Coy, Limited. § Gaelic Old Smuggler Scotch Whisky § Glasgow & Dumbarton; Scotland",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Glasgow & Dumbarton; Scotland",
+  "wine_label:digitization_number": "4687/",
+  "wine_label:folder": "Spirit",
+  "wine_label:producer": "Stirling Bonding Coy, Limited.",
+  "wine_label:wine_type": "Gaelic Old Smuggler Scotch Whisky"
 }

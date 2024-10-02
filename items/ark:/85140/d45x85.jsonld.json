@@ -16,21 +16,20 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "ark:/85140/d45x85",
-    "label_5055"
+    "ark:/85140/d45x85"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Meier's Wine Cellars § Meier's Ohio Delaware Wine § Silverton, Ohio",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Silverton, Ohio",
+  "wine_label:digitization_number": "5055/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:producer": "Meier's Wine Cellars",
+  "wine_label:wine_type": "Meier's Ohio Delaware Wine"
 }

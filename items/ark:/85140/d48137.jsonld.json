@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "label_3638",
     "ark:/85140/d48137"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Sparkling--California White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "O.J. Goulet Vineyards § California Champagne § Los Gatos; Santa Clara County",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Los Gatos; Santa Clara County",
+  "wine_label:digitization_number": "3638/",
+  "wine_label:folder": "White--Sparkling--California White",
+  "wine_label:producer": "O.J. Goulet Vineyards",
+  "wine_label:wine_type": "California Champagne"
 }

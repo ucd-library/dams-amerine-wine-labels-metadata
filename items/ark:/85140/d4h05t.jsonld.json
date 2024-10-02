@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1205401"
   },
   "schema:identifier": [
-    "label_1020",
     "ark:/85140/d4h05t"
   ],
   "schema:inLanguage": "de-CH",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Swiss",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Swiss",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Alphonse Orsat, Propriétaire, Successeur de Orsat Frères. Clos de Montibaux. § Fendant § Martigny; Suisse",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Martigny; Suisse",
+  "wine_label:digitization_number": "1020/",
+  "wine_label:folder": "Still--Swiss",
+  "wine_label:marginalia": "\"maa\"",
+  "wine_label:producer": "Alphonse Orsat, Propriétaire, Successeur de Orsat Frères. Clos de Montibaux.",
+  "wine_label:wine_type": "Fendant"
 }

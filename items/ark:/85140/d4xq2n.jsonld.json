@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_2851",
     "ark:/85140/d4xq2n"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Bordeaux White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Château d'Yquem. Lur -Saluces § Lur -Saluces",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Lur -Saluces",
+  "wine_label:date": "1928",
+  "wine_label:digitization_number": "2851/",
+  "wine_label:folder": "White--Still--Bordeaux White",
+  "wine_label:marginalia": "\"Dinner at Home. Oct. 1941. A+\" \"1st Grand Cru. Sauternes.\" \"Present: Griffiths, Donald, Hall families\"",
+  "wine_label:producer": "Château d'Yquem. Lur -Saluces"
 }

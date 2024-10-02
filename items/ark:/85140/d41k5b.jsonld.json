@@ -22,22 +22,24 @@
     }
   ],
   "schema:identifier": [
-    "label_0296",
     "ark:/85140/d41k5b"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--California Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "L.M. Martini Grape Products (MGP) § Louis Martini § California Zinfandel § Kingsburg",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Louis Martini",
+  "wine_label:city_region": "Kingsburg",
+  "wine_label:date": "Undated",
+  "wine_label:digitization_number": "0296/",
+  "wine_label:folder": "Red--Still--California Red",
+  "wine_label:marginalia": "\"maa\"",
+  "wine_label:producer": "L.M. Martini Grape Products (MGP)",
+  "wine_label:wine_type": "California Zinfandel"
 }

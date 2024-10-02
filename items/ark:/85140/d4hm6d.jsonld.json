@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4hm6d",
-    "label_3040"
+    "ark:/85140/d4hm6d"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Edouard Dubois-Challon, Propriétaire. Château Ausone. § St. Émilion",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1921",
+  "wine_label:digitization_number": "3040/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:marginalia": "\"Dinner for Maynard Amerine. Cercle de l'Union. 6/11/49. A-. Also at Home 1/5/55\" \"Present: John Esquin, Elsa Esquin, Harold Price, Sal Lucia, E[?] Lucia, Amerine, George Selleck, Helen Selleck, Leonard Buck, Beryl Buck, Farnham Griffiths, Marjorie Griffiths, Jeff Smith, Dorothy Smith, CEH, ELH\"",
+  "wine_label:producer": "Edouard Dubois-Challon, Propriétaire. Château Ausone.",
+  "wine_label:wine_type": "St. Émilion"
 }

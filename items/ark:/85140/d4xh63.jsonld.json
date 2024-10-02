@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4xh63",
-    "label_3091"
+    "ark:/85140/d4xh63"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Caves de l'Hotel California § Saint Émilion",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "3091/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:marginalia": "\"Jeff Smith. Europe\"",
+  "wine_label:producer": "Caves de l'Hotel California",
+  "wine_label:wine_type": "Saint Émilion"
 }

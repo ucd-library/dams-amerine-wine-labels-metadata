@@ -17,21 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "label_0744",
     "ark:/85140/d45330"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Casa Vinicola. Barone Ricasoli. Firenze § Brolio Rosso § Chianti § Chianti Siena",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Brolio Rosso",
+  "wine_label:city_region": "Chianti Siena",
+  "wine_label:date": "1947",
+  "wine_label:digitization_number": "0744/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Lunch. Doneyi. Florence. 4/30/52. B+\"",
+  "wine_label:producer": "Casa Vinicola. Barone Ricasoli. Firenze",
+  "wine_label:wine_type": "Chianti"
 }

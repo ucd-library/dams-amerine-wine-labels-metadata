@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4699n",
-    "label_3414"
+    "ark:/85140/d4699n"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Burgundy Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Henri Manuel. § Beaune Grèves. Red Burgandy Wine § Meursault; Côte d'Or",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Meursault; Côte d'Or",
+  "wine_label:digitization_number": "3414/",
+  "wine_label:folder": "Red--Still--Burgundy Red",
+  "wine_label:marginalia": "\"Dinner. Wine Com. Bhmn Club. 4/15/55 C+\"",
+  "wine_label:producer": "Henri Manuel.",
+  "wine_label:wine_type": "Beaune Grèves. Red Burgandy Wine"
 }

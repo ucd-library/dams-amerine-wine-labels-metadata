@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1205401"
   },
   "schema:identifier": [
-    "ark:/85140/d4ws6j",
-    "label_1102"
+    "ark:/85140/d4ws6j"
   ],
   "schema:inLanguage": "de-CH",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Swiss",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Swiss",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Commune de Rivaz § Rivaz",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1942",
+  "wine_label:digitization_number": "1102/",
+  "wine_label:folder": "Still--Swiss",
+  "wine_label:marginalia": "\"Jeff\"",
+  "wine_label:producer": "Commune de Rivaz",
+  "wine_label:wine_type": "Rivaz"
 }

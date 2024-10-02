@@ -17,22 +17,18 @@
     "@id": "http://id.worldcat.org/fast/1204303"
   },
   "schema:identifier": [
-    "ark:/85140/d4gd95",
-    "label_3675"
+    "ark:/85140/d4gd95"
   ],
   "schema:inLanguage": "es-ES",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spain Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spain Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "3675/",
+  "wine_label:folder": "Still--Spain Folder"
 }

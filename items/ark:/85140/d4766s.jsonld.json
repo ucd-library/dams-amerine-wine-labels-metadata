@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1272622"
   },
   "schema:identifier": [
-    "ark:/85140/d4766s",
-    "label_2067"
+    "ark:/85140/d4766s"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhein Hessen Rheinfalz",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhein Hessen Rheinfalz",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Wachstum Weingut Franz Karl Schmitt § Niersteiner Oelberg. Auslese. § Nierstein/Rhein",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Nierstein/Rhein",
+  "wine_label:date": "1943",
+  "wine_label:digitization_number": "2067/",
+  "wine_label:folder": "Still--Rhein Hessen Rheinfalz",
+  "wine_label:marginalia": "\"Dinner by Helen + Geo Selleck for ELH + CEH. 4/1/50 B+ (sweet)\" \"Present: Geo + Helen Selleck, Farnham + Marjorie G, Raoul + Jean Blanquie, Jeff + Dorothy Smith, ELH, CEH\"",
+  "wine_label:producer": "Wachstum Weingut Franz Karl Schmitt",
+  "wine_label:wine_type": "Niersteiner Oelberg. Auslese."
 }

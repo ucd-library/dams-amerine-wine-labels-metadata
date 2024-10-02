@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_3561",
     "ark:/85140/d46h7z"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--California White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "California Morris-Burg Vintage. § Rare old Sauterne",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "3561/",
+  "wine_label:folder": "White--Still--California White",
+  "wine_label:marginalia": "\"Pre-Prohibition\" \"Selleck\"",
+  "wine_label:producer": "California Morris-Burg Vintage.",
+  "wine_label:questions": "Wikipedia doesn't mention a Morris-Burg winery in California. However, there is one in Ontario, Canada.",
+  "wine_label:wine_type": "Rare old Sauterne"
 }

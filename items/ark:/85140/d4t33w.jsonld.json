@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "ark:/85140/d4t33w",
-    "label_1273"
+    "ark:/85140/d4t33w"
   ],
   "schema:inLanguage": "de-AT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Franz Guttman & Co.. Innsbruck § Rotgipfler Gumpoldskirchner § Gumpoldskirchen",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Gumpoldskirchen",
+  "wine_label:digitization_number": "1273/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "\"FPG\"",
+  "wine_label:producer": "Franz Guttman & Co.. Innsbruck",
+  "wine_label:wine_type": "Rotgipfler Gumpoldskirchner"
 }

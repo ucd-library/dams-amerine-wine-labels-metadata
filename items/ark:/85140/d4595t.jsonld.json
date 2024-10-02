@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4595t",
-    "label_2261"
+    "ark:/85140/d4595t"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Medoc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Medoc Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Chateau Latour § Grand Vin de Chateau Latour",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Grand Vin de Chateau Latour",
+  "wine_label:date": "1928",
+  "wine_label:digitization_number": "2261/",
+  "wine_label:folder": "Red--Still--Medoc Red",
+  "wine_label:marginalia": "\"Dinner. Wine + Food Soc.  3/12/45. Cercle de l'Union. B\" \"1st Cru Pauillac (Médoc)\"",
+  "wine_label:producer": "Chateau Latour"
 }

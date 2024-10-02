@@ -22,22 +22,24 @@
     }
   ],
   "schema:identifier": [
-    "label_0216",
     "ark:/85140/d4cc8h"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--California Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "L.M. Martini Grape Products (GM) § Louis Martini § California Cabernet Wine § St. Helena; Napa County",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Louis Martini",
+  "wine_label:city_region": "St. Helena; Napa County",
+  "wine_label:date": "Undated",
+  "wine_label:digitization_number": "0216/",
+  "wine_label:folder": "Red--Still--California Red",
+  "wine_label:marginalia": "\"Dinner. Bill & Carolyn's.  July 1941.  B.   Present: CEH, jr., Carolyn, CEH\"",
+  "wine_label:producer": "L.M. Martini Grape Products (GM)",
+  "wine_label:wine_type": "California Cabernet Wine"
 }

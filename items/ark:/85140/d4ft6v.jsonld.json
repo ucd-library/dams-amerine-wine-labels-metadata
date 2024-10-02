@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1210272"
   },
   "schema:identifier": [
-    "label_3799",
     "ark:/85140/d4ft6v"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Germany Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Gräflich Eltz'sche Gutsverwaltung § Kiedricher Sandgrub Riesling § Eltville a/Rh.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Eltville a/Rh.",
+  "wine_label:date": "1949",
+  "wine_label:digitization_number": "3799/",
+  "wine_label:folder": "Still--Germany Folder",
+  "wine_label:marginalia": "\"Rheingau\" \"maa\"",
+  "wine_label:producer": "Gräflich Eltz'sche Gutsverwaltung",
+  "wine_label:wine_type": "Kiedricher Sandgrub Riesling"
 }

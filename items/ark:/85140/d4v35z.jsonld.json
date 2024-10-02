@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_1830",
     "ark:/85140/d4v35z"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Gebrüder Jllert G.m.b.H. § Aßmannshäuser Höllenberg § Klein Auheim Hanau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Klein Auheim Hanau",
+  "wine_label:date": "1928",
+  "wine_label:digitization_number": "1830/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:marginalia": "\"Jeff\"",
+  "wine_label:producer": "Gebrüder Jllert G.m.b.H.",
+  "wine_label:wine_type": "Aßmannshäuser Höllenberg"
 }

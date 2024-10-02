@@ -28,22 +28,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4bp9p",
-    "label_1710"
+    "ark:/85140/d4bp9p"
   ],
   "schema:inLanguage": "el-GR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spanish Table Wines Italy (Cypress and Greece)",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spanish Table Wines Italy (Cypress and Greece)",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Andreas P. Kampas, A.E. § Mantineja § Mantineja",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Mantineja",
+  "wine_label:digitization_number": "1710/",
+  "wine_label:folder": "Still--Spanish Table Wines Italy (Cyprus and Greece)",
+  "wine_label:marginalia": "\"\"Standard but not very good wine\" maa\"",
+  "wine_label:producer": "Andreas P. Kampas, A.E.",
+  "wine_label:wine_type": "Mantineja"
 }

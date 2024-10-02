@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "ark:/85140/d4gp6s",
-    "label_0486"
+    "ark:/85140/d4gp6s"
   ],
   "schema:inLanguage": "de",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhinegau",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhinegau",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Verwaltung Der Staatsweingüter  § Hattenheimer Schützenhaus Naturrein § Eltville; Rheingau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Eltville; Rheingau",
+  "wine_label:date": "1949",
+  "wine_label:digitization_number": "0486/",
+  "wine_label:folder": "Still--Rhinegau",
+  "wine_label:marginalia": "\"MAA. 76\"",
+  "wine_label:producer": "Verwaltung Der Staatsweingüter ",
+  "wine_label:wine_type": "Hattenheimer Schützenhaus Naturrein"
 }

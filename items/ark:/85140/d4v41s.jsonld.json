@@ -22,22 +22,24 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4v41s",
-    "label_3587"
+    "ark:/85140/d4v41s"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--California White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Wente Bros. § Valle de Oro § Livermore Valley Sauvignon Blanc § Livermore",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Valle de Oro",
+  "wine_label:city_region": "Livermore",
+  "wine_label:date": "1936",
+  "wine_label:digitization_number": "3587/",
+  "wine_label:folder": "White--Still--California White",
+  "wine_label:marginalia": "\"Dinner. Pierre's Restaurant. 3/6/41. B+\" \"Present: Juillard, Charlie Strong, Arnold Fox, CEH\"",
+  "wine_label:producer": "Wente Bros.",
+  "wine_label:wine_type": "Livermore Valley Sauvignon Blanc"
 }

@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "ark:/85140/d4631j",
-    "label_0527"
+    "ark:/85140/d4631j"
   ],
   "schema:inLanguage": "de",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhinegau",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhinegau",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Wachstum der Fürstlich von Metternich'schen Domäne § Schloss Johannisberger § Rheingau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Rheingau",
+  "wine_label:date": "1935",
+  "wine_label:digitization_number": "0527/",
+  "wine_label:folder": "Still--Rhinegau",
+  "wine_label:marginalia": "\"German Dinner Wine & Food Society. Palace Hotel. Jan. 23, 1940.  .90\"",
+  "wine_label:producer": "Wachstum der Fürstlich von Metternich'schen Domäne",
+  "wine_label:wine_type": "Schloss Johannisberger"
 }

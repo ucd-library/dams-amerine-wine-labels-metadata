@@ -17,21 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d4vs5v",
-    "label_0723"
+    "ark:/85140/d4vs5v"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Marqués de Murrieta § Carta Blanca § Ygay (Logroño); La Rioja",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Carta Blanca",
+  "wine_label:city_region": "Ygay (Logroño); La Rioja",
+  "wine_label:date": "1942",
+  "wine_label:digitization_number": "0723/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Lunch. Assembly Rooms. Gibralter. 4/9/52. B-\"",
+  "wine_label:producer": "Marqués de Murrieta"
 }

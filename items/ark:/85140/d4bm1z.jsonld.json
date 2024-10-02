@@ -17,21 +17,21 @@
     "@id": "http://id.worldcat.org/fast/933048"
   },
   "schema:identifier": [
-    "ark:/85140/d4bm1z",
-    "label_2128"
+    "ark:/85140/d4bm1z"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Fortified",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Misc Fortified",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Marqués del Mérito, LDA § Ruby Port § Oporto, Portuagal",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Oporto, Portuagal",
+  "wine_label:digitization_number": "2128/",
+  "wine_label:folder": "Fortified--Misc Fortified",
+  "wine_label:marginalia": "\"Stanford Hospital. April 25-May 4, 1944. Present: Carolyn + Douglas\"",
+  "wine_label:producer": "Marqués del Mérito, LDA",
+  "wine_label:wine_type": "Ruby Port"
 }

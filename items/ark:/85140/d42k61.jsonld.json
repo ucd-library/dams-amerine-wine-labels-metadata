@@ -17,18 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d42k61",
-    "label_0675"
+    "ark:/85140/d42k61"
   ],
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "H. Badoux, Propriétaire.  § Clos de Murailles § Aigle § Aigle",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Clos de Murailles",
+  "wine_label:city_region": "Aigle",
+  "wine_label:digitization_number": "0675/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Dinner. Ouchy-Lausanne. 6/7/50. B. Present: ELH, CEH\".",
+  "wine_label:producer": "H. Badoux, Propriétaire. ",
+  "wine_label:wine_type": "Aigle"
 }

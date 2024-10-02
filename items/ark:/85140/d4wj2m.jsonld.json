@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204155"
   },
   "schema:identifier": [
-    "ark:/85140/d4wj2m",
-    "label_4856"
+    "ark:/85140/d4wj2m"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "United States Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--United States Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Duhr-Conrad-Fehres § Moselblümchen. Light Mosel Wine. § Trier; Mosel-Saar-Ruwer",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Trier; Mosel-Saar-Ruwer",
+  "wine_label:date": "1953",
+  "wine_label:digitization_number": "4856/",
+  "wine_label:folder": "Still--United States Folder",
+  "wine_label:producer": "Duhr-Conrad-Fehres",
+  "wine_label:wine_type": "Moselblümchen. Light Mosel Wine."
 }

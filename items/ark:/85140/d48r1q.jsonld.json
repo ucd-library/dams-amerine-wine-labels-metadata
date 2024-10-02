@@ -16,21 +16,21 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "ark:/85140/d48r1q",
-    "label_5062"
+    "ark:/85140/d48r1q"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Right: Paul Masson Champagne Company § Paul Masson Still Dry White § Saratoga",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Saratoga",
+  "wine_label:date": "1929",
+  "wine_label:digitization_number": "5062/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:producer": "Right: Paul Masson Champagne Company",
+  "wine_label:wine_type": "Paul Masson Still Dry White"
 }

@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "label_0603",
     "ark:/85140/d4cd0t"
   ],
   "schema:inLanguage": "de",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhinegau",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhinegau",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Kommerzienrat Krayer Erben § Winkeler Ansbach § Johannisberg; Rheingau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Johannisberg; Rheingau",
+  "wine_label:date": "1943",
+  "wine_label:digitization_number": "0603/",
+  "wine_label:folder": "Still--Rhinegau",
+  "wine_label:marginalia": "\"Winkeler\"",
+  "wine_label:producer": "Kommerzienrat Krayer Erben",
+  "wine_label:wine_type": "Winkeler Ansbach"
 }

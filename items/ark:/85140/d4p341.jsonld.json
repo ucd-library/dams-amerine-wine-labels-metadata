@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4p341",
-    "label_0918"
+    "ark:/85140/d4p341"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Sparkling--France Misc White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "R. Peindares § Roseroc § Vin Rosé",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Roseroc",
+  "wine_label:digitization_number": "0918/",
+  "wine_label:folder": "White--Sparkling--France Misc White",
+  "wine_label:marginalia": "\"Lot (Cahors)\". \"FPG\"",
+  "wine_label:producer": "R. Peindares",
+  "wine_label:wine_type": "Vin Rosé"
 }

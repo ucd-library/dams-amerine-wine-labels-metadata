@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/933048"
   },
   "schema:identifier": [
-    "label_2209",
     "ark:/85140/d4w371"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Fortified",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Misc Fortified",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Sierra Wine & Liqueur Co. § Barengo Reserve § California Muscatel § Reno, Nevada",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Barengo Reserve",
+  "wine_label:city_region": "Reno, Nevada",
+  "wine_label:digitization_number": "2209/",
+  "wine_label:folder": "Fortified--Misc Fortified",
+  "wine_label:marginalia": "\"maa\"",
+  "wine_label:producer": "Sierra Wine & Liqueur Co.",
+  "wine_label:wine_type": "California Muscatel"
 }

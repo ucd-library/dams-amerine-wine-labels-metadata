@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_2959",
     "ark:/85140/d4040n"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Bordeaux White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "F.E. Hugel & Fils, Négociants à Riquewihr, Ht.-Rhin (France) § Sylvaner \"Hugel\" § Haut-Rhin, France",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Haut-Rhin, France",
+  "wine_label:digitization_number": "2959/",
+  "wine_label:folder": "White--Still--Bordeaux White",
+  "wine_label:marginalia": "\"MAA - Intr\" \"MAA -fair\"",
+  "wine_label:producer": "F.E. Hugel & Fils, Négociants à Riquewihr, Ht.-Rhin (France)",
+  "wine_label:wine_type": "Sylvaner \"Hugel\""
 }

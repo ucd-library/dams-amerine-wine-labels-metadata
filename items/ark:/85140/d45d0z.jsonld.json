@@ -17,21 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d45d0z",
-    "label_0682"
+    "ark:/85140/d45d0z"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Obrist et Cie, S.A. (Vevey) § Clos du Paradis § Aigle § Aigle.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Clos du Paradis",
+  "wine_label:city_region": "Aigle.",
+  "wine_label:digitization_number": "0682/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Dinner. Victoria Jungfrau. Interlaken. 6/11/50. B+. Present: ELH, CEH\"",
+  "wine_label:producer": "Obrist et Cie, S.A. (Vevey)",
+  "wine_label:wine_type": "Aigle"
 }

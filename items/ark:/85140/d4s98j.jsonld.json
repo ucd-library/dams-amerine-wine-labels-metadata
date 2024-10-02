@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_3185",
     "ark:/85140/d4s98j"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Burgundy Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Domaine du Close des Lambrays § Clos des Lambrays. Grand Cru Classé § Morey St. Denis par Gevrey; Chambertin; Côte d'Or",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Morey St. Denis par Gevrey; Chambertin; Côte d'Or",
+  "wine_label:digitization_number": "3185/",
+  "wine_label:folder": "Red--Still--Burgundy Red",
+  "wine_label:marginalia": "\"Dinner by Raoul Blanquie. Cercle de l'Union. 11/20/53. A\" \"Present: Smith, Griffiths, Selleck, Blanquie, Amerine, Price, Howe, Esquin, Weill, Juillard, Blumen, CEH\" \"Blanquie\"",
+  "wine_label:producer": "Domaine du Close des Lambrays",
+  "wine_label:wine_type": "Clos des Lambrays. Grand Cru Classé"
 }

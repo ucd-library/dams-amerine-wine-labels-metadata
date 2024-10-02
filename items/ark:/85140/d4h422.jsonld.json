@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_3342",
     "ark:/85140/d4h422"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Burgundy Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Louis Latour. Clos des Vercots § Aloxe-Corton. 1er Cuvée § Beaune; Côte d'Or",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Beaune; Côte d'Or",
+  "wine_label:date": "1928",
+  "wine_label:digitization_number": "3342/",
+  "wine_label:folder": "Red--Still--Burgundy Red",
+  "wine_label:marginalia": "\"Côte de Baune, Aloxe Corton, 2me Cuvée\" \"GAS\"",
+  "wine_label:producer": "Louis Latour. Clos des Vercots",
+  "wine_label:wine_type": "Aloxe-Corton. 1er Cuvée"
 }

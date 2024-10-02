@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d40q75",
-    "label_3996"
+    "ark:/85140/d40q75"
   ],
   "schema:inLanguage": "en-JM",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Jamaica Rum Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Spirit--Jamaica Rum Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Grange Hill Products Co.  § Grange-Hill § Jamaica Rum § Kingston, Jamaica; B. W. I.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Grange-Hill",
+  "wine_label:city_region": "Kingston, Jamaica; B. W. I.",
+  "wine_label:digitization_number": "3996/",
+  "wine_label:folder": "Spirit--Jamaica Rum Folder",
+  "wine_label:producer": "Grange Hill Products Co. ",
+  "wine_label:wine_type": "Jamaica Rum"
 }

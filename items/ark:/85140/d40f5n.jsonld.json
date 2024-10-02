@@ -16,21 +16,21 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "label_5041",
     "ark:/85140/d40f5n"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Top:Rancho del Rio. Chateau d'Oylé              Bottom: A-Ca[n-a Wine] § Top:Vin d'Amour. Rouge.           Bottom: California Muscatel § Top: Rutherford; Napa Valley",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Top: Rutherford; Napa Valley",
+  "wine_label:date": "Top: 1946",
+  "wine_label:digitization_number": "5041/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:producer": "Top:Rancho del Rio. Chateau d'Oylé              Bottom: A-Ca[n-a Wine]",
+  "wine_label:wine_type": "Top:Vin d'Amour. Rouge.           Bottom: California Muscatel"
 }

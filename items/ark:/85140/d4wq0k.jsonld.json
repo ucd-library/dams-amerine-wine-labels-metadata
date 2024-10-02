@@ -17,22 +17,20 @@
     "@id": "http://id.worldcat.org/fast/1272622"
   },
   "schema:identifier": [
-    "ark:/85140/d4wq0k",
-    "label_2085"
+    "ark:/85140/d4wq0k"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhein Hessen Rheinfalz",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhein Hessen Rheinfalz",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": " § Oppenheimer Krötenbrunnen. Riesling Spatlese. Naturwein Rheinhessen",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "2085/",
+  "wine_label:folder": "Still--Rhein Hessen Rheinfalz",
+  "wine_label:marginalia": "\"Preview Dinner. Bohemian Club. 10/22/41. A\" \"Rheinhessen\" \"Present: FPG, maa, CEH, Frank Aydelotte\"",
+  "wine_label:wine_type": "Oppenheimer Krötenbrunnen. Riesling Spatlese. Naturwein Rheinhessen"
 }

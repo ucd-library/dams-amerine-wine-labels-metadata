@@ -22,22 +22,24 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d42q51",
-    "label_3384"
+    "ark:/85140/d42q51"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Burgundy Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Adolphe Masson-Dubois. L. Poissot, Sucr., Château de Chassaigne § do ads later § Pommard § Côte d'Or",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "do ads later",
+  "wine_label:city_region": "Côte d'Or",
+  "wine_label:date": "1910",
+  "wine_label:digitization_number": "3384/",
+  "wine_label:folder": "Red--Still--Burgundy Red",
+  "wine_label:marginalia": "\"Al Fresco. Lunch. Blanquie. August 1941. B- (Passé). \"Côte de Beaune, Pommard\" \"Present: Sec. Ausone '34\" ",
+  "wine_label:producer": "Adolphe Masson-Dubois. L. Poissot, Sucr., Château de Chassaigne",
+  "wine_label:wine_type": "Pommard"
 }

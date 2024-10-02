@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4nh6m",
-    "label_3008"
+    "ark:/85140/d4nh6m"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Louis Eschenauer, Propriétaire. Château La Garde. § Grand Vin Martillac.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1929",
+  "wine_label:digitization_number": "3008/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:marginalia": "\"Martillac. Graves. Jeff Smith\"",
+  "wine_label:producer": "Louis Eschenauer, Propriétaire. Château La Garde.",
+  "wine_label:wine_type": "Grand Vin Martillac."
 }

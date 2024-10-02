@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "label_1471",
     "ark:/85140/d47641"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "The Engels & Krudwig Wine Co. § Lake Erie Island Delaware § Sandusky, Lake Erie Islands District, Ohio",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Sandusky, Lake Erie Islands District, Ohio",
+  "wine_label:digitization_number": "1471/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "\"White\"",
+  "wine_label:producer": "The Engels & Krudwig Wine Co.",
+  "wine_label:wine_type": "Lake Erie Island Delaware"
 }

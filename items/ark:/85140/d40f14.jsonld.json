@@ -17,22 +17,20 @@
     "@id": "http://id.worldcat.org/fast/1206043"
   },
   "schema:identifier": [
-    "ark:/85140/d40f14",
-    "label_4058"
+    "ark:/85140/d40f14"
   ],
   "schema:inLanguage": "es-ES",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spain - Catalonia Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spain - Catalonia Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "4058/",
+  "wine_label:folder": "Still--Spain - Catalonia Folder",
+  "wine_label:marginalia": "\"6/30 At Cadaguez at Hotel Cabo Creus [Briel] m-yellow, no nose, low low S[O2], very dry, m acid, m cl- (chloride), L+ body, but a [ ], poor grapes-well finished\"  (Editor: Print: Productos Perelada).",
+  "wine_label:questions": "Do this comments belong with the bottle above? The handwriting is on the back of something printed at Productos Perelada"
 }

@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_3096",
     "ark:/85140/d48t35"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Ed. Kressman & Co. Les Palmes. § St. Émilion § Bordeaux",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Bordeaux",
+  "wine_label:digitization_number": "3096/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:marginalia": "\"Lunch. Cercle de l'Union. Nov. '44. B-\" \"Distinct Wine. St. Emilion.\" \"Present: J.F. Smith, CEH\"",
+  "wine_label:producer": "Ed. Kressman & Co. Les Palmes.",
+  "wine_label:wine_type": "St. Émilion"
 }

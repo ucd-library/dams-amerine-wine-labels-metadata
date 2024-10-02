@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d44w9w",
-    "label_1758"
+    "ark:/85140/d44w9w"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Wachstum Wwe. Dr. H. Thanisch. § Berncasteler Doctor u. Graben. Cabinet Spätlese. Moselle Wine.  § Mosel-Saar-Ruwer",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Mosel-Saar-Ruwer",
+  "wine_label:date": "1949",
+  "wine_label:digitization_number": "1758/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:producer": "Wachstum Wwe. Dr. H. Thanisch.",
+  "wine_label:wine_type": "Berncasteler Doctor u. Graben. Cabinet Spätlese. Moselle Wine. "
 }

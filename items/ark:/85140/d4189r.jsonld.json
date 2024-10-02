@@ -17,22 +17,24 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "label_0567",
     "ark:/85140/d4189r"
   ],
   "schema:inLanguage": "de",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhinegau",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhinegau",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Preussische Domänen = Weinbauverwaltung § Rauenthaler Wagenkehr. Naturrein. § Eltville am Rhein",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Eltville am Rhein",
+  "wine_label:date": "1934",
+  "wine_label:digitization_number": "0567/",
+  "wine_label:folder": "Still--Rhinegau",
+  "wine_label:marginalia": "\"Lawrence Dinner.  [Bhmn] Club. April 1940. B\" \"Rheingau\"",
+  "wine_label:producer": "Preussische Domänen = Weinbauverwaltung",
+  "wine_label:questions": "Wagenkehr, not wagenfehr: Domäne RauenthalAdresse:In der Wagenkehr 1 \n65343 Eltville am Rhein",
+  "wine_label:wine_type": "Rauenthaler Wagenkehr. Naturrein."
 }

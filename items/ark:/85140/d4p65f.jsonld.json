@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1272622"
   },
   "schema:identifier": [
-    "label_2079",
     "ark:/85140/d4p65f"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhein Hessen Rheinfalz",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhein Hessen Rheinfalz",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Gebrüder Jllert G.m.b.H.  § Oppenheimer Goldberg § Klein- Lubeim-Hanau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Klein- Lubeim-Hanau",
+  "wine_label:date": "1932",
+  "wine_label:digitization_number": "2079/",
+  "wine_label:folder": "Still--Rhein Hessen Rheinfalz",
+  "wine_label:marginalia": "\"Rhein Hesse\" \"Jeff\"",
+  "wine_label:producer": "Gebrüder Jllert G.m.b.H. ",
+  "wine_label:wine_type": "Oppenheimer Goldberg"
 }

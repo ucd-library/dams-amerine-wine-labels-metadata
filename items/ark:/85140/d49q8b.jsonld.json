@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1204543"
   },
   "schema:identifier": [
-    "label_4071",
     "ark:/85140/d49q8b"
   ],
   "schema:inLanguage": "en-AU",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Australia Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Australia Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "P.B. Burgoyne & Co., Ltd. § Harvest Burgundy § Australia & South Africa",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Australia & South Africa",
+  "wine_label:digitization_number": "4071/",
+  "wine_label:folder": "Still--Australia Folder",
+  "wine_label:producer": "P.B. Burgoyne & Co., Ltd.",
+  "wine_label:wine_type": "Harvest Burgundy"
 }

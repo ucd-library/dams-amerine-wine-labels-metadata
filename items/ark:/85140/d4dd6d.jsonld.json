@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_3126",
     "ark:/85140/d4dd6d"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "D. Cordier, S.A., Propriétaire. Château Laurétan § Bordeaux. 1er Cru. § Langoiran-Le-Haut",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Langoiran-Le-Haut",
+  "wine_label:digitization_number": "3126/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:marginalia": "\"Entre Deux Mers.\" \"Amerine\"",
+  "wine_label:producer": "D. Cordier, S.A., Propriétaire. Château Laurétan",
+  "wine_label:wine_type": "Bordeaux. 1er Cru."
 }

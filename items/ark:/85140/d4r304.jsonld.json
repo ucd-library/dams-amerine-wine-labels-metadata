@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204565"
   },
   "schema:identifier": [
-    "ark:/85140/d4r304",
-    "label_0128"
+    "ark:/85140/d4r304"
   ],
   "schema:inLanguage": "it-IT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Italy",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Italy",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Martini & Rossi. Proprietari  della Antica Casa Vinicola Cav. A. Laborel Melini.  § Vino d'Orvieto § Pontassieve; Firenze",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Pontassieve; Firenze",
+  "wine_label:digitization_number": "0128/",
+  "wine_label:folder": "Still--Italy",
+  "wine_label:marginalia": "\"At home. April 1943. C (acid).\" \"(White) Present: ELH, CEH, mother\"",
+  "wine_label:producer": "Martini & Rossi. Proprietari  della Antica Casa Vinicola Cav. A. Laborel Melini. ",
+  "wine_label:wine_type": "Vino d'Orvieto"
 }

@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1204565"
   },
   "schema:identifier": [
-    "ark:/85140/d4759k",
-    "label_0101"
+    "ark:/85140/d4759k"
   ],
   "schema:inLanguage": "it-IT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Italy",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Italy",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Lodovico e Piero Antinori. (ALP) Cantine dei Marchesi § Old Red Chianti Wine § Florence; Italy",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Florence; Italy",
+  "wine_label:date": "1931",
+  "wine_label:digitization_number": "0101/",
+  "wine_label:folder": "Still--Italy",
+  "wine_label:marginalia": "\"At home. November, 1940.  .50.\" \"Italy (Red)\"",
+  "wine_label:producer": "Lodovico e Piero Antinori. (ALP) Cantine dei Marchesi",
+  "wine_label:wine_type": "Old Red Chianti Wine"
 }

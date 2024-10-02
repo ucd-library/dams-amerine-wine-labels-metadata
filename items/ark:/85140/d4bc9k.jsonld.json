@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "ark:/85140/d4bc9k",
-    "label_0611"
+    "ark:/85140/d4bc9k"
   ],
   "schema:inLanguage": "de",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhinegau",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhinegau",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Wachstum des Gräflich Matuschka-Greifenclau § Schloss Vollrads. Kabinet § Rheingau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Rheingau",
+  "wine_label:date": "1933",
+  "wine_label:digitization_number": "0611/",
+  "wine_label:folder": "Still--Rhinegau",
+  "wine_label:marginalia": "\"Dinner [Bhmn] Club.. 1/23/44. A. Rheingau. Present: Bill Bacon, Rodney [Grell], Ken Vaughan, Joe Jackson, Charlie Strong, Walter Schaller, CEH\"",
+  "wine_label:producer": "Wachstum des Gräflich Matuschka-Greifenclau",
+  "wine_label:wine_type": "Schloss Vollrads. Kabinet"
 }

@@ -28,22 +28,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d48w7c",
-    "label_1695"
+    "ark:/85140/d48w7c"
   ],
   "schema:inLanguage": "en-CY",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spanish Table Wines Italy (Cypress and Greece)",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spanish Table Wines Italy (Cypress and Greece)",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Keo, Ltd. § Keo Cyprus Vermouth. Sweet Italian type. § Limassol, Cyprus",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Limassol, Cyprus",
+  "wine_label:digitization_number": "1695/",
+  "wine_label:folder": "Still--Spanish Table Wines Italy (Cyprus and Greece)",
+  "wine_label:marginalia": "\"Cypus Vermouth\"",
+  "wine_label:producer": "Keo, Ltd.",
+  "wine_label:questions": "image is upside down.",
+  "wine_label:wine_type": "Keo Cyprus Vermouth. Sweet Italian type."
 }

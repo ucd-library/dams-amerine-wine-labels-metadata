@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_3370",
     "ark:/85140/d4w69t"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Burgundy Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Cruse & Fils Frères § Pommard Cruse. Red Burgandy Wine § Dijon",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Dijon",
+  "wine_label:date": "1937",
+  "wine_label:digitization_number": "3370/",
+  "wine_label:folder": "Red--Still--Burgundy Red",
+  "wine_label:marginalia": "\"Côte de Beaune, Pommard\" \"GAS\"",
+  "wine_label:producer": "Cruse & Fils Frères",
+  "wine_label:wine_type": "Pommard Cruse. Red Burgandy Wine"
 }

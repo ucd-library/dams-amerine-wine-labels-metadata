@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4ww7z",
-    "label_1845"
+    "ark:/85140/d4ww7z"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Jacob Hütwohl § Steeger Flur Riesling Auslee",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "1845/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:marginalia": "\"?\" \"Selleck\"",
+  "wine_label:producer": "Jacob Hütwohl",
+  "wine_label:wine_type": "Steeger Flur Riesling Auslee"
 }

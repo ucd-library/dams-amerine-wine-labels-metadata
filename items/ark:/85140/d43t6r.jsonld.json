@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "ark:/85140/d43t6r",
-    "label_3941"
+    "ark:/85140/d43t6r"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Rheingau Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Germany Rheingau Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Preußische domänen-Weinbauverwaltung § Steinberger § Eltville am Rhein; Rheingau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Eltville am Rhein; Rheingau",
+  "wine_label:date": "1934",
+  "wine_label:digitization_number": "3941/",
+  "wine_label:folder": "Still--Germany Rheingau Folder",
+  "wine_label:producer": "Preußische domänen-Weinbauverwaltung",
+  "wine_label:wine_type": "Steinberger"
 }

@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_0837",
     "ark:/85140/d44k8d"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--France Misc White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Donatien Bahuaud & Cie § Le Nantais § La Chapelle Heulin (L-I)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "La Chapelle Heulin (L-I)",
+  "wine_label:digitization_number": "0837/",
+  "wine_label:folder": "White--Still--France Misc White",
+  "wine_label:marginalia": "\" Loire\" \"FPG\"",
+  "wine_label:producer": "Donatien Bahuaud & Cie",
+  "wine_label:wine_type": "Le Nantais"
 }

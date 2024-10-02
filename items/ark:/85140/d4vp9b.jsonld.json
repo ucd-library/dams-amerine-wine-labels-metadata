@@ -28,22 +28,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4vp9b",
-    "label_1706"
+    "ark:/85140/d4vp9b"
   ],
   "schema:inLanguage": "el-GR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spanish Table Wines Italy (Cypress and Greece)",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spanish Table Wines Italy (Cypress and Greece)",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Société Vinicole, S.A..  Claus. Anónymos etairía pros naraskévni oínoi. § Demestica \"Achaia\" Patrias § Patras, Ellás\n",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Patras, Ellás\n",
+  "wine_label:digitization_number": "1706/",
+  "wine_label:folder": "Still--Spanish Table Wines Italy (Cyprus and Greece)",
+  "wine_label:marginalia": "\"\"Not unpleasant white wine\" maa\"",
+  "wine_label:producer": "Société Vinicole, S.A..  Claus. Anónymos etairía pros naraskévni oínoi.",
+  "wine_label:wine_type": "Demestica \"Achaia\" Patrias"
 }

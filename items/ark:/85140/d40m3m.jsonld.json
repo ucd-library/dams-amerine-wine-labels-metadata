@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d40m3m",
-    "label_2270"
+    "ark:/85140/d40m3m"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Medoc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Medoc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Pillet-Will. Château Margaux. § Grand Vin.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Grand Vin.",
+  "wine_label:date": "1919",
+  "wine_label:digitization_number": "2270/",
+  "wine_label:folder": "Red--Still--Medoc Red",
+  "wine_label:marginalia": "\"Sterling Carr's Lunch. French Club. Jan. 16, 1941. A\" \"1st Cru Margaux (Médoc). Present: Sterling Carr, Farnham Griffith, Judge St. Sure, Amerine, Paul Kieffer, Judge Haney, Carl Ganter, CEH\".",
+  "wine_label:producer": "Pillet-Will. Château Margaux."
 }

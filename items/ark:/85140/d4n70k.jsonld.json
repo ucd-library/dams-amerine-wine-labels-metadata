@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_3070",
     "ark:/85140/d4n70k"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Geoffrion, Propriétaire. Château Croque Michotte. § Saint Émilion §  St. Émilion (Gde)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": " St. Émilion (Gde)",
+  "wine_label:date": "1948",
+  "wine_label:digitization_number": "3070/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:producer": "Geoffrion, Propriétaire. Château Croque Michotte.",
+  "wine_label:wine_type": "Saint Émilion"
 }

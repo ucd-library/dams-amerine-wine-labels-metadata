@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1343792"
   },
   "schema:identifier": [
-    "label_3898",
     "ark:/85140/d4nx5c"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Mosel Saar Ruwer Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Germany Mosel Saar Ruwer Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Franz Joseph Selbach, Weingut § Ürziger Würzgarten § Ürzig-Erden; Mosel-Saar-Ruwer",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Ürzig-Erden; Mosel-Saar-Ruwer",
+  "wine_label:date": "1952",
+  "wine_label:digitization_number": "3898/",
+  "wine_label:folder": "Still--Germany Mosel Saar Ruwer Folder",
+  "wine_label:producer": "Franz Joseph Selbach, Weingut",
+  "wine_label:wine_type": "Ürziger Würzgarten"
 }

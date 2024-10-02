@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "ark:/85140/d4tk90",
-    "label_1358"
+    "ark:/85140/d4tk90"
   ],
   "schema:inLanguage": "pt-PT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "A. Marques.Viti Vinicultor.  § Quinta de S. Miguel. § Mealhada, Portugal",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Mealhada, Portugal",
+  "wine_label:digitization_number": "1358/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "\"\"Well matured, fruity, good but not great\" maa\"",
+  "wine_label:producer": "A. Marques.Viti Vinicultor. ",
+  "wine_label:wine_type": "Quinta de S. Miguel."
 }

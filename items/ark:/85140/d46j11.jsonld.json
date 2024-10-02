@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d46j11",
-    "label_4544"
+    "ark:/85140/d46j11"
   ],
   "schema:inLanguage": "es-ES",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spain Sherry Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Spain Sherry Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Marqués del Mérito.  Bodegas jerezanas reunidas, s.r.c. § San Hilario § Jerez de la Frontera.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Jerez de la Frontera.",
+  "wine_label:digitization_number": "4544/",
+  "wine_label:folder": "Fortified--Spain Sherry Folder",
+  "wine_label:producer": "Marqués del Mérito.  Bodegas jerezanas reunidas, s.r.c.",
+  "wine_label:wine_type": "San Hilario"
 }

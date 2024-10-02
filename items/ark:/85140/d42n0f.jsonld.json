@@ -22,7 +22,6 @@
     }
   ],
   "schema:identifier": [
-    "label_4576",
     "ark:/85140/d42n0f"
   ],
   "schema:inLanguage": "es-ES",
@@ -30,11 +29,11 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Spain Sherry Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "4576/",
+  "wine_label:folder": "Fortified--Spain Sherry Folder"
 }

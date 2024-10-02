@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d42d82",
-    "label_3059"
+    "ark:/85140/d42d82"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Fourcaud-Laussac, Propriétaire. Château Cheval Blanc. § St. Émilion",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1933",
+  "wine_label:digitization_number": "3059/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:marginalia": "\"Dinner. Cercle de l'Union. Jim Howe. 5/2/51 B+\" \"Present: Jim Howe, Farnham Griffiths, Harold Price, Geo Selleck, Raoul Blanquie, John Daniel, Jeff Smith, Henri Beaujard, Maynard Amerine, CEH\"",
+  "wine_label:producer": "Fourcaud-Laussac, Propriétaire. Château Cheval Blanc.",
+  "wine_label:wine_type": "St. Émilion"
 }

@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "label_0550",
     "ark:/85140/d46w4m"
   ],
   "schema:inLanguage": "de",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhinegau",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhinegau",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Reichsfreiherrn von Ritter zu Groenesteyn § Kiedricher Sandgrub Riesling § Rüdesheim a. Rhein;",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Rüdesheim a. Rhein;",
+  "wine_label:date": "1934",
+  "wine_label:digitization_number": "0550/",
+  "wine_label:folder": "Still--Rhinegau",
+  "wine_label:marginalia": "\"At home. May, 1942. A-  Rheingau\"",
+  "wine_label:producer": "Reichsfreiherrn von Ritter zu Groenesteyn",
+  "wine_label:wine_type": "Kiedricher Sandgrub Riesling"
 }

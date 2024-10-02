@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4x60q",
-    "label_0235"
+    "ark:/85140/d4x60q"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--California Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": " La Questa Vineyard (AR) § Woodside Cabernet § Woodside; Redwood City",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Woodside; Redwood City",
+  "wine_label:date": "1936",
+  "wine_label:digitization_number": "0235/",
+  "wine_label:folder": "Red--Still--California Red",
+  "wine_label:marginalia": "\"X\"",
+  "wine_label:producer": " La Questa Vineyard (AR)",
+  "wine_label:wine_type": "Woodside Cabernet"
 }

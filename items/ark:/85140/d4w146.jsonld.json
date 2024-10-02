@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4w146",
-    "label_3997"
+    "ark:/85140/d4w146"
   ],
   "schema:inLanguage": "en-JM",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Jamaica Rum Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Spirit--Jamaica Rum Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Casa-Grazia § Rum Martinique § San Francisco, CA",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "San Francisco, CA",
+  "wine_label:digitization_number": "3997/",
+  "wine_label:folder": "Spirit--Jamaica Rum Folder",
+  "wine_label:producer": "Casa-Grazia",
+  "wine_label:proof": "90",
+  "wine_label:wine_type": "Rum Martinique"
 }

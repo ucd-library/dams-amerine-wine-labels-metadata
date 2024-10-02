@@ -17,21 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "label_0663",
     "ark:/85140/d4mk8r"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "J. Mommessin. La Grange St. Pierre. § Moulin-a-Vent § Macon; Saône-et-Loire",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Macon; Saône-et-Loire",
+  "wine_label:date": "1947",
+  "wine_label:digitization_number": "0663/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Dinner. Chateau St. Jean. St. Jean le Priche. 5/30/50. A. Present: ELH, CEH\".",
+  "wine_label:producer": "J. Mommessin. La Grange St. Pierre.",
+  "wine_label:wine_type": "Moulin-a-Vent"
 }

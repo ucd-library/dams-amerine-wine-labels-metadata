@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1204303"
   },
   "schema:identifier": [
-    "label_0060",
     "ark:/85140/d4hs30"
   ],
   "schema:inLanguage": "es-ES",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spain",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spain",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Miguel Torres § Cepa Sauternes  § Villafranca Del Panádes, España",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Villafranca Del Panádes, España",
+  "wine_label:date": "1938",
+  "wine_label:digitization_number": "0060/",
+  "wine_label:folder": "Still--Spain",
+  "wine_label:marginalia": "\"white. maa\"",
+  "wine_label:producer": "Miguel Torres",
+  "wine_label:wine_type": "Cepa Sauternes "
 }

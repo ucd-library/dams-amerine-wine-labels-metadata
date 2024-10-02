@@ -17,21 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "label_0643",
     "ark:/85140/d46g7m"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "André Fournier, Propriétaire § Château Canon § St. Emilion. 1er Grand Cru § Wetterwald; Bordeaux",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Château Canon",
+  "wine_label:city_region": "Wetterwald; Bordeaux",
+  "wine_label:date": "1937",
+  "wine_label:digitization_number": "0643/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Dinner. Maxim's. 5/14/50. A. (with saddle of lamb), Petite Mouossito, Selle d'Agneau, Tarte au Fraises, Fromage\"",
+  "wine_label:producer": "André Fournier, Propriétaire",
+  "wine_label:wine_type": "St. Emilion. 1er Grand Cru"
 }

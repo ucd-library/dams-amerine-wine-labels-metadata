@@ -17,21 +17,20 @@
     "@id": "http://id.worldcat.org/fast/933048"
   },
   "schema:identifier": [
-    "label_4726",
     "ark:/85140/d4pn1d"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Fortified Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Fortified Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "John Esquin, Ltd. § Distilled Dry Gin § Distilled in Cuba",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Distilled in Cuba",
+  "wine_label:digitization_number": "4726/",
+  "wine_label:folder": "Fortified--Fortified Folder",
+  "wine_label:producer": "John Esquin, Ltd.",
+  "wine_label:wine_type": "Distilled Dry Gin"
 }

@@ -17,21 +17,21 @@
     "@id": "http://id.worldcat.org/fast/999516"
   },
   "schema:identifier": [
-    "label_0371",
     "ark:/85140/d4bk54"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Apperitives and Liqueurs",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Spirit--Apperitives and Liqueurs",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "M. Hidalgo et Cie § \"Hidalgo\" § Jerez Quina.  § San Lucar de Barrameda",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "\"Hidalgo\"",
+  "wine_label:city_region": "San Lucar de Barrameda",
+  "wine_label:digitization_number": "0371/",
+  "wine_label:folder": "Spirit--Apperitives and Liqueurs",
+  "wine_label:producer": "M. Hidalgo et Cie",
+  "wine_label:wine_type": "Jerez Quina. "
 }

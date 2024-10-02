@@ -14,21 +14,20 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "ark:/85140/d4sn1b",
-    "label_4880"
+    "ark:/85140/d4sn1b"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Additions Various Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Bodegas y Viñedos Santa Ana S.A. § Seleccion Santa Ana. Vino Fino Blanco § Mendoza",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Mendoza",
+  "wine_label:digitization_number": "4880/",
+  "wine_label:folder": "Still",
+  "wine_label:producer": "Bodegas y Viñedos Santa Ana S.A.",
+  "wine_label:wine_type": "Seleccion Santa Ana. Vino Fino Blanco"
 }

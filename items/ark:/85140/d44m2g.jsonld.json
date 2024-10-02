@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_1820",
     "ark:/85140/d44m2g"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Peter Nicolay § Ürziger Kraklay Spätlese § Mosel-Saar -Ruwer",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Mosel-Saar -Ruwer",
+  "wine_label:date": "1943",
+  "wine_label:digitization_number": "1820/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:marginalia": "\"Danish Dinner at Home. Jan. 1949. B+\" \"Middle Moselle\" \"Present: Griffiths, Bueler, Blanquie, Selleck, Wente, Lucia, Hall\"",
+  "wine_label:producer": "Peter Nicolay",
+  "wine_label:wine_type": "Ürziger Kraklay Spätlese"
 }

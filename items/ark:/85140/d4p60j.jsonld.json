@@ -17,21 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d4p60j",
-    "label_0709"
+    "ark:/85140/d4p60j"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "R.N.Coate & Co. Ltd. § Coate's Cider of Somerset § Cider § Nailsea, Somerset",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Coate's Cider of Somerset",
+  "wine_label:city_region": "Nailsea, Somerset",
+  "wine_label:digitization_number": "0709/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Lunch. Waterbridge. England. 7/17/50\"",
+  "wine_label:producer": "R.N.Coate & Co. Ltd.",
+  "wine_label:wine_type": "Cider"
 }

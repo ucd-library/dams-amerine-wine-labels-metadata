@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4jp9j",
-    "label_1840"
+    "ark:/85140/d4jp9j"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Statl Hofkeller zu Würzburg § Würzburger Felsen Leiste",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1934",
+  "wine_label:digitization_number": "1840/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:marginalia": "\"At Home. Birthday Dinner.  3/4/43.  A-\" \"Steinwein\" \"Present: FPG, MMG, Marie, Penn, Bill, Carolyn, Nelson Hackett, May, Virginia, Alice, ELH, CEH\"",
+  "wine_label:producer": "Statl Hofkeller zu Würzburg",
+  "wine_label:wine_type": "Würzburger Felsen Leiste"
 }

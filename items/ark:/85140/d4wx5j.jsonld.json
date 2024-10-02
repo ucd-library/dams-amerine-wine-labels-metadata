@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4wx5j",
-    "label_3989"
+    "ark:/85140/d4wx5j"
   ],
   "schema:inLanguage": "en-JM",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Jamaica Rum Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Spirit--Jamaica Rum Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "G. Eustace Burke & Bro. LTD.  § Burke's Fine Jamaica § Old Rum § Kingston, Jamaica",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Burke's Fine Jamaica",
+  "wine_label:city_region": "Kingston, Jamaica",
+  "wine_label:digitization_number": "3989/",
+  "wine_label:folder": "Spirit--Jamaica Rum Folder",
+  "wine_label:producer": "G. Eustace Burke & Bro. LTD. ",
+  "wine_label:wine_type": "Old Rum"
 }

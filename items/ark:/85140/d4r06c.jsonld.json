@@ -28,22 +28,22 @@
     }
   ],
   "schema:identifier": [
-    "label_1707",
     "ark:/85140/d4r06c"
   ],
   "schema:inLanguage": "el-GR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spanish Table Wines Italy (Cypress and Greece)",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spanish Table Wines Italy (Cypress and Greece)",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Agnos Oinos.   Anónymos etairía en Athniais.  § Kampa § Ymittos",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Ymittos",
+  "wine_label:digitization_number": "1707/",
+  "wine_label:folder": "Still--Spanish Table Wines Italy (Cyprus and Greece)",
+  "wine_label:marginalia": "\"\"Sound white wine\" maa\"",
+  "wine_label:producer": "Agnos Oinos.   Anónymos etairía en Athniais. ",
+  "wine_label:wine_type": "Kampa"
 }

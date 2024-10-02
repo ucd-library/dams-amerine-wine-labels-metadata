@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_3630",
     "ark:/85140/d4914x"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Sparkling--California White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Almaden Vineyards Wines, Ltd. § Almadén Extra Dry California Champagne § Los Gatos",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Los Gatos",
+  "wine_label:digitization_number": "3630/",
+  "wine_label:folder": "White--Sparkling--California White",
+  "wine_label:marginalia": "\"Thanksgiving. 1942. At Home. Also at Marie's wedding. 12/19/42. A-\" \"Present: Mother, Channing, May, Virginia, Bill, Carolyn, Marie, Pen, Bill Erskine, Mrs. Bissell, Farnham, Marjorie, CEH, ELH\"",
+  "wine_label:producer": "Almaden Vineyards Wines, Ltd.",
+  "wine_label:wine_type": "Almadén Extra Dry California Champagne"
 }

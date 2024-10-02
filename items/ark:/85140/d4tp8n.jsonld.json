@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "ark:/85140/d4tp8n",
-    "label_1327"
+    "ark:/85140/d4tp8n"
   ],
   "schema:inLanguage": "pt-PT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Compania Agricola do Sanguinhal, LDA § Quinta das Cerejeiras. Tinto.  § Bombarral",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Bombarral",
+  "wine_label:digitization_number": "1327/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "\"\"High volative. Very poor\" maa\". \"Red\"",
+  "wine_label:producer": "Compania Agricola do Sanguinhal, LDA",
+  "wine_label:wine_type": "Quinta das Cerejeiras. Tinto. "
 }

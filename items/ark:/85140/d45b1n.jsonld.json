@@ -17,21 +17,18 @@
     "@id": "http://id.worldcat.org/fast/1239515"
   },
   "schema:identifier": [
-    "label_4018",
     "ark:/85140/d45b1n"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "North Africa Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--North Africa Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "4018/",
+  "wine_label:folder": "Still--North Africa Folder",
+  "wine_label:marginalia": "\"4/24/55 in Fez. Very flat. pink-brown. Very poor.   69.  Visited the winery in the p.m.\""
 }

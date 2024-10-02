@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "ark:/85140/d4v92w",
-    "label_1412"
+    "ark:/85140/d4v92w"
   ],
   "schema:inLanguage": "es-CL",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Alberto Valdivieso M. § Santa Elena. Champagne. Bruto § Fabricacion Chilena",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Fabricacion Chilena",
+  "wine_label:digitization_number": "1412/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "Ladies Dinner. Wine + Food Soc. Palace Hotel 4/27/22.  A.\" \"Champagne\"",
+  "wine_label:producer": "Alberto Valdivieso M.",
+  "wine_label:wine_type": "Santa Elena. Champagne. Bruto"
 }

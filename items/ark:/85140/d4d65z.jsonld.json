@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4d65z",
-    "label_1787"
+    "ark:/85140/d4d65z"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Shulz & Wagner § Erdener Moselle § Frankfurt am Main",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Frankfurt am Main",
+  "wine_label:date": "1937",
+  "wine_label:digitization_number": "1787/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:marginalia": "\"Middle Moselle\" \"Selleck\"",
+  "wine_label:producer": "Shulz & Wagner",
+  "wine_label:wine_type": "Erdener Moselle"
 }

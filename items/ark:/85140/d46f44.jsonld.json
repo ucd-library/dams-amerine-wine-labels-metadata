@@ -16,21 +16,22 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "label_4962",
     "ark:/85140/d46f44"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "J. Denis, Henry Mounié & Co. § Gold-Leaf § Cognac § Cognac",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Gold-Leaf",
+  "wine_label:city_region": "Cognac",
+  "wine_label:digitization_number": "4962/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:producer": "J. Denis, Henry Mounié & Co.",
+  "wine_label:proof": "84",
+  "wine_label:wine_type": "Cognac"
 }

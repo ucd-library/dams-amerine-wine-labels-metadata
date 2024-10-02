@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d42s63",
-    "label_0822"
+    "ark:/85140/d42s63"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--France Misc White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Maison Ackerman-Laurance, Propriétaires.  Clos le Mont § Vouvray. Première Tête § Vouvray; Touraine",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Vouvray; Touraine",
+  "wine_label:digitization_number": "0822/",
+  "wine_label:folder": "White--Still--France Misc White",
+  "wine_label:marginalia": "\"Vouvray\"",
+  "wine_label:producer": "Maison Ackerman-Laurance, Propriétaires.  Clos le Mont",
+  "wine_label:questions": "The producer is located in  St. Hilaire-St. Florent (Maine et Loire). But the vineyard is in Touraine.",
+  "wine_label:wine_type": "Vouvray. Première Tête"
 }

@@ -16,21 +16,21 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "ark:/85140/d4bv1c",
-    "label_5015"
+    "ark:/85140/d4bv1c"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Florio & Co. Societa Anonima Vinicola Italiana. § S.O.M. § Marsala § Marsala, Italy",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "S.O.M.",
+  "wine_label:city_region": "Marsala, Italy",
+  "wine_label:digitization_number": "5015/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:producer": "Florio & Co. Societa Anonima Vinicola Italiana.",
+  "wine_label:wine_type": "Marsala"
 }

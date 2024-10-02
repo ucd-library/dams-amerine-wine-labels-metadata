@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4mb09",
-    "label_3643"
+    "ark:/85140/d4mb09"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Sparkling--California White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "F. Korbel & Bros., Inc. § Korbel Brut. California Champagne § Guerneville",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Guerneville",
+  "wine_label:date": "1933",
+  "wine_label:digitization_number": "3643/",
+  "wine_label:folder": "White--Sparkling--California White",
+  "wine_label:marginalia": "\"Wine + Food Society Dinner. Sonoma Country Club. 10/17/41. B+",
+  "wine_label:producer": "F. Korbel & Bros., Inc.",
+  "wine_label:wine_type": "Korbel Brut. California Champagne"
 }

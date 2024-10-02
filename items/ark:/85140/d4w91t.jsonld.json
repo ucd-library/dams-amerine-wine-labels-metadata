@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_0808",
     "ark:/85140/d4w91t"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--France Misc White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Etab/ts Jobard Jeune et Bernard § Pouilly Blanc-Fumé § Beaune (Côte-d'Or)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Beaune (Côte-d'Or)",
+  "wine_label:digitization_number": "0808/",
+  "wine_label:folder": "White--Still--France Misc White",
+  "wine_label:marginalia": "\"maa\"",
+  "wine_label:producer": "Etab/ts Jobard Jeune et Bernard",
+  "wine_label:wine_type": "Pouilly Blanc-Fumé"
 }

@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "ark:/85140/d4ks8h",
-    "label_1414"
+    "ark:/85140/d4ks8h"
   ],
   "schema:inLanguage": "es-CL",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": " § Viña Cousiño. Gran Vino. § Macul; Santiago di Chile",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Macul; Santiago di Chile",
+  "wine_label:digitization_number": "1414/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "\"Chili\". \"Selleck\"",
+  "wine_label:wine_type": "Viña Cousiño. Gran Vino."
 }

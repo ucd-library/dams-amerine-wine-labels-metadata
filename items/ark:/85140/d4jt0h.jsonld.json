@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4jt0h",
-    "label_1809"
+    "ark:/85140/d4jt0h"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Josef Wehr § Piesporter Grafenberg Spätlese § Bernkastel-Kues; Mosel",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Bernkastel-Kues; Mosel",
+  "wine_label:date": "1948",
+  "wine_label:digitization_number": "1809/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:marginalia": "\"Dinner. Jim Howe. Cercle de l'Union. 5/2/51/ B\" \"Present: Jim Howe, FPG, Harold Price, Geo Selleck, Raoul Blanquie, Jeff Smith, Henri Beaujard, John Daniel, Maynard Amerine, CEH\"",
+  "wine_label:producer": "Josef Wehr",
+  "wine_label:wine_type": "Piesporter Grafenberg Spätlese"
 }

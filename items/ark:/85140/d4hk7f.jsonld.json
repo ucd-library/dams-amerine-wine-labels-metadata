@@ -17,21 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d4hk7f",
-    "label_0687"
+    "ark:/85140/d4hk7f"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Dr. R. Weill § Kiedricher Gräfenberg. Auslese § Kiedrich; Rheingau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Kiedrich; Rheingau",
+  "wine_label:date": "1947",
+  "wine_label:digitization_number": "0687/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Dinner. Nassauerhof. Wiesbaden. 6/18/50. A. Slightly sweet. Present: ELH, CEH\"",
+  "wine_label:producer": "Dr. R. Weill",
+  "wine_label:wine_type": "Kiedricher Gräfenberg. Auslese"
 }

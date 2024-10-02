@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1272622"
   },
   "schema:identifier": [
-    "ark:/85140/d42m2v",
-    "label_2045"
+    "ark:/85140/d42m2v"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhein Hessen Rheinfalz",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhein Hessen Rheinfalz",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Weingut Louis Guntrum § Liebfraumilch § Oppenheim and Nierstein o Rhine",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Oppenheim and Nierstein o Rhine",
+  "wine_label:date": "1929",
+  "wine_label:digitization_number": "2045/",
+  "wine_label:folder": "Still--Rhein Hessen Rheinfalz",
+  "wine_label:marginalia": "\"Rheinhessen\" \"Buck\"",
+  "wine_label:producer": "Weingut Louis Guntrum",
+  "wine_label:wine_type": "Liebfraumilch"
 }

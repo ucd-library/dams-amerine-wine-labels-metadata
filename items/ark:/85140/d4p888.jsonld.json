@@ -17,22 +17,24 @@
     "@id": "http://id.worldcat.org/fast/1204565"
   },
   "schema:identifier": [
-    "label_0113",
     "ark:/85140/d4p888"
   ],
   "schema:inLanguage": "it-IT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Italy",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Italy",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Dr. G. Odero, Proprietor. Chateau Frecciarossa § Red Arrow § \"La [?] blanche\". Light dry white wine § Casteggio (Italy)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Red Arrow",
+  "wine_label:city_region": "Casteggio (Italy)",
+  "wine_label:date": "1946",
+  "wine_label:digitization_number": "0113/",
+  "wine_label:folder": "Still--Italy",
+  "wine_label:marginalia": "\"Italy. White.\" \"FPG\"",
+  "wine_label:producer": "Dr. G. Odero, Proprietor. Chateau Frecciarossa",
+  "wine_label:wine_type": "\"La [?] blanche\". Light dry white wine"
 }

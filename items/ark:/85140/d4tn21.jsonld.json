@@ -16,21 +16,21 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "ark:/85140/d4tn21",
-    "label_5050"
+    "ark:/85140/d4tn21"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Widmer's Wine Cellars, Inc.  § Widheimer § New York State Light Wine § Naples, New York",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Widheimer",
+  "wine_label:city_region": "Naples, New York",
+  "wine_label:digitization_number": "5050/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:producer": "Widmer's Wine Cellars, Inc. ",
+  "wine_label:wine_type": "New York State Light Wine"
 }
