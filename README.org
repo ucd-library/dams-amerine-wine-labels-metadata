@@ -1,74 +1,16 @@
 * Amerine Wine Labels
 
-** 2023-09 Processing
-
+** 2024-10 Add Titles
    I need a method to add the wine label information from Eric into the label
    data.
 
    Eric has a [[https://docs.google.com/spreadsheets/d/1wzO62YKaYBojdMveLapXRMJ2U9Yi4lXS50Q42N-Zl4g/edit#gid=868536261][spreadsheet]], that includes producer, brand, wine type, date
    city/region, abv, proof marginalia.  This was saved as ~titles.csv~.
 
-   Originally, there was not an identifier for the collection;  I have minted,
-   ark:/87287/d7794w for this collection.
-
-
-*** Get from old version
-
-    Somehow I managed to mess up all the files that I had been adding to the
-    ~amermine-wine-labels~ metadata file.  I got the old data back from sandbox
-    export, and I'm trying to upload them again.
-
-    In the process I noticed that the form of the metadata changes midway
-    through the data.  Labels of:
-
-#+begin_src bash
-  for i in label_[0123]??? label_4[0-8]?? label_490? label_491[0123]; do echo $i; done
-#+end_src
-
-have two items within a ~["@graph"]~, while,
-
-#+begin_src bash
-  for i in label_491[456789] label_49[2-9]?? label_[5-9]???; do echo $i; done
-#+end_src
-
-Don't have a graph, and have the information in the root.  So, I need to replace
-what I had before.
-
-#+begin_src bash
-  for i in label_[0123]??? label_4[0-8]?? label_490? label_491[0123]; do ark=$(jq -r '.["@graph"][0]["schema:identifier"][] | select(.|match("^ark:"))' $i.jsonld.json); mkdir -p $(dirname $ark); mv $i $ark; mv $i.jsonld.json $ark.jsonld.json ; done
-  for i in label_491[456789] label_49[2-9]?? label_[5-9]???; do ark=$(jq -r '.["schema:identifier"][] | select(.|match("^ark:"))' $i.jsonld.json); mkdir -p $(dirname $ark); mv $i $ark; mv $i.jsonld.json $ark.jsonld.json ; done
-#+end_src
-
-This script just changes name of the metadata.  Now, I could also rexport the
-data, because that's where this original data came from, but by looking at these
-data files, they are the same, so I'll just rsync the ones I messed up.
-
-#+begin_src bash
-  for i in d4*.json; do echo $i; diff  ../../../v1/items/ark\:/85140/$i $i; done | less
-#+end_src
-
-And now, I think I need to check in a version of the metadata, before I try this
-again.
-
-
-
-
 *** Add titles
 
     I need to update the jq files first. This script updates the titles from the
     csv file.
-
-    #+begin_src json :tangle context.json
-      {
-        "@context": {
-          "wine_label": "ark:/87287/d7794w/schema#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "ucdlib": "http://schema.library.ucdavis.edu/schema#",
-          "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "schema": "http://schema.org/"
-        }
-      }
-    #+end_src
 
     #+begin_src sparql :tangle titles.rq
       PREFIX wine_label: <ark:/87287/d7794w/schema#>
@@ -149,6 +91,115 @@ again.
 
 #+RESULTS:
 : jq -s -f convert.jq items/ark:/85140/d4001n.jsonld.json items/ark:/85140/d4001n/title.json
+
+
+** 2024-10 remove ~@graph~
+
+   In the current metadata format, we tried to include information that the
+   label ~describesWine~.  Here's an example:
+
+   #+begin_src json
+     {
+       "@graph": [
+         {
+           "ucdlib:describesWine": {
+             "@id": "@base:#wine"
+           "schema:identifier": [
+             "label_0041",
+             "ark:/85140/d4001n"
+           ]
+         },
+         {
+           "@id": "@base:#wine",
+           "@type": "ucdlib:Wine",
+           "ucdlib:WineType": {
+             "@id": "ucdlib:Still"
+           },
+           "http://www.wikidata.org/prop/direct/P297": "ES"
+         }
+       ]
+     }
+   #+end_src
+
+   We are removing this, and as a result, removing the ~@graph~ component.  We
+   only do this to the records with a ~@graph~ node.
+
+   I'll use this opportunity to add in a new context file.
+
+   #+begin_src json :tangle context.json
+     {
+       "@context": {
+         "wine_label": "ark:/87287/d7794w/schema#",
+         "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+         "ucdlib": "http://schema.library.ucdavis.edu/schema#",
+         "xsd": "http://www.w3.org/2001/XMLSchema#",
+         "schema": "http://schema.org/"
+       }
+     }
+    #+end_src
+
+    And you can join these together with the following jq conversion:
+    #+begin_src jq :tangle rm_graph.jq
+      .[0]
+       +
+      (.[1]["@graph"][0] |
+        del(.["ucdlib:describesWine"])
+      )
+    #+end_src
+
+#+begin_src bash
+  c=context.json
+  for i in $(grep -l '@graph' items/ark:/85140/d4????.jsonld.json); do \
+      echo $i;
+      cp ${i} ${i}-;\
+      jq -s -f rm_graph.jq ${c} ${i}- > ${i};\
+  done
+#+end_src
+
+
+** 2024-09 Initial Metadata Commit
+
+   Originally, there was not an identifier for the collection;  I have minted,
+   ark:/87287/d7794w for this collection.
+
+*** Get from old version
+
+    Somehow I managed to mess up all the files that I had been adding to the
+    ~amermine-wine-labels~ metadata file.  I got the old data back from sandbox
+    export, and I'm trying to upload them again.
+
+    In the process I noticed that the form of the metadata changes midway
+    through the data.  Labels of:
+
+#+begin_src bash
+  for i in label_[0123]??? label_4[0-8]?? label_490? label_491[0123]; do echo $i; done
+#+end_src
+
+have two items within a ~["@graph"]~, while,
+
+#+begin_src bash
+  for i in label_491[456789] label_49[2-9]?? label_[5-9]???; do echo $i; done
+#+end_src
+
+Don't have a graph, and have the information in the root.  So, I need to replace
+what I had before.
+
+#+begin_src bash
+  for i in label_[0123]??? label_4[0-8]?? label_490? label_491[0123]; do ark=$(jq -r '.["@graph"][0]["schema:identifier"][] | select(.|match("^ark:"))' $i.jsonld.json); mkdir -p $(dirname $ark); mv $i $ark; mv $i.jsonld.json $ark.jsonld.json ; done
+  for i in label_491[456789] label_49[2-9]?? label_[5-9]???; do ark=$(jq -r '.["schema:identifier"][] | select(.|match("^ark:"))' $i.jsonld.json); mkdir -p $(dirname $ark); mv $i $ark; mv $i.jsonld.json $ark.jsonld.json ; done
+#+end_src
+
+This script just changes name of the metadata.  Now, I could also rexport the
+data, because that's where this original data came from, but by looking at these
+data files, they are the same, so I'll just rsync the ones I messed up.
+
+#+begin_src bash
+  for i in d4*.json; do echo $i; diff  ../../../v1/items/ark\:/85140/$i $i; done | less
+#+end_src
+
+And now, I think I need to check in a version of the metadata, before I try this
+again.
+
 
 ** Original Processing
   I seem to have been doing two things.  First, I went through and identified
