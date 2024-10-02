@@ -1,0 +1,31 @@
+VIN GRAND 1998
+1er CRU CLASS E
+CHATEAU RABAUD
+PROMIS
+MIS EN BOUTEILLE AU CHATEAU
+
+VIN
+GRAND
+1998
+1er
+CRU
+CLASS
+E
+CHATEAU
+RABAUD
+PROMIS
+MIS
+EN
+BOUTEILLE
+AU
+CHATEAU
+"Bonassaer Swalionder\nGrand Vin de Sauternes 1928\nGrand Vin de Saunternes 1928\n1928\n1er Cru Classe\n1er. Cru Classe\nChateau Rabaud Promis\nMis en bouteille au chateau\nMis En Bouteille Au Chateau"
+"Bonassaer Swalionder"
+"Grand Vin de Saunternes 1928"
+"Grand Vin de Sauternes 1928"
+"1928"
+"1er. Cru Classe"
+"1er Cru Classe"
+"Chateau Rabaud Promis"
+"Mis en bouteille au chateau"
+"Mis En Bouteille Au Chateau"

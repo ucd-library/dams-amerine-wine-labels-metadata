@@ -1,0 +1,35 @@
+GRAND VIN
+DE
+CHATEAU LA TOUR
+1928
+MARQUE DE POSE E
+MIS EN BOUTEILLES
+AU CHATEAU
+
+GRAND
+VIN
+DE
+CHATEAU
+LA
+TOUR
+1928
+MARQUE
+DE
+POSE
+E
+MIS
+EN
+BOUTEILLES
+AU
+CHATEAU
+"1st Curu Pauillac\n(Medoc)\nDinner\nWine and food for 3/12/45\nCercle de L'minon(?)\nB\ngrand vin\nde\nChateau Latour\n1928\nG. Cranjol Bordeaux\nMarque Deposee\nmarque deposee\nmis en bouteilles\nau chateau"
+"1st Curu Pauillac\n(Medoc)"
+"Dinner\nWine and food for 3/12/45\nCercle de L'minon(?)\nB"
+"grand vin"
+"de"
+"Chateau Latour"
+"1928"
+"G. Cranjol Bordeaux"
+"marque deposee"
+"Marque Deposee"
+"mis en bouteilles\nau chateau"

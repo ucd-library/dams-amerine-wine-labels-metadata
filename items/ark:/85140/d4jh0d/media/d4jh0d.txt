@@ -1,0 +1,13 @@
+RIE X
+J. PALA
+PROPRIETAIRE
+
+RIE
+X
+J.
+PALA
+PROPRIETAIRE
+"riex\nLa Maison Blanche, J. Palaz propriétaire\nLa Maison Blanche"
+"riex"
+"La Maison Blanche"
+"La Maison Blanche, J. Palaz propriétaire"

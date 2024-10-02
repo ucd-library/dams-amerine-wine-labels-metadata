@@ -1,0 +1,48 @@
+CARTE
+GRANDE
+ROUGE
+RESERVE
+IMOUX
+LANQUETTEDE
+APPELLATION CONTROLEE
+uSociete Anonyme des Etablissements
+JEAN BABOU
+MAISON CENTENAIRE
+(AUDE)
+LIMOUX NEGOCIANT
+IMP. BLANC, TOULOUSE
+
+CARTE
+GRANDE
+ROUGE
+RESERVE
+IMOUX
+LANQUETTEDE
+APPELLATION
+CONTROLEE
+uSociete
+Anonyme
+des
+Etablissements
+JEAN
+BABOU
+MAISON
+CENTENAIRE
+(AUDE)
+LIMOUX
+NEGOCIANT
+IMP.
+BLANC,
+TOULOUSE
+"Carte Rouge\nCARTE ROUGE\nGRANDE RESERVE\nGrande Reserve\nBlanquette de Limoux\nAppellation Controlee\nSociete Anonyme des Etablissements\nJean Babou\nLimoux\nMaison Centenaire Negociant\n(Aude)"
+"Carte Rouge"
+"CARTE ROUGE"
+"Grande Reserve"
+"GRANDE RESERVE"
+"Blanquette de Limoux"
+"Appellation Controlee"
+"Societe Anonyme des Etablissements"
+"Jean Babou"
+"Limoux"
+"Maison Centenaire Negociant"
+"(Aude)"

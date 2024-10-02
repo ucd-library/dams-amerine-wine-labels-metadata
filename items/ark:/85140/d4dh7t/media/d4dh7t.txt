@@ -1,0 +1,24 @@
+0
+Federico Paternina
+ellaini
+( RIOJA)
+REGISTRO EMBOTELLADORES 329
+CEPA RHIN
+
+0
+Federico
+Paternina
+ellaini
+(
+RIOJA
+)
+REGISTRO
+EMBOTELLADORES
+329
+CEPA
+RHIN
+"Frederico Paternina\nOllauri\n(Rioja)\nREGISTRO EMBOTELLADORES 329"
+"Frederico Paternina"
+"Ollauri"
+"(Rioja)"
+"REGISTRO EMBOTELLADORES 329"

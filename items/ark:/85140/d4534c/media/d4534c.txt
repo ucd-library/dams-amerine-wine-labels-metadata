@@ -1,0 +1,31 @@
+YORN E
+losDela
+101 0ela
+CMagnenas
+CMagnenVf
+LAMAG NEN AZ S, A, AIGLE
+目,C
+
+YORN
+E
+losDela
+101
+0ela
+CMagnenas
+CMagnenVf
+LAMAG
+NEN
+AZ
+S
+,
+A
+,
+AIGLE
+目
+,
+C
+"Yvorne\nClos de la Magnenaz\nLa Magnenaz s. a. Aigle\nLa Magnenaz S. A. Aigle"
+"Yvorne"
+"Clos de la Magnenaz"
+"La Magnenaz S. A. Aigle"
+"La Magnenaz s. a. Aigle"

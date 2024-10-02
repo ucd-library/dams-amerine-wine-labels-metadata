@@ -1,0 +1,43 @@
+PRODUCE OF FRANCE
+ETOILE
+ALCOHOL 125 BY VOLUME
+LOUIS CARTIER
+POLIGNY
+3/4 QUART
+N 2325
+bois
+
+PRODUCE
+OF
+FRANCE
+ETOILE
+ALCOHOL
+125
+BY
+VOLUME
+LOUIS
+CARTIER
+POLIGNY
+3/4
+QUART
+N
+2325
+bois
+"Arbois Jura\nLunch Curele de L'Maison 9 \nProduce of France\nPresent J F Smith CEH\nEtoile\n\n\nLouis Cartier Poligny\nALCOHOL 12 5 % BY VOLUME\nAlcohol 12.5 % by Volume 3/4 Quart\n3/4 QUART\n3/4 Quart\ndeposé\nNr 2325\n\nE. Jouneau Paris\n"
+"Arbois Jura"
+"Lunch Curele de L'Maison 9 "
+"Produce of France"
+"Present J F Smith CEH"
+""
+"Etoile"
+"Louis Cartier Poligny"
+""
+"ALCOHOL 12 5 % BY VOLUME"
+"Alcohol 12.5 % by Volume 3/4 Quart"
+"3/4 QUART"
+"3/4 Quart"
+"deposé"
+""
+"Nr 2325"
+"E. Jouneau Paris"
+""

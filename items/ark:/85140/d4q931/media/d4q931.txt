@@ -1,0 +1,30 @@
+TRAB
+Vino a la CARCA Vainilla
+IDEAL
+Ne 33
+MBR
+SANLUCAR
+ETAMA
+
+TRAB
+Vino
+a
+la
+CARCA
+Vainilla
+IDEAL
+Ne
+33
+MBR
+SANLUCAR
+ETAMA
+"Constancia Trabajo Union\nConstacia Trabajo Union Garcia Monge\nVino a la\nVainilla Ideal\nM. Garcia Monge\nNo. 33\nTimbre a Metalico\nSANLUCAR\nSanlucar"
+"Constancia Trabajo Union"
+"Constacia Trabajo Union Garcia Monge"
+"Vino a la"
+"Vainilla Ideal"
+"M. Garcia Monge"
+"No. 33"
+"Timbre a Metalico"
+"SANLUCAR"
+"Sanlucar"

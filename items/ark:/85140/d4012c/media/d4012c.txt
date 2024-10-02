@@ -1,0 +1,36 @@
+MAISON FOND EE EN 797
+NEGOCIANT A BEAUNE (COTE D'OR)
+APPELLATION CONTROLEE
+ROUALET BEAUNE.
+
+MAISON
+FOND
+EE
+EN
+797
+NEGOCIANT
+A
+BEAUNE
+(COTE
+D'OR)
+APPELLATION
+CONTROLEE
+ROUALET
+BEAUNE.
+"Charmes-Chambertin\nCharmes-Chambertin\nLouis Latour\nLouis Latour\nMaison Fondée en 1797\nMaison Fondee en 1797\nMAINSON FONDÉe en 1797\nMÉGOCIANT A BEAUNE (COTE-D'OR)\nNegociant a Beaune (cote-d'or)\nNÉGOCIATN A BEAUNE (COTE-D'OR)\nAppellation Controlee\nAPELLATION CONTROLÉE\nAPPELLATION CONTROLÉE\nROUALET BEAUNE_\nRoualet Beaune\nROUALET BEAUNE"
+"Charmes-Chambertin"
+"Charmes-Chambertin"
+"Louis Latour"
+"Louis Latour"
+"Maison Fondée en 1797"
+"MAINSON FONDÉe en 1797"
+"Maison Fondee en 1797"
+"MÉGOCIANT A BEAUNE (COTE-D'OR)"
+"NÉGOCIATN A BEAUNE (COTE-D'OR)"
+"Negociant a Beaune (cote-d'or)"
+"Appellation Controlee"
+"APELLATION CONTROLÉE"
+"APPELLATION CONTROLÉE"
+"ROUALET BEAUNE_"
+"ROUALET BEAUNE"
+"Roualet Beaune"

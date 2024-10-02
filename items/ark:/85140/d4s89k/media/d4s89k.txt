@@ -1,0 +1,37 @@
+NaDa
+lose
+the
+ALCOHOL 13% BY VOLUME
+PRODUCED AND BOTTLED BY
+SOUVERAIN CELLARS
+ST. HELENA. CALIFORNIA
+
+NaDa
+lose
+the
+ALCOHOL
+13%
+BY
+VOLUME
+PRODUCED
+AND
+BOTTLED
+BY
+SOUVERAIN
+CELLARS
+ST.
+HELENA.
+CALIFORNIA
+"Souverain\nsouverain\nnapa valley\nNapa Valley\nGrenache Rose\ngrenache rose\nGenachse Rose\ngrenache rose\nsouverain cellars\nSouverain Cellars\nst. helena, california\nSt. Helena, California"
+"souverain"
+"Souverain"
+"Napa Valley"
+"napa valley"
+"Grenache Rose"
+"grenache rose"
+"Genachse Rose"
+"grenache rose"
+"souverain cellars"
+"Souverain Cellars"
+"st. helena, california"
+"St. Helena, California"

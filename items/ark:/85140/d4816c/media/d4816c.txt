@@ -1,0 +1,16 @@
+Moscatel Superior
+(ESPANA)
+N 2 O
+
+Moscatel
+Superior
+(ESPANA)
+N
+2
+O
+"M. HIDALGO Y C IA\nM. Hidalgo y Cia.\nSanlúcar (ESPAÑA) Nº 20\nSANLUCAR (ESPANA) N°20\nMoscatel Superior"
+"M. HIDALGO Y C IA"
+"M. Hidalgo y Cia."
+"Sanlúcar (ESPAÑA) Nº 20"
+"SANLUCAR (ESPANA) N°20"
+"Moscatel Superior"

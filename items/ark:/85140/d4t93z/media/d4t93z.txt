@@ -1,0 +1,42 @@
+No. 509 P
+IP
+GRAN
+VINO
+COSECHA ANO 1956
+Tator nal
+RIESLING
+PRODUCTO CHILE NO
+
+No.
+509
+P
+IP
+GRAN
+VINO
+COSECHA
+ANO
+1956
+Tator
+nal
+RIESLING
+PRODUCTO
+CHILE
+NO
+"Chile (white)\nchile (white)\ngran vino\nGran Vino\nChilean Riesling\nchilean riesling\ncosecha ano 1936\nCosecha ano 1936\nIsmael Tocornal\nismael tocornal\nSantiago de Chile\nsantiago de chile\nVina San Jose\nvina san jose\nriesling producto chileno\nRiesling Producto Chileno\nuniverso"
+"chile (white)"
+"Chile (white)"
+"Gran Vino"
+"gran vino"
+"Chilean Riesling"
+"chilean riesling"
+"Cosecha ano 1936"
+"cosecha ano 1936"
+"ismael tocornal"
+"Ismael Tocornal"
+"santiago de chile"
+"Santiago de Chile"
+"vina san jose"
+"Vina San Jose"
+"riesling producto chileno"
+"Riesling Producto Chileno"
+"universo"

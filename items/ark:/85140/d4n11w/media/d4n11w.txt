@@ -1,0 +1,33 @@
+No CRU
+ROMERO
+Mise en Bouteille
+RAYMOND CLAUZEL
+au Chateau
+Propriétaire
+otherwaid Bordea
+
+No
+CRU
+ROMERO
+Mise
+en
+Bouteille
+RAYMOND
+CLAUZEL
+au
+Chateau
+Propriétaire
+otherwaid
+Bordea
+"1945\nAppellation Controlée\nChateau Beauregard\n1er Cru\nPomerol\nMise en Bouteille au Château\nRaymond Clauzel\nPropietaire\nProprietaire\nPrice\nImp. Wetterwald Bordeaux"
+"1945"
+"Appellation Controlée"
+"Chateau Beauregard"
+"1er Cru"
+"Pomerol"
+"Mise en Bouteille au Château"
+"Raymond Clauzel"
+"Propietaire"
+"Proprietaire"
+"Price"
+"Imp. Wetterwald Bordeaux"

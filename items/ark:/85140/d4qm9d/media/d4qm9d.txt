@@ -1,0 +1,32 @@
+ARCA REGISTRAD
+RIOJA FINO
+VINA DORANA
+EMPORTADORES
+R. E. NS 58
+HARO
+RoNA ALTA
+
+ARCA
+REGISTRAD
+RIOJA
+FINO
+VINA
+DORANA
+EMPORTADORES
+R.
+E.
+NS
+58
+HARO
+RoNA
+ALTA
+"RIOJA FINO\nRioja Fino\nVIÑA DORANA\nVina Dorana\nGomez Cruzado Exportadores R.E. No. 58\nMARCA REGISTRADA\nHaro (Rioja Alta)\nHARO (RIOJA ALTA)\nGrijelmo S.A. - Bilbao"
+"Rioja Fino"
+"RIOJA FINO"
+"VIÑA DORANA"
+"Vina Dorana"
+"Gomez Cruzado Exportadores R.E. No. 58"
+"MARCA REGISTRADA"
+"HARO (RIOJA ALTA)"
+"Haro (Rioja Alta)"
+"Grijelmo S.A. - Bilbao"

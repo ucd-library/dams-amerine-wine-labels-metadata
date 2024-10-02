@@ -1,0 +1,28 @@
+CHATEAU HAUT BRION
+1929
+PREMIER GRAND CRU CLASSE
+Cis en fouteill
+au Chateau
+es FRANCE
+
+CHATEAU
+HAUT
+BRION
+1929
+PREMIER
+GRAND
+CRU
+CLASSE
+Cis
+en
+fouteill
+au
+Chateau
+es
+FRANCE
+"chateau haut-brion\n1929\nPremier Grand Cru Classe, Mis en Bouteilles au Chateau\nPremier Grand Crus Classe Mis en Boutilles au Chateau\nAndre Gibert, Proprietaire a Pessac (Gironde) (France)"
+"chateau haut-brion"
+"1929"
+"Premier Grand Cru Classe, Mis en Bouteilles au Chateau"
+"Premier Grand Crus Classe Mis en Boutilles au Chateau"
+"Andre Gibert, Proprietaire a Pessac (Gironde) (France)"

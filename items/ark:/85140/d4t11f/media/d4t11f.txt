@@ -1,0 +1,24 @@
+1999
+MIS EN BOUTEILLES AU CHATEAU
+P. CHA
+AU. B
+
+1999
+MIS
+EN
+BOUTEILLES
+AU
+CHATEAU
+P.
+CHA
+AU.
+B
+"1st Grand Cru Sauternes\nасдасда\nChâteau d'Yquem\nасдада\n1929\nMis en bouteilles au château\nPoured into the chateau\nP. Chameau. B"
+"1st Grand Cru Sauternes"
+"Château d'Yquem"
+"асдасда"
+"асдада"
+"1929"
+"Poured into the chateau"
+"Mis en bouteilles au château"
+"P. Chameau. B"

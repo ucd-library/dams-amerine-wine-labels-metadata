@@ -1,0 +1,34 @@
+1926
+MAROUIS DE TERME
+GRAND VIN
+UIS DE
+ME DOC
+RAN
+
+1926
+MAROUIS
+DE
+TERME
+GRAND
+VIN
+UIS
+DE
+ME
+DOC
+RAN
+"1926\n4th cru Margaux (Medoc)\nMarquis de Terme\nGRAND VIN\nGrand Vin\nMargaux Cantenac Medoc\nMis en bouteille au chateau\nMarquis de Terme\nMARQUIS DE TERME\nMargaux Cantenac\nMARCAUX CANTENAC\nMedoc\nMEDOC\n(France)\nFrance"
+"1926"
+"4th cru Margaux (Medoc)"
+"Marquis de Terme"
+"GRAND VIN"
+"Grand Vin"
+"Margaux Cantenac Medoc"
+"Mis en bouteille au chateau"
+"MARQUIS DE TERME"
+"Marquis de Terme"
+"MARCAUX CANTENAC"
+"Margaux Cantenac"
+"Medoc"
+"MEDOC"
+"France"
+"(France)"

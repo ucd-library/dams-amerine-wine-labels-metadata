@@ -1,0 +1,35 @@
+M O S E L
+S A A R
+1953er
+8uDer Mr. 101
+R. U W E R
+BASTIAN
+
+M
+O
+S
+E
+L
+S
+A
+A
+R
+1953er
+8uDer
+Mr.
+101
+R.
+U
+W
+E
+R
+BASTIAN
+"Mosel-Saar-Ruwer\nMosel - Saar - Ruwer\n1953er\nZeltinger Schlossberg Auslese\nOriginal = Zlbfullung Edm. Almes - Ames\nOriginal/Ubfullung Edm. Umes/Umes\nFuder Nr. 101\nBastian"
+"Mosel - Saar - Ruwer"
+"Mosel-Saar-Ruwer"
+"1953er"
+"Zeltinger Schlossberg Auslese"
+"Original = Zlbfullung Edm. Almes - Ames"
+"Original/Ubfullung Edm. Umes/Umes"
+"Fuder Nr. 101"
+"Bastian"

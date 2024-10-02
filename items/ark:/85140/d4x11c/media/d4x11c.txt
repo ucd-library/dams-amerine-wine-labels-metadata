@@ -1,0 +1,22 @@
+CHATEAU HAUERTON
+1934
+GRAND VIN BLANC SEC
+
+CHATEAU
+HAUERTON
+1934
+GRAND
+VIN
+BLANC
+SEC
+"CHATEAU HAUT-BRION\nHaut Brion Dinner for C. R. Ganter at Home Jan. 9, 1941 AA\nHaut-Brion Dinner for C.R. Ganter at Home Jan. 9, 1941 AA\n1934\nGRAND VIN BLANC SEC\n4503\nMise en bouteilles au Château\nMis en bouteilles au Château\nAndré Gilbert, Propriétaire à Pessac Girondeau (FRANCE)\nAndré Gilbert, Prop...taire à Pessac Girondant (FRANCE)"
+"CHATEAU HAUT-BRION"
+"Haut Brion Dinner for C. R. Ganter at Home Jan. 9, 1941 AA"
+"Haut-Brion Dinner for C.R. Ganter at Home Jan. 9, 1941 AA"
+"1934"
+"GRAND VIN BLANC SEC"
+"4503"
+"Mise en bouteilles au Château"
+"Mis en bouteilles au Château"
+"André Gilbert, Propriétaire à Pessac Girondeau (FRANCE)"
+"André Gilbert, Prop...taire à Pessac Girondant (FRANCE)"

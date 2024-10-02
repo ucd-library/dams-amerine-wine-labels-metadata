@@ -1,0 +1,45 @@
+REGISTRO DE
+Ne ELLADORE
+MARCA
+CONCEDIDA.
+SOCIEDAD DE CoSE CHER OS DE VINO
+FUNDADA EN 890
+RIOJA CLARETE
+EMBOTELLADO En SU 6e Ano
+
+REGISTRO
+DE
+Ne
+ELLADORE
+MARCA
+CONCEDIDA.
+SOCIEDAD
+DE
+CoSE
+CHER
+OS
+DE
+VINO
+FUNDADA
+EN
+890
+RIOJA
+CLARETE
+EMBOTELLADO
+En
+SU
+6e
+Ano
+"Rio Oja\nMarca Concedida\nLa Rioja Alta\n\n\nSociedad de Cosecheros de Vino Fundada en 1890\nFlaro\n\n\nRioja Clarete Embotellado en nuestras Bodegas de\n\nEmbotellado en su 6. Año"
+"Rio Oja"
+"Marca Concedida"
+"La Rioja Alta"
+""
+""
+"Sociedad de Cosecheros de Vino Fundada en 1890"
+""
+"Flaro"
+""
+"Rioja Clarete Embotellado en nuestras Bodegas de"
+""
+"Embotellado en su 6. Año"

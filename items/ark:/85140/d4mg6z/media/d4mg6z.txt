@@ -1,0 +1,29 @@
+STRAVECCHIO
+FIRENZE (ITALIA)
+NOBIL CASA CONTIN I-BONACOSSI
+STAB A GAM BI-FIRENZE
+
+STRAVECCHIO
+FIRENZE
+(ITALIA)
+NOBIL
+CASA
+CONTIN
+I-BONACOSSI
+STAB
+A
+GAM
+BI-FIRENZE
+"Red\nNed\nCrest with shield\n\"STRAVECCHIO\"\n\"Stravecchio\"\nChianti Capezzana Carmignano.\nChianti Capezzana Carmignano\nFIRENZE (ITALIA)\nNOBIL CASA CONTINI-BONACOSSI\nMOD. 110 A\nSTAB. A. GAMBI-FIRENZE\nSTAB A GAMBI-FIRENZE"
+"Red"
+"Ned"
+"Crest with shield"
+"\"Stravecchio\""
+"\"STRAVECCHIO\""
+"Chianti Capezzana Carmignano."
+"Chianti Capezzana Carmignano"
+"FIRENZE (ITALIA)"
+"NOBIL CASA CONTINI-BONACOSSI"
+"MOD. 110 A"
+"STAB. A. GAMBI-FIRENZE"
+"STAB A GAMBI-FIRENZE"

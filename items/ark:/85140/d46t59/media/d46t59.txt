@@ -1,0 +1,49 @@
+Bobadilla y Ga
+(ESPANA)
+VICTORIA
+MACHARNUDO
+BODEGA S DE
+MANUEL FERNANDEZ Y CIA.. s. L.
+JE REZ
+224
+Lit.
+terez industs al
+
+Bobadilla
+y
+Ga
+(ESPANA)
+VICTORIA
+MACHARNUDO
+BODEGA
+S
+DE
+MANUEL
+FERNANDEZ
+Y
+CIA..
+s.
+L.
+JE
+REZ
+224
+Lit.
+terez
+industs
+al
+"Bobadilla y Cia.\nbobadilla y cia.\nJerez (España)\nJerez (ESPAÑA)\nAMONTILLADO FINO\nAmontillado Fino\namontillado fino victoria\nAmontillado Fino Victoria\nMacharnudo\nmacharnudo\nbodegas de manuel fernandez y cia. s. l. jerez\nBodegas de Manuel Fernandez y Cia..S.L. Jerez\n224\nLit. Jerez Industrial\nlit. jerez industrial"
+"Bobadilla y Cia."
+"bobadilla y cia."
+"Jerez (ESPAÑA)"
+"Jerez (España)"
+"Amontillado Fino"
+"AMONTILLADO FINO"
+"amontillado fino victoria"
+"Amontillado Fino Victoria"
+"macharnudo"
+"Macharnudo"
+"Bodegas de Manuel Fernandez y Cia..S.L. Jerez"
+"bodegas de manuel fernandez y cia. s. l. jerez"
+"224"
+"lit. jerez industrial"
+"Lit. Jerez Industrial"

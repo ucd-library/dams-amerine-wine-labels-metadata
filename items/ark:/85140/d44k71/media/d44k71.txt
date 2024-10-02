@@ -1,0 +1,19 @@
+AUBERGE de La
+COLOMBE d'OR
+AST PAM L
+
+AUBERGE
+de
+La
+COLOMBE
+d'OR
+AST
+PAM
+L
+"Auberge de la Colombe d'Or\nauberge de la colombe d or\nst pavl\nSt Paul\nclos du pere francois\nClos de pere Francois"
+"auberge de la colombe d or"
+"Auberge de la Colombe d'Or"
+"st pavl"
+"St Paul"
+"clos du pere francois"
+"Clos de pere Francois"

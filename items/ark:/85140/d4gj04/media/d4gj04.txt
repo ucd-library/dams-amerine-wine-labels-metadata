@@ -1,0 +1,24 @@
+H.HIDALGOYce
+3ANLUCA1g I
+JEREZ SOLERA
+(ESPANA) N020
+
+H.HIDALGOYce
+3ANLUCA1g
+I
+JEREZ
+SOLERA
+(
+ESPANA
+)
+N020
+"M. Hidalgo y Cia.\nSanlúcar\nSanlucar\nJerez Solera\nJEREZ SOLERA\n(espana)\n(ESPAÑA)\nNº 20\nNo. 20"
+"M. Hidalgo y Cia."
+"Sanlucar"
+"Sanlúcar"
+"JEREZ SOLERA"
+"Jerez Solera"
+"(espana)"
+"(ESPAÑA)"
+"Nº 20"
+"No. 20"

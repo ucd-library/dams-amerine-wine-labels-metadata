@@ -1,0 +1,46 @@
+16, 741
+tage 1729
+Bottled
+Alcohol
+June
+by volume
+1734
+1933
+ROUILLY
+Contents
+PRObUCE OF FRANCE
+1 Pint 8 fluid outrces
+
+16,
+741
+tage
+1729
+Bottled
+Alcohol
+June
+by
+volume
+1734
+1933
+ROUILLY
+Contents
+PRObUCE
+OF
+FRANCE
+1
+Pint
+8
+fluid
+outrces
+"Vintage 1929\nBottled : June 1933\nAlcohol by volume 12.4%\nAlcohol by volume 12,4%\nSterling Carr's / Lunch / French Club / Jan. 16, 1941 / B\nPOUILLY\nNath'l Johnston & Fils\nNathl. Johnstone & Fils\nContents ... 1 Pint 8 fluid ounces\nContents 1 Pint 8 fluid ounces\nPRODUCE OF FRANCE"
+"Vintage 1929"
+"Bottled : June 1933"
+"Alcohol by volume 12,4%"
+"Alcohol by volume 12.4%"
+"Sterling Carr's / Lunch / French Club / Jan. 16, 1941 / B"
+"POUILLY"
+"Nathl. Johnstone & Fils"
+"Nath'l Johnston & Fils"
+"Contents ... 1 Pint 8 fluid ounces"
+"Contents 1 Pint 8 fluid ounces"
+"PRODUCE OF FRANCE"

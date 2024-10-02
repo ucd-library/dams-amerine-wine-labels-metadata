@@ -1,0 +1,40 @@
+3
+1929
+CHATEAU PONTET-CANET
+PAU ILL LAC
+APPELLATION PAUILLAC OONTROLEE
+BORDEAUX
+
+3
+1929
+CHATEAU
+PONTET-CANET
+PAU
+ILL
+LAC
+APPELLATION
+PAUILLAC
+OONTROLEE
+BORDEAUX
+"Dinner Harold Price's Palace Hotel 11//5/53 A-\nPresent: Price, Kndsen, Flannery, Blumen, Weill, Wente, Houve, Esquire, Selleck, Blanquie, CEH\nUng Roy Ung Foy Ung Loy\nRoy ung Foy Ung Foy\nVirtus Probata Florescet\nVirtus Protata Florescet\n1929\nChateau Pontet-Canet\nCHATEAU PONTET-CANET\nPauillac\nPAUILLAC\nAppellation PAUILLAC Controlee\nAPPELLATION PAUILLAC CONTROLEE\nde Germon Desbarats & Co\nde Gernon Desbarats & Co.\nBORDEAUX\nBordeaux\ndepose\ndéposé\n\nS CHARIOL BORDEAUX"
+"Dinner Harold Price's Palace Hotel 11//5/53 A-"
+"Present: Price, Kndsen, Flannery, Blumen, Weill, Wente, Houve, Esquire, Selleck, Blanquie, CEH"
+"Ung Roy Ung Foy Ung Loy"
+"Roy ung Foy Ung Foy"
+"Virtus Probata Florescet"
+"Virtus Protata Florescet"
+"1929"
+"CHATEAU PONTET-CANET"
+"Chateau Pontet-Canet"
+"PAUILLAC"
+"Pauillac"
+"Appellation PAUILLAC Controlee"
+"APPELLATION PAUILLAC CONTROLEE"
+"de Germon Desbarats & Co"
+"de Gernon Desbarats & Co."
+"Bordeaux"
+"BORDEAUX"
+"depose"
+"déposé"
+""
+"S CHARIOL BORDEAUX"

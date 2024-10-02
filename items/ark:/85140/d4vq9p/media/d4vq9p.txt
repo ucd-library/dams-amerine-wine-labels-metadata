@@ -1,0 +1,29 @@
+REGISTRADA
+MARCA
+BODEGAS
+ELMONTECILLO, SA.
+R. E. 127
+COSECHERO
+LOGRON O
+
+REGISTRADA
+MARCA
+BODEGAS
+ELMONTECILLO,
+SA.
+R.
+E.
+127
+COSECHERO
+LOGRON
+O
+"Marca Registrada\nRioja\nBodegas\nEL MONTECILLO, S.A.\nEl Montecillo, S.A.\nR.E.127\nR.E. 127\nAlejandro Navajas, Cosechero\nFuenmayor (Logrono)"
+"Marca Registrada"
+"Rioja"
+"Bodegas"
+"El Montecillo, S.A."
+"EL MONTECILLO, S.A."
+"R.E. 127"
+"R.E.127"
+"Alejandro Navajas, Cosechero"
+"Fuenmayor (Logrono)"

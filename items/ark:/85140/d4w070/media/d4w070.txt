@@ -1,0 +1,50 @@
+186
+SKA.
+BRut
+80
+LONaON 86
+ST. LOUIS 19 EAPIs 19cc
+SCHUTZ
+ARKE
+1949er
+QBalporgheimer Domlan
+ber Opateje
+Original flillung
+R
+AHRWEILER
+
+186
+SKA.
+BRut
+80
+LONaON
+86
+ST.
+LOUIS
+19
+EAPIs
+19cc
+SCHUTZ
+ARKE
+1949er
+QBalporgheimer
+Domlan
+ber
+Opateje
+Original
+flillung
+R
+AHRWEILER
+"\nRHEIN P 1882 PARIS 1867 MOSKAU 1873 LISSABON 1873 SCHUTZ-MARKE BRUSSEL 1886 LONDON 1862 ST. LOUIS 19** PARIS 1900\nrhienb 1862 paris 1867 mmoskau 1836 ussabon 1873 schutz-marke brussel 1886 st. louis 19 -- paris 1900\nUhr\nuhr\n1949er\nwalporzheimer dolman spatburgander spatlefe\nWalporzheimer Domlan Spatzburunder - Spatlete\nOriginal Wufullung\noriginal wolfullung\nalbert krtuzber---- seit 1833 der ---- weingut u wein grouss--- ahrweiler reisling\nALBERT KREUZBER"
+""
+"rhienb 1862 paris 1867 mmoskau 1836 ussabon 1873 schutz-marke brussel 1886 st. louis 19 -- paris 1900"
+"RHEIN P 1882 PARIS 1867 MOSKAU 1873 LISSABON 1873 SCHUTZ-MARKE BRUSSEL 1886 LONDON 1862 ST. LOUIS 19** PARIS 1900"
+"Uhr"
+"uhr"
+"1949er"
+"Walporzheimer Domlan Spatzburunder - Spatlete"
+"walporzheimer dolman spatburgander spatlefe"
+"Original Wufullung"
+"original wolfullung"
+"albert krtuzber---- seit 1833 der ---- weingut u wein grouss--- ahrweiler reisling"
+"ALBERT KREUZBER"

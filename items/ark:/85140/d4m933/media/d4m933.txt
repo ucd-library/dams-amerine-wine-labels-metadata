@@ -1,0 +1,32 @@
+MANZANILLA
+OLORO SA
+a ARGUESO
+SENORITA
+MANUEL DE ARGUESo
+SANLUCAR DE BARRAMEDA
+Embotellador num. 34.
+
+MANZANILLA
+OLORO
+SA
+a
+ARGUESO
+SENORITA
+MANUEL
+DE
+ARGUESo
+SANLUCAR
+DE
+BARRAMEDA
+Embotellador
+num.
+34.
+"MANZANILLA OLOROSA\nARGÜESO\nSENORITA\nSEÑORITA\nManuel de Argueso\nSanlucar de Barrameda\nEmbotellador num. 34.\nPhleger"
+"MANZANILLA OLOROSA"
+"ARGÜESO"
+"SENORITA"
+"SEÑORITA"
+"Manuel de Argueso"
+"Sanlucar de Barrameda"
+"Embotellador num. 34."
+"Phleger"

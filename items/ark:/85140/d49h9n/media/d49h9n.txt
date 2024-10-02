@@ -1,0 +1,38 @@
+REG, EHB N910
+ODE GAS
+VIN A POM ASL
+BILBAO HARO
+TELLA po EN LA BoDE GA
+COS E CHA 1921
+
+REG,
+EHB
+N910
+ODE
+GAS
+VIN
+A
+POM
+ASL
+BILBAO
+HARO
+TELLA
+po
+EN
+LA
+BoDE
+GA
+COS
+E
+CHA
+1921
+"vina pomal\nViña Pomal\nbodegas bilbainas\nBodegas Bilbainas\nbilbao-haro\nBilbao - Haro\nbilbao-haro\ncosecha 1921\nCosecha 1921"
+"Viña Pomal"
+"vina pomal"
+"Bodegas Bilbainas"
+"bodegas bilbainas"
+"bilbao-haro"
+"Bilbao - Haro"
+"bilbao-haro"
+"cosecha 1921"
+"Cosecha 1921"

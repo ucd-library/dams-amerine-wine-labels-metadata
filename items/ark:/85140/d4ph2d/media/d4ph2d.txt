@@ -1,0 +1,28 @@
+Ayo B.
+ANLVCAR B
+D A
+DULCE SELECTO
+LIT J. M. BARROSO.- JERE2.
+
+Ayo
+B.
+ANLVCAR
+B
+D
+A
+DULCE
+SELECTO
+LIT
+J.
+M.
+BARROSO.-
+JERE2.
+"hijo de Pedro Romero Villarreal\nHijo De Pedro Romero Villarreal\nsanlucar de Bda\nSanlucar D BDA\ndulce selecto\nDulce Selecto\nLit. J.M. Barroso.- Jerez.\nlit. j.m. barroso. - jerez."
+"hijo de Pedro Romero Villarreal"
+"Hijo De Pedro Romero Villarreal"
+"sanlucar de Bda"
+"Sanlucar D BDA"
+"Dulce Selecto"
+"dulce selecto"
+"lit. j.m. barroso. - jerez."
+"Lit. J.M. Barroso.- Jerez."

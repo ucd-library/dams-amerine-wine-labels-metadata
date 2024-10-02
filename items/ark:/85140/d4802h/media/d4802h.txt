@@ -1,0 +1,48 @@
+Grand C i u Ci as s
+A BAR TO E
+1943
+APPELLATION HAUT MEDO
+ONTR
+EE
+hate au
+Mis en boi
+
+Grand
+C
+i
+u
+Ci
+as
+s
+A
+BAR
+TO
+E
+1943
+APPELLATION
+HAUT
+MEDO
+ONTR
+EE
+hate
+au
+Mis
+en
+boi
+"Dinner Ile de France 7/30/50 A\nDinner Ile de France 7/30/50 A\nPresent: ELH, CEH\nChateau Giscours\nChâteau Giscours\nGrand Cru Classé\nGrand Cru Classe\nLabard E\nLabarde\n1943\nAppellation Haut-Medoc Controlee\nAPPELLATION HAUT-MÉDOC CONTROLÉE\nMis en bouteille au chateau\nMis en bouteille en chateau\nIMP. VETTERWALD - BORDEAUX\n"
+"Dinner Ile de France 7/30/50 A"
+"Dinner Ile de France 7/30/50 A"
+"Present: ELH, CEH"
+"Château Giscours"
+"Chateau Giscours"
+"Grand Cru Classe"
+"Grand Cru Classé"
+"Labarde"
+"Labard E"
+"1943"
+"Appellation Haut-Medoc Controlee"
+"APPELLATION HAUT-MÉDOC CONTROLÉE"
+"Mis en bouteille au chateau"
+"Mis en bouteille en chateau"
+"IMP. VETTERWALD - BORDEAUX"
+""

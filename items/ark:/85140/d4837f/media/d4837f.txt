@@ -1,0 +1,52 @@
+GRAND VIN
+DE
+CHATEAU LATOUR
+1945
+MARQUE
+DE Pos EE
+MIS EN BOUT EILLES
+AU CHATEAU
+APPELLATION PAUILLAC co NTRO LEE
+
+GRAND
+VIN
+DE
+CHATEAU
+LATOUR
+1945
+MARQUE
+DE
+Pos
+EE
+MIS
+EN
+BOUT
+EILLES
+AU
+CHATEAU
+APPELLATION
+PAUILLAC
+co
+NTRO
+LEE
+"Dinner Harold Price Palace Hotel 11/5/53 13-\nDinner;\nTurret with lion on top.\ngrand vin de chateau latour\nGRAND VIN DE CHATEAU LATOUR\n1945\nS. CHARIOL BORDEAUX\no. chariol. bordeaux\n\nMarque Deposee\nMARQUE DÉPOSÉE\nmarque deposee\nMis en Bouteilles au Chateau\nMis en bouteilles au chateau\nmis en bouteilles au chateau\nMIS EN BOUTEILLES AU CHATEAU\nAppellation pauillac controlée\nAppellation PAUILLAC Controlee\nAPPELATION PAUILLAC CONTROLLEÉE\nappellation pauillac controlee"
+"Dinner Harold Price Palace Hotel 11/5/53 13-"
+"Dinner;"
+"Turret with lion on top."
+"grand vin de chateau latour"
+"GRAND VIN DE CHATEAU LATOUR"
+"1945"
+""
+"S. CHARIOL BORDEAUX"
+"o. chariol. bordeaux"
+"marque deposee"
+"MARQUE DÉPOSÉE"
+"Marque Deposee"
+"mis en bouteilles au chateau"
+"MIS EN BOUTEILLES AU CHATEAU"
+"Mis en Bouteilles au Chateau"
+"Mis en bouteilles au chateau"
+"appellation pauillac controlee"
+"APPELATION PAUILLAC CONTROLLEÉE"
+"Appellation pauillac controlée"
+"Appellation PAUILLAC Controlee"

@@ -1,0 +1,33 @@
+PRODUCE OF FRANCE
+MARQUE COMMERCIALE DEPOSEE
+BORDEAUX
+ALCOHOL BY VOLUME IO
+CONTENTS IPT8 FLOZS
+
+PRODUCE
+OF
+FRANCE
+MARQUE
+COMMERCIALE
+DEPOSEE
+BORDEAUX
+ALCOHOL
+BY
+VOLUME
+IO
+CONTENTS
+IPT8
+FLOZS
+"Produce of France\nPRODUCE OF FRANCE\nLaTour Marceau\nLa Cour Marceau\nMarque Commerciale Déposée\nMARQUE COMMERCIALE DEPOSEE\nMin Marceau\nMin,, Marceau\nBordeaux\nBORDEAUX\nCONTENTS 1 PT. 8 FL.OZS._ ALCOHOL BY VOLUME 10 1/2 %\nContents 1 Pt. 8 FL. OZS. Alcohol by Volume 10.5%"
+"Produce of France"
+"PRODUCE OF FRANCE"
+"LaTour Marceau"
+"La Cour Marceau"
+"Marque Commerciale Déposée"
+"MARQUE COMMERCIALE DEPOSEE"
+"Min,, Marceau"
+"Min Marceau"
+"BORDEAUX"
+"Bordeaux"
+"CONTENTS 1 PT. 8 FL.OZS._ ALCOHOL BY VOLUME 10 1/2 %"
+"Contents 1 Pt. 8 FL. OZS. Alcohol by Volume 10.5%"

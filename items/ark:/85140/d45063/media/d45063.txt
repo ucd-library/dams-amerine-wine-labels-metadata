@@ -1,0 +1,36 @@
+Original
+1934 Schlob Bochelbeimer
+Seifenberg
+(Riesling Auslere
+Weingut August Anheuser, Bad Kreuznach
+GESETZL. GESCHUTZT.
+
+Original
+1934
+Schlob
+Bochelbeimer
+Seifenberg
+(Riesling
+Auslere
+Weingut
+August
+Anheuser,
+Bad
+Kreuznach
+GESETZL.
+GESCHUTZT.
+"\nheraldic arms\n4\nOriginal\nUbfüllung\n\nRiesling Auslese\nRiesling Auslefe\nWeingut August Anheuser, Bad-Kreuznach.\nWeingut August Anheuser, Bad - Kreuznach\nGesetzl, Geschützt.\nGESETAL. GESCHÜTZT.\nM A A\nMAA"
+""
+"heraldic arms"
+"4"
+"Original"
+"Ubfüllung"
+""
+"Riesling Auslefe"
+"Riesling Auslese"
+"Weingut August Anheuser, Bad - Kreuznach"
+"Weingut August Anheuser, Bad-Kreuznach."
+"Gesetzl, Geschützt."
+"GESETAL. GESCHÜTZT."
+"MAA"
+"M A A"

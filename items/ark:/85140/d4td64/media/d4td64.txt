@@ -1,0 +1,18 @@
+MARK
+TRADE
+Appellation Control e
+
+MARK
+TRADE
+Appellation
+Control
+e
+"mark\nMARK\nTRADE\ntrade\nChambertin Apellation Contrôlée\nchambertin appellation controlee\nG. Corcol negociant a beaune, cote d'Or\nG. Corcol, Négociant á Beaune (Côte d'Or)"
+"MARK"
+"mark"
+"trade"
+"TRADE"
+"chambertin appellation controlee"
+"Chambertin Apellation Contrôlée"
+"G. Corcol, Négociant á Beaune (Côte d'Or)"
+"G. Corcol negociant a beaune, cote d'Or"

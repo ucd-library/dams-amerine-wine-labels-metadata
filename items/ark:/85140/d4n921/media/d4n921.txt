@@ -1,0 +1,45 @@
+Fine old
+oder mit jedem be ebigen Eindrudk
+Eindrudkkofte gefondert!
+Etikett Nr. M J. 744 L
+I i e fi r ti:
+ario Carini, Luftenau .VIbg./ofterr.
+M.C
+744 L
+
+Fine
+old
+oder
+mit
+jedem
+be
+ebigen
+Eindrudk
+Eindrudkkofte
+gefondert!
+Etikett
+Nr.
+M
+J.
+744
+L
+I
+i
+e
+fi
+r
+ti:
+ario
+Carini,
+Luftenau
+.VIbg./ofterr.
+M.C
+744
+L
+"Fine old\nMalaga\noder jedem benebigen Eindruck. Eindruck gefondert! Etikett Nr. M.C.J. 744 L. lie fart:\noder mit jedem benebigen Eindruck Eindruckkoften gefondert! Etikett Nr. M.C.J. 744 L. liefart:\nMaria Carini, Lustenau Vlbg/Osterr.\nMario Carini, Lustenau - Vlbg./Osterr."
+"Fine old"
+"Malaga"
+"oder mit jedem benebigen Eindruck Eindruckkoften gefondert! Etikett Nr. M.C.J. 744 L. liefart:"
+"oder jedem benebigen Eindruck. Eindruck gefondert! Etikett Nr. M.C.J. 744 L. lie fart:"
+"Maria Carini, Lustenau Vlbg/Osterr."
+"Mario Carini, Lustenau - Vlbg./Osterr."

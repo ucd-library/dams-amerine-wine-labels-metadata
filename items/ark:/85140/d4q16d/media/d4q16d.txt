@@ -1,0 +1,46 @@
+EDERRA
+SELECTO DE MESA
+EMBOTELLADO EN SU 2. ARO NARO BILBAO
+REG. EMB. Ne 10
+ELABORACION DE
+Bodegas
+GBullainao
+
+EDERRA
+SELECTO
+DE
+MESA
+EMBOTELLADO
+EN
+SU
+2.
+ARO
+NARO
+BILBAO
+REG.
+EMB.
+Ne
+10
+ELABORACION
+DE
+Bodegas
+GBullainao
+"Ederra\nEderra\nederra\nRioja\nrioja\nselecto de mesa\nSelecto de Mesa\nharo-bilbao\nemotellado en su 2nd ano\nEmbotellado en su 2 ano\nEmbotellado en Su 2 ano\n\nReg. Emb. No. 10\nR.G. Lerchundl, B.A.-Bilbao\nELABORACION DE\nelaboracion de\nbodegas bilbainas\nBodegas Bilbainas"
+"Ederra"
+"Ederra"
+"ederra"
+"rioja"
+"Rioja"
+"Selecto de Mesa"
+"selecto de mesa"
+"haro-bilbao"
+"emotellado en su 2nd ano"
+"Embotellado en su 2 ano"
+"Embotellado en Su 2 ano"
+"Reg. Emb. No. 10"
+""
+"R.G. Lerchundl, B.A.-Bilbao"
+"elaboracion de"
+"ELABORACION DE"
+"bodegas bilbainas"
+"Bodegas Bilbainas"

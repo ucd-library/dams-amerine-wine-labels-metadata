@@ -1,0 +1,54 @@
+UTO DE POR
+ACA S
+FAIS CA
+VINHO BRANCO
+VIN BLANC
+FUNDADA EM1834
+e AZEITA0 .SETUBAL. PORTUGAL
+c. DEVE SERVIR-SE
+98
+92
+646
+CONTENANCE
+
+UTO
+DE
+POR
+ACA
+S
+FAIS
+CA
+VINHO
+BRANCO
+VIN
+BLANC
+FUNDADA
+EM1834
+e
+AZEITA0
+.SETUBAL.
+PORTUGAL
+c.
+DEVE
+SERVIR-SE
+98
+92
+646
+CONTENANCE
+"Produto de Portugal\nProdutu de Portugal\nFaisca\nFAÍSCA\nVINHO BRANCO\nVinho Branco\nVin Blanc\nVIN BLANC\nJose Maria da Fonseca, Tuccs.\nJose Maria da Fonseca, Succs.\nZfu\nFundada em 1834\nAzeitao Setubal Portugal\nAzeitao . Setubal . Portugal\nDeve Servir Se Frio R.C. BR. 197.646 - Contenance 98/100 CL.\ndeve servir-se frio R.C. B R. 197.646 - Contenance 98/100 CL."
+"Produto de Portugal"
+"Produtu de Portugal"
+"FAÍSCA"
+"Faisca"
+"Vinho Branco"
+"VINHO BRANCO"
+"VIN BLANC"
+"Vin Blanc"
+"Jose Maria da Fonseca, Tuccs."
+"Jose Maria da Fonseca, Succs."
+"Zfu"
+"Fundada em 1834"
+"Azeitao . Setubal . Portugal"
+"Azeitao Setubal Portugal"
+"deve servir-se frio R.C. B R. 197.646 - Contenance 98/100 CL."
+"Deve Servir Se Frio R.C. BR. 197.646 - Contenance 98/100 CL."

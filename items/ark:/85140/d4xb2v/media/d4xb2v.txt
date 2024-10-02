@@ -1,0 +1,46 @@
+GAS Roe
+REGI ST.
+MARC A
+Bob
+AS
+Ro -RA
+VINA ALBIN A
+VIEJA RESERVA
+EMBOTELLADOR
+Embotellado en nuestras
+CEDICERO (RIOUA)
+12 3
+Bodegas de Cenicero
+
+GAS
+Roe
+REGI
+ST.
+MARC
+A
+Bob
+AS
+Ro
+-RA
+VINA
+ALBIN
+A
+VIEJA
+RESERVA
+EMBOTELLADOR
+Embotellado
+en
+nuestras
+CEDICERO
+(RIOUA)
+12
+3
+Bodegas
+de
+Cenicero
+"bodegas riojadas cedicero-rioja\nregist.\nmarca\nriojadas rioja bodegas cenicer\nbodegas rojadas rioja cedicero"
+"bodegas riojadas cedicero-rioja"
+"regist."
+"marca"
+"riojadas rioja bodegas cenicer"
+"bodegas rojadas rioja cedicero"

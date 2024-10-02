@@ -1,0 +1,48 @@
+VIN DE BOURGOGNE PRODUCE OF FRN
+POMMARD EPENOTS
+1959
+ESTATE
+BOTTLED
+Mise en Bouteilles au Domaine
+A. LOUBET, Pro
+Chateau
+des Citeaux
+MEURSAULT
+APPELLATION DORIGINE CONTROLEE
+
+VIN
+DE
+BOURGOGNE
+PRODUCE
+OF
+FRN
+POMMARD
+EPENOTS
+1959
+ESTATE
+BOTTLED
+Mise
+en
+Bouteilles
+au
+Domaine
+A.
+LOUBET,
+Pro
+Chateau
+des
+Citeaux
+MEURSAULT
+APPELLATION
+DORIGINE
+CONTROLEE
+"Vin de Bourgogne - Produce of France\nPommard Epenots\n1959\nEstate bottled\nestate bottled\nMise en Bouteilles au Domaine\nA. Loubet, Propre, Chateau des Citeaux a Meursault\nA. Loubet, Prop(re), Chateau des Citreaux a Meursault\nappellation d'origine controlee"
+"Vin de Bourgogne - Produce of France"
+"Pommard Epenots"
+"1959"
+"estate bottled"
+"Estate bottled"
+"Mise en Bouteilles au Domaine"
+"A. Loubet, Prop(re), Chateau des Citreaux a Meursault"
+"A. Loubet, Propre, Chateau des Citeaux a Meursault"
+"appellation d'origine controlee"

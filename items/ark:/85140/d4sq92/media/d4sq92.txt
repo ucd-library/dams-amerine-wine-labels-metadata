@@ -1,0 +1,85 @@
+MARCA
+REC,
+STRADA
+COSECHA 1942
+GIS
+HARO-BILBAo
+ELLA
+1885 AMBERES MEDALLA PLATA 1894- A M BERES. GRAND PRIX
+19 OO PAR
+S GRAND PRIX
+1889-BARCELONA-ME DALLA ORO
+19O8-ZARAGOZA GRAN PREMIO
+1930-BARCELONA-GRAN PREMIO
+1889 PARIS MED ALL A O R o
+1889 LONDON DIPLOMA DE MERITO EXTRAORDINARIO-193O-SEVILLA-GRAN PREMIO
+BORDEAUX 1895 (HORS CONcouRS) MEMBRE DU JURY
+
+MARCA
+REC,
+STRADA
+COSECHA
+1942
+GIS
+HARO-BILBAo
+ELLA
+1885
+AMBERES
+MEDALLA
+PLATA
+1894-
+A
+M
+BERES.
+GRAND
+PRIX
+19
+OO
+PAR
+S
+GRAND
+PRIX
+1889-BARCELONA-ME
+DALLA
+ORO
+19O8-ZARAGOZA
+GRAN
+PREMIO
+1930-BARCELONA-GRAN
+PREMIO
+1889
+PARIS
+MED
+ALL
+A
+O
+R
+o
+1889
+LONDON
+DIPLOMA
+DE
+MERITO
+EXTRAORDINARIO-193O-SEVILLA-GRAN
+PREMIO
+BORDEAUX
+1895
+(HORS
+CONcouRS)
+MEMBRE
+DU
+JURY
+"Cune\nFundada en 1879\nMarca Registrada\nRioja Clarete\nCoescha 1942\nCosecha 1942\nCompania Vinicola del Norte de Espana\nCompania Vinicola del Noste de Espana\nRegistro No44 Emobotelladores\nRegistro Embotelladores No. 44\nHaro-Bilbao\n1885 Amberes Medalla Plata, 1894 Amberes Grand Prix, 1889 Barcelona Medalla oro, 1900 Paris Grand Prix, 1889 Paris Medalla oror, 1908 Zaragoza Gran Premio, 1930 Barcelona Gran Premio, 1889 London Dip;oma de Merito Extraordinario, 1930 Sevilla Gran Premio, Bordeaux 1895 (Hors Concours) Membre du Jury\n1885-Amberes-Medalla Plata-1894-Amberes-Grand Prix 1889-Barcelona-Medalla Oro 1900-Paris-Grand Prix 1889-Paris-Medalla Oro 1908-Zaragoza-Gran Premio 1930-Barcelona-Gran Premio 1889-London-Diploma de Merito Extraordinario-1930-Sevilla-Gran Premio Bordeaux 1895 (Hors Concours) Membre Du Jury"
+"Cune"
+"Fundada en 1879"
+"Marca Registrada"
+"Rioja Clarete"
+"Coescha 1942"
+"Cosecha 1942"
+"Compania Vinicola del Noste de Espana"
+"Compania Vinicola del Norte de Espana"
+"Registro Embotelladores No. 44"
+"Registro No44 Emobotelladores"
+"Haro-Bilbao"
+"1885-Amberes-Medalla Plata-1894-Amberes-Grand Prix 1889-Barcelona-Medalla Oro 1900-Paris-Grand Prix 1889-Paris-Medalla Oro 1908-Zaragoza-Gran Premio 1930-Barcelona-Gran Premio 1889-London-Diploma de Merito Extraordinario-1930-Sevilla-Gran Premio Bordeaux 1895 (Hors Concours) Membre Du Jury"
+"1885 Amberes Medalla Plata, 1894 Amberes Grand Prix, 1889 Barcelona Medalla oro, 1900 Paris Grand Prix, 1889 Paris Medalla oror, 1908 Zaragoza Gran Premio, 1930 Barcelona Gran Premio, 1889 London Dip;oma de Merito Extraordinario, 1930 Sevilla Gran Premio, Bordeaux 1895 (Hors Concours) Membre du Jury"

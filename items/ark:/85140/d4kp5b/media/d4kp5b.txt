@@ -1,0 +1,34 @@
+RHEINGAU
+16 27
+ANNO
+1959 et
+NATURGEWACHS UND ORIGINAL ABFULLUNG
+Tyco sobert
+KRUGMANN
+
+RHEINGAU
+16
+27
+ANNO
+1959
+et
+NATURGEWACHS
+UND
+ORIGINAL
+ABFULLUNG
+Tyco
+sobert
+KRUGMANN
+"Rheingau\nANNO 1627\n1952 er Geifenheimer Klauferweg Riesling\n1952er\n \nnaturgewachs und original-abfullung\nNaturgewachs und Original Abfullung\nTheo Soherr Weingut Rebhof Reifenheim\nTheo Soherr . Weingut Rebhof . Geifenheim Rhg.\nKrugmann\nKRUGMANN\nR. 1724"
+"Rheingau"
+"ANNO 1627"
+"1952 er Geifenheimer Klauferweg Riesling"
+"1952er"
+" "
+"naturgewachs und original-abfullung"
+"Naturgewachs und Original Abfullung"
+"Theo Soherr . Weingut Rebhof . Geifenheim Rhg."
+"Theo Soherr Weingut Rebhof Reifenheim"
+"KRUGMANN"
+"Krugmann"
+"R. 1724"

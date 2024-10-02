@@ -1,0 +1,14 @@
+N920
+M. HIDALGO Y CIA
+
+N920
+M.
+HIDALGO
+Y
+CIA
+"fino hidalgo\nM. Hidalgo Y Cia.\nM. Hidalgo y Cia.\nSanlucar\nNo. 20"
+"fino hidalgo"
+"M. Hidalgo y Cia."
+"M. Hidalgo Y Cia."
+"Sanlucar"
+"No. 20"

@@ -1,0 +1,45 @@
+PRODUCE OF
+SWITZERLAND
+Johannisberg
+in Valais
+Albert Isozeron, roprietatre
+Auvernier
+Alcohol by volume 13
+12
+fluid ounc e
+s
+DEP
+SE
+
+PRODUCE
+OF
+SWITZERLAND
+Johannisberg
+in
+Valais
+Albert
+Isozeron,
+roprietatre
+Auvernier
+Alcohol
+by
+volume
+13
+12
+fluid
+ounc
+e
+s
+DEP
+SE
+"Produce of Switzerland\nProduce of\nswitzerland\nJohannisberg Vin du Valais\njohannisberg vin du valais\nalbert\n12 fluid ounces\nAlcohol by volume 13%\nDepose\ndepose"
+"Produce of Switzerland"
+"Produce of"
+"switzerland"
+"johannisberg vin du valais"
+"Johannisberg Vin du Valais"
+"albert"
+"12 fluid ounces"
+"Alcohol by volume 13%"
+"Depose"
+"depose"

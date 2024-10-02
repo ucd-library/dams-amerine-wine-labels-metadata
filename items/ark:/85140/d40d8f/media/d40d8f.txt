@@ -1,0 +1,35 @@
+C L O S
+LAGRANGE
+LUSSAC-SAINT-EMILION
+1 9 2 5
+H. RO DEL B.
+O A.
+
+C
+L
+O
+S
+LAGRANGE
+LUSSAC-SAINT-EMILION
+1
+9
+2
+5
+H.
+RO
+DEL
+B.
+O
+A.
+"No. 4\nNo 4\nSelleck\nClose Lagrange\nClos Lagrange\nLussac-Saint-Emilion\n1925\nflourish line\nH Rodel Bt\nH. Rodel BT\nNo. 104"
+"No 4"
+"No. 4"
+"Selleck"
+"Clos Lagrange"
+"Close Lagrange"
+"Lussac-Saint-Emilion"
+"1925"
+"flourish line"
+"H. Rodel BT"
+"H Rodel Bt"
+"No. 104"

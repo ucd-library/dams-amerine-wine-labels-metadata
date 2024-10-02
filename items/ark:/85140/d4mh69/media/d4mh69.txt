@@ -1,0 +1,39 @@
+1929
+APPELLATION
+CONTROL EE
+MYPO
+A PASSER.
+DIFFICILE.
+ooo
+DOMAINE LE FLAIVE PULIGNY-MONTRACHET
+ED.JOUFFROY. BEAUNE
+
+1929
+APPELLATION
+CONTROL
+EE
+MYPO
+A
+PASSER.
+DIFFICILE.
+ooo
+DOMAINE
+LE
+FLAIVE
+PULIGNY-MONTRACHET
+ED.JOUFFROY.
+BEAUNE
+"1929\n1929\nPresident's Dinner Blagny Chard 1943 B+\nBlagny\nAppellation Controlee\nAppellation controlee\nMis en bouteilles a la propriete Blagny\nMypont difficile a passer\nBlagny\nDomaine Leflaive - Puligny-Montrachet\nDomaine Le Flaive - Puligny-Montrachet\nEd. Jouffroy. Beaune\nEd. Jouffroy Beune"
+"1929"
+"1929"
+"President's Dinner Blagny Chard 1943 B+"
+"Blagny"
+"Appellation Controlee"
+"Appellation controlee"
+"Mis en bouteilles a la propriete Blagny"
+"Mypont difficile a passer"
+"Blagny"
+"Domaine Leflaive - Puligny-Montrachet"
+"Domaine Le Flaive - Puligny-Montrachet"
+"Ed. Jouffroy Beune"
+"Ed. Jouffroy. Beaune"

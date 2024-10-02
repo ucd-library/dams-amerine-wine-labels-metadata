@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@graph": [
+    {
+      "@id": "",
+      "@type": [
+        "ucdlib:WineLabel",
+        "schema:VisualArtwork",
+        "schema:CreativeWork",
+        "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+      ],
+      "ucdlib:describesWine": {
+        "@id": "@base:#wine"
+      },
+      "schema:about": {
+        "@id": "http://id.worldcat.org/fast/1204565"
+      },
+      "schema:identifier": [
+        "label_0129",
+        "ark:/85140/d4m88n"
+      ],
+      "schema:inLanguage": "it-IT",
+      "schema:isPartOf": {
+        "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
+      },
+      "schema:keywords": "Italy",
+      "schema:license": {
+        "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
+      },
+      "schema:name": "Still--Italy",
+      "schema:publisher": [
+        {
+          "@id": "http://id.loc.gov/authorities/names/no2008108707"
+        },
+        "University of California, Davis. General Library. Dept. of Special Collections"
+      ]
+    },
+    {
+      "@id": "@base:#wine",
+      "@type": "ucdlib:Wine",
+      "ucdlib:WineType": {
+        "@id": "ucdlib:Still"
+      },
+      "http://www.wikidata.org/prop/direct/P297": "IT"
+    }
+  ]
+}

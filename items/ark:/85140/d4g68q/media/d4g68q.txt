@@ -1,0 +1,45 @@
+VIN FIN
+D'ALSACE
+DOMAINES DopFF
+RESERVE
+RIESLING
+1945
+PRODUCE OF FRANCE
+DOMAINES DOPFF
+PROPRIETAIRES a NEGOCIANTS AU CLOS DU MOULIN-RIQUEwIHR ALSACE
+
+VIN
+FIN
+D'ALSACE
+DOMAINES
+DopFF
+RESERVE
+RIESLING
+1945
+PRODUCE
+OF
+FRANCE
+DOMAINES
+DOPFF
+PROPRIETAIRES
+a
+NEGOCIANTS
+AU
+CLOS
+DU
+MOULIN-RIQUEwIHR
+ALSACE
+"VIN FIN\nVin Fin\nD'Alsace\nD'ALSACE\nDomaines Dopff\nDOMAINES DOPFF\nESTABLISHED 1574\nEstablished 1574\nReserve Riesling\n1945\nProduce of France\nDomaines Dopff Proprietaires & Negociants au Clos du Moulin, Riquewihr (Alsace)\nDomaines Dopff Proprietaires & Negociants au clos du moulin Riquewihr (Alsace)"
+"Vin Fin"
+"VIN FIN"
+"D'Alsace"
+"D'ALSACE"
+"DOMAINES DOPFF"
+"Domaines Dopff"
+"ESTABLISHED 1574"
+"Established 1574"
+"Reserve Riesling"
+"1945"
+"Produce of France"
+"Domaines Dopff Proprietaires & Negociants au Clos du Moulin, Riquewihr (Alsace)"
+"Domaines Dopff Proprietaires & Negociants au clos du moulin Riquewihr (Alsace)"

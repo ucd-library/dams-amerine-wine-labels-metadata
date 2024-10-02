@@ -1,0 +1,50 @@
+TRADE
+REGISTERED
+13 FLUID OZS
+instan
+MARK
+1791
+BURGUNDY TYPE
+natural
+antaa
+CAPE OF GOOD HOPE
+H. LTD. 9569 1/
+SOUTH AFRICA
+
+TRADE
+REGISTERED
+13
+FLUID
+OZS
+instan
+MARK
+1791
+BURGUNDY
+TYPE
+natural
+antaa
+CAPE
+OF
+GOOD
+HOPE
+H.
+LTD.
+9569
+1/
+SOUTH
+AFRICA
+"groot constantia\nTrade\nMark\n-1791 Sauvignon Blanc\nSauvignon Blanc\n1791 / Sauvignon Blanc\nSauvignon Blanc\nPure Natural Wine produced on the\nPure Natural Wine produced on the\nGroot Constantia Estate\nRegistered\nCape of Good Hope\n13 Fluid Ozs.\nSouth Africa"
+"groot constantia"
+"Trade"
+"Mark"
+"-1791 Sauvignon Blanc"
+"Sauvignon Blanc"
+"1791 / Sauvignon Blanc"
+"Sauvignon Blanc"
+"Pure Natural Wine produced on the"
+"Pure Natural Wine produced on the"
+"Groot Constantia Estate"
+"Registered"
+"Cape of Good Hope"
+"13 Fluid Ozs."
+"South Africa"

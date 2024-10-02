@@ -1,0 +1,28 @@
+R. E. No 43
+Corvo
+CASTIL CORvo
+ESPANOLAS
+LOGRONO
+
+R.
+E.
+No
+43
+Corvo
+CASTIL
+CORvo
+ESPANOLAS
+LOGRONO
+"BODEGAS FRANCO ESPAÑOLAS\nbodegas franco \nbodegas franco\nespanolas\nR. E. No. 43\nr.e. no 43\nCastil-Corvo\nLOGROÑO\nCastil-Corvo\nLogroño\nCosecha escogida\nCosecha escogida"
+"BODEGAS FRANCO ESPAÑOLAS"
+"bodegas franco "
+"bodegas franco"
+"espanolas"
+"R. E. No. 43"
+"r.e. no 43"
+"Castil-Corvo"
+"LOGROÑO"
+"Castil-Corvo"
+"Logroño"
+"Cosecha escogida"
+"Cosecha escogida"

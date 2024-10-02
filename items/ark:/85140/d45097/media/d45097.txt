@@ -1,0 +1,14 @@
+Chateauneuf-du-Pape
+APPELLATION CHATEAUNEUF-DU-PAPE CONTROLE
+Rhone
+
+Chateauneuf-du-Pape
+APPELLATION
+CHATEAUNEUF-DU-PAPE
+CONTROLE
+Rhone
+"C\nM\nChateauneuf-du-Pape\nAppellation Chateauneuf-du-Pape Controlee"
+"C"
+"M"
+"Chateauneuf-du-Pape"
+"Appellation Chateauneuf-du-Pape Controlee"

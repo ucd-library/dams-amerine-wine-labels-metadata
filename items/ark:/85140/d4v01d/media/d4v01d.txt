@@ -1,0 +1,32 @@
+ANT IN OR I
+CHIANTI VECCHIO DELLA FATTORIA
+SANTA CRISTINA
+CANTINE DEI MARCHESI
+FIRENZE
+
+ANT
+IN
+OR
+I
+CHIANTI
+VECCHIO
+DELLA
+FATTORIA
+SANTA
+CRISTINA
+CANTINE
+DEI
+MARCHESI
+FIRENZE
+"TE DUCE PROFICIO\nTe Duce Proficio\nAntinori\nChianti Vecchio Della Fattoria\nChianti vecchio della Fattoria\nSanta Cristina\nCantine dei Marchesi\nLodovico Piero Antinori\nLodovico Peiro Antinori\nFirenze\nStud. Grafico Morreale - Milano"
+"TE DUCE PROFICIO"
+"Te Duce Proficio"
+"Antinori"
+"Chianti vecchio della Fattoria"
+"Chianti Vecchio Della Fattoria"
+"Santa Cristina"
+"Cantine dei Marchesi"
+"Lodovico Peiro Antinori"
+"Lodovico Piero Antinori"
+"Firenze"
+"Stud. Grafico Morreale - Milano"

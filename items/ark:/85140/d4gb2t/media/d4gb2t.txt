@@ -1,0 +1,34 @@
+MARQUE
+DEPOSEE
+M E D O C
+MAISON FONDEE EN iz8o
+LIBOURNE
+(France)
+PRINTED IN FRANCE
+MM
+
+MARQUE
+DEPOSEE
+M
+E
+D
+O
+C
+MAISON
+FONDEE
+EN
+iz8o
+LIBOURNE
+(France)
+PRINTED
+IN
+FRANCE
+MM
+"Médoc\n\n\nLibourne (France)\n\n\n"
+"Médoc"
+""
+""
+"Libourne (France)"
+""
+""
+""

@@ -1,0 +1,61 @@
+Alcohol 9%
+Contents
+M O SE L-SA AR R. U WER
+1 Pint 8 Fl. Oz
+by volume
+1942 er
+Piesporter Grafenberg Spatlese
+ung
+WACHSTUM: REICHSGRAF VON KESSELSTATT, TRIER
+WEILER, S
+AARA O
+TAit
+
+Alcohol
+9%
+Contents
+M
+O
+SE
+L-SA
+AR
+R.
+U
+WER
+1
+Pint
+8
+Fl.
+Oz
+by
+volume
+1942
+er
+Piesporter
+Grafenberg
+Spatlese
+ung
+WACHSTUM:
+REICHSGRAF
+VON
+KESSELSTATT,
+TRIER
+WEILER,
+S
+AARA
+O
+TAit
+"Content 1 Pint 8 Fl. Oz.\nContents 1 Pint 8 Fl. Oz.\nAlcohol 9% by volume\nAlcohol 9% by Volume\nMosel-Saar-Ruwer\nMOSEL - SAAR - RUWER\n1942er\nPiesporter Grafenberg Spätlese\nOriginal-Abfüllung\nWACHSTUM : REICHSGRAF VON KESSELSTATT, TRIER\nWachstum: Reichsgraf von Kesselstatt, Trier\nDACKWEILER, SCHAAR & DATME, TAII\nDackweiler, Schaar & Dather"
+"Content 1 Pint 8 Fl. Oz."
+"Contents 1 Pint 8 Fl. Oz."
+"Alcohol 9% by volume"
+"Alcohol 9% by Volume"
+"Mosel-Saar-Ruwer"
+"MOSEL - SAAR - RUWER"
+"1942er"
+"Piesporter Grafenberg Spätlese"
+"Original-Abfüllung"
+"Wachstum: Reichsgraf von Kesselstatt, Trier"
+"WACHSTUM : REICHSGRAF VON KESSELSTATT, TRIER"
+"Dackweiler, Schaar & Dather"
+"DACKWEILER, SCHAAR & DATME, TAII"

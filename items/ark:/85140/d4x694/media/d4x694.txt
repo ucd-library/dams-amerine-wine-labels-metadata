@@ -1,0 +1,30 @@
+GRAND ST ROCH
+MONOPOLE 12o
+MARQUE DEposEE
+FAYE & C
+IE
+CAMIS. ARIS
+egociants MACON (S&L)
+
+GRAND
+ST
+ROCH
+MONOPOLE
+12o
+MARQUE
+DEposEE
+FAYE
+&
+C
+IE
+CAMIS.
+ARIS
+egociants
+MACON
+(S&L)
+"Grand St. Roch Monopole 12° Marque Déposée\nFaye & Cie.\nIMP. CAMIS. PARIS\nIMP. Camis. Paris\nNégociants à MACON (S&L)"
+"Grand St. Roch Monopole 12° Marque Déposée"
+"Faye & Cie."
+"IMP. CAMIS. PARIS"
+"IMP. Camis. Paris"
+"Négociants à MACON (S&L)"

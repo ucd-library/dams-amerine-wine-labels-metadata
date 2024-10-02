@@ -1,0 +1,26 @@
+LLE
+J.J.S
+RHEING A u
+1945 et
+Riioesheimer Berg Orleans Riesling
+
+LLE
+J.J.S
+RHEING
+A
+u
+1945
+et
+Riioesheimer
+Berg
+Orleans
+Riesling
+"Rheingau\n1945er\nRudesheimer Berg Orleans Riesling\nJ.Jung Sohne Asmannshausen a/Rh.\nJ.Jung Sohne, Asmannshausen a/Rh.\n24170\nJllert\nPrice"
+"Rheingau"
+"1945er"
+"Rudesheimer Berg Orleans Riesling"
+"J.Jung Sohne Asmannshausen a/Rh."
+"J.Jung Sohne, Asmannshausen a/Rh."
+"24170"
+"Jllert"
+"Price"

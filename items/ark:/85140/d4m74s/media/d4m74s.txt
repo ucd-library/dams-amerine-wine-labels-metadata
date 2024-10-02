@@ -1,0 +1,55 @@
+ARCA STRADA
+HIPLOMA
+Rioja predilecto
+Embotellado en su 3. er, an O
+ExpORTADORES
+R. E. N 9 58
+O Rioja Alta)
+SAN REMO
+AM BERES
+ROMA
+MILAN
+BARCELONA 1929
+
+ARCA
+STRADA
+HIPLOMA
+Rioja
+predilecto
+Embotellado
+en
+su
+3.
+er,
+an
+O
+ExpORTADORES
+R.
+E.
+N
+9
+58
+O
+Rioja
+Alta)
+SAN
+REMO
+AM
+BERES
+ROMA
+MILAN
+BARCELONA
+1929
+"Rioja Predilecto\nEmbotellado en su 3.er año\nP44\np 44\nMARCA REGISTRADA\nMarca Registrada\nExporters name Gomez Cruzado\nGómez Cruzado Exportadores\nR. E. No. 58\nR.E. No 58\nHARO. (Rioja Alta)\nHaro. (Rioja Alta)"
+"Rioja Predilecto"
+"Embotellado en su 3.er año"
+"p 44"
+"P44"
+"MARCA REGISTRADA"
+"Marca Registrada"
+"Exporters name Gomez Cruzado"
+"Gómez Cruzado Exportadores"
+"R. E. No. 58"
+"R.E. No 58"
+"HARO. (Rioja Alta)"
+"Haro. (Rioja Alta)"

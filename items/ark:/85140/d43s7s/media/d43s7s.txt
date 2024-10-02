@@ -1,0 +1,37 @@
+M. R
+VALDIVIESO
+EXTRA DRY
+CHILEAN CHAMPAGNE
+PRODUCTO CHILE NO
+ALBERTO VALDIVIESO
+SANTIAGO (CHILE)
+SANTA ELENA
+
+M.
+R
+VALDIVIESO
+EXTRA
+DRY
+CHILEAN
+CHAMPAGNE
+PRODUCTO
+CHILE
+NO
+ALBERTO
+VALDIVIESO
+SANTIAGO
+(CHILE)
+SANTA
+ELENA
+"Champagne\nDinard Wine & Food Soc, 4/15/47 BX\nValdivieso\nExtra-Dry\nChilean Champagne\nProducto Chileno\nAlberto Valdivieso M.\nSantiago (Chile)\nsantiago (Chile)\nIsland of Santa Elena\nSanta Elena"
+"Champagne"
+"Dinard Wine & Food Soc, 4/15/47 BX"
+"Valdivieso"
+"Extra-Dry"
+"Chilean Champagne"
+"Producto Chileno"
+"Alberto Valdivieso M."
+"santiago (Chile)"
+"Santiago (Chile)"
+"Island of Santa Elena"
+"Santa Elena"

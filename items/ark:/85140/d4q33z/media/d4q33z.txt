@@ -1,0 +1,28 @@
+VILLETTE
+Clos de la Belette
+PLT. E. PICCARD
+prop Vigneron
+PMONNERAT
+
+VILLETTE
+Clos
+de
+la
+Belette
+PLT.
+E.
+PICCARD
+prop
+Vigneron
+PMONNERAT
+"Villette / Clos de la Belette\nVillette Clos de la Belette\nVILLETTE CLOS DE LA BELETTE\nPLT. E. PICCARD propr. vigneron\nPlt. E. Piccard propr. vigneron\nPLT. E. Piccard propr. vigneron\nRoth & Sauter 1 Lausanne\nRoth & Sauter : Lausanne\nP.MONNERAT\nP.Monnerat"
+"Villette / Clos de la Belette"
+"VILLETTE CLOS DE LA BELETTE"
+"Villette Clos de la Belette"
+"PLT. E. PICCARD propr. vigneron"
+"Plt. E. Piccard propr. vigneron"
+"PLT. E. Piccard propr. vigneron"
+"Roth & Sauter 1 Lausanne"
+"Roth & Sauter : Lausanne"
+"P.Monnerat"
+"P.MONNERAT"

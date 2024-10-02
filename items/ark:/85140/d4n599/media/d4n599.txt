@@ -1,0 +1,50 @@
+California
+CLARET
+ALCOHOL 12% BY VOLUME
+PRODUCED AND BOTTLED BY
+Fruit Industries, tad.
+B. W. No. 52, 14th DIST., CALIF.
+SAN FRANCISCO, CALIF.
+TAX PAID BY STAM PS AFFIXED TO CASE
+
+California
+CLARET
+ALCOHOL
+12%
+BY
+VOLUME
+PRODUCED
+AND
+BOTTLED
+BY
+Fruit
+Industries,
+tad.
+B.
+W.
+No.
+52,
+14th
+DIST.,
+CALIF.
+SAN
+FRANCISCO,
+CALIF.
+TAX
+PAID
+BY
+STAM
+PS
+AFFIXED
+TO
+CASE
+"F.I.\nFI\nCalifornia Claret\nCalifornia CLARET\nAlcohol 12% by Volume\nALCOHOL 12% BY VOLUME\nPRODUCED AND BOTTLED BY Fruit Industries, Ltd. B. W. No. 52, 14th DIST., CALIF. SAN FRANCISCO, CALIF.\nProduced and Bottled by Fruit Industries, Ltd. B.W. No. 52, 14th Dist., Calif. San Francisco, Calif.\nTax Paid by Stamps Affixed to Case"
+"FI"
+"F.I."
+"California Claret"
+"California CLARET"
+"Alcohol 12% by Volume"
+"ALCOHOL 12% BY VOLUME"
+"Produced and Bottled by Fruit Industries, Ltd. B.W. No. 52, 14th Dist., Calif. San Francisco, Calif."
+"PRODUCED AND BOTTLED BY Fruit Industries, Ltd. B. W. No. 52, 14th DIST., CALIF. SAN FRANCISCO, CALIF."
+"Tax Paid by Stamps Affixed to Case"

@@ -1,0 +1,48 @@
+1952
+jouilly-suissi
+APPELLATION CONTROLEE
+CORSHN J.
+Mise en Bouteilles
+PROPRIETAIRE
+la Propriété
+POUILLY-Fr UIS SE (S. & L.)
+M A A Y
+
+1952
+jouilly-suissi
+APPELLATION
+CONTROLEE
+CORSHN
+J.
+Mise
+en
+Bouteilles
+PROPRIETAIRE
+la
+Propriété
+POUILLY-Fr
+UIS
+SE
+(S.
+&
+L.)
+M
+A
+A
+Y
+"white burgundy\nWhite Burgandy\n1952\nPouilly-Fuissé\nPouilly-Fuisse\nAppellation Controlée\nAppellation Controlee\nCorsin J. Proprietaire\nCorsin J. Propriétaire\nMise en bouteille a la Propriete\nMise en Bouteilles à la Propriété\nPouilly-Fuisse (S.\"&\"L.)\nPouilly-Fuisse (s. & l)\nMAA•S3\nMAA - 85"
+"white burgundy"
+"White Burgandy"
+"1952"
+"Pouilly-Fuissé"
+"Pouilly-Fuisse"
+"Appellation Controlée"
+"Appellation Controlee"
+"Corsin J. Proprietaire"
+"Corsin J. Propriétaire"
+"Mise en Bouteilles à la Propriété"
+"Mise en bouteille a la Propriete"
+"Pouilly-Fuisse (s. & l)"
+"Pouilly-Fuisse (S.\"&\"L.)"
+"MAA - 85"
+"MAA•S3"

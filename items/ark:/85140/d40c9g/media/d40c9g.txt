@@ -1,0 +1,19 @@
+19
+tser
+Grundbacher & co, Weing rosshandlung Thun
+
+19
+tser
+Grundbacher
+&
+co,
+Weing
+rosshandlung
+Thun
+"1950\nLunch Gasthaus Lörren Heiden 5/15/52 C (Gassy)\nLunch / Gasthaus Lören / Heiden / 5/15/52 / C / (Gassy)\nDragunerwy\nSchafiser\nGrundbacher & Co., Weingrosshandlung Thun"
+"1950"
+"Lunch / Gasthaus Lören / Heiden / 5/15/52 / C / (Gassy)"
+"Lunch Gasthaus Lörren Heiden 5/15/52 C (Gassy)"
+"Dragunerwy"
+"Schafiser"
+"Grundbacher & Co., Weingrosshandlung Thun"

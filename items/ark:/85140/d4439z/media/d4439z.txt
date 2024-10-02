@@ -1,0 +1,33 @@
+DOMAINE DE LA ROMANEE-CONTI
+RICHIE BOURG
+RICHEBOURG Appellation Controlée
+de dillaune
+ANNEE 1949
+propriétaires
+
+DOMAINE
+DE
+LA
+ROMANEE-CONTI
+RICHIE
+BOURG
+RICHEBOURG
+Appellation
+Controlée
+de
+dillaune
+ANNEE
+1949
+propriétaires
+"Hello\nDOMAINE DE LA ROMANEE-CONTI\nDOMAINE de la ROMANÉE-CONTI\n\nFuck You\nRICHEBOURG - Appellation Contrôlėe\nJ M Duvault Blochet\nWiener\nde Villaine & J. Chambon\nPetits Fils de J. M. Duvault-Blochet ANNEE 1949 proprietaires\nANNĖE 1949"
+"Hello"
+"DOMAINE DE LA ROMANEE-CONTI"
+"DOMAINE de la ROMANÉE-CONTI"
+""
+"Fuck You"
+"RICHEBOURG - Appellation Contrôlėe"
+"Wiener"
+"J M Duvault Blochet"
+"de Villaine & J. Chambon"
+"Petits Fils de J. M. Duvault-Blochet ANNEE 1949 proprietaires"
+"ANNĖE 1949"

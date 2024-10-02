@@ -1,0 +1,33 @@
+RAMINER
+TRAMENER
+DOMAINE DOPFF
+PROPRIETAIRES & NEGOCIANTS AU
+CLOS DU MOU LIN
+VIN D'ALSACE
+RESERVE
+
+RAMINER
+TRAMENER
+DOMAINE
+DOPFF
+PROPRIETAIRES
+&
+NEGOCIANTS
+AU
+CLOS
+DU
+MOU
+LIN
+VIN
+D'ALSACE
+RESERVE
+"Traminer\nTraminer\nDopff\nDomaines Dopff\n\n\"Clos du Moulin\"\nRiquewihr\nVin d'Alsace\nGrande Reserve"
+"Traminer"
+"Traminer"
+"Dopff"
+"Domaines Dopff"
+""
+"\"Clos du Moulin\""
+"Riquewihr"
+"Vin d'Alsace"
+"Grande Reserve"

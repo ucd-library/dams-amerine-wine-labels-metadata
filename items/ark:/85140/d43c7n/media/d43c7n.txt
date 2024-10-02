@@ -1,0 +1,30 @@
+ERAN
+ALCOHOL 13% BY VOLUME
+PRODUCED AND BOTTLED BY
+SOUVERAIN CELLARS
+ST. HELENA, CALIFORNIA
+
+ERAN
+ALCOHOL
+13%
+BY
+VOLUME
+PRODUCED
+AND
+BOTTLED
+BY
+SOUVERAIN
+CELLARS
+ST.
+HELENA,
+CALIFORNIA
+"Souverain\nSOUVERAIN\nAt Home\nDec. '47\nH\nNapa Valley\n\nMountain Zinfandel\nAlcohol 13% by volume\nProduced and bottled by Souverain Cellars St. Helena, California\nProduced and bottled by\nSouverain Cellars\nSt. Helena, California"
+"SOUVERAIN"
+"Souverain"
+"At Home\nDec. '47\nH"
+"Napa Valley"
+""
+"Mountain Zinfandel"
+"Alcohol 13% by volume"
+"Produced and bottled by\nSouverain Cellars\nSt. Helena, California"
+"Produced and bottled by Souverain Cellars St. Helena, California"

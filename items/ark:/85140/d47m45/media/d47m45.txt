@@ -1,0 +1,27 @@
+SYLVAN ER
+JEAN GUIDAT
+NIE DER MORSCHWIHR-HT-RHIN
+AU PIE, DSS DES TROIS EPIS
+
+SYLVAN
+ER
+JEAN
+GUIDAT
+NIE
+DER
+MORSCHWIHR-HT-RHIN
+AU
+PIE,
+DSS
+DES
+TROIS
+EPIS
+"d'aslace\nVin FIN\nsylvaner\nSYLVANER\njean guidat - niedermorschwihr h-rhin\nJEAN GUIDAT - NIEDERMORSCHWIHR Hr RHIN\nAu Pieds des trois epis\nau pieds des trois epis"
+"d'aslace"
+"Vin FIN"
+"sylvaner"
+"SYLVANER"
+"jean guidat - niedermorschwihr h-rhin"
+"JEAN GUIDAT - NIEDERMORSCHWIHR Hr RHIN"
+"Au Pieds des trois epis"
+"au pieds des trois epis"

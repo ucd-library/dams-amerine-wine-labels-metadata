@@ -1,0 +1,27 @@
+BOURG VIEUX
+APPELLATION BOURG CONTROLEE
+Expédié en fat par
+BORDEAUX
+DEPOSE
+
+BOURG
+VIEUX
+APPELLATION
+BOURG
+CONTROLEE
+Expédié
+en
+fat
+par
+BORDEAUX
+DEPOSE
+"Bourg Vieux\nBOURG VIEUX\nAppellation Bourg Controlee\nAPPELLATION BOURG CONTROLEE\nExpedie en fut par Chantecaille Co.\nBORDEAUX\n7PS\nDÉPOSÉ\nDEPOSE"
+"BOURG VIEUX"
+"Bourg Vieux"
+"APPELLATION BOURG CONTROLEE"
+"Appellation Bourg Controlee"
+"Expedie en fut par Chantecaille Co."
+"BORDEAUX"
+"7PS"
+"DEPOSE"
+"DÉPOSÉ"

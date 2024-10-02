@@ -1,0 +1,26 @@
+The Great Fountain Store.
+S, MARIANI, PROP
+S. W. COR, 23RD AND COLUMBIA STS
+SAN FRANCISCO
+
+The
+Great
+Fountain
+Store.
+S,
+MARIANI,
+PROP
+S.
+W.
+COR,
+23RD
+AND
+COLUMBIA
+STS
+SAN
+FRANCISCO
+"The Great Fountain Store\ns. mariana, prop.\ns.w. cor. 23rd and columbia sts.\nsan francisco"
+"The Great Fountain Store"
+"s. mariana, prop."
+"s.w. cor. 23rd and columbia sts."
+"san francisco"

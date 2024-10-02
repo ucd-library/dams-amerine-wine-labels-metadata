@@ -1,0 +1,30 @@
+GRAND VIN
+DE
+CHATEAU LATOUR
+1918
+MARQUE
+DE Pos EE
+MIS EN BOUTEILLES
+A U CHATEAU
+
+GRAND
+VIN
+DE
+CHATEAU
+LATOUR
+1918
+MARQUE
+DE
+Pos
+EE
+MIS
+EN
+BOUTEILLES
+A
+U
+CHATEAU
+"GRAND VIN DE CHATEAU LATOUR 1918 MARQUE DEPOSEE\ngrand vin de chateau latour 1918\nmis en bouteilles au chateau\nMis en bouteilles au Chateau "
+"GRAND VIN DE CHATEAU LATOUR 1918 MARQUE DEPOSEE"
+"grand vin de chateau latour 1918"
+"Mis en bouteilles au Chateau "
+"mis en bouteilles au chateau"

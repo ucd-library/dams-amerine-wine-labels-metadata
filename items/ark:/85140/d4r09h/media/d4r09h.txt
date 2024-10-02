@@ -1,0 +1,20 @@
+1919
+HAUT SAUTERNES
+ED. KRESS MANN & Co
+BORDEAUX
+
+1919
+HAUT
+SAUTERNES
+ED.
+KRESS
+MANN
+&
+Co
+BORDEAUX
+"1919\nHaut Sauternes\nEd, Kressmann & Co.\nEd. Kressmann & Co.\nBordeaux"
+"1919"
+"Haut Sauternes"
+"Ed. Kressmann & Co."
+"Ed, Kressmann & Co."
+"Bordeaux"

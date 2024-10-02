@@ -1,0 +1,58 @@
+GE
+AILLE
+1928
+vis EU
+1er GRAND CRU DE GRAVES
+APPELLATION GRAVES CONTROLEE
+AILLE
+VICTOR PLACE
+PRO PRI ETA R E
+CA DAUJAc PRES BoR DE Aux.
+Mis en Bouteilles au Chateau
+
+GE
+AILLE
+1928
+vis
+EU
+1er
+GRAND
+CRU
+DE
+GRAVES
+APPELLATION
+GRAVES
+CONTROLEE
+AILLE
+VICTOR
+PLACE
+PRO
+PRI
+ETA
+R
+E
+CA
+DAUJAc
+PRES
+BoR
+DE
+Aux.
+Mis
+en
+Bouteilles
+au
+Chateau
+"1928\nChateau Bouscaut\nChâteau Bouscaut\nSt. LOUIS EU 1904 ME'DAILLE D'OR\nSt Louis eu 1904 Medaille d'Or\n1er Grand Cru de Graves\n1er GRAND CRU DE GRAVES\nAppellation Graves Controlee\nAPPELLATION GRAVES CONTROLÉE\nVICTOR PLACE PROPRIE'TAIRE A` Cadaujac pre`s Bordeaux\nVictor Place Proprietaire a Cadaujac pres Bordeaux\nMis En Bouteilles au Cha^teau\nMis en Bouteilles au Chateau"
+"1928"
+"Chateau Bouscaut"
+"Château Bouscaut"
+"St. LOUIS EU 1904 ME'DAILLE D'OR"
+"St Louis eu 1904 Medaille d'Or"
+"1er GRAND CRU DE GRAVES"
+"1er Grand Cru de Graves"
+"APPELLATION GRAVES CONTROLÉE"
+"Appellation Graves Controlee"
+"VICTOR PLACE PROPRIE'TAIRE A` Cadaujac pre`s Bordeaux"
+"Victor Place Proprietaire a Cadaujac pres Bordeaux"
+"Mis en Bouteilles au Chateau"
+"Mis En Bouteilles au Cha^teau"

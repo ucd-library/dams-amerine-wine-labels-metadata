@@ -1,0 +1,38 @@
+GRAND VIN DE LEovILLE
+du Marquis de LAS CASES
+ST JULIEN MEDOC
+MISE EN BOUTEILLES
+RECOLTE 1934
+AU CHATEAU
+
+GRAND
+VIN
+DE
+LEovILLE
+du
+Marquis
+de
+LAS
+CASES
+ST
+JULIEN
+MEDOC
+MISE
+EN
+BOUTEILLES
+RECOLTE
+1934
+AU
+CHATEAU
+"GRAND VIN DE LEOVILLE\nGrand Vin de Léoville\nGrand Vin de Leonville\nGRAND VIN DE LEOVILLE\nGrand Vin de Léoville\ndu Marquis de Las Cases St-Julien-Medoc\nMise en Bouteilles au Chateau\nMISE EN BOUTEILLES AU CHATEAU\nRECOLTE 1934\nRÉCOLTE 1934\nrécolte 1934"
+"GRAND VIN DE LEOVILLE"
+"Grand Vin de Léoville"
+"Grand Vin de Léoville"
+"Grand Vin de Leonville"
+"GRAND VIN DE LEOVILLE"
+"du Marquis de Las Cases St-Julien-Medoc"
+"Mise en Bouteilles au Chateau"
+"MISE EN BOUTEILLES AU CHATEAU"
+"RÉCOLTE 1934"
+"RECOLTE 1934"
+"récolte 1934"

@@ -1,0 +1,48 @@
+VP
+IN VINO
+1953
+MOSEL-SAAR-RUWER
+Bernhartel Aueret Aarbinalsberg
+Wadatum: Ben. Zimmermann Kues
+reiner Naturmein
+pfaloer meinftuben Artur Rolldyr Berlin-sriedenau
+Bundes Allee 98 Telefon 83 33 83
+D. 71 222
+
+VP
+IN
+VINO
+1953
+MOSEL-SAAR-RUWER
+Bernhartel
+Aueret
+Aarbinalsberg
+Wadatum:
+Ben.
+Zimmermann
+Kues
+reiner
+Naturmein
+pfaloer
+meinftuben
+Artur
+Rolldyr
+Berlin-sriedenau
+Bundes
+Allee
+98
+Telefon
+83
+33
+83
+D.
+71
+222
+"IN VINO VERITAS\nIn Vino\n1953er\nModel-Saar-Ruwer Bernkaftel-Kuefer Hardinalsberg\nMosel-Saar-Ruwer Bernkaftel-Kuefer Kardinalsberg\nWachetum: Ben. Zimmermann - Keus reiner Naturwein Pfalzer Weinftuben Artur Kolch, Berlin-Friedenau Bundes-Allee 98 / Telefon 83 33 83\nWachstum: Ben. Zimmermann - Kues reiner Naturwein Pfalzer Weinftuben Artur Kolfch, Berlin-Friedenau Bundes-Allee 98 / Telefon 83 33 83"
+"In Vino"
+"IN VINO VERITAS"
+"1953er"
+"Mosel-Saar-Ruwer Bernkaftel-Kuefer Kardinalsberg"
+"Model-Saar-Ruwer Bernkaftel-Kuefer Hardinalsberg"
+"Wachstum: Ben. Zimmermann - Kues reiner Naturwein Pfalzer Weinftuben Artur Kolfch, Berlin-Friedenau Bundes-Allee 98 / Telefon 83 33 83"
+"Wachetum: Ben. Zimmermann - Keus reiner Naturwein Pfalzer Weinftuben Artur Kolch, Berlin-Friedenau Bundes-Allee 98 / Telefon 83 33 83"

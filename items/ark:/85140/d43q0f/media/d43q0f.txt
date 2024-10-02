@@ -1,0 +1,32 @@
+RAB
+M GARCIA MONGE
+SAN LUCAR
+INDIAN GOLD
+GRAFICASANDALUZAS PTO STA. MARTA
+
+RAB
+M
+GARCIA
+MONGE
+SAN
+LUCAR
+INDIAN
+GOLD
+GRAFICASANDALUZAS
+PTO
+STA.
+MARTA
+"Garcia Monge. Constancia Trabajo Unión\nCONSTANCIA TRABAJO UNION managethis.Fc README.org GARCIA MONGE\nOld Sherry\nOLD SHERRY\nM. Garcia Monge\nTimbre a metalico\nTIMBRE A METALICO\nSANLUCAR\nSanlucar\nIndian gold\nINDIAN GOLD\nGRAFICAS ANDALUZAS - PTO STA. MARIA\nGraficas Andaluzas - PTO STA, Maria"
+"CONSTANCIA TRABAJO UNION managethis.Fc README.org GARCIA MONGE"
+"Garcia Monge. Constancia Trabajo Unión"
+"Old Sherry"
+"OLD SHERRY"
+"M. Garcia Monge"
+"Timbre a metalico"
+"TIMBRE A METALICO"
+"SANLUCAR"
+"Sanlucar"
+"Indian gold"
+"INDIAN GOLD"
+"GRAFICAS ANDALUZAS - PTO STA. MARIA"
+"Graficas Andaluzas - PTO STA, Maria"

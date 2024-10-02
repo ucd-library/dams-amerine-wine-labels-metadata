@@ -1,0 +1,17 @@
+DEPOSEE
+MARQUE
+SAUTE
+BORDEAUX
+
+DEPOSEE
+MARQUE
+SAUTE
+BORDEAUX
+"marque deposee\nMarque Deposee\nFrance\nSauternes\nCru?e & fils Frères\nCruse & Fils Freres\nBordeaux"
+"marque deposee"
+"Marque Deposee"
+"France"
+"Sauternes"
+"Cru?e & fils Frères"
+"Cruse & Fils Freres"
+"Bordeaux"

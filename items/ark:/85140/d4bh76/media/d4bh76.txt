@@ -1,0 +1,31 @@
+D' ALSACE
+VIN FIN
+DOMAIN ES DOPFF
+RESERVE
+RIESLING
+DoMAINES DOPFF, cios du Moulin, RIQUEWIHR (Alsace)
+
+D'
+ALSACE
+VIN
+FIN
+DOMAIN
+ES
+DOPFF
+RESERVE
+RIESLING
+DoMAINES
+DOPFF,
+cios
+du
+Moulin,
+RIQUEWIHR
+(Alsace)
+"Vin Fin D'Alsace\nDomaines Dopff\nReserve Riesling\nDomaines Dopff, Clos du Moulin, Riquewihr (Alsace)\n\nDomaines Dopff, Clos du Moulin, Riquewihr (Alsace)\nSmith Europe"
+"Vin Fin D'Alsace"
+"Domaines Dopff"
+"Reserve Riesling"
+"Domaines Dopff, Clos du Moulin, Riquewihr (Alsace)"
+""
+"Domaines Dopff, Clos du Moulin, Riquewihr (Alsace)"
+"Smith Europe"

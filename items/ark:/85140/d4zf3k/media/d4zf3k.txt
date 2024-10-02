@@ -1,0 +1,41 @@
+AS RIO..
+REGIS T.
+MMAR CA
+CERO-RA
+BODEGAS RIOJANAS
+Boro
+VINA ALBINA
+BLANCO
+CEDICERO (Riou,A)
+EMBOTELLADOR
+Embotellado en nuestras
+Bodegas de Cenicero
+12 3
+Lit Jerez
+
+AS
+RIO..
+REGIS
+T.
+MMAR
+CA
+CERO-RA
+BODEGAS
+RIOJANAS
+Boro
+VINA
+ALBINA
+BLANCO
+CEDICERO
+(Riou,A)
+EMBOTELLADOR
+Embotellado
+en
+nuestras
+Bodegas
+de
+Cenicero
+12
+3
+Lit
+Jerez

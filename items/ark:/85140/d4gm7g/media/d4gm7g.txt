@@ -1,0 +1,44 @@
+ALCO
+VOLUME
+KURBEL SEC
+CALIFORNIA CHAMPAGNE
+PRODUCED AND BOTTLED
+SAN FRANCISCO CAL
+RBOTTLED AT THE WINERY, GUERNEV
+LE, AL
+
+ALCO
+VOLUME
+KURBEL
+SEC
+CALIFORNIA
+CHAMPAGNE
+PRODUCED
+AND
+BOTTLED
+SAN
+FRANCISCO
+CAL
+RBOTTLED
+AT
+THE
+WINERY,
+GUERNEV
+LE,
+AL
+"Alcohol 12 1/2% by Volume\nALCOHOL 12 1/2% BY VOLUME\nNet Contents 1 pint 8 fluid ozs\nKorbel Sec\nKORBEL SEC\nCALIFORNIA CHAMPAGNE\nCalifornia Champagne\nProduced and Bottled by\nPRODUCED AND BOTTLED BY\nF. KORBEL & BROS. INC.\nF. Korbel & Bros. Inc.\nSAN FRANCISCO, CAL\nSan Francisco Cal.\nBOTTLED AT THE WINERY, BUERNEVILLE, CALIF, B.W. NO. 74\nBottled at the winery, Guerneville., Calif , B. W. No. 74"
+"ALCOHOL 12 1/2% BY VOLUME"
+"Alcohol 12 1/2% by Volume"
+"Net Contents 1 pint 8 fluid ozs"
+"KORBEL SEC"
+"Korbel Sec"
+"California Champagne"
+"CALIFORNIA CHAMPAGNE"
+"Produced and Bottled by"
+"PRODUCED AND BOTTLED BY"
+"F. KORBEL & BROS. INC."
+"F. Korbel & Bros. Inc."
+"San Francisco Cal."
+"SAN FRANCISCO, CAL"
+"BOTTLED AT THE WINERY, BUERNEVILLE, CALIF, B.W. NO. 74"
+"Bottled at the winery, Guerneville., Calif , B. W. No. 74"

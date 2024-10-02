@@ -1,0 +1,55 @@
+GRAND VIN
+CHATEAU YON-FIGEAC
+APPELLATION CONTROL, EE
+Michel FAUVARQUE & Cie
+R. C. Bruxelles 6110 Cont
+68-70 c
+CLASQU
+BORD
+Dépi
+No 405
+Imprimé en France
+
+GRAND
+VIN
+CHATEAU
+YON-FIGEAC
+APPELLATION
+CONTROL,
+EE
+Michel
+FAUVARQUE
+&
+Cie
+R.
+C.
+Bruxelles
+6110
+Cont
+68-70
+c
+CLASQU
+BORD
+Dépi
+No
+405
+Imprimé
+en
+France
+"grand vin\nGrand Vin\nChateau Yon-Figeac\nCHATEAU YON-FIGEAC\nSaint-Émilion\nAPPELLATION CONTROLÉE\nAppellation Controléa\nMichel Fauvarque & Cⁱᵉ\nMichael FAUVARQUE & Cie\nR. C. Bruxelles 6110 - Cont. 68-70 cl.\nR. C. Bruxelles 6110 -- Cont. 68-70 cl.\nDepose No 405\nDéposé No 405\nNolasque Bordº\nImprime en France\nImprimé en France"
+"grand vin"
+"Grand Vin"
+"CHATEAU YON-FIGEAC"
+"Chateau Yon-Figeac"
+"Saint-Émilion"
+"Appellation Controléa"
+"APPELLATION CONTROLÉE"
+"Michel Fauvarque & Cⁱᵉ"
+"Michael FAUVARQUE & Cie"
+"R. C. Bruxelles 6110 - Cont. 68-70 cl."
+"R. C. Bruxelles 6110 -- Cont. 68-70 cl."
+"Déposé No 405"
+"Depose No 405"
+"Nolasque Bordº"
+"Imprimé en France"
+"Imprime en France"

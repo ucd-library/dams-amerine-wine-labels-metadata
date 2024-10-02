@@ -1,0 +1,37 @@
+TE A DE LU
+DOMAINES
+LUPE CHOLET
+OATE DE
+CHov
+NUITS ST GEORGES
+COTE D'OR
+
+TE
+A
+DE
+LU
+DOMAINES
+LUPE
+CHOLET
+OATE
+DE
+CHov
+NUITS
+ST
+GEORGES
+COTE
+D'OR
+"Cote de Nuits, Nuits St. George\nCôte de Nuits Nuits St Georges\n1904\nCompte a de lupe.\nComte A. de Lupe\nVicomte F De Cholet\nVicomte F. de Cholet\nChateau Gris\nMonopole\nNuits St. Georges\nDomaines\nLupe-Cholet\n(Cote d'Or)"
+"Côte de Nuits Nuits St Georges"
+"Cote de Nuits, Nuits St. George"
+"1904"
+"Comte A. de Lupe"
+"Compte a de lupe."
+"Vicomte F De Cholet"
+"Vicomte F. de Cholet"
+"Chateau Gris"
+"Monopole"
+"Nuits St. Georges"
+"Domaines"
+"Lupe-Cholet"
+"(Cote d'Or)"

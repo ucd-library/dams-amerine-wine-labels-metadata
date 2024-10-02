@@ -1,0 +1,20 @@
+PINOT GRIS
+A. WILLM
+PROPR. VITICULTEUR
+FRANCE
+
+PINOT
+GRIS
+A.
+WILLM
+PROPR.
+VITICULTEUR
+FRANCE
+"Tockay d'Alsace\nCockay d.'Alsace\nPINOT GRIS\nA. Willm Propr. Viticulteur\nA. WILLM PROPR. VITICULTEUR\nClos Gaensbroennel\nBarr (Alsace) FRANCE"
+"Tockay d'Alsace"
+"Cockay d.'Alsace"
+"PINOT GRIS"
+"A. Willm Propr. Viticulteur"
+"A. WILLM PROPR. VITICULTEUR"
+"Clos Gaensbroennel"
+"Barr (Alsace) FRANCE"

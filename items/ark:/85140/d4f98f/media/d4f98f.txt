@@ -1,0 +1,24 @@
+EMILE KuGLER GERT WILLER
+BIRHIN
+FRANCE
+RIESLING
+KUGLER
+ALSACE
+
+EMILE
+KuGLER
+GERT
+WILLER
+BIRHIN
+FRANCE
+RIESLING
+KUGLER
+ALSACE
+"Emile Kugler-Gertwiller B/ Rhin France\nEmile Kugler-Gertwiller B/Rhin France\nRiesling Kugler\nасдада\nасдасдад\nAlsace\nсаасда"
+"Emile Kugler-Gertwiller B/ Rhin France"
+"Emile Kugler-Gertwiller B/Rhin France"
+"Riesling Kugler"
+"асдада"
+"асдасдад"
+"саасда"
+"Alsace"

@@ -1,0 +1,47 @@
+s 1937 s
+CHATEAU
+FOUR CAS DU PRE
+LIST RAC
+M. FAU VARQUE & Co.
+R. C. Bruxelles 6110
+Imprimé en France
+DEPOSE
+Ne 74.
+
+s
+1937
+s
+CHATEAU
+FOUR
+CAS
+DU
+PRE
+LIST
+RAC
+M.
+FAU
+VARQUE
+&
+Co.
+R.
+C.
+Bruxelles
+6110
+Imprimé
+en
+France
+DEPOSE
+Ne
+74.
+"Listrac (médoc)\nListrac (Medoc)\n1937\nChateau Fourcas Dupre, Listrac\nM. Fauvarque & Co.\nR.C. Bruxelles 6110\nR. C. Bruxelles 6110\nImprimé en France\nDéposé n° 74\nDéposé no 74\nImp. Molasque Bordeaux"
+"Listrac (médoc)"
+"Listrac (Medoc)"
+"1937"
+"Chateau Fourcas Dupre, Listrac"
+"M. Fauvarque & Co."
+"R. C. Bruxelles 6110"
+"R.C. Bruxelles 6110"
+"Imprimé en France"
+"Déposé n° 74"
+"Déposé no 74"
+"Imp. Molasque Bordeaux"

@@ -1,0 +1,60 @@
+HAR
+TRADES O
+ORT
+PRODUCE PORTUGAL
+Pouro ort
+Caton
+eProduced. Bottled & Fhinned
+Chorley
+PRINTED IN ENGt AND
+25/32 QUART. ALCOHOL
+20.5
+BY VOLUME
+
+HAR
+TRADES
+O
+ORT
+PRODUCE
+PORTUGAL
+Pouro
+ort
+Caton
+eProduced.
+Bottled
+&
+Fhinned
+Chorley
+PRINTED
+IN
+ENGt
+AND
+25/32
+QUART.
+ALCOHOL
+20.5
+BY
+VOLUME
+"SOUTHARD'S PORT\nSouthard's Port\nSouthard & Co. oporto.\nSouthard & co. oporto\nTrade\ntrade\nMark\nmark\nProduce of Portugal\nBouro Port\nDouro Port\nLa Quinta Tawny\nProduced, bottled, & shipped by\nProduced, Bottled & Shipped by\nSouthard & Co. Oporto\nSouthard & Co., Oporto\nPrinted in England\n25/32 Quart\n25/32 QUART.\nALCOHOL 20.5%\nALCOHOL 20.5% BY VOLUME\nAlcohol 20.5% by volume"
+"Southard's Port"
+"SOUTHARD'S PORT"
+"Southard & co. oporto"
+"Southard & Co. oporto."
+"trade"
+"Trade"
+"mark"
+"Mark"
+"Produce of Portugal"
+"Bouro Port"
+"Douro Port"
+"La Quinta Tawny"
+"Produced, bottled, & shipped by"
+"Produced, Bottled & Shipped by"
+"Southard & Co. Oporto"
+"Southard & Co., Oporto"
+"Printed in England"
+"25/32 Quart"
+"25/32 QUART."
+"ALCOHOL 20.5%"
+"Alcohol 20.5% by volume"
+"ALCOHOL 20.5% BY VOLUME"

@@ -1,0 +1,92 @@
+E N
+1 8 7 0
+CASA Ft NDA
+MARCA REG STRADA
+SPANISH CHABLIS
+WHITE WINE
+Miguel Orres
+CO S E C H E R O Y E X P O R T A D O R
+D E I N O S
+uillafranca del Nanades
+Net Contents
+Alcottol 12 olo
+PRODUCT OF SPAIN
+Pint 8 Fl. Oz
+by volume
+
+E
+N
+1
+8
+7
+0
+CASA
+Ft
+NDA
+MARCA
+REG
+STRADA
+SPANISH
+CHABLIS
+WHITE
+WINE
+Miguel
+Orres
+CO
+S
+E
+C
+H
+E
+R
+O
+Y
+E
+X
+P
+O
+R
+T
+A
+D
+O
+R
+D
+E
+I
+N
+O
+S
+uillafranca
+del
+Nanades
+Net
+Contents
+Alcottol
+12
+olo
+PRODUCT
+OF
+SPAIN
+Pint
+8
+Fl.
+Oz
+by
+volume
+"en 1870\nEn 1870\nCasa Findada\nCasa fundada\nSpanish Chablis, White Wine\nSpanish Chablis White Wine\nMiguel Torres, Cosecho y exportador de vinos\nMiguel Torres, Cosechero y Exportador de vinos\nVillafranca del Panades Espana\nVillafranca del Panades, Espana\nAlcohol 12% by volume\nNet Contents 1 Pint 8 Fl. Oz.\nNet contents 1 pint 8 fl. oz.\nProduct of Spain\nPRODUCT OF SPAIN"
+"en 1870"
+"En 1870"
+"Casa fundada"
+"Casa Findada"
+"Spanish Chablis, White Wine"
+"Spanish Chablis White Wine"
+"Miguel Torres, Cosecho y exportador de vinos"
+"Miguel Torres, Cosechero y Exportador de vinos"
+"Villafranca del Panades, Espana"
+"Villafranca del Panades Espana"
+"Alcohol 12% by volume"
+"Net contents 1 pint 8 fl. oz."
+"Net Contents 1 Pint 8 Fl. Oz."
+"PRODUCT OF SPAIN"
+"Product of Spain"

@@ -1,0 +1,43 @@
+OF FRANCE
+PRODUCE
+RE
+PROD
+GRAND VIN DE BOURGOGNE BLANC
+POUILLY FUISSE
+IMPORTED & DISTRIBUTED BY F. S. MATTA LTD. LONDON, SE. 1
+
+OF
+FRANCE
+PRODUCE
+RE
+PROD
+GRAND
+VIN
+DE
+BOURGOGNE
+BLANC
+POUILLY
+FUISSE
+IMPORTED
+&
+DISTRIBUTED
+BY
+F.
+S.
+MATTA
+LTD.
+LONDON,
+SE.
+1
+"Dinner moulin d'Or Soho London 7/21/50 B-\n1945\nPresent ELH eIH\nPresent: ELH CEH\nProduce\nOf France\nGrand Vin de Bourgogne blanc\nGrand Vin de Bourgogne Blanc\nPouilly Fuisse\nImported & Distributed by F.S. Matta Ltd. London, S.E.1.\nImported & Distributed by F.S. Matt LTD London. S.E.1."
+"Dinner moulin d'Or Soho London 7/21/50 B-"
+"1945"
+"Present ELH eIH"
+"Present: ELH CEH"
+"Produce"
+"Of France"
+"Grand Vin de Bourgogne blanc"
+"Grand Vin de Bourgogne Blanc"
+"Pouilly Fuisse"
+"Imported & Distributed by F.S. Matta Ltd. London, S.E.1."
+"Imported & Distributed by F.S. Matt LTD London. S.E.1."

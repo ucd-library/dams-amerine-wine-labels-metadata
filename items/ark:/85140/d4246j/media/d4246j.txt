@@ -1,0 +1,92 @@
+VINA ZACO
+GIST
+ELLA
+COSECHA 1937
+HARO-RIOJA
+"Vina Zaco
+situada privilegiadamente en lo mejor de la Rioja A
+se distingue por la superior calidad de los vinos que producen sus
+61.345 vides, de las mejores variedades viticolas del pais.
+Esmeradamente elaborado y criado por Bodegas Bilbainas, en sus
+magnificas s de Haro, este
+vino pl
+end
+ser considerado por su
+inmejorable procedencia, como lo mas de riojana.
+
+VINA
+ZACO
+GIST
+ELLA
+COSECHA
+1937
+HARO-RIOJA
+"Vina
+Zaco
+situada
+privilegiadamente
+en
+lo
+mejor
+de
+la
+Rioja
+A
+se
+distingue
+por
+la
+superior
+calidad
+de
+los
+vinos
+que
+producen
+sus
+61.345
+vides,
+de
+las
+mejores
+variedades
+viticolas
+del
+pais.
+Esmeradamente
+elaborado
+y
+criado
+por
+Bodegas
+Bilbainas,
+en
+sus
+magnificas
+s
+de
+Haro,
+este
+vino
+pl
+end
+ser
+considerado
+por
+su
+inmejorable
+procedencia,
+como
+lo
+mas
+de
+riojana.
+"Vina Zaco\nBodegas Bilbainas\nRegistro 10 Embotelladores\nRegistro Embotelladores 10\nCosecha 1937\nHaro-Rioja\n\"Vina Zaco\", situada privilegiadamente en lo mejor de la Rioja Alta, se distingue por la superior calidad do los vinos que producen sis 61, 345 vides, de las majores variedades viticolas del pair. Esmeradamente elaborado y criado por Bodegas Bilbainas, en sis magnificas cuevas de Haro, este vino pretende ser considerado por su inmejorable procedencia, como lo mas selecto de produccion riojana. \n\"Vino Zaco\", Situada privilegiadamente en lo mejor de la Rioja Alta, se distingue por la superior calidad de los vinos que producen sus 61.345 vides, de las mejores variedades viticolas del pais. Esmeradamente elaborado y criado por Bodegas Bilbainas, en sus magnificas cuevas de Haro, est vino pretende ser considerado por su inmejorable procedencia, como lo mas selecto de produccion riojana."
+"Vina Zaco"
+"Bodegas Bilbainas"
+"Registro 10 Embotelladores"
+"Registro Embotelladores 10"
+"Cosecha 1937"
+"Haro-Rioja"
+"\"Vina Zaco\", situada privilegiadamente en lo mejor de la Rioja Alta, se distingue por la superior calidad do los vinos que producen sis 61, 345 vides, de las majores variedades viticolas del pair. Esmeradamente elaborado y criado por Bodegas Bilbainas, en sis magnificas cuevas de Haro, este vino pretende ser considerado por su inmejorable procedencia, como lo mas selecto de produccion riojana. "
+"\"Vino Zaco\", Situada privilegiadamente en lo mejor de la Rioja Alta, se distingue por la superior calidad de los vinos que producen sus 61.345 vides, de las mejores variedades viticolas del pais. Esmeradamente elaborado y criado por Bodegas Bilbainas, en sus magnificas cuevas de Haro, est vino pretende ser considerado por su inmejorable procedencia, como lo mas selecto de produccion riojana."

@@ -1,0 +1,36 @@
+GRAND VIN
+DE
+CHATEAU LA TOUR
+1917
+MARQUE
+POS EE
+MIS EN BOUT EILLES
+AU CHATEAU
+
+GRAND
+VIN
+DE
+CHATEAU
+LA
+TOUR
+1917
+MARQUE
+POS
+EE
+MIS
+EN
+BOUT
+EILLES
+AU
+CHATEAU
+"1st Cru Pauillac (Medoc)\nDinner John espina\nGrand Vin de Chateau Latour\nGRAND VIN DE CHATEAU LATOUR\n1917\nMarque Deposee\nMARQUE DÉPOSÉE\nCrariol bourdeax\nEstate bottled\nMIS EN BOUTEILLES AU CHATEAU"
+"1st Cru Pauillac (Medoc)"
+"Dinner John espina"
+"GRAND VIN DE CHATEAU LATOUR"
+"Grand Vin de Chateau Latour"
+"1917"
+"Marque Deposee"
+"MARQUE DÉPOSÉE"
+"Crariol bourdeax"
+"MIS EN BOUTEILLES AU CHATEAU"
+"Estate bottled"

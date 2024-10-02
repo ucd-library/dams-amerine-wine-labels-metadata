@@ -1,0 +1,54 @@
+2/13
+ort unb
+ALCOHOL BY VOLUME 10
+12%
+CONTENTS -1 PINT 7 FLUID OUNCES
+193 er R HINE WINE
+Rauenthaler Burggraben
+Riesling
+(Produced and bottled in Germany)
+Rhein
+d
+
+2/13
+ort
+unb
+ALCOHOL
+BY
+VOLUME
+10
+12%
+CONTENTS
+-1
+PINT
+7
+FLUID
+OUNCES
+193
+er
+R
+HINE
+WINE
+Rauenthaler
+Burggraben
+Riesling
+(Produced
+and
+bottled
+in
+Germany)
+Rhein
+d
+"Rheingau\nDiefenhardt'sches Weingut Neudorf und Rauenthal\nDiefenhardt'tches Weingut Neudorf und Rauenthal\nALCOHOL BY VOLUME 10 - 12%.\nCONTENTS 1 PINT 7 FLUID OUNCES.\nCONTENTS 1 PINT 7 FLUID OUNCES\n1933er\nRHINEWINE\nRauenthaler Burggraben Riesling\n(Produced and bottled in Germany)\nNaturwein / Original-Gemächs mit Korfbrand\nNaturwein / Original=Gewachs mit Korfbrand"
+"Rheingau"
+"Diefenhardt'sches Weingut Neudorf und Rauenthal"
+"Diefenhardt'tches Weingut Neudorf und Rauenthal"
+"ALCOHOL BY VOLUME 10 - 12%."
+"CONTENTS 1 PINT 7 FLUID OUNCES."
+"CONTENTS 1 PINT 7 FLUID OUNCES"
+"1933er"
+"RHINEWINE"
+"Rauenthaler Burggraben Riesling"
+"(Produced and bottled in Germany)"
+"Naturwein / Original-Gemächs mit Korfbrand"
+"Naturwein / Original=Gewachs mit Korfbrand"

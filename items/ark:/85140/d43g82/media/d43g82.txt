@@ -1,0 +1,58 @@
+13
+1937
+CHAMPAGNE
+HENRI MARTIN
+PROPRIETAIRE-VITICULTEUR
+HAUTVILLERS (MARNE)
+PRODUCE OF FRANCE
+ER
+CRU CLAssE
+1 CONTENTS 1 PINT 10 FL. OZ
+ALCOHOL 12 e/o BY VOLUME
+R. M
+0.394
+G. D. E. 30.0059
+
+13
+1937
+CHAMPAGNE
+HENRI
+MARTIN
+PROPRIETAIRE-VITICULTEUR
+HAUTVILLERS
+(MARNE)
+PRODUCE
+OF
+FRANCE
+ER
+CRU
+CLAssE
+1
+CONTENTS
+1
+PINT
+10
+FL.
+OZ
+ALCOHOL
+12
+e/o
+BY
+VOLUME
+R.
+M
+0.394
+G.
+D.
+E.
+30.0059
+"1937\nClos Vougeot Dinner for Jeff Smith 50 Hangal Lane 5/9/47 B+\nClos Vougeot Dinner for Jeff Smith 50 Hangate Lane 5/9/47 B+\nPresent Blomquis Amerine Black Carr Sxxxxxx Price Lancia Selleck Smith Sigal CEH\nPresent Blomquist Amerine Bxxxx Carr XXXXX Price Lancia XXXXX Selleck Smith XXXXX CEH\nChampagne\nHenri Martin\nProprietaire - viticulteur Hautvillers (Marne) 1er cru classe Produce of France Contents: 1 pt 10 fl. oz. Alcohol 12% by volume. R.M. 10.394 G.D.E. 30.0059\nPROPRIÉTAIRE-VITICULTEUR / PRODUCE OF FRANCE / CONTENTS : 1 PINT 10 FL. OZ. / HAUTVILLERS (MARNE) / 1er Cru Classé / ALCOHOL ? 12% BY VOLUME / R.M. 10.394 / G. D. E. 30.0059"
+"1937"
+"Clos Vougeot Dinner for Jeff Smith 50 Hangal Lane 5/9/47 B+"
+"Clos Vougeot Dinner for Jeff Smith 50 Hangate Lane 5/9/47 B+"
+"Present Blomquis Amerine Black Carr Sxxxxxx Price Lancia Selleck Smith Sigal CEH"
+"Present Blomquist Amerine Bxxxx Carr XXXXX Price Lancia XXXXX Selleck Smith XXXXX CEH"
+"Champagne"
+"Henri Martin"
+"Proprietaire - viticulteur Hautvillers (Marne) 1er cru classe Produce of France Contents: 1 pt 10 fl. oz. Alcohol 12% by volume. R.M. 10.394 G.D.E. 30.0059"
+"PROPRIÉTAIRE-VITICULTEUR / PRODUCE OF FRANCE / CONTENTS : 1 PINT 10 FL. OZ. / HAUTVILLERS (MARNE) / 1er Cru Classé / ALCOHOL ? 12% BY VOLUME / R.M. 10.394 / G. D. E. 30.0059"

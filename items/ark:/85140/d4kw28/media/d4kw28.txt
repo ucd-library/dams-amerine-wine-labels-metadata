@@ -1,0 +1,38 @@
+occet so
+R.E. N943
+CA-REGISTRADA
+Vino de ifspana
+Bodegas|racco-dspatiofagal
+grotto
+Oran Reserva 1954
+
+occet
+so
+R.E.
+N943
+CA
+-
+REGISTRADA
+Vino
+de
+ifspana
+Bodegas
+|
+racco
+-
+dspatiofagal
+grotto
+Oran
+Reserva
+1954
+"Excelso\nexcelso\nR.E. No. 43\nMarca registrada\nMarca Registada\nVino de Espana\nVino de España\nBodegas Franco-Espanolas\nBodegas Franco-Españolas\nGran Reserva 1934"
+"Excelso"
+"excelso"
+"R.E. No. 43"
+"Marca registrada"
+"Marca Registada"
+"Vino de España"
+"Vino de Espana"
+"Bodegas Franco-Españolas"
+"Bodegas Franco-Espanolas"
+"Gran Reserva 1934"

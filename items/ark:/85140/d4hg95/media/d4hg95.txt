@@ -1,0 +1,28 @@
+さが
+St-Saphorin
+apnor1n
+ROUGE VIEUX PLANTS
+Jet p.lestuz/vins Co lreytorrens-Lully
+
+さが
+St
+-
+Saphorin
+apnor1n
+ROUGE
+VIEUX
+PLANTS
+Jet
+p.lestuz
+/
+vins
+Co
+lreytorrens
+-
+Lully
+"St-Saphorin\nROUGE VIEUX PLANTS\nJ. et P. Testuz, vins Treytorrens-Cully\nJ. et P. Testuz, vins / Treytorrens-Cully\nSelleck"
+"St-Saphorin"
+"ROUGE VIEUX PLANTS"
+"J. et P. Testuz, vins / Treytorrens-Cully"
+"J. et P. Testuz, vins Treytorrens-Cully"
+"Selleck"

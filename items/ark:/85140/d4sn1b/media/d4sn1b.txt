@@ -1,0 +1,78 @@
+E TOUALITAS i
+00
+SELECCION
+SANTA ANA
+VINO FINO BLANCO
+ELABORADO Y ENVASADO EN ESTABLECIMIENTO No A 7107
+D.I. No 125
+Q ROCA SVN VILLA NUEVA DE GUAYMALLEN
+MENDOZA POR BODEGAS Y
+E VINEDOS SANTA ANA S.A. PROCEDENCIA MENDOZA INDUSTRIA ARGENTINA
+ENVASADO EN ORIGEN
+CONT. NETO
+EMBOTELLADO EN MENDOZA EN LA BODEGA PRODUCTORA
+
+E
+TOUALITAS
+i
+00
+SELECCION
+SANTA
+ANA
+VINO
+FINO
+BLANCO
+ELABORADO
+Y
+ENVASADO
+EN
+ESTABLECIMIENTO
+No
+A
+7107
+D.I.
+No
+125
+Q
+ROCA
+SVN
+VILLA
+NUEVA
+DE
+GUAYMALLEN
+MENDOZA
+POR
+BODEGAS
+Y
+E
+VINEDOS
+SANTA
+ANA
+S.A.
+PROCEDENCIA
+MENDOZA
+INDUSTRIA
+ARGENTINA
+ENVASADO
+EN
+ORIGEN
+CONT.
+NETO
+EMBOTELLADO
+EN
+MENDOZA
+EN
+LA
+BODEGA
+PRODUCTORA
+"Seleccion\nSanta Ana\n7 790762 000020\nVino fino blanco\nVino Fino Blanco\n700 cm3\n\nElaborado y envasado en establecimiento No. A 71071 - D.I. No. 125. Roca s/n, Villa Nueva de Guaymallen, Mendoza por Bodegas y Vinedos Santa Ana S.A. Procedencia Mendoza-Industria Argentina. Envasado en Origen. Cont. Neto.\nElaborado y Envasado en establecimento No. A 71-71 - D.I. No. 125\nEmbotellado en Mendoza en la bodega productora"
+"Seleccion"
+"Santa Ana"
+"7 790762 000020"
+"Vino fino blanco"
+"Vino Fino Blanco"
+"700 cm3"
+"Elaborado y envasado en establecimiento No. A 71071 - D.I. No. 125. Roca s/n, Villa Nueva de Guaymallen, Mendoza por Bodegas y Vinedos Santa Ana S.A. Procedencia Mendoza-Industria Argentina. Envasado en Origen. Cont. Neto."
+""
+"Elaborado y Envasado en establecimento No. A 71-71 - D.I. No. 125"
+"Embotellado en Mendoza en la bodega productora"

@@ -1,0 +1,33 @@
+aint
+Stephe
+APPELLATION CONTROLEE
+(G')
+Emilion St. bouteille
+en Mis 6alhoud
+Mégociant Saint-Emilion (Gironde)
+
+aint
+Stephe
+APPELLATION
+CONTROLEE
+(G')
+Emilion
+St.
+bouteille
+en
+Mis
+6alhoud
+Mégociant
+Saint-Emilion
+(Gironde)
+"St. Emilion\nSaint-Estéphe\nSaint-Estèphe\nAppellation Controlee\nAPPELLATION CONTROLÉE\ná St. Emilion (Gde)\nJean Jacques\nGalhaud\nNégociant á Saint-Emilion (Gironde)\nNégociant à Saint-Emilion (Gironde)"
+"St. Emilion"
+"Saint-Estèphe"
+"Saint-Estéphe"
+"APPELLATION CONTROLÉE"
+"Appellation Controlee"
+"á St. Emilion (Gde)"
+"Jean Jacques"
+"Galhaud"
+"Négociant à Saint-Emilion (Gironde)"
+"Négociant á Saint-Emilion (Gironde)"

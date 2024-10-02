@@ -1,0 +1,32 @@
+MARCAREGISTRA
+BRANDY
+Elaborado a base de la destilacion de Vinos Selectos de
+JEREZ
+M. HURTADO JEREZ, a.
+
+MARCAREGISTRA
+BRANDY
+Elaborado
+a
+base
+de
+la
+destilacion
+de
+Vinos
+Selectos
+de
+JEREZ
+M.
+HURTADO
+JEREZ,
+a.
+"Marca Registrada\nFlorido y Compania\nBrandy\nbrandy\nElaborado a base de la destilacion de Vinos selectos de\nelaborado a base de la destilacion de Vinos selectos de\nJEREZ\nJEREZ\nSanlucar de Barrameda"
+"Marca Registrada"
+"Florido y Compania"
+"Brandy"
+"brandy"
+"Elaborado a base de la destilacion de Vinos selectos de"
+"elaborado a base de la destilacion de Vinos selectos de\nJEREZ"
+"JEREZ"
+"Sanlucar de Barrameda"

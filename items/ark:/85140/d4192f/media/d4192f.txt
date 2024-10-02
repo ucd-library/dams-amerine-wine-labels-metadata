@@ -1,0 +1,31 @@
+NORNE
+premier Brana Cru
+UhateanMaison-Blanche
+RESERVE
+Mis en
+DU CASINO
+Propriété
+R. Cache maille
+1945
+
+NORNE
+premier
+Brana
+Cru
+UhateanMaison-Blanche
+RESERVE
+Mis
+en
+DU
+CASINO
+Propriété
+R.
+Cache
+maille
+1945
+"Yvorne\nPremier Grand Cru\nChateau Maison-Blanche\nChateau Maison - Blanche\n1945"
+"Yvorne"
+"Premier Grand Cru"
+"Chateau Maison-Blanche"
+"Chateau Maison - Blanche"
+"1945"

@@ -1,0 +1,38 @@
+APPELLATION. CONTRO LEE
+SOCIETE DES GDS VINS DES COTES DU RHONE ET DE PROVENCE
+NEGOCIANTAVACOUEYRASIVse)
+LIVRE EN FUTS
+PRODUCE OF FRANCE
+
+APPELLATION.
+CONTRO
+LEE
+SOCIETE
+DES
+GDS
+VINS
+DES
+COTES
+DU
+RHONE
+ET
+DE
+PROVENCE
+NEGOCIANTAVACOUEYRASIVse)
+LIVRE
+EN
+FUTS
+PRODUCE
+OF
+FRANCE
+"Chateauneuf du Pape\nAppellation Controlee\nSociete des Gos. Vins des Cotes du Rhone et de Provence\nSociete des Gds. Vins des Cotes du Rhone et de Provence\nNegociant a Vacqueyras (Vse.)\nNegociant a Vacoueyras (Vse.)\nLivre en Futs\nLivre en futs\nProduce Of France\nProde"
+"Chateauneuf du Pape"
+"Appellation Controlee"
+"Societe des Gos. Vins des Cotes du Rhone et de Provence"
+"Societe des Gds. Vins des Cotes du Rhone et de Provence"
+"Negociant a Vacoueyras (Vse.)"
+"Negociant a Vacqueyras (Vse.)"
+"Livre en futs"
+"Livre en Futs"
+"Prode"
+"Produce Of France"

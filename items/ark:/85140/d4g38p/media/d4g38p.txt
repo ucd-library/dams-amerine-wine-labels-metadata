@@ -1,0 +1,81 @@
+G RAND
+VI
+CHATEAu
+PONTE CANET
+Pauillac 1924
+eORDEAL,
+Appellation
+Red
+Pau
+Bordeaux
+DEPOSEE
+MARQUE
+oontrolée
+Wine
+E& FILS
+MIS
+EN BOUTEILLES PAR
+L
+OPR
+RES
+BORDEAUX
+CONTENTS 1 PINT a FLUID OUNCEs
+ALCOHOL 1 1 BY VoLuME
+
+G
+RAND
+VI
+CHATEAu
+PONTE
+CANET
+Pauillac
+1924
+eORDEAL,
+Appellation
+Red
+Pau
+Bordeaux
+DEPOSEE
+MARQUE
+oontrolée
+Wine
+E&
+FILS
+MIS
+EN
+BOUTEILLES
+PAR
+L
+OPR
+RES
+BORDEAUX
+CONTENTS
+1
+PINT
+a
+FLUID
+OUNCEs
+ALCOHOL
+1
+1
+BY
+VoLuME
+"Grand Vin\nGRAND VIN\nDinner W&F Society Palace Hotel 4/17/50\nDinner / W & F Society \"Palace Hotel / 4/17/50\nCHÂTEAU PONTET CANET\nChateau Pontet Canet\nPauillac 1924\nAppellation Pauillac contrôlée\nAppellation Pauillac controlee\nBordeaux Cruse & Fils frères\nBordeaux Cruse & Fils Freres\nRed Bordeaux Wine\nMarque Deposee\nMarque déposée\nMis en bouteilles par les proprietaires Cruse & Fils Freres Bordeaux France\nMis en bouteilles par les proprietaires Cruse & Fils Freres Bordeaux FRANCE\nContents 1 pint 8 fluid ounces Alcohol 11% by volume\nContents 1 pint 8 fluid ounces Alcohol 11% by volume "
+"GRAND VIN"
+"Grand Vin"
+"Dinner / W & F Society \"Palace Hotel / 4/17/50"
+"Dinner W&F Society Palace Hotel 4/17/50"
+"CHÂTEAU PONTET CANET"
+"Chateau Pontet Canet"
+"Pauillac 1924"
+"Appellation Pauillac contrôlée"
+"Appellation Pauillac controlee"
+"Bordeaux Cruse & Fils Freres"
+"Bordeaux Cruse & Fils frères"
+"Red Bordeaux Wine"
+"Marque Deposee"
+"Marque déposée"
+"Mis en bouteilles par les proprietaires Cruse & Fils Freres Bordeaux France"
+"Mis en bouteilles par les proprietaires Cruse & Fils Freres Bordeaux FRANCE"
+"Contents 1 pint 8 fluid ounces Alcohol 11% by volume"
+"Contents 1 pint 8 fluid ounces Alcohol 11% by volume "

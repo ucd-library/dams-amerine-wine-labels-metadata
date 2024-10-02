@@ -1,0 +1,39 @@
+BROUILLY
+Grand
+BEAUJOLAIS
+APPELLATION
+VILLAGES
+CONTROLEE
+PEUCHET & Cio, NEGOCIANTS PARIS
+JEAN BN. MPR
+
+BROUILLY
+Grand
+BEAUJOLAIS
+APPELLATION
+VILLAGES
+CONTROLEE
+PEUCHET
+&
+Cio,
+NEGOCIANTS
+PARIS
+JEAN
+BN.
+MPR
+"Brouilly\nBROUILLY\nGrand\nGrand Vin\nVin\n\n1952\nAPPELLATION CONTROLÉE\nAppellation Controlee\nBEAUJOLAIS VILLAGES\nBeaujolais Villages\nPeuchet & Cie, Negociants, Paris\nPEUCHET & Cie, NÉGOCIANTS - PARIS\nJeanbin, Impr.\nJEANBIN, IMPR."
+"Brouilly"
+"BROUILLY"
+"Grand Vin"
+"Grand"
+""
+"Vin"
+"1952"
+"APPELLATION CONTROLÉE"
+"Appellation Controlee"
+"BEAUJOLAIS VILLAGES"
+"Beaujolais Villages"
+"PEUCHET & Cie, NÉGOCIANTS - PARIS"
+"Peuchet & Cie, Negociants, Paris"
+"JEANBIN, IMPR."
+"Jeanbin, Impr."

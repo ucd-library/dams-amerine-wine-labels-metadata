@@ -1,0 +1,35 @@
+GRAND VIN
+CHATEAU LATOUR
+1916
+MARQUE
+DE P o s EE
+MIS EN BOUTEILLES
+AU CHATEAU
+
+GRAND
+VIN
+CHATEAU
+LATOUR
+1916
+MARQUE
+DE
+P
+o
+s
+EE
+MIS
+EN
+BOUTEILLES
+AU
+CHATEAU
+"1st Cru Pauillac (Medoc)\n1st Cru Pouillac (Medoc)\nWine Dinner Bohemian Club January 18, 1940 .95\nWine Dinner Bohemian Club January 18 1940. .95\nGRAND VIN de CHATEAU LATOUR\n1916\nG. CRANIOL BORDEAUX\nMARQUE DÉPOSÉE\nMARQUE DEPOSEE\nMIS EN BOUTEILLES AU CHATEAU"
+"1st Cru Pouillac (Medoc)"
+"1st Cru Pauillac (Medoc)"
+"Wine Dinner Bohemian Club January 18 1940. .95"
+"Wine Dinner Bohemian Club January 18, 1940 .95"
+"GRAND VIN de CHATEAU LATOUR"
+"1916"
+"G. CRANIOL BORDEAUX"
+"MARQUE DÉPOSÉE"
+"MARQUE DEPOSEE"
+"MIS EN BOUTEILLES AU CHATEAU"

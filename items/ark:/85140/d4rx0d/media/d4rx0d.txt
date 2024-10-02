@@ -1,0 +1,46 @@
+CHATEAU DES TOURS
+BEAUJOLAIS STETIENNE-LA-VARENNE
+APPELLATION CONTROLEE
+S.C.I DOMAINE DES TOURS
+ST ETIENNE-LA-VARENNE
+PROPRIETAIRE
+RHONE.
+MIS EN BOUTEILLES AU CHATEAU
+DEPOSE
+
+CHATEAU
+DES
+TOURS
+BEAUJOLAIS
+STETIENNE-LA-VARENNE
+APPELLATION
+CONTROLEE
+S.C.I
+DOMAINE
+DES
+TOURS
+ST
+ETIENNE-LA-VARENNE
+PROPRIETAIRE
+RHONE.
+MIS
+EN
+BOUTEILLES
+AU
+CHATEAU
+DEPOSE
+"Chateau des tours\nChateau Des Tours\nBeaujolais St. Etienne-La-Varenne\nappellation contrôlée\nAppellation Contrôlée\nS.C.I. domaine des tours propriétaire\nS.C.I.Domaine Des Tours Propriétaire\nSt. Etienne-La-Varenne Rhône\nmis en bouteilles au chateau\nMis en Bouteilles au Chateau\nDepose\ndéposé\nR. F.\nR.F."
+"Chateau Des Tours"
+"Chateau des tours"
+"Beaujolais St. Etienne-La-Varenne"
+"Appellation Contrôlée"
+"appellation contrôlée"
+"S.C.I. domaine des tours propriétaire"
+"S.C.I.Domaine Des Tours Propriétaire"
+"St. Etienne-La-Varenne Rhône"
+"mis en bouteilles au chateau"
+"Mis en Bouteilles au Chateau"
+"Depose"
+"déposé"
+"R. F."
+"R.F."

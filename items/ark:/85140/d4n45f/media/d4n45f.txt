@@ -1,0 +1,56 @@
+FROM ESTATE OF HENRY HALL WARD
+23 BOND STREET, NEW YORK
+WHO DIES 1872
+MARCH & BENSON MADEIRA
+GROWTH 826
+MPORTED
+1832
+BOTTLED
+834
+EXAMINED AND REBOTTLED MARCH, 19O5
+C. A. VAN RENSSELAER & Co.
+
+FROM
+ESTATE
+OF
+HENRY
+HALL
+WARD
+23
+BOND
+STREET,
+NEW
+YORK
+WHO
+DIES
+1872
+MARCH
+&
+BENSON
+MADEIRA
+GROWTH
+826
+MPORTED
+1832
+BOTTLED
+834
+EXAMINED
+AND
+REBOTTLED
+MARCH,
+19O5
+C.
+A.
+VAN
+RENSSELAER
+&
+Co.
+"From Estate of Henry Hall Ward 23 Bond Street, New York Who Died 1872\nFrom the estate of Henry Hall Ward, 23 Bond Street, New York, who died 1872\nMarch & Benson Madeira\nMARCH & BENSON MADEIRA\nGrowth 1826, Imported 1832, Bottled 1834\nGROWTH 1826 IMPORTED 1832 BOTTLED 1834\nEXAMINED AND REBOTTLED MARCH, 1905 BY C. A. VAN RENSSELAER & CO\nExamined and Rebottled March 1905 by C.A. van Rensselaer & Co."
+"From Estate of Henry Hall Ward 23 Bond Street, New York Who Died 1872"
+"From the estate of Henry Hall Ward, 23 Bond Street, New York, who died 1872"
+"March & Benson Madeira"
+"MARCH & BENSON MADEIRA"
+"GROWTH 1826 IMPORTED 1832 BOTTLED 1834"
+"Growth 1826, Imported 1832, Bottled 1834"
+"Examined and Rebottled March 1905 by C.A. van Rensselaer & Co."
+"EXAMINED AND REBOTTLED MARCH, 1905 BY C. A. VAN RENSSELAER & CO"

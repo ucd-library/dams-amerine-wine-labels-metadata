@@ -1,0 +1,47 @@
+O
+PAR
+s
+忙
+RIESLING
+BOTTLED BY THE CAVES
+NT MAXIM'S PARIS
+1 950
+S
+The c-
+THE CAVES DU RESTAURANT M
+RANT MAXIM
+
+O
+PAR
+s
+忙
+RIESLING
+BOTTLED
+BY
+THE
+CAVES
+NT
+MAXIM
+'S
+PARIS
+1
+950
+S
+The
+c
+-
+THE
+CAVES
+DU
+RESTAURANT
+M
+RANT
+MAXIM
+"TAVES MAXIM'S\ncaves maxim's paris\nRIESLING\nriesling\n1950\nBOTTLED BY THE CAVES DU RESTAURANT MAXIM'S PARIS\nbottled by the caves du restaurant maxim's paris"
+"TAVES MAXIM'S"
+"caves maxim's paris"
+"RIESLING"
+"riesling"
+"1950"
+"bottled by the caves du restaurant maxim's paris"
+"BOTTLED BY THE CAVES DU RESTAURANT MAXIM'S PARIS"

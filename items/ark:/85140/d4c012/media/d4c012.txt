@@ -1,0 +1,30 @@
+CHIANTI
+STRAVECCHIO
+Riferva Ducale
+I. L. RVFFINO
+Contenuto
+PONTASSIEVE FIRENZE
+ntilitri 75
+co
+
+CHIANTI
+STRAVECCHIO
+Riferva
+Ducale
+I.
+L.
+RVFFINO
+Contenuto
+PONTASSIEVE
+FIRENZE
+ntilitri
+75
+co
+"\"a good wine\" maa\nChianti Stravecchio Riserva Ducale\nS.A. Grafitalia gih Pizzi & Pisio\n\nI.L. Ruffino Pontassieve (Firenze)\nI.L. Ruffino Pontssieve (Firenze)\nContenuto centilitri 75 co."
+"\"a good wine\" maa"
+"Chianti Stravecchio Riserva Ducale"
+""
+"S.A. Grafitalia gih Pizzi & Pisio"
+"I.L. Ruffino Pontassieve (Firenze)"
+"I.L. Ruffino Pontssieve (Firenze)"
+"Contenuto centilitri 75 co."

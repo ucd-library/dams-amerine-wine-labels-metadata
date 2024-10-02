@@ -1,0 +1,37 @@
+a on poJd
+Corton Clos du Ro
+P
+PRODUCE OF FRANCE
+PIERRE PONNELLE
+PROPRIETAIRE & NEGOCIANT
+A BEAUNE (COTE D'OR)
+SE
+
+a
+on
+poJd
+Corton
+Clos
+du
+Ro
+P
+PRODUCE
+OF
+FRANCE
+PIERRE
+PONNELLE
+PROPRIETAIRE
+&
+NEGOCIANT
+A
+BEAUNE
+(COTE
+D'OR)
+SE
+"corton clos du roi- ponnelle produce of france\nCorton Clos du Roi-Ponnelle\nPierre Ponnelle\npierre ponnelle\nPROPRIETAIRE & NEGOCIANT A BEAUNE (COTE D'OR)\nproprietaire & negociant a beaune (cote d or)"
+"corton clos du roi- ponnelle produce of france"
+"Corton Clos du Roi-Ponnelle"
+"Pierre Ponnelle"
+"pierre ponnelle"
+"proprietaire & negociant a beaune (cote d or)"
+"PROPRIETAIRE & NEGOCIANT A BEAUNE (COTE D'OR)"

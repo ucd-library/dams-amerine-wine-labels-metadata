@@ -1,0 +1,33 @@
+Chateau Durfort
+Grand Cru Classé
+Margaux.
+Haut-Médo c
+ppellation Controle e
+1940
+MIS EN BOUTEILLE AU CHATEAU
+
+Chateau
+Durfort
+Grand
+Cru
+Classé
+Margaux.
+Haut-Médo
+c
+ppellation
+Controle
+e
+1940
+MIS
+EN
+BOUTEILLE
+AU
+CHATEAU
+"CHATEAU DURFORT GRAND CRU CLASSE MARGAUX\nChateau Durfort Grand Cru Classé Margaux\nHaut-Médoc Appellation Controlée\nHaut-Médoc Appellation Contrôlée\n1940\nMis en Bouteille au Chateau\nMIS EN BOUTEILLE AU CHATEAU"
+"Chateau Durfort Grand Cru Classé Margaux"
+"CHATEAU DURFORT GRAND CRU CLASSE MARGAUX"
+"Haut-Médoc Appellation Controlée"
+"Haut-Médoc Appellation Contrôlée"
+"1940"
+"Mis en Bouteille au Chateau"
+"MIS EN BOUTEILLE AU CHATEAU"

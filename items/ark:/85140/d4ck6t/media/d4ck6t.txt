@@ -1,0 +1,9 @@
+SPEZIAL
+Rattenhaufen
+
+SPEZIAL
+Rattenhaufen
+"Hallbrunn 5/14/52 (Beer)\nSpezial Hofbrau Kaltenhaufen\nHofbräu SPEZIAL Kaltenhaufen (Bavarian beer)"
+"Hallbrunn 5/14/52 (Beer)"
+"Spezial Hofbrau Kaltenhaufen"
+"Hofbräu SPEZIAL Kaltenhaufen (Bavarian beer)"

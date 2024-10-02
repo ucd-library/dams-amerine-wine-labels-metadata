@@ -1,0 +1,7 @@
+L FOR 0, K, R
+
+L
+FOR
+0,
+K,
+R

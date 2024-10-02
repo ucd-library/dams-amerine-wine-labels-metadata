@@ -1,0 +1,29 @@
+MARCA
+CASTEL LANA
+DEPO-
+SITATA
+CEMBRA
+ANTONIO Fondata 1813
+
+MARCA
+CASTEL
+LANA
+DEPO-
+SITATA
+CEMBRA
+ANTONIO
+Fondata
+1813
+"CABERNET\nCabernet\n\"Good, round, well-balanced wine, but not Cabernet.\" MAA\n\"Good, round, well-balanced wine, butnot Cabernet,\" MAA\nItaly\nvineyard & winery\nvineyard & chateau\n\n\nPREMIATA CASA VINICOLA - Fondata 1873\nANTONIO CEMBRAN - BOLZANO\nANTONIO CEMBRAN managethis.Fc README.org BOLZANO"
+"Cabernet"
+"CABERNET"
+"\"Good, round, well-balanced wine, but not Cabernet.\" MAA"
+"\"Good, round, well-balanced wine, butnot Cabernet,\" MAA"
+"Italy"
+"vineyard & winery"
+"vineyard & chateau"
+""
+""
+"PREMIATA CASA VINICOLA - Fondata 1873"
+"ANTONIO CEMBRAN managethis.Fc README.org BOLZANO"
+"ANTONIO CEMBRAN - BOLZANO"

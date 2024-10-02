@@ -1,0 +1,47 @@
+MOSEL
+SAAR
+RUWER
+1951
+er
+Rafeler Taubenberg
+n a tur r ein
+Original Sellerabaug
+LANDES-WEINBAULEHRANSTALT
+TRIER MOSEL
+D. Co., T.
+
+MOSEL
+SAAR
+RUWER
+1951
+er
+Rafeler
+Taubenberg
+n
+a
+tur
+r
+ein
+Original
+Sellerabaug
+LANDES-WEINBAULEHRANSTALT
+TRIER
+MOSEL
+D.
+Co.,
+T.
+"1951er\nKafeler Tuebenberg\nKaseler Taubenberg\nnafurrein\nnaturrein\nOriginal=Kellerabzug\nOriginal Kellerabzug\nMosel Saar Ruwer\nMOSEL SAAR RUWER\nLANDES-WEINBAULEHRANSTALT\nTRIER/MOSEL\nTrier/Mosel\nD.&CO.,T.\nD. & CO, T."
+"1951er"
+"Kafeler Tuebenberg"
+"Kaseler Taubenberg"
+"nafurrein"
+"naturrein"
+"Original=Kellerabzug"
+"Original Kellerabzug"
+"MOSEL SAAR RUWER"
+"Mosel Saar Ruwer"
+"LANDES-WEINBAULEHRANSTALT"
+"Trier/Mosel"
+"TRIER/MOSEL"
+"D. & CO, T."
+"D.&CO.,T."

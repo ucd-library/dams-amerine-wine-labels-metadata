@@ -1,0 +1,29 @@
+tire el Ermitage
+QUALITE
+SUPER EUR E
+LE
+REGAL NORMAND
+LA NEUVILLE
+Seine-Inférieure
+
+tire
+el
+Ermitage
+QUALITE
+SUPER
+EUR
+E
+LE
+REGAL
+NORMAND
+LA
+NEUVILLE
+Seine-Inférieure
+"Cidre de l'Ermitage\nqualite superieure\nQualite Superieure\nle Regal Normand\nle regal normand\nla neuville (seine-inferiure)\nLa Neuville (Seine-Inferieure)"
+"Cidre de l'Ermitage"
+"Qualite Superieure"
+"qualite superieure"
+"le Regal Normand"
+"le regal normand"
+"La Neuville (Seine-Inferieure)"
+"la neuville (seine-inferiure)"

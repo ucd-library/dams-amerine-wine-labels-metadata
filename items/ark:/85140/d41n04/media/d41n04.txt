@@ -1,0 +1,19 @@
+DE E
+NO
+2 35
+FINO SAN PATRICIO
+
+DE
+E
+NO
+2
+35
+FINO
+SAN
+PATRICIO
+"R.de.E. No 235\nGarvey\nJEREZ\nJerez\nFino San Patricio"
+"R.de.E. No 235"
+"Garvey"
+"Jerez"
+"JEREZ"
+"Fino San Patricio"

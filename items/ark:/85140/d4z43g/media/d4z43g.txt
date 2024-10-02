@@ -1,0 +1,26 @@
+ut CANTIN SA MADRID BARCELONA
+MARCAREGISTRADA
+NS 43
+odegas Franco- 5paitolas
+
+ut
+CANTIN
+SA
+MADRID
+BARCELONA
+MARCAREGISTRADA
+NS
+43
+odegas
+Franco-
+5paitolas
+"VINA - SOLE\n\nMarca Registrada\nR.E. no 43\nR. E. No. 43\nBodegas Franco-Españolas\nBodegas Franco-Espanolas\n\n"
+"VINA - SOLE"
+""
+"Marca Registrada"
+"R. E. No. 43"
+"R.E. no 43"
+"Bodegas Franco-Espanolas"
+"Bodegas Franco-Españolas"
+""
+""

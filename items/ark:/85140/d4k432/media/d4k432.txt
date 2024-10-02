@@ -1,0 +1,51 @@
+MOSEL
+SAAR
+RUWER
+1950
+er
+Trierer neu berg
+naturrein
+original Siellerabaug
+LANDES-WEINBAULEHRANSTALT
+TRIER/MOSEL
+D.ACQ. T.
+
+MOSEL
+SAAR
+RUWER
+1950
+er
+Trierer
+neu
+berg
+naturrein
+original
+Siellerabaug
+LANDES-WEINBAULEHRANSTALT
+TRIER/MOSEL
+D.ACQ.
+T.
+"1950er\n1950 er\n1950er\nTrierer Neuberg\ntrierer Neuberg\nTríerer Neuberg\nnaturrein\nnaturrein / Original-Kellerabzug\nnaturrein Original = kellerabzug\noriginal-kellerabzug\nOriginal-Kellerabzug\nMOSEL SAAR RUWER\nMOSEL / SAAR / RUWER\nmosel saar ruwer\nMOSEL SAAR RUWER\nLANDES-WEINBAULEHRANSTALT / TRIER/MOSEL\nLANDES-WEINBAULEHRANSTALT TRIER/MOSEL\nLandes-Weinbaulehranstalt Trier/Mosel\nlandes-weinbaulehranstalt trier/mosel\nD. & CO. T.\nD.& CO.,T.\nd. a. co. t\nD. & CO. T."
+"1950er"
+"1950 er"
+"1950er"
+"Trierer Neuberg"
+"trierer Neuberg"
+"Tríerer Neuberg"
+"naturrein"
+"naturrein / Original-Kellerabzug"
+"naturrein Original = kellerabzug"
+"original-kellerabzug"
+"Original-Kellerabzug"
+"MOSEL / SAAR / RUWER"
+"MOSEL SAAR RUWER"
+"mosel saar ruwer"
+"MOSEL SAAR RUWER"
+"LANDES-WEINBAULEHRANSTALT / TRIER/MOSEL"
+"LANDES-WEINBAULEHRANSTALT TRIER/MOSEL"
+"landes-weinbaulehranstalt trier/mosel"
+"Landes-Weinbaulehranstalt Trier/Mosel"
+"D.& CO.,T."
+"D. & CO. T."
+"d. a. co. t"
+"D. & CO. T."

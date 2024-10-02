@@ -1,0 +1,21 @@
+PAUL C
+OLIN. s.A. NEucH AT EL
+Switzerland
+
+PAUL
+C
+OLIN.
+s.A.
+NEucH
+AT
+EL
+Switzerland
+"Switzerland \nSwitzerland\nJeff Surih\nNeudhatel\nRECOLTE 1945\n\nPAUL COLIN. S.A. NEUCHATEL.\nPaul Colin. S.A. Neudhatel."
+"Switzerland"
+"Switzerland "
+"Jeff Surih"
+"Neudhatel"
+""
+"RECOLTE 1945"
+"PAUL COLIN. S.A. NEUCHATEL."
+"Paul Colin. S.A. Neudhatel."

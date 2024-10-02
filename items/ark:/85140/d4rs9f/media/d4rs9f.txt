@@ -1,0 +1,31 @@
+Especial
+Constantino
+S.V. P CONSTANTINO, LTDA
+PRODUCE OF PORTUGAL
+to E
+
+Especial
+Constantino
+S.V.
+P
+CONSTANTINO,
+LTDA
+PRODUCE
+OF
+PORTUGAL
+to
+E
+"Too Sweet maa\nToo sweet. In a a\nEspecial\nFine Old Brandy\nConstantino, old brandy\nConstantino\nS.V.P. CONSTANTINO, LTD A\nS.V.P. Constantino, Ltda.\nPorto \nPorto\nProduce of Portuga\nProduce of Portugal\n10 E"
+"Too Sweet maa"
+"Too sweet. In a a"
+"Especial"
+"Fine Old Brandy"
+"Constantino"
+"Constantino, old brandy"
+"S.V.P. CONSTANTINO, LTD A"
+"S.V.P. Constantino, Ltda."
+"Porto "
+"Porto"
+"Produce of Portugal"
+"Produce of Portuga"
+"10 E"

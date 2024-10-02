@@ -1,0 +1,26 @@
+Federico Paternina
+COSECHA 1942
+R. E. 329
+RIOUA)
+CEDA SAUTERNES
+
+Federico
+Paternina
+COSECHA
+1942
+R.
+E.
+329
+RIOUA)
+CEDA
+SAUTERNES
+"Federico Paternina\nOllauri\nCOSECHA 1942\nr.e 329\nR.E. 329\n(RIOJA)\n(Rioja)\nCepa Sauternes\nCEPA SAUTERNES"
+"Federico Paternina"
+"Ollauri"
+"COSECHA 1942"
+"R.E. 329"
+"r.e 329"
+"(RIOJA)"
+"(Rioja)"
+"CEPA SAUTERNES"
+"Cepa Sauternes"

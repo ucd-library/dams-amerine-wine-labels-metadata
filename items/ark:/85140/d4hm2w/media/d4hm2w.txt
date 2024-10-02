@@ -1,0 +1,37 @@
+GRAND VIN
+D E
+CHATEAU LA TOUR
+1938
+MARQUE DEPO s EE
+MIS EN BOUTEILLES
+AU CHATEAU
+
+GRAND
+VIN
+D
+E
+CHATEAU
+LA
+TOUR
+1938
+MARQUE
+DEPO
+s
+EE
+MIS
+EN
+BOUTEILLES
+AU
+CHATEAU
+"Dinner Hallcrest Spring 1949 B- (Thin) From my cellar\nSpring 1949 (from my cellar)\nDinner Hillcrest Spring 1949 B- (Thin) from my cellar\nPresent: Amorine[?] Monaghan SLH CSH\nGrand Vin de Chateau Latour\nGRAND VIN DE CHATEAU LATOUR\n1938\nMarque Deposee\nMARQUE DÉPOSÉÉ\nMis en bouteilles au chateau\nMIS EN BOUTEILLES AU CHATEAU"
+"Dinner Hillcrest Spring 1949 B- (Thin) from my cellar"
+"Spring 1949 (from my cellar)"
+"Dinner Hallcrest Spring 1949 B- (Thin) From my cellar"
+"Present: Amorine[?] Monaghan SLH CSH"
+"Grand Vin de Chateau Latour"
+"GRAND VIN DE CHATEAU LATOUR"
+"1938"
+"Marque Deposee"
+"MARQUE DÉPOSÉÉ"
+"Mis en bouteilles au chateau"
+"MIS EN BOUTEILLES AU CHATEAU"

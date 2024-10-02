@@ -1,0 +1,49 @@
+GOLD SEAL
+NEW YORK STATE
+BURGUNDY
+WIN E
+PRODUCED AND BOTTLED BY
+URBANA WINE COMPANY, INC.
+URBANA, HAMMONDSPORT, N. Y
+i ALCOHOL 12% BY VOLUME
+ESTABLISHED 1865
+
+GOLD
+SEAL
+NEW
+YORK
+STATE
+BURGUNDY
+WIN
+E
+PRODUCED
+AND
+BOTTLED
+BY
+URBANA
+WINE
+COMPANY,
+INC.
+URBANA,
+HAMMONDSPORT,
+N.
+Y
+i
+ALCOHOL
+12%
+BY
+VOLUME
+ESTABLISHED
+1865
+"Gold Seal\nNew York State\nBurgundy\nWINE\nWine\n\nProduced and Bottled By\nUrbana Wine Company, Inc.\nUrbana, Hammonsport, N.Y.\nAlchol 12% by volume - established 1865\nFPG"
+"Gold Seal"
+"New York State"
+"Burgundy"
+"WINE"
+"Wine"
+""
+"Produced and Bottled By"
+"Urbana Wine Company, Inc."
+"Urbana, Hammonsport, N.Y."
+"Alchol 12% by volume - established 1865"
+"FPG"

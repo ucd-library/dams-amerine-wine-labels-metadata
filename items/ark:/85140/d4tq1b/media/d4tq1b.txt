@@ -1,0 +1,19 @@
+hallillac Medoc
+BORDEAUX
+MISS EN BOUTEILLE AU CHATEAU
+
+hallillac
+Medoc
+BORDEAUX
+MISS
+EN
+BOUTEILLE
+AU
+CHATEAU
+"CHATau LONGUEVILLE Pauillac-Médoc\nCHATAU LONGUEVILLE Pauillac-Médoc\n1929\nau Baron de Pichon-Longueville\nBordeaux\nau BARON de PICHON • LONGUEVILLE\nMIS EN BOUTEILLE AU CHATEAU\nMis en Bouteille au Chateau"
+"CHATau LONGUEVILLE Pauillac-Médoc"
+"CHATAU LONGUEVILLE Pauillac-Médoc"
+"1929\nau Baron de Pichon-Longueville\nBordeaux"
+"au BARON de PICHON • LONGUEVILLE"
+"Mis en Bouteille au Chateau"
+"MIS EN BOUTEILLE AU CHATEAU"

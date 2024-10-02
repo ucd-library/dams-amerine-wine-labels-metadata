@@ -1,0 +1,33 @@
+19 43
+CHATEAU LA POINTE
+0102 era
+APPELLATION CONT ROLE E
+Pau
+DELAH OUTRE
+Propriétaire
+
+19
+43
+CHATEAU
+LA
+POINTE
+0102
+era
+APPELLATION
+CONT
+ROLE
+E
+Pau
+DELAH
+OUTRE
+Propriétaire
+"1943\nChateau la Pointe\nPremier Cru Pomero;\nPremier Cru Pomerol\nAppellation Controlee\npaul DELAHOUTRE Proprietaire\nPaul Delahoutre Proprietaire\n7 P S\nFPG (initials)"
+"1943"
+"Chateau la Pointe"
+"Premier Cru Pomero;"
+"Premier Cru Pomerol"
+"Appellation Controlee"
+"paul DELAHOUTRE Proprietaire"
+"Paul Delahoutre Proprietaire"
+"FPG (initials)"
+"7 P S"

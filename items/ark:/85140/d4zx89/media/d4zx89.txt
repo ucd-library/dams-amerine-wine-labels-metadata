@@ -1,0 +1,21 @@
+25 EN 888
+JAHRE
+MAISON FONDEE
+COGNAC
+
+25
+EN
+888
+JAHRE
+MAISON
+FONDEE
+COGNAC
+"25 Jahre\nV. S. O. P.\nV.S.O.P.\nmaison fondee en 1888\nMaison Fondée en 1888\nJules Bouchet & Co.\nCognac\ncognac"
+"25 Jahre"
+"V.S.O.P."
+"V. S. O. P."
+"Maison Fondée en 1888"
+"maison fondee en 1888"
+"Jules Bouchet & Co."
+"Cognac"
+"cognac"

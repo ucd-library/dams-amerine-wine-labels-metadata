@@ -1,0 +1,57 @@
+DEPOSEE
+MARQUE
+PRODUCE
+OF FRANCE
+Chablis
+Abbant
+A REGNARD & FILS
+CHTBLIS (Yor2m2E)
+Alcoholic Strength 12 o/o by volume
+Net Contents 1 Pint 8 Fluid Onces
+HULSE IMPORT CO. 625-699. Second Strett, SAN FRANCISCO, Calif, 1-1327
+
+DEPOSEE
+MARQUE
+PRODUCE
+OF
+FRANCE
+Chablis
+Abbant
+A
+REGNARD
+&
+FILS
+CHTBLIS
+(Yor2m2E)
+Alcoholic
+Strength
+12
+o/o
+by
+volume
+Net
+Contents
+1
+Pint
+8
+Fluid
+Onces
+HULSE
+IMPORT
+CO.
+625-699.
+Second
+Strett,
+SAN
+FRANCISCO,
+Calif,
+1-1327
+"Deposee\nMarque\n\nOf France\nProduce\nPRODUCE OF FRANCE\nChablis L'Abbaye\nA. Regnard & Fils"
+"Deposee"
+"Marque"
+""
+"Of France"
+"Produce"
+"PRODUCE OF FRANCE"
+"Chablis L'Abbaye"
+"A. Regnard & Fils"

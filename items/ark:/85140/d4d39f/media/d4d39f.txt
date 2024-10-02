@@ -1,0 +1,35 @@
+CE OF FRAN
+CHATEAU. HAUT BRION
+1950
+APPELLATION GRAVES CONTROLEE
+S. A. Du CHAU HAUT-BRZON, PROPRIETAIRE A PESSAC
+
+CE
+OF
+FRAN
+CHATEAU.
+HAUT
+BRION
+1950
+APPELLATION
+GRAVES
+CONTROLEE
+S.
+A.
+Du
+CHAU
+HAUT-BRZON,
+PROPRIETAIRE
+A
+PESSAC
+"PRODUCE OF FRANCE\nProduce Of France\nChateau Haut-Brion\n1950\nBlanc\nAppellation Graves Controlee\nMis en bouteilles au Chateau\nMis en beuteilles au Chateau\nS.A. du Chau Haut-Brion, Proprietaire a Pessac\nS.A. du Chau. Haut Brion, Proprietaire a Pessac (Graves)"
+"PRODUCE OF FRANCE"
+"Produce Of France"
+"Chateau Haut-Brion"
+"1950"
+"Blanc"
+"Appellation Graves Controlee"
+"Mis en beuteilles au Chateau"
+"Mis en bouteilles au Chateau"
+"S.A. du Chau. Haut Brion, Proprietaire a Pessac (Graves)"
+"S.A. du Chau Haut-Brion, Proprietaire a Pessac"

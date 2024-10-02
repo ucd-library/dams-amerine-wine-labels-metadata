@@ -1,0 +1,32 @@
+Bobadilla y
+TIO RAFA
+AMONTILLADO MUY FINO
+BODEGAS DE
+MANUEL FERNANDEZ Y CIA., 8. L.
+
+Bobadilla
+y
+TIO
+RAFA
+AMONTILLADO
+MUY
+FINO
+BODEGAS
+DE
+MANUEL
+FERNANDEZ
+Y
+CIA.,
+8.
+L.
+"Babadilla y Cia. Jerez\nbobadilla y Cia jerez\ntio rafa\nTio Rafa\namontillado muy fino\nAmontillado Muy Fino\nbodegas de manuel fernandez y cia S.L. jerez\nBODEGAS DE MANUEL FENANDEZ Y CIA., S. L. JEREZ\nFdez de Bobadillia\nfdez de bobadilla"
+"Babadilla y Cia. Jerez"
+"bobadilla y Cia jerez"
+"tio rafa"
+"Tio Rafa"
+"Amontillado Muy Fino"
+"amontillado muy fino"
+"BODEGAS DE MANUEL FENANDEZ Y CIA., S. L. JEREZ"
+"bodegas de manuel fernandez y cia S.L. jerez"
+"fdez de bobadilla"
+"Fdez de Bobadillia"

@@ -1,0 +1,39 @@
+MI AN ZA NILLA
+E L PRO CIO
+M BR
+N. 222
+VIVDA B MANU ON
+ANLV CAR BAR RAM EDA
+
+MI
+AN
+ZA
+NILLA
+E
+L
+PRO
+CIO
+M
+BR
+N.
+222
+VIVDA
+B
+MANU
+ON
+ANLV
+CAR
+BAR
+RAM
+EDA
+"Manzanilla\nMANZANILLA\nEl Rocio\nEL ROCIO\nTimbre a metalico\nTimbre A Metalico\nNo. 222\nN.˚ 222\nVivda de Manjon Sanlucar de Barrameda\nVivda de Manjon, Sanlvcar de Barrameda"
+"MANZANILLA"
+"Manzanilla"
+"El Rocio"
+"EL ROCIO"
+"Timbre a metalico"
+"Timbre A Metalico"
+"No. 222"
+"N.˚ 222"
+"Vivda de Manjon, Sanlvcar de Barrameda"
+"Vivda de Manjon Sanlucar de Barrameda"

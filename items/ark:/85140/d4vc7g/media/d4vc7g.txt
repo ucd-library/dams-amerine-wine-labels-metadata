@@ -1,0 +1,46 @@
+O
+-NON-PLUS-r
+N-PLUS, ULTRA,
+GRAN VINO DE RESERVA
+RAVEmosCODORNIU
+isg0DORmiu
+VENTOS
+BRUT
+S.SADURNI DE NOYA
+EMB: 375
+375
+
+O
+-NON
+-
+PLUS
+-
+r
+N
+-
+PLUS
+,
+ULTRA
+,
+GRAN
+VINO
+DE
+RESERVA
+RAVEmosCODORNIU
+isg0DORmiu
+VENTOS
+BRUT
+S.SADURNI
+DE
+NOYA
+EMB
+:
+375
+375
+"non plus ultra\nGran Vino de Reserva\nRaventos Codorniu\nBrut\nS. Sadurni de Noya\nEmb. 375"
+"non plus ultra"
+"Gran Vino de Reserva"
+"Raventos Codorniu"
+"Brut"
+"S. Sadurni de Noya"
+"Emb. 375"

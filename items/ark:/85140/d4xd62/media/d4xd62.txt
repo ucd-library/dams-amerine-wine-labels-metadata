@@ -1,0 +1,29 @@
+MARK
+TRADE
+APPELLATION CoNTROLEE
+DEL PERI ER FRERES
+A BERGER AC
+NEGOCIANTS
+FRANCE
+
+MARK
+TRADE
+APPELLATION
+CoNTROLEE
+DEL
+PERI
+ER
+FRERES
+A
+BERGER
+AC
+NEGOCIANTS
+FRANCE
+"pecharmant appelation controlee\ndelperier freres\na bergerac\nnegociants\nD.F.\nd. f.\nfrance"
+"pecharmant appelation controlee"
+"delperier freres"
+"a bergerac"
+"negociants"
+"D.F."
+"d. f."
+"france"

@@ -1,0 +1,38 @@
+VIN d'ALGERIE
+IMPORTATION 1946
+Prix au consommateur 22,50 fr.
+GAN D
+Ets Bruggeman
+R. C. an
+4791
+DE POSE
+
+VIN
+d'ALGERIE
+IMPORTATION
+1946
+Prix
+au
+consommateur
+22,50
+fr.
+GAN
+D
+Ets
+Bruggeman
+R.
+C.
+an
+4791
+DE
+POSE
+"Algieria\nAlgeria\nvineyard & winery\nvineyard & chateau\nVIN d'ALGÉRIE\n\nEts Bruggeman GAND\nJeff Smith, Brussels\nR. C. Gand 4791"
+"Algeria"
+"Algieria"
+"vineyard & winery"
+"vineyard & chateau"
+"VIN d'ALGÉRIE"
+""
+"Ets Bruggeman GAND"
+"Jeff Smith, Brussels"
+"R. C. Gand 4791"

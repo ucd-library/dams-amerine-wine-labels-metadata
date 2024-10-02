@@ -1,0 +1,17 @@
+1953
+haine
+Mise en bouteilles par l'acheteur
+
+1953
+haine
+Mise
+en
+bouteilles
+par
+l'acheteur
+"1953\nMuscadet de Sevre et Maine appellation controlee Mise en bouteilles par l'acheteur\nMuscadet de Lévre et Maine appellation contrôlée Mise en bouteilles par l'acheteur\nBarré Fres-Beau Soleil á Gorges, (Loire Infre-)\nBarre Tres - Beau-Soleil a Gorges, (Loire-Indre-)"
+"1953"
+"Muscadet de Lévre et Maine appellation contrôlée Mise en bouteilles par l'acheteur"
+"Muscadet de Sevre et Maine appellation controlee Mise en bouteilles par l'acheteur"
+"Barre Tres - Beau-Soleil a Gorges, (Loire-Indre-)"
+"Barré Fres-Beau Soleil á Gorges, (Loire Infre-)"

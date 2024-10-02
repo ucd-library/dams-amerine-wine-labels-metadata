@@ -1,0 +1,45 @@
+DE POSE
+Rosé Henri IV
+11°
+Sélection Maison
+Ets PECOUT et Fils PAU
+N 9 48
+WETTERWALD.BORDEA
+
+DE
+POSE
+Rosé
+Henri
+IV
+11°
+Sélection
+Maison
+Ets
+PECOUT
+et
+Fils
+PAU
+N
+9
+48
+WETTERWALD.BORDEA
+"Pyraneer\npYRANESE\nRose Henri IV\nRosé Henri IV\nRose Henri IV\n11°\n11\n11\nSélection Maison\nSelection Maison\nSelection Maison\nEts PECOUT et Fils -- Pau\nEtx PÉCOUT et Fils - PAU\nEts Pecout et Fils -- Pau\nEts Pecout et Fils - Pau\nDÉPOSÉ\nNo. 481\nNº 481\nWETTERWALD, BORDEAUX"
+"Pyraneer"
+"pYRANESE"
+"Rose Henri IV"
+"Rosé Henri IV"
+"Rose Henri IV"
+"11"
+"11°"
+"11"
+"Selection Maison"
+"Sélection Maison"
+"Selection Maison"
+"Etx PÉCOUT et Fils - PAU"
+"Ets PECOUT et Fils -- Pau"
+"Ets Pecout et Fils - Pau"
+"Ets Pecout et Fils -- Pau"
+"DÉPOSÉ"
+"Nº 481"
+"No. 481"
+"WETTERWALD, BORDEAUX"

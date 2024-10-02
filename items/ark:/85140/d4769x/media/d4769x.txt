@@ -1,0 +1,41 @@
+1937
+LOS DE LA
+ROILETTE
+FLEURIE CONTROLEE
+APPELLATION
+BOTTLED AT THE ESTATE BY
+MAURICE CROZET
+PROPRIETOR
+MPED. JOUEFROY. EEA UNE
+
+1937
+LOS
+DE
+LA
+ROILETTE
+FLEURIE
+CONTROLEE
+APPELLATION
+BOTTLED
+AT
+THE
+ESTATE
+BY
+MAURICE
+CROZET
+PROPRIETOR
+MPED.
+JOUEFROY.
+EEA
+UNE
+"1937\nClos de la Roilette\n1er Grand Cru classe de Fleurie\nAppellation Fleurie Controlee\nAppellation FLEURIE controlee\nBottled at the estate by Proprietor Maurice Crozet \nBottled at the estate by Maurice Crozet Proprietor\nBottled at the Estate by\nMaurice Crozet\nImp en Jouffroy, Beaune"
+"1937"
+"Clos de la Roilette"
+"1er Grand Cru classe de Fleurie"
+"Appellation Fleurie Controlee"
+"Appellation FLEURIE controlee"
+"Bottled at the estate by Proprietor Maurice Crozet "
+"Bottled at the estate by Maurice Crozet Proprietor"
+"Bottled at the Estate by"
+"Maurice Crozet"
+"Imp en Jouffroy, Beaune"

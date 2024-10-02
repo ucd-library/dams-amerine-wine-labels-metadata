@@ -1,0 +1,43 @@
+MAR CA
+2 O
+REGIS TRADA
+MANZANILLA
+LA GITANA
+SUCESORES DE
+DA
+E. HIDALGO
+DE
+SAN LUCAR DE BARRAMEDA
+
+MAR
+CA
+2
+O
+REGIS
+TRADA
+MANZANILLA
+LA
+GITANA
+SUCESORES
+DE
+DA
+E.
+HIDALGO
+DE
+SAN
+LUCAR
+DE
+BARRAMEDA
+"No. 20\nMARCA REGISTRADA\nCorked!\ncorked!\nMANZANILLA LA GITANA\nManzanilla La Gitana\nM. Hidalgo v Ca. Sucesores de Vda de E. Hidalgo Sanlucar de Barrameda\nM. Hidalgo y Ca. SUCESORES Vda. de E. Hidalgo SANLUCAR de BARRAMEDA\n\nSucesores de Vda de E. Hidalgo\n\nSanlucar de Barrameda"
+"No. 20"
+"MARCA REGISTRADA"
+"Corked!"
+"corked!"
+"MANZANILLA LA GITANA"
+"Manzanilla La Gitana"
+"M. Hidalgo v Ca. Sucesores de Vda de E. Hidalgo Sanlucar de Barrameda"
+"M. Hidalgo y Ca. SUCESORES Vda. de E. Hidalgo SANLUCAR de BARRAMEDA"
+"Sucesores de Vda de E. Hidalgo"
+""
+""
+"Sanlucar de Barrameda"

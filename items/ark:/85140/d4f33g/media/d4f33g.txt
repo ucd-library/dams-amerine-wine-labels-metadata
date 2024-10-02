@@ -1,0 +1,47 @@
+CON AAC
+TIMBRE.
+23
+ETAL
+LIT MIGUEL, SAI IDO JEREZ
+Conac obtenido de la destilacion de los vinos mas selectos de
+esta localidad por la casa Joaquin Leonar.
+
+CON
+AAC
+TIMBRE.
+23
+ETAL
+LIT
+MIGUEL,
+SAI
+IDO
+JEREZ
+Conac
+obtenido
+de
+la
+destilacion
+de
+los
+vinos
+mas
+selectos
+de
+esta
+localidad
+por
+la
+casa
+Joaquin
+Leonar.
+"JOAQUIN LEONAR\nJoaquin Leonar\nTIMBRE A METALICO 23\nTimbre A Metalico 23\nSanlúcar de Barrameda\nSANLUCAR DE BARRAMEDA\nLIT MIGUEL SALIDO-JEREZ\nLit Miguel Salido-Jerez\nConac obtenido de la distilacion de los vinos mas selectos de esta localidad por la casa Joaquin Leonar.\nCoñac obtenido de la destilación de los vinos más selectos de esta localidad por la casa Joaquin Leonar."
+"JOAQUIN LEONAR"
+"Joaquin Leonar"
+"Timbre A Metalico 23"
+"TIMBRE A METALICO 23"
+"Sanlúcar de Barrameda"
+"SANLUCAR DE BARRAMEDA"
+"LIT MIGUEL SALIDO-JEREZ"
+"Lit Miguel Salido-Jerez"
+"Conac obtenido de la distilacion de los vinos mas selectos de esta localidad por la casa Joaquin Leonar."
+"Coñac obtenido de la destilación de los vinos más selectos de esta localidad por la casa Joaquin Leonar."

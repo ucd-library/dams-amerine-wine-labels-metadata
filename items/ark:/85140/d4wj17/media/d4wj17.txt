@@ -1,0 +1,16 @@
+RCA REGISTRADA
+MA
+Bodegas Franco-Espanolas
+LoGRONNo
+RESERVA 4
+1943
+
+RCA
+REGISTRADA
+MA
+Bodegas
+Franco-Espanolas
+LoGRONNo
+RESERVA
+4
+1943

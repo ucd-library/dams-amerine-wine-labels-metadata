@@ -1,0 +1,32 @@
+MARES
+APPELLATION CONTROLEE
+Comte Georges deVo GUE
+1937
+GRAND VIN DE BOURGOGNE
+mis en bouteilles la propriete
+a
+
+MARES
+APPELLATION
+CONTROLEE
+Comte
+Georges
+deVo
+GUE
+1937
+GRAND
+VIN
+DE
+BOURGOGNE
+mis
+en
+bouteilles
+la
+propriete
+a
+"BONNES-MARES APPELLATION CONTROLEE Comte Georges de Vogue\nBonnes-Mares Appellation Controlee Comte Georges de Vogue\n1937\nGRAND VIN DE BOURGOGNE mis en bouteilles a la propriete\nGrand Vin De Bourgogne Mis en bouteilles a la propriete"
+"Bonnes-Mares Appellation Controlee Comte Georges de Vogue"
+"BONNES-MARES APPELLATION CONTROLEE Comte Georges de Vogue"
+"1937"
+"GRAND VIN DE BOURGOGNE mis en bouteilles a la propriete"
+"Grand Vin De Bourgogne Mis en bouteilles a la propriete"

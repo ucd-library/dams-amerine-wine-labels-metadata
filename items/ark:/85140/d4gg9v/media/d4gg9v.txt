@@ -1,0 +1,21 @@
+Cabernet Schwanburg
+RODOLFO CARLI S, a g.
+CASTELLO SCHWANBURG
+NALLES
+
+Cabernet
+Schwanburg
+RODOLFO
+CARLI
+S,
+a
+g.
+CASTELLO
+SCHWANBURG
+NALLES
+"\" Good but too young\" m a a\n\"Good but too young\" m a a\nCabernet Schwanburg\nRodolfo Carli S. a g.l. Castello Schwanburg Nalles\nRODOLFO CARLI S. a. g. l. CASTELLO SCHWANBURG NALLES"
+"\" Good but too young\" m a a"
+"\"Good but too young\" m a a"
+"Cabernet Schwanburg"
+"Rodolfo Carli S. a g.l. Castello Schwanburg Nalles"
+"RODOLFO CARLI S. a. g. l. CASTELLO SCHWANBURG NALLES"

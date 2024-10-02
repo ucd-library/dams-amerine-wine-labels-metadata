@@ -1,0 +1,29 @@
+GRAND VIN DU BEAUJOLAIS
+Saint-Amour
+APPELLATION CONTRO LEE
+Jean BOUCAUD, Propriétaire Vigneron, Domaine de Bessay, JULIENAS (Rhone)
+
+GRAND
+VIN
+DU
+BEAUJOLAIS
+Saint-Amour
+APPELLATION
+CONTRO
+LEE
+Jean
+BOUCAUD,
+Propriétaire
+Vigneron,
+Domaine
+de
+Bessay,
+JULIENAS
+(Rhone)
+"Grand Vin du Beaujolais\nGRAND VIN DU BEAUJOLAIS\nSaint-Amour APPELLATION CONTROLÉE\nJean BOUCAUD, Proprietaire-Vigneron, Domain de Bessay, JULIENAS (Rhone)\n7 R G\n7 P [?]"
+"Grand Vin du Beaujolais"
+"GRAND VIN DU BEAUJOLAIS"
+"Saint-Amour APPELLATION CONTROLÉE"
+"Jean BOUCAUD, Proprietaire-Vigneron, Domain de Bessay, JULIENAS (Rhone)"
+"7 R G"
+"7 P [?]"

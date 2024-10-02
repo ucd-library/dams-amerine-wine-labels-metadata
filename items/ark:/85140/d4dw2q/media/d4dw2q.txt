@@ -1,0 +1,15 @@
+ARTI GRAR FELI BONETTI NILANO
+
+ARTI
+GRAR
+FELI
+BONETTI
+NILANO
+"Red\n\"Good wine not great\" maa\nBorgogna\nFr. Kupelwieser Bolzano (Alto Adige)\nFr. Kupelwieser Bokano (Alto Adige)\nArts Graf Bonetti Milano XVII\n"
+"Red"
+"\"Good wine not great\" maa"
+"Borgogna"
+"Fr. Kupelwieser Bokano (Alto Adige)"
+"Fr. Kupelwieser Bolzano (Alto Adige)"
+""
+"Arts Graf Bonetti Milano XVII"

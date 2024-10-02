@@ -1,0 +1,19 @@
+1 anntnec
+Dr2. posestvo
+SLOVENIJA
+JUGOSLAVI3A
+
+1
+anntnec
+Dr2.
+posestvo
+SLOVENIJA
+JUGOSLAVI3A
+"Traminec\nDrz. posestvo\nDrz. posestvo \nJERUZALEM \nJeruzalem\nSlovenija - Jugoslavia\nSlovenija -- Jugoslavia"
+"Traminec"
+"Drz. posestvo "
+"Drz. posestvo"
+"Jeruzalem"
+"JERUZALEM "
+"Slovenija -- Jugoslavia"
+"Slovenija - Jugoslavia"

@@ -1,0 +1,34 @@
+DoMAINEDECHEVALIER
+APPELLATION GRAVES CONTROLEE
+194
+remi
+JEAN RICARD
+PROPRIETAIRE
+LEO (GNAN GIRONDED
+
+DoMAINEDECHEVALIER
+APPELLATION
+GRAVES
+CONTROLEE
+194
+remi
+JEAN
+RICARD
+PROPRIETAIRE
+LEO
+(GNAN
+GIRONDED
+"Graves\n\ndomaine de chevalier\nTried with John Esquire\nappellation graves controlee\nAPELLATION GRAVES CONTROLEE\nPremier Cru\npremier cru\n1946\nJean Ricard, Proprietaire\nJEAN RICARD, PROPRIETAIRE\nLéognan (Gironde)\nLeognan (Gironde)"
+"Graves"
+""
+"domaine de chevalier"
+"Tried with John Esquire"
+"appellation graves controlee"
+"APELLATION GRAVES CONTROLEE"
+"Premier Cru"
+"premier cru"
+"1946"
+"JEAN RICARD, PROPRIETAIRE"
+"Jean Ricard, Proprietaire"
+"Leognan (Gironde)"
+"Léognan (Gironde)"

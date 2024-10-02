@@ -1,0 +1,56 @@
+BY VOLUME
+ALCOHOL 12%
+CALIFORNIA
+BURGUNDY
+ull-lSodied
+ellow
+une
+BOTTLED BY
+Bercut-Vandervoort & Co., Inc., San Francisco
+NOB HILL
+SELECTED
+The Fairmont Hotel
+SAN FRANCISCO
+BY
+
+BY
+VOLUME
+ALCOHOL
+12%
+CALIFORNIA
+BURGUNDY
+ull-lSodied
+ellow
+une
+BOTTLED
+BY
+Bercut-Vandervoort
+&
+Co.,
+Inc.,
+San
+Francisco
+NOB
+HILL
+SELECTED
+The
+Fairmont
+Hotel
+SAN
+FRANCISCO
+BY
+"The Fairmont Hotel\nalcohol 12% by volume\nAlcohol 12% By Volume\nAlcohol 12%\nCalifornia \nCalifornia\nBurgundy\nBURGUNDY\nA Full-Bodied Mellow Red Wine\nA Full Bodied Mellow Red Wine\nBOTTLED BY\nBercut-Vandervoort & Co. Inc., San Francisco\nSelected by The Fairmont Hotel Nob Hill San Francisco\nSELECTED BY The Fairmont Hotel NOB HILL SAN FRANCISCO"
+"The Fairmont Hotel"
+"Alcohol 12% By Volume"
+"alcohol 12% by volume"
+"Alcohol 12%"
+"California "
+"California"
+"BURGUNDY"
+"Burgundy"
+"A Full Bodied Mellow Red Wine"
+"A Full-Bodied Mellow Red Wine"
+"BOTTLED BY"
+"Bercut-Vandervoort & Co. Inc., San Francisco"
+"Selected by The Fairmont Hotel Nob Hill San Francisco"
+"SELECTED BY The Fairmont Hotel NOB HILL SAN FRANCISCO"

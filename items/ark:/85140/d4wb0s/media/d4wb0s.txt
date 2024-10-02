@@ -1,0 +1,24 @@
+Chateau
+17 49
+Vintage
+19
+Corton Grancey
+APPELLATION CORTON CONTROLEE
+LOUIS LA TOUR, Negociant Beaune (Cote-d'Or)
+
+Chateau
+17
+49
+Vintage
+19
+Corton
+Grancey
+APPELLATION
+CORTON
+CONTROLEE
+LOUIS
+LA
+TOUR,
+Negociant
+Beaune
+(Cote-d'Or)

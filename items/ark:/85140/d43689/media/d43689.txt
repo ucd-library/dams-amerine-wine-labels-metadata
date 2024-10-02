@@ -1,0 +1,25 @@
+CHATEAU
+SMITH HAUT LAFITTE
+GRAND VIN
+1947
+MARTI LLAC
+Mis en Bouteille au Chateatt
+Appellation Graves controlée
+
+CHATEAU
+SMITH
+HAUT
+LAFITTE
+GRAND
+VIN
+1947
+MARTI
+LLAC
+Mis
+en
+Bouteille
+au
+Chateatt
+Appellation
+Graves
+controlée

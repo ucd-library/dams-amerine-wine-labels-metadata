@@ -1,0 +1,52 @@
+MOSEL-SAAR RUWER
+1037er
+Berntafteler Riesling flatur
+Weingut 6dymidte Rung
+Still Wine
+Contains 1 pint 8 fluid ounces. Produced in Germany Imported by
+Rheinwein Imports Inc. 817 Boylston Street Boston (Mass) I-922
+
+MOSEL-SAAR
+RUWER
+1037er
+Berntafteler
+Riesling
+flatur
+Weingut
+6dymidte
+Rung
+Still
+Wine
+Contains
+1
+pint
+8
+fluid
+ounces.
+Produced
+in
+Germany
+Imported
+by
+Rheinwein
+Imports
+Inc.
+817
+Boylston
+Street
+Boston
+(Mass)
+I-922
+"324\nSellick\nMosel Saar Ruwer\nMosel-Saar-Ruwer\n1937er\nBernfalteler Riesling Natur\nWeingut Schmidt-Kunz\nWeingut Schmidt Kunz\nStill Wine\nContains 1 pint 8 fluid ounces. Produced in Germany - Imported by Rheinweing Imports Inc. 817 Boylston Street Boston (Mass) I-922\nContains 1 pint 8 fluid ounces. Produced in Germany - Imported by Rheinwein Imports Inc. 817 Boylston Street Boston (Mass) I-922\nJung & Co. Bad Freuznach"
+"324"
+"Sellick"
+"Mosel-Saar-Ruwer"
+"Mosel Saar Ruwer"
+"1937er"
+"Bernfalteler Riesling Natur"
+"Weingut Schmidt-Kunz"
+"Weingut Schmidt Kunz"
+"Still Wine"
+"Contains 1 pint 8 fluid ounces. Produced in Germany - Imported by Rheinwein Imports Inc. 817 Boylston Street Boston (Mass) I-922"
+"Contains 1 pint 8 fluid ounces. Produced in Germany - Imported by Rheinweing Imports Inc. 817 Boylston Street Boston (Mass) I-922"
+"Jung & Co. Bad Freuznach"

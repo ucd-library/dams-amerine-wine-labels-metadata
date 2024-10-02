@@ -1,0 +1,28 @@
+E PROF
+ANTENORI
+VINE SANTO ROSSO
+MARCHESI L.E P. ANTINORI
+FIRENZE
+
+E
+PROF
+ANTENORI
+VINE
+SANTO
+ROSSO
+MARCHESI
+L.E
+P.
+ANTINORI
+FIRENZE
+"1943\nTe Duce Proficio\nVino Santo \nANTINORI\nAntinori\nVINO SANTO ROSSO\nVino Santo Rosso\nMarchesi L.e P. Antinori\nMarchesi L. e P. Antinori\nFirenze"
+"1943"
+"Te Duce Proficio"
+"Vino Santo "
+"ANTINORI"
+"Antinori"
+"Vino Santo Rosso"
+"VINO SANTO ROSSO"
+"Marchesi L. e P. Antinori"
+"Marchesi L.e P. Antinori"
+"Firenze"

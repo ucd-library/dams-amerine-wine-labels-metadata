@@ -1,0 +1,40 @@
+CHAPOUTIER & C,E
+TAIN (DRODAE)
+PRODUCT OF FRANCE
+ALCOHOL 13% BY voe
+LB
+
+CHAPOUTIER
+&
+C
+,
+E
+TAIN
+(
+DRODAE
+)
+PRODUCT
+OF
+FRANCE
+ALCOHOL
+13
+%
+BY
+voe
+LB
+"FAC ET SPERA\nCrest with three barrels\nChateauneuf du Pape\nChateaneuf du Pape\nFac et spera\nContents 12 fluid ozs\nCONTENTS 12 FLUID OZS\nAlcohol 13% by vol\nALCOHOL 13 % BY VOL\nChapoutier & Cie\nCHAPOUTIER & CIE\nTain Drome\nTAIN (DRÔME)\nPRODUCT OF FRANCE\nProduct of France"
+"Crest with three barrels"
+"FAC ET SPERA"
+"Chateaneuf du Pape"
+"Chateauneuf du Pape"
+"Fac et spera"
+"Contents 12 fluid ozs"
+"CONTENTS 12 FLUID OZS"
+"Alcohol 13% by vol"
+"ALCOHOL 13 % BY VOL"
+"CHAPOUTIER & CIE"
+"Chapoutier & Cie"
+"TAIN (DRÔME)"
+"Tain Drome"
+"Product of France"
+"PRODUCT OF FRANCE"

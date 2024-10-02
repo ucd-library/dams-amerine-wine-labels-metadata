@@ -1,0 +1,16 @@
+dada en
+9 8
+
+dada
+en
+9
+8
+"Chili (red)\nChile (Red)\nVina Linderos\nGazitua - Braun Chile (Fundada en 1865)\nGazitua-Braun, Chile (Fundada en 1865)\nGran Vino Tinto\n1918\nTipo de Exportacion"
+"Chili (red)"
+"Chile (Red)"
+"Vina Linderos"
+"Gazitua-Braun, Chile (Fundada en 1865)"
+"Gazitua - Braun Chile (Fundada en 1865)"
+"Gran Vino Tinto"
+"1918"
+"Tipo de Exportacion"

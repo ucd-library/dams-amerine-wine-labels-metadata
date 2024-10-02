@@ -1,0 +1,50 @@
+BRANDY
+Trium Ador
+Chicago
+Burdeos.
+Paris.
+PRODUCTOELABORADO
+A BASE DE LA DESTILACION DE VINOS SELECTOS DE
+florida
+ASANLUCARDE BARRAMEDA
+
+BRANDY
+Trium
+Ador
+Chicago
+Burdeos.
+Paris.
+PRODUCTOELABORADO
+A
+BASE
+DE
+LA
+DESTILACION
+DE
+VINOS
+SELECTOS
+DE
+florida
+ASANLUCARDE
+BARRAMEDA
+"BRANDY\nbrandy\ntriunfador\nTriunfador\nChicago\nchicago\nCadiz.\nburdeos\nBurdeos.\nParis.\nparis\nProducto elaborado a base de la destilacion de vinos selectos de\nproducto elaborado a base de la destilacion de vinos selectos de\njerez\nJEREZ\nFlorido y Cia\nflorido y c.ia\nPhlegas\nsanlucar de barrameda\nSANLUCAR DE BARRAMEDA"
+"BRANDY"
+"brandy"
+"Triunfador"
+"triunfador"
+"Chicago"
+"chicago"
+"Cadiz."
+"burdeos"
+"Burdeos."
+"Paris."
+"paris"
+"Producto elaborado a base de la destilacion de vinos selectos de"
+"producto elaborado a base de la destilacion de vinos selectos de"
+"JEREZ"
+"jerez"
+"Florido y Cia"
+"florido y c.ia"
+"Phlegas"
+"SANLUCAR DE BARRAMEDA"
+"sanlucar de barrameda"

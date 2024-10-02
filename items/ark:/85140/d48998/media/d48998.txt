@@ -1,0 +1,48 @@
+1 2
+ALCOHOL
+BY VOLUME
+CALIFORNIA
+MOUNTAIN FOLLE BLANCHE
+ine made from na eFolle
+LOUIS MARTINI
+BRAND
+Produced and Bottled at the Winery b
+Louis Martini
+ST. HELENA, NAPA COUNTY, CALIFORNIA
+
+1
+2
+ALCOHOL
+BY
+VOLUME
+CALIFORNIA
+MOUNTAIN
+FOLLE
+BLANCHE
+ine
+made
+from
+na
+eFolle
+LOUIS
+MARTINI
+BRAND
+Produced
+and
+Bottled
+at
+the
+Winery
+b
+Louis
+Martini
+ST.
+HELENA,
+NAPA
+COUNTY,
+CALIFORNIA
+"12^ alcohol by volume\n12% alcohol by volume\nCalifornia Mountain Folle Blanche A white wine made from sonoma Folle blanche grapes. Louis Martini Brand. Produced and bottled at the Winery by Louis M. Martini St Helena, Napa County, California\n"
+"12^ alcohol by volume"
+"12% alcohol by volume"
+"California Mountain Folle Blanche A white wine made from sonoma Folle blanche grapes. Louis Martini Brand. Produced and bottled at the Winery by Louis M. Martini St Helena, Napa County, California"
+""

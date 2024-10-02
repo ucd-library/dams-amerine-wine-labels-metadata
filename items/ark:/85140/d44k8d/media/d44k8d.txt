@@ -1,0 +1,50 @@
+L A T A B L E
+IS IRS DE
+LE NANTAIS
+100
+MARQUE DEPO SEE
+DONATIEN BAHUAUD & Cie, Négociguts LA. CHAPELLE HEULIN (L l.) France
+
+L
+A
+T
+A
+B
+L
+E
+IS
+IRS
+DE
+LE
+NANTAIS
+100
+MARQUE
+DEPO
+SEE
+DONATIEN
+BAHUAUD
+&
+Cie,
+Négociguts
+LA.
+CHAPELLE
+HEULIN
+(L
+l.)
+France
+"Loire\n...AISIRS DE LA TABLE\nPlaisirs de la table\nLe Nantais\nLE NANTAIS\n10°\n10\nMarque Déposée\nMARQUE DÉPOSÉE\nDonatien Bahuaud & Cie, Négociants LA CHAPELLE HEULIN (L.-I.) France\nDONATIEN BAHUAUD & Cie, Négociants LA CHAPELLE HEULIN (L.-I.) France\nCREATION JEANBIN\nCreation Jeanbin\nFPS\n7 P S"
+"Loire"
+"Plaisirs de la table"
+"...AISIRS DE LA TABLE"
+"Le Nantais"
+"LE NANTAIS"
+"10"
+"10°"
+"Marque Déposée"
+"MARQUE DÉPOSÉE"
+"DONATIEN BAHUAUD & Cie, Négociants LA CHAPELLE HEULIN (L.-I.) France"
+"Donatien Bahuaud & Cie, Négociants LA CHAPELLE HEULIN (L.-I.) France"
+"Creation Jeanbin"
+"CREATION JEANBIN"
+"FPS"
+"7 P S"

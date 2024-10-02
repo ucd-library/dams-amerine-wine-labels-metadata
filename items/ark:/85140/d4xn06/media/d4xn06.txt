@@ -1,0 +1,41 @@
+BIL
+BODEG
+VINA POM AL
+HARo RIOJA
+EMBOTELLADO EN LA BoDEGA
+REG. E M B
+N. lo
+CO SE CHA 1947
+LERCHUNDI, S. A. AHLBAO
+
+BIL
+BODEG
+VINA
+POM
+AL
+HARo
+RIOJA
+EMBOTELLADO
+EN
+LA
+BoDEGA
+REG.
+E
+M
+B
+N.
+lo
+CO
+SE
+CHA
+1947
+LERCHUNDI,
+S.
+A.
+AHLBAO
+"Vina Pomal\nBodegas Billainas\nHaro -- Rioja\nEmbotellado en la Bodega Reg. Emb. No. 10\nCosecha 1947"
+"Vina Pomal"
+"Bodegas Billainas"
+"Haro -- Rioja"
+"Embotellado en la Bodega Reg. Emb. No. 10"
+"Cosecha 1947"

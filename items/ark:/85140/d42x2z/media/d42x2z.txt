@@ -1,0 +1,57 @@
+15 ro
+SO
+72 Net Contents 1 Pint 9 Fl. Oz.
+Alcohol 14
+by volume
+ON FONDEE EN
+BOUCHARD AINE & FILS
+NEGOCIANTS A BEAUNE.
+COTE D'OR FRANCE
+PRODUCT OF FRANCE
+
+15
+ro
+SO
+72
+Net
+Contents
+1
+Pint
+9
+Fl.
+Oz.
+Alcohol
+14
+by
+volume
+ON
+FONDEE
+EN
+BOUCHARD
+AINE
+&
+FILS
+NEGOCIANTS
+A
+BEAUNE.
+COTE
+D'OR
+FRANCE
+PRODUCT
+OF
+FRANCE
+"Alcohol 14% by volume\nNet Contents 1 Pint 9 Fl. Oz.\nNet contents 1 pint 9 fl. Oz\n1929\nAt Home 1940 .50\nAiltome [[?]] 1940 .50\nChambertin\nMAISON FONDÉE EN 1750\nMaison fondee en 1750\nBOUCHARD AÎNÉ & FILS\nBouchard Aîné & Fils\nBouchard aine & fils\nNÈGOCIANTS A BEAUNECÔTE-D'OR_FRACE PRODUCT OF FRANCE\nNegociants a beune"
+"Alcohol 14% by volume"
+"Net contents 1 pint 9 fl. Oz"
+"Net Contents 1 Pint 9 Fl. Oz."
+"1929"
+"At Home 1940 .50"
+"Ailtome [[?]] 1940 .50"
+"Chambertin"
+"MAISON FONDÉE EN 1750"
+"Maison fondee en 1750"
+"BOUCHARD AÎNÉ & FILS"
+"Bouchard Aîné & Fils"
+"Bouchard aine & fils"
+"NÈGOCIANTS A BEAUNECÔTE-D'OR_FRACE PRODUCT OF FRANCE"
+"Negociants a beune"

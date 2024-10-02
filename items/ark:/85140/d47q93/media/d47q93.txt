@@ -1,0 +1,43 @@
+COGNAC 12 YEARS OLD
+TOURS A EN LE
+MOSCOU
+PARIS
+24011
+HAVRE
+ANVERS AMSTERDAM
+DE POSE
+5981
+
+COGNAC
+12
+YEARS
+OLD
+TOURS
+A
+EN
+LE
+MOSCOU
+PARIS
+24011
+HAVRE
+ANVERS
+AMSTERDAM
+DE
+POSE
+5981
+"COGNAC IS 12 YEARS OLD\nCognac 12 Years old\nCognac 12 Years old\ntours\nParis- Moscou\nParis-Moscou\nAnvers-Havre\nAnners- Havre\nAmsterdam\nJ Dupont & Co.\nJ. DuPont & Co\nCognac\ndepose\nDEPOSE\n5981"
+"COGNAC IS 12 YEARS OLD"
+"Cognac 12 Years old"
+"Cognac 12 Years old"
+"tours"
+"Paris-Moscou"
+"Paris- Moscou"
+"Anvers-Havre"
+"Anners- Havre"
+"Amsterdam"
+"J Dupont & Co."
+"J. DuPont & Co"
+"Cognac"
+"DEPOSE"
+"depose"
+"5981"

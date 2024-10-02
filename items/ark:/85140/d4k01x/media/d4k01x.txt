@@ -1,0 +1,46 @@
+GIST
+DEGA
+BILBA
+ELLA
+BLANCO FINO
+RIO JA SPANISH WINE
+NARORROJA
+COSECHA 1938
+EMBOTELLADO EN LA BODEGA.
+
+GIST
+DEGA
+BILBA
+ELLA
+BLANCO
+FINO
+RIO
+JA
+SPANISH
+WINE
+NARORROJA
+COSECHA
+1938
+EMBOTELLADO
+EN
+LA
+BODEGA.
+"306\nwhite\nregistro embotelladores 10\nregistro 10 embotelladores\n\n306\nblanco fino rioja spanish wine\nBlanco Fino Rioja Spanish Wine\nBlancoBLANCO FINO RIOJA SPANISH WINE\nBodegas Bilbainas\nbodegas bilbainas\nsociedad anonima\nSociedad Anonima\nharo-rioja\nHaro-RIoja\nCosecha 1938\ncosecha 1938 embotellado en la bodega\na s lerchundl s.a. bilbac"
+"306"
+"white"
+"registro 10 embotelladores"
+"registro embotelladores 10"
+"306"
+""
+"Blanco Fino Rioja Spanish Wine"
+"blanco fino rioja spanish wine"
+"BlancoBLANCO FINO RIOJA SPANISH WINE"
+"bodegas bilbainas"
+"Bodegas Bilbainas"
+"sociedad anonima"
+"Sociedad Anonima"
+"haro-rioja"
+"Haro-RIoja"
+"Cosecha 1938"
+"cosecha 1938 embotellado en la bodega"
+"a s lerchundl s.a. bilbac"

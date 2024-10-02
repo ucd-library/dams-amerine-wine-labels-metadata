@@ -1,0 +1,61 @@
+POMMARD
+1867
+PARIS 1878 Lomo
+MED. DOR e D GEN
+ARGE
+OISOT Suc
+u de CHASSAGNE (Cote dor
+FRANCE
+MAISON FON DE EEN 18o3
+DEPOSEE
+
+POMMARD
+1867
+PARIS
+1878
+Lomo
+MED.
+DOR
+e
+D
+GEN
+ARGE
+OISOT
+Suc
+u
+de
+CHASSAGNE
+(Cote
+dor
+FRANCE
+MAISON
+FON
+DE
+EEN
+18o3
+DEPOSEE
+"\nPommard\n\n1910 ?\npommard\nvineyard area\ntasting note\n\naward\nsanfrancisco 1894 bordeaux 1882 dijon 1868 med d'or & d'argent\nparis 1867 paris 1878 londres 1862 med. d'or & d'argent\naward\nadolphe hassion Dubois\nproducer\nbottler\nl. posot sucr\nau chateau de chassagne (cote-d'or)\nproducer\ncountry\nfrance\ndeposee\nseposit\nstarting year\nmaison fondee en 1803"
+""
+"Pommard"
+"1910 ?"
+""
+"pommard"
+"vineyard area"
+"tasting note"
+""
+"sanfrancisco 1894 bordeaux 1882 dijon 1868 med d'or & d'argent"
+"award"
+"award"
+"paris 1867 paris 1878 londres 1862 med. d'or & d'argent"
+"adolphe hassion Dubois"
+"producer"
+"bottler"
+"l. posot sucr"
+"au chateau de chassagne (cote-d'or)"
+"producer"
+"france"
+"country"
+"seposit"
+"deposee"
+"maison fondee en 1803"
+"starting year"

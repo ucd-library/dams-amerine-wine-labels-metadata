@@ -1,0 +1,31 @@
+TRADE
+English C
+192
+CHAMPAGNE
+Carte d'Or
+BRUT
+MARK
+FRANCE
+
+TRADE
+English
+C
+192
+CHAMPAGNE
+Carte
+d'Or
+BRUT
+MARK
+FRANCE
+"English Cuvee 1928\nPresnet: John Esquire George Sallade George Holl\nCHAMPAGNE\nChampagne\nCarte d'Or\ncarte d'Or\nBRUT\nTrade Mark\nTRADE AMRK\nReims\nReims. FRANCE"
+"English Cuvee 1928"
+"Presnet: John Esquire George Sallade George Holl"
+"Champagne"
+"CHAMPAGNE"
+"carte d'Or"
+"Carte d'Or"
+"BRUT"
+"Trade Mark"
+"TRADE AMRK"
+"Reims"
+"Reims. FRANCE"

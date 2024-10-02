@@ -1,0 +1,26 @@
+MONTRACHET-BOUCHARD
+1929
+MIS EN BOUTEILLE PAR LE PROPRIETAIRE
+ROUALET BEAUNE
+
+MONTRACHET-BOUCHARD
+1929
+MIS
+EN
+BOUTEILLE
+PAR
+LE
+PROPRIETAIRE
+ROUALET
+BEAUNE
+"White Burgundy\nDomaines du Chateau de Beaune\nDomaines DU Chatehu DE Beaune\nMontrachet-Bouchard\nMONTRACHET-BOUCHARD\n1929\nMIS EN BOUTEILLE PAR LE PROPRIETAIRE\nMis en Bouteille par le Propriétaire\nRoualet - Beaune\nROUALET_BEAUNE"
+"White Burgundy"
+"Domaines du Chateau de Beaune"
+"Domaines DU Chatehu DE Beaune"
+"Montrachet-Bouchard"
+"MONTRACHET-BOUCHARD"
+"1929"
+"MIS EN BOUTEILLE PAR LE PROPRIETAIRE"
+"Mis en Bouteille par le Propriétaire"
+"Roualet - Beaune"
+"ROUALET_BEAUNE"

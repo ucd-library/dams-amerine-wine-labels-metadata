@@ -1,0 +1,38 @@
+VOUVRAY
+APPELLATION
+CONTROLEE
+GRAND CRU
+FRANCE
+MIS EN BOUTEILLES PAR
+ACKERMAN-LAURANCE
+ST Hilaire-ST Florent
+PRODUCE OF FRANCE
+(Maine-et-Loire)
+
+VOUVRAY
+APPELLATION
+CONTROLEE
+GRAND
+CRU
+FRANCE
+MIS
+EN
+BOUTEILLES
+PAR
+ACKERMAN-LAURANCE
+ST
+Hilaire-ST
+Florent
+PRODUCE
+OF
+FRANCE
+(Maine-et-Loire)
+"VOUVRAY\nAPPELLATION CONTROLEE\nAppellation Controlee\nGRAND CRU\nMis en bouteilles par Ackerman-Laurance St Hilaire - St Florent (Maine-et-Loire)\nMIS EN BOUTEILLES PAR ACKERMAN-LAURANCE St Hilaire-St Florent (Maine-et-Loire)\nFRANCE\nProduce of France"
+"VOUVRAY"
+"APPELLATION CONTROLEE"
+"Appellation Controlee"
+"GRAND CRU"
+"Mis en bouteilles par Ackerman-Laurance St Hilaire - St Florent (Maine-et-Loire)"
+"MIS EN BOUTEILLES PAR ACKERMAN-LAURANCE St Hilaire-St Florent (Maine-et-Loire)"
+"FRANCE"
+"Produce of France"

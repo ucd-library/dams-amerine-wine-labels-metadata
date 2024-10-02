@@ -1,0 +1,48 @@
+Net contents 1 pint 7 fluid ounces
+G R A A C H R
+Wine Alcoholic content 9 to 11 per cent by weight
+Produced and bottled in Germany
+Theodor Dorn Sohne, Wiesbaden olRhine
+
+Net
+contents
+1
+pint
+7
+fluid
+ounces
+G
+R
+A
+A
+C
+H
+R
+Wine
+Alcoholic
+content
+9
+to
+11
+per
+cent
+by
+weight
+Produced
+and
+bottled
+in
+Germany
+Theodor
+Dorn
+Sohne,
+Wiesbaden
+olRhine
+"Middle Moselle\nNet contents 1 pint 7 fluid ounces\nSelleck\nGRAACHER\nWine: Alcoholic content 9 to 11 per cent by weight\nProduced and bottled in Germany\nTheodor Dorn Söhne, Wiesbaden o/Rhine"
+"Middle Moselle"
+"Net contents 1 pint 7 fluid ounces"
+"Selleck"
+"GRAACHER"
+"Wine: Alcoholic content 9 to 11 per cent by weight"
+"Produced and bottled in Germany"
+"Theodor Dorn Söhne, Wiesbaden o/Rhine"

@@ -1,0 +1,22 @@
+REGEMB.Ne 10
+ROYAL CARLTON
+CUVEE ESPECIAL
+HARO
+BODEGAS. BILBAINAS
+
+REGEMB.Ne
+10
+ROYAL
+CARLTON
+CUVEE
+ESPECIAL
+HARO
+BODEGAS.
+BILBAINAS
+"Reo. Emb. No. 10\nReg. Emb. No. 10\nRoyal Carlton\nCuvee Especial\nHaro\nBodegas Bilbainas"
+"Reo. Emb. No. 10"
+"Reg. Emb. No. 10"
+"Royal Carlton"
+"Cuvee Especial"
+"Haro"
+"Bodegas Bilbainas"

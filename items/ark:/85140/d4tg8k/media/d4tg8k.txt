@@ -1,0 +1,25 @@
+DEPOSE
+500 A
+EAU-DE-VIE DE
+GRAINS
+LAUFF-SCHNEIDER, Luxembourg
+
+DEPOSE
+500
+A
+EAU-DE-VIE
+DE
+GRAINS
+LAUFF-SCHNEIDER,
+Luxembourg
+"50\n50*\nEau-De-Vie De Grains\nEAU-DE-VIE DE GRAINS\nLAUFF-SCHNEIDER, Luxembourg\nLaugh-Schneider, Luxembourg\nDEPOSE\nDepose\nJeff Smith? Brussels?\nJeff Smith(?) Brussels"
+"50*"
+"50"
+"Eau-De-Vie De Grains"
+"EAU-DE-VIE DE GRAINS"
+"LAUFF-SCHNEIDER, Luxembourg"
+"Laugh-Schneider, Luxembourg"
+"Depose"
+"DEPOSE"
+"Jeff Smith(?) Brussels"
+"Jeff Smith? Brussels?"

@@ -1,0 +1,37 @@
+r MUSIGNY
+RESERVE VIEILLES VIGNES
+APPELLATION CONTROLEE
+Réserve numérotée
+Comte Georges de VOGUE
+1943
+bouteille
+N 0,099
+c A. Vi i
+mis en bouteilles a/a propriété
+
+r
+MUSIGNY
+RESERVE
+VIEILLES
+VIGNES
+APPELLATION
+CONTROLEE
+Réserve
+numérotée
+Comte
+Georges
+de
+VOGUE
+1943
+bouteille
+N
+0,099
+c
+A.
+Vi
+i
+mis
+en
+bouteilles
+a/a
+propriété

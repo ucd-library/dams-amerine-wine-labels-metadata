@@ -1,0 +1,37 @@
+CIH IN ON
+APPELL
+CONTROLEE
+ROSE
+Care dell bostellerie Baraantua
+75, Rue Doltaire, Thinon
+MAP. MODENNE DE CHNON, 60, evel d'Are
+
+CIH
+IN
+ON
+APPELL
+CONTROLEE
+ROSE
+Care
+dell
+bostellerie
+Baraantua
+75,
+Rue
+Doltaire,
+Thinon
+MAP.
+MODENNE
+DE
+CHNON,
+60,
+evel
+d'Are
+"Touraine\n1952\nchinon appelation controlee\nROSE\nrose\nCave de l'hostellerie Gargantua 73, Rue Voltaire, Chinon\nCave de l'Hostellerie Gargantua"
+"Touraine"
+"1952"
+"chinon appelation controlee"
+"ROSE"
+"rose"
+"Cave de l'hostellerie Gargantua 73, Rue Voltaire, Chinon"
+"Cave de l'Hostellerie Gargantua"

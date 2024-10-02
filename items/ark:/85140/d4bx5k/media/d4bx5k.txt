@@ -1,0 +1,23 @@
+CHAMPAGNE
+Carte d'Or
+IRROY
+BRUT
+NEST MARK
+TRADE
+FRANCE
+
+CHAMPAGNE
+Carte
+d'Or
+IRROY
+BRUT
+NEST
+MARK
+TRADE
+FRANCE
+"CHAMPAGNE\nErnest Irroy\nCarte d'Or BRUT\nReims. FRANCE\nReims FRANCE"
+"CHAMPAGNE"
+"Ernest Irroy"
+"Carte d'Or BRUT"
+"Reims FRANCE"
+"Reims. FRANCE"

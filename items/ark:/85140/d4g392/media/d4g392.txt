@@ -1,0 +1,30 @@
+Appellation Pouilly Vinzelles controlée
+CHATEAU DE VINZELLES
+iromte de Dormy propriétaive
+alise embouteille
+aim3elles
+an domaine
+
+Appellation
+Pouilly
+Vinzelles
+controlée
+CHATEAU
+DE
+VINZELLES
+iromte
+de
+Dormy
+propriétaive
+alise
+embouteille
+aim3elles
+an
+domaine
+"pouilly\nPouilly Appellation Pouilly-Vinzelles controlee\nproducer\nchateau de vinzelles viromte de dormy proprietaire vinzelles saiones managethis.Fc README.org loive\nbotled by\nmise en bouteille au domaine"
+"pouilly"
+"Pouilly Appellation Pouilly-Vinzelles controlee"
+"chateau de vinzelles viromte de dormy proprietaire vinzelles saiones managethis.Fc README.org loive"
+"producer"
+"botled by"
+"mise en bouteille au domaine"

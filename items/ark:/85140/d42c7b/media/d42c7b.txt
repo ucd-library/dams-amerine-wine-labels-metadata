@@ -1,0 +1,22 @@
+D'ITALIE
+GRAND VIN
+CASTELL
+ANI
+Importation directe
+mp. HUSS Luxbg.
+
+D'ITALIE
+GRAND
+VIN
+CASTELL
+ANI
+Importation
+directe
+mp.
+HUSS
+Luxbg.
+"GRAND VIN D'ITALIE\nCASTELLI ROMANI\n12° Importation directe Imp. HUSS Luxbg.\n"
+"GRAND VIN D'ITALIE"
+"CASTELLI ROMANI"
+""
+"12° Importation directe Imp. HUSS Luxbg."

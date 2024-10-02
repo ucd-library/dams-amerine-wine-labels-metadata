@@ -1,0 +1,81 @@
+3, 42.
+VINTAGE 1933
+CONTENTS 1 PINT 8 FLUIO 0Z
+PRODUCE CF FRANCE
+MARK
+TRADE
+PH BOUCHARD & Co
+BOTTLED & SHIPPED BY
+rz RIITs S GEORGES COTE D'OR
+MEME MAIS ON A BOR DEAUX
+(FRANCE)
+PO M M A R D
+BURGUNDY w I NE
+
+3,
+42.
+VINTAGE
+1933
+CONTENTS
+1
+PINT
+8
+FLUIO
+0Z
+PRODUCE
+CF
+FRANCE
+MARK
+TRADE
+PH
+BOUCHARD
+&
+Co
+BOTTLED
+&
+SHIPPED
+BY
+rz
+RIITs
+S
+GEORGES
+COTE
+D'OR
+MEME
+MAIS
+ON
+A
+BOR
+DEAUX
+(FRANCE)
+PO
+M
+M
+A
+R
+D
+BURGUNDY
+w
+I
+NE
+"Cote de Beaune Pommard Present: Sec: Chat Carbonnieux '31\nCote de Beaune Pommard Present:\nDinner Marion Frannery March 3, 1942 B+\nvintage 1933\ncontents 1 pint 8 fluid o\nContents 1 Pint 8 Fluid Oz.\nProduce of France\nproduce of france\nmark\nMark\ntrade\nTrade\nbottled and shipped by\nBottled & Shipped by\nPh. Bouchard & Co.\nph bouchard & co\nNuits St. Georges (Côte d'Or) Même Maison a Bordeau (France)\nnuits st. geroge\nPommard Burgundy Wine\npommard burgundy wine"
+"Cote de Beaune Pommard Present:"
+"Cote de Beaune Pommard Present: Sec: Chat Carbonnieux '31"
+"Dinner Marion Frannery March 3, 1942 B+"
+"vintage 1933"
+"contents 1 pint 8 fluid o"
+"Contents 1 Pint 8 Fluid Oz."
+"produce of france"
+"Produce of France"
+"mark"
+"Mark"
+"trade"
+"Trade"
+"Bottled & Shipped by"
+"bottled and shipped by"
+"Ph. Bouchard & Co."
+"ph bouchard & co"
+"Nuits St. Georges (Côte d'Or) Même Maison a Bordeau (France)"
+"nuits st. geroge"
+"Pommard Burgundy Wine"
+"pommard burgundy wine"

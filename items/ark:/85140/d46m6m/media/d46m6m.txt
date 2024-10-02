@@ -1,0 +1,44 @@
+CONTENTS I PINT 8 FLUID OUNCES
+PRODUCED BAR
+DUCE OF FRANCE
+ALCOHOLIC STRENGTH BY VOLUME
+II 5
+Appellation Beaune
+Controlée
+BOTTLED IN FRANCE
+
+CONTENTS
+I
+PINT
+8
+FLUID
+OUNCES
+PRODUCED
+BAR
+DUCE
+OF
+FRANCE
+ALCOHOLIC
+STRENGTH
+BY
+VOLUME
+II
+5
+Appellation
+Beaune
+Controlée
+BOTTLED
+IN
+FRANCE
+"Contents 1 Pint 8 Fluid Ounces Alcoholic Strength by Volume 11˚5%\ncontents 1 pint 8 fluid ounces alcoholic strength by volume 11.5%\nBeaune 1937\nClos des Mouches\nClos des Mourches\nProduced by Joseph Drouhin\nPRODUCED BY JOSEPH DROUHIN\nAPPELLATION BEAUNE CONTROLEE\nAppellation Beaune Controlee\nProprietaire a Beaune Cole d'Or\nProprietaire a Beaune (Cote d'Or) Produce of France Bottled in France"
+"Contents 1 Pint 8 Fluid Ounces Alcoholic Strength by Volume 11˚5%"
+"contents 1 pint 8 fluid ounces alcoholic strength by volume 11.5%"
+"Beaune 1937"
+"Clos des Mourches"
+"Clos des Mouches"
+"Produced by Joseph Drouhin"
+"PRODUCED BY JOSEPH DROUHIN"
+"APPELLATION BEAUNE CONTROLEE"
+"Appellation Beaune Controlee"
+"Proprietaire a Beaune Cole d'Or"
+"Proprietaire a Beaune (Cote d'Or) Produce of France Bottled in France"

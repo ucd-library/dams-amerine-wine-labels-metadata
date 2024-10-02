@@ -1,0 +1,37 @@
+173 G
+AGUIRRE Y MONTT
+SANTIAGO (CHILE
+PRODUCTO CHILE NO
+TO BO FILL
+
+173
+G
+AGUIRRE
+Y
+MONTT
+SANTIAGO
+(CHILE
+PRODUCTO
+CHILE
+NO
+TO
+BO
+FILL
+"No. 509P U.S.A.\nChile\nPresent: C E H Jr., Carolyn, ELH, CEH\nPresent:\n1936\nChateau montelena\nDinner at home 5/28/45 B -\nDinner at Home 5/28/45 B -\nVINA CONCHALI\nViña Conchalí\nGran Vino\nAGUIRRE y MONTT\nSANTIAGO (CHILE)\nPRODUCTO CHILENO\nLITO BOFILL\nLito Bofill\nPRODUCTO CHILENO"
+"No. 509P U.S.A."
+"Chile"
+"Present: C E H Jr., Carolyn, ELH, CEH"
+"Present:"
+"Chateau montelena"
+"1936"
+"Dinner at Home 5/28/45 B -"
+"Dinner at home 5/28/45 B -"
+"Viña Conchalí"
+"VINA CONCHALI"
+"Gran Vino"
+"AGUIRRE y MONTT"
+"SANTIAGO (CHILE)"
+"PRODUCTO CHILENO"
+"Lito Bofill"
+"LITO BOFILL"
+"PRODUCTO CHILENO"

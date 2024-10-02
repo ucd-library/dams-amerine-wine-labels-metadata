@@ -1,0 +1,54 @@
+B. F Nozar Anchoreno e Hijos
+Nazar Anchorena Vinedos Rio Colorado
+AP.
+800.000
+CAP. 400.000
+ADOR BUENOS AIRES
+PRODUCTOR RIO NEGRO
+BARILOCHE
+CARRODILLA
+CONT NETO
+100 VINO TINTO INDUSTRIA ARGENTINA
+CM
+3
+
+B.
+F
+Nozar
+Anchoreno
+e
+Hijos
+Nazar
+Anchorena
+Vinedos
+Rio
+Colorado
+AP.
+800.000
+CAP.
+400.000
+ADOR
+BUENOS
+AIRES
+PRODUCTOR
+RIO
+NEGRO
+BARILOCHE
+CARRODILLA
+CONT
+NETO
+100
+VINO
+TINTO
+INDUSTRIA
+ARGENTINA
+CM
+3
+"B. F. Nazar Anchorena y Hijos / Cap. $ 800.00 / FRACCIONADOR BUENOS AIRES\nB. F. Nozar Anchoreno & Hios / Cap. $ 800.000 / Fraccionador Buenos Aires\nNazar Anchoreno Rio Colorado / Cap $ 400.000 / Productor Rio Negro\nNazar Ancharena ViñedosRio Colorado / Cap. $ 400.00 / PRODUCTOR RIO NEGRO\nBariloche Carrodilla, Cont. Neto 700, Vino Tinto, Industria Argentina, CM 3\nBariloche Carrodilla / Cont Neto 700 / Cm3 / Vino Tinto / Industria Argentina\nPhlege"
+"B. F. Nozar Anchoreno & Hios / Cap. $ 800.000 / Fraccionador Buenos Aires"
+"B. F. Nazar Anchorena y Hijos / Cap. $ 800.00 / FRACCIONADOR BUENOS AIRES"
+"Nazar Anchoreno Rio Colorado / Cap $ 400.000 / Productor Rio Negro"
+"Nazar Ancharena ViñedosRio Colorado / Cap. $ 400.00 / PRODUCTOR RIO NEGRO"
+"Bariloche Carrodilla, Cont. Neto 700, Vino Tinto, Industria Argentina, CM 3"
+"Bariloche Carrodilla / Cont Neto 700 / Cm3 / Vino Tinto / Industria Argentina"
+"Phlege"

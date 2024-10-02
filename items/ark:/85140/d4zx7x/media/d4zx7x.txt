@@ -1,0 +1,40 @@
+MARI
+OKOUS
+NO SORTNO 1953
+chauvignon
+2,11 11,48
+GORNJE SLOVENSKE GORICE
+VINARSKA ZADRUGA MARIBOR
+CHZ 1775 11. 4, 1954
+
+MARI
+OKOUS
+NO
+SORTNO
+1953
+chauvignon
+2,11
+11,48
+GORNJE
+SLOVENSKE
+GORICE
+VINARSKA
+ZADRUGA
+MARIBOR
+CHZ
+1775
+11.
+4,
+1954
+"Marib Sortno Vino Okolis\nMarib Sortno Vino Okous\n1953\nSauvignon\n2,11% + 11,48%\nGORNJE SLOVENSKE GORICE\nGornje Slovenske Gorice\nVinarksa Zadruga Maribor\nVINARSKA ZADRUGA MARIBOR\nCHZ 1775 11. 4. 1954\nCHZ 1775 11.4.1954"
+"Marib Sortno Vino Okous"
+"Marib Sortno Vino Okolis"
+"1953"
+"Sauvignon"
+"2,11% + 11,48%"
+"Gornje Slovenske Gorice"
+"GORNJE SLOVENSKE GORICE"
+"VINARSKA ZADRUGA MARIBOR"
+"Vinarksa Zadruga Maribor"
+"CHZ 1775 11. 4. 1954"
+"CHZ 1775 11.4.1954"

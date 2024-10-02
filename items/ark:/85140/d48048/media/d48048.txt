@@ -1,0 +1,24 @@
+LUXEMBURGISCHER SCHAUMWEIN
+DIAMANT
+GREVENMACHER a d. MOSEL
+56 4
+
+LUXEMBURGISCHER
+SCHAUMWEIN
+DIAMANT
+GREVENMACHER
+a
+d.
+MOSEL
+56
+4
+"Schaumwein\nLUXEMBURGISCHER SCHAUMWEIN\nLuxemburgischer Schaumwein\nBernard - Massard\nBernard-Massard\nDIAMANT\nGREVENMACHER a. d. MOSEL\n564\nJeff Smith / Brussels"
+"Schaumwein"
+"Luxemburgischer Schaumwein"
+"LUXEMBURGISCHER SCHAUMWEIN"
+"Bernard-Massard"
+"Bernard - Massard"
+"DIAMANT"
+"GREVENMACHER a. d. MOSEL"
+"564"
+"Jeff Smith / Brussels"

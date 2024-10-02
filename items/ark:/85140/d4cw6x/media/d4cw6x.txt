@@ -1,0 +1,53 @@
+REGP
+WINE
+TABLE
+MARK
+TRADE
+AFAMES
+RED DRY
+THE VINE PRODUCTS
+CO-OPERATIVE MARKETING
+UNION LTD.
+CYPRUS
+LIMASSOL
+
+REGP
+WINE
+TABLE
+MARK
+TRADE
+AFAMES
+RED
+DRY
+THE
+VINE
+PRODUCTS
+CO-OPERATIVE
+MARKETING
+UNION
+LTD.
+CYPRUS
+LIMASSOL
+"Vin Coop\nVIN-COOP\nS O D A P \nSO DAP\nRegd.\nReg.d\nWine\nTable\nMark\nMARK\nTrade\nAFAMES\nRED DRY\nRed Dry\nThe Vine Products\nCooperative Marketing\nCo-operative marketing\nUnion Ltd.\nCYPRUS\nCyprus\nLimassol\nLIMASSOL"
+"VIN-COOP"
+"Vin Coop"
+"S O D A P "
+"SO DAP"
+"Regd."
+"Reg.d"
+"Wine"
+"Table"
+"Mark"
+"MARK"
+"Trade"
+"AFAMES"
+"RED DRY"
+"Red Dry"
+"The Vine Products"
+"Co-operative marketing"
+"Cooperative Marketing"
+"Union Ltd."
+"Cyprus"
+"CYPRUS"
+"LIMASSOL"
+"Limassol"

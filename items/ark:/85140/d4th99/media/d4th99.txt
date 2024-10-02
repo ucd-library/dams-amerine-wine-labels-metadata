@@ -1,0 +1,34 @@
+dade B. Rodriguez la Cave
+MANZANILLA SELECTA
+MARCA REGIST
+SANLUCAR DE
+BARRAMEDA
+Embotellador No 26
+TP. JEREz INousTRIAL
+
+dade
+B.
+Rodriguez
+la
+Cave
+MANZANILLA
+SELECTA
+MARCA
+REGIST
+SANLUCAR
+DE
+BARRAMEDA
+Embotellador
+No
+26
+TP.
+JEREz
+INousTRIAL
+"Vda. de B. Rodriguez La-Cave\nMANZANILLA SELECTA\nBarbiana\nMARCA REGISTRADA\n\nTip. Lit. Jerez Industrial\nTip. Lit. Jerez industrial"
+"Vda. de B. Rodriguez La-Cave"
+"MANZANILLA SELECTA"
+"Barbiana"
+"MARCA REGISTRADA"
+""
+"Tip. Lit. Jerez industrial"
+"Tip. Lit. Jerez Industrial"

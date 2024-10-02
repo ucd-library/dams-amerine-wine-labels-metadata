@@ -1,0 +1,33 @@
+Prohibition
+unermores
+TRADE
+BOTTLED AT THE OLIVINA VE
+GROWER
+TS
+
+Prohibition
+unermores
+TRADE
+BOTTLED
+AT
+THE
+OLIVINA
+VE
+GROWER
+TS
+"Olivina-Ideal vintages.\nOlivina-Ideal Vintages\nPre-Prohibition\nRiesling\nRiesling Bottled at the Olivina Vaults\nBottled at the Olivina Vaults\nBOTTLED AT THE OLIVINA VAULTS.\nJulius Paul Smith\nJulius Paul Smith.\nLivermore\n\n\nCalifornia\nGROWER.\nGrower."
+"Olivina-Ideal vintages."
+"Olivina-Ideal Vintages"
+"Pre-Prohibition"
+"Riesling"
+"Riesling Bottled at the Olivina Vaults"
+"BOTTLED AT THE OLIVINA VAULTS."
+"Bottled at the Olivina Vaults"
+"Julius Paul Smith."
+"Julius Paul Smith"
+""
+"Livermore"
+""
+"California"
+"GROWER."
+"Grower."

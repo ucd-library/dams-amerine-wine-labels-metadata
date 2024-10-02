@@ -1,0 +1,34 @@
+MEDALLA DE ORO
+XPOSICION
+Embotellador
+num, 51
+MADRID
+MARCA REGIS
+STRADA
+ARIS 78
+18 1811 in ados al natural.
+cri
+Jerez Grafico
+
+MEDALLA
+DE
+ORO
+XPOSICION
+Embotellador
+num,
+51
+MADRID
+MARCA
+REGIS
+STRADA
+ARIS
+78
+18
+1811
+in
+ados
+al
+natural.
+cri
+Jerez
+Grafico

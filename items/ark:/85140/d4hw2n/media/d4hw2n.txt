@@ -1,0 +1,58 @@
+family BRAND
+rest
+ALCOHOL 13%
+NET CONTENTS
+PRODUCED & BOTTLED BY
+BY VOLUME
+1 AT. B FL 02.
+SAN BENITO WINERY
+HOLLISTER, CALIFORNIA
+CROCKER UNION, S. F
+
+family
+BRAND
+rest
+ALCOHOL
+13%
+NET
+CONTENTS
+PRODUCED
+&
+BOTTLED
+BY
+BY
+VOLUME
+1
+AT.
+B
+FL
+02.
+SAN
+BENITO
+WINERY
+HOLLISTER,
+CALIFORNIA
+CROCKER
+UNION,
+S.
+F
+"Valliant\nSummer\nSummer 1941\nFamily Crest BRAND\nFamily Crest\nFamily Crest Brand\nFamily Crest BRAND\nB\nCabernet\nAlcohol 13% by volum\nALCOHOL 30% BY VOLUME\nNet Contents 1 Pt. 8 Fl. Oz.\nNET CONTENTS 1 PT. 8 FL. OZ.\nPRODUCED & BOTTLED BY\nProduced & Bottled By\nSAN BENITO WINERY\nSan Benito Winery\nHOLLISTER, CALIFORNIA\nHollister, California"
+"Valliant"
+"Summer 1941"
+"Summer"
+"Family Crest"
+"Family Crest BRAND"
+"Family Crest Brand"
+"Family Crest BRAND"
+"B"
+"Cabernet"
+"Alcohol 13% by volum"
+"ALCOHOL 30% BY VOLUME"
+"NET CONTENTS 1 PT. 8 FL. OZ."
+"Net Contents 1 Pt. 8 Fl. Oz."
+"Produced & Bottled By"
+"PRODUCED & BOTTLED BY"
+"SAN BENITO WINERY"
+"San Benito Winery"
+"Hollister, California"
+"HOLLISTER, CALIFORNIA"

@@ -1,0 +1,24 @@
+Alte rhein
+DEA
+madonna
+Goldlack
+F. M. M
+
+Alte
+rhein
+DEA
+madonna
+Goldlack
+F.
+M.
+M
+"Liebfraumilch\nGoldlack\na. koch sohne, main\nA. Koch Sohne, Mainz\nAlle rhein. Madonna\nalte rhein madonna\nf.m.m.m\nDEP.\ndep"
+"Liebfraumilch"
+"Goldlack"
+"a. koch sohne, main"
+"A. Koch Sohne, Mainz"
+"Alle rhein. Madonna"
+"alte rhein madonna"
+"f.m.m.m"
+"DEP."
+"dep"

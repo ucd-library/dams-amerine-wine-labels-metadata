@@ -1,0 +1,31 @@
+FONDEE
+EN 17B7
+Grano Fim
+St-Claude
+Cotes Supérieures
+R. C. BRUXELLES
+51.0
+
+FONDEE
+EN
+17B7
+Grano
+Fim
+St-Claude
+Cotes
+Supérieures
+R.
+C.
+BRUXELLES
+51.0
+"Fondée en 1787\nFondée\nFONDEE\nEN 1787\nen 1787\nGrand Vin St-Claude Cote Superieures\nGrand Vin St-Claude Côtes Supérieures\nM. Fauvarque & Co\nR. C. BRUXELLES 61.0\nR.C. BUXELLES"
+"Fondée en 1787"
+"FONDEE"
+"Fondée"
+"en 1787"
+"EN 1787"
+"Grand Vin St-Claude Côtes Supérieures"
+"Grand Vin St-Claude Cote Superieures"
+"M. Fauvarque & Co"
+"R.C. BUXELLES"
+"R. C. BRUXELLES 61.0"

@@ -1,0 +1,36 @@
+1947
+MO DE UIFR SATU ILT
+APPELLATION CONTROLEE
+BORDEAUX
+BEAUNE
+PRODUCE OF FRANCE
+KDE MAR
+REGISTERED
+
+1947
+MO
+DE
+UIFR
+SATU
+ILT
+APPELLATION
+CONTROLEE
+BORDEAUX
+BEAUNE
+PRODUCE
+OF
+FRANCE
+KDE
+MAR
+REGISTERED
+"1947\nMeursault\nAppellation Controlée\nAppellation controlee\nSichel & Cie.\nsichel 8.cie\nBordeaux-Beaune\nBordeaux - Beaune\nProduce of France\nproduce of France"
+"1947"
+"Meursault"
+"Appellation Controlée"
+"Appellation controlee"
+"sichel 8.cie"
+"Sichel & Cie."
+"Bordeaux - Beaune"
+"Bordeaux-Beaune"
+"Produce of France"
+"produce of France"

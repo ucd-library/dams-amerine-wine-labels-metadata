@@ -1,0 +1,44 @@
+CHATEAU AUSONE
+T
+ST EMILIONY
+1934
+EDOUARD DUBOIS CHALLON
+MIS EN BOUTEILLE AU CHATEAU
+ROUSSEAU FRERES, B
+
+CHATEAU
+AUSONE
+T
+ST
+EMILIONY
+1934
+EDOUARD
+DUBOIS
+CHALLON
+MIS
+EN
+BOUTEILLE
+AU
+CHATEAU
+ROUSSEAU
+FRERES,
+B
+"Ire Grand Cru So. Emilion\n1 er Grand Cru St Emilion\nNames of 7 persons presents for drinking\nAl Fresco Lunch Blanquie A+\nAl fresco lunch Blanquie A+\nChateai Ausone\nCHATEAU AUSONE\nSt. Emilion\nST. EMILION\n1934\nEdouard Dubois-Challon\nEDOUARD DUBOIS-CHALLON\nPropriétaire\nProprietaire\nMis En Bouteille Au Chateau\nMIS EN BOUTEILLE AU CHATEAU\nRousseau Freres, B\nROUSSEAU FRERES BX"
+"1 er Grand Cru St Emilion"
+"Ire Grand Cru So. Emilion"
+"Names of 7 persons presents for drinking"
+"Al Fresco Lunch Blanquie A+"
+"Al fresco lunch Blanquie A+"
+"Chateai Ausone"
+"CHATEAU AUSONE"
+"ST. EMILION"
+"St. Emilion"
+"1934"
+"Edouard Dubois-Challon"
+"EDOUARD DUBOIS-CHALLON"
+"Proprietaire"
+"Propriétaire"
+"MIS EN BOUTEILLE AU CHATEAU"
+"Mis En Bouteille Au Chateau"
+"ROUSSEAU FRERES BX"
+"Rousseau Freres, B"

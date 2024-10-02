@@ -1,0 +1,37 @@
+FINE EAU DE-VIE
+DES COTES DU RHONE
+APPELLATION REGLEMENTE E PAR DECRET
+CHAPOUTIER & IE
+TAIN (DROME FRANCE
+
+FINE
+EAU
+DE-VIE
+DES
+COTES
+DU
+RHONE
+APPELLATION
+REGLEMENTE
+E
+PAR
+DECRET
+CHAPOUTIER
+&
+IE
+TAIN
+(DROME
+FRANCE
+"rhone\nFine Eau-de-vie, des Côtes du Rhône\nfine eau-de-vie des cotes du rhone\nAppellation Réglementée par Décret\nappellation reglementee par decret\nD.\nD\nchapoutier 8c cie\nChapoutier & Cie\nTain (Drôme) France\ntain (drome) france\nCaves Chapoutier"
+"rhone"
+"fine eau-de-vie des cotes du rhone"
+"Fine Eau-de-vie, des Côtes du Rhône"
+"Appellation Réglementée par Décret"
+"appellation reglementee par decret"
+"D"
+"D."
+"chapoutier 8c cie"
+"Chapoutier & Cie"
+"Tain (Drôme) France"
+"tain (drome) france"
+"Caves Chapoutier"

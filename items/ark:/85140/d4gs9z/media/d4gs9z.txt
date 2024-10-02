@@ -1,0 +1,33 @@
+TRAB
+GARCIA
+N o 3 3
+SAN LUCAR
+VINO DE NARANJA
+Crofieas Andaluza P 4erto Sta Maa.
+
+TRAB
+GARCIA
+N
+o
+3
+3
+SAN
+LUCAR
+VINO
+DE
+NARANJA
+Crofieas
+Andaluza
+P
+4erto
+Sta
+Maa.
+"medal\nM. Garcia Monge No. 33\nM. GARCIA MONGE No 33\nSanlucar\nSANLUCAR\nVINO DE NARANJA\nGraficas Andaluzas-Puerto Sta. Maria\nGraficas Andaluzas Puerto Sta. Maria"
+"medal"
+"M. Garcia Monge No. 33"
+"M. GARCIA MONGE No 33"
+"Sanlucar"
+"SANLUCAR"
+"VINO DE NARANJA"
+"Graficas Andaluzas-Puerto Sta. Maria"
+"Graficas Andaluzas Puerto Sta. Maria"

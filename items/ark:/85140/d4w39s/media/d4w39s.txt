@@ -1,0 +1,45 @@
+WHITE BURGUNDY WINE
+POUILLY FUISSE
+OF
+PR
+PIERRE PONNELLE
+PROPRIETAIRE & NEGOCIANT
+A BEAU NE (COTE D'OR)
+DEPOSE.
+
+WHITE
+BURGUNDY
+WINE
+POUILLY
+FUISSE
+OF
+PR
+PIERRE
+PONNELLE
+PROPRIETAIRE
+&
+NEGOCIANT
+A
+BEAU
+NE
+(COTE
+D'OR)
+DEPOSE.
+"Anniversary Dinner 4/6/43 Palace Hotel B\nAnniversary Dinner\n4/6/43\nPalace Hotel\nB\nWhite Burgundy Wine\nWHITE BURGUNDY WINE\nPOUILLY-FUISSÉ\nPouilly-Fuissé\nPOUILLY-FUISSÉ\nPRODUCE OF FRANCE\nProduce of France\nAbbaye de St. Martin\nPierre Ponnelle\nPropriétaire & Négociant\nPROPRIÉTAIRE & NÉGOCIANT\na Beaune (Côte d'Or)\nDépose\nDÉPOSÉ\nX"
+"Anniversary Dinner 4/6/43 Palace Hotel B"
+"Anniversary Dinner\n4/6/43\nPalace Hotel\nB"
+"White Burgundy Wine"
+"WHITE BURGUNDY WINE"
+"Pouilly-Fuissé"
+"POUILLY-FUISSÉ"
+"POUILLY-FUISSÉ"
+"Produce of France"
+"PRODUCE OF FRANCE"
+"Abbaye de St. Martin"
+"Pierre Ponnelle"
+"PROPRIÉTAIRE & NÉGOCIANT"
+"Propriétaire & Négociant"
+"a Beaune (Côte d'Or)"
+"DÉPOSÉ"
+"Dépose"
+"X"

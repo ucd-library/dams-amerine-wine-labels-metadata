@@ -1,0 +1,32 @@
+N A R A N U A
+MARCAREGISTRADA
+NARCA REGISTRADA
+elan lunar der Darrameda
+No 132
+
+N
+A
+R
+A
+N
+U
+A
+MARCAREGISTRADA
+NARCA
+REGISTRADA
+elan
+lunar
+der
+Darrameda
+No
+132
+"Naranja\nBarefoot\nXyz \nMarca Registrada\nRating 9.3\nHerederos de Argüeso S.A.\nSanlúcar de Barrameda\nWine\nNo. 132"
+"Barefoot"
+"Naranja"
+"Marca Registrada"
+"Xyz "
+"Herederos de Argüeso S.A."
+"Rating 9.3"
+"Wine"
+"Sanlúcar de Barrameda"
+"No. 132"

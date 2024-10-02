@@ -1,0 +1,19 @@
+FINE GERMAIN
+CoGNAC
+Biz UXELLES
+ELGIQUE
+564
+
+FINE
+GERMAIN
+CoGNAC
+Biz
+UXELLES
+ELGIQUE
+564
+"Fine Germain\nCognac\nImporte par: A. & F. van den Hove & Co. Bruxelles Belgique\nImporte par: A. & E. VAN DEN HOVE & Cº. / BRUXELLES / BELGIQUE\n564"
+"Fine Germain"
+"Cognac"
+"Importe par: A. & E. VAN DEN HOVE & Cº. / BRUXELLES / BELGIQUE"
+"Importe par: A. & F. van den Hove & Co. Bruxelles Belgique"
+"564"

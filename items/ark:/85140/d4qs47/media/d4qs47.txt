@@ -1,0 +1,38 @@
+5 3 1 9 53
+R HEIN G A u
+1952er Riidesheimer Berg Marienwingert
+Riesling Spatlese
+Keller abzug Erbhof Dr. A. M. Brogsitter-Findk
+
+5
+3
+1
+9
+53
+R
+HEIN
+G
+A
+u
+1952er
+Riidesheimer
+Berg
+Marienwingert
+Riesling
+Spatlese
+Keller
+abzug
+Erbhof
+Dr.
+A.
+M.
+Brogsitter-Findk
+"1853-1953\n1853-1893\nSoln-Dusseldorfer Rheindampfschriffahrt\nKöln-Düsseldorfer Rheindampfschiffahrt\nRHEINGAU\nRheingau\n1952er Rudesheimer Berg Marienwingert\nRiesling Spatlese Kellerabzug Erbhof Dr. A.M. Brogsitter-Finck"
+"1853-1893"
+"1853-1953"
+"Köln-Düsseldorfer Rheindampfschiffahrt"
+"Soln-Dusseldorfer Rheindampfschriffahrt"
+"Rheingau"
+"RHEINGAU"
+"1952er Rudesheimer Berg Marienwingert"
+"Riesling Spatlese Kellerabzug Erbhof Dr. A.M. Brogsitter-Finck"

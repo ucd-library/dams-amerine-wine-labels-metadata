@@ -1,0 +1,60 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@graph": [
+    {
+      "@id": "",
+      "@type": [
+        "schema:VisualArtwork",
+        "schema:CreativeWork",
+        "ucdlib:WineLabel",
+        "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+      ],
+      "ucdlib:describesWine": {
+        "@id": "@base:#wine"
+      },
+      "schema:about": [
+        {
+          "@id": "http://id.worldcat.org/fast/1115874"
+        },
+        {
+          "@id": "http://id.worldcat.org/fast/1204303"
+        }
+      ],
+      "schema:identifier": [
+        "label_4568",
+        "ark:/85140/d43n14"
+      ],
+      "schema:inLanguage": "es-ES",
+      "schema:isPartOf": {
+        "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
+      },
+      "schema:keywords": "Spain Sherry Folder",
+      "schema:license": {
+        "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
+      },
+      "schema:name": "Fortified--Spain Sherry Folder",
+      "schema:publisher": [
+        "University of California, Davis. General Library. Dept. of Special Collections",
+        {
+          "@id": "http://id.loc.gov/authorities/names/no2008108707"
+        }
+      ]
+    },
+    {
+      "@id": "@base:#wine",
+      "@type": "ucdlib:Wine",
+      "ucdlib:WineType": {
+        "@id": "ucdlib:Fortified"
+      },
+      "http://www.wikidata.org/prop/direct/P297": "ES"
+    }
+  ]
+}

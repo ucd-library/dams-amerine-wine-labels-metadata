@@ -1,0 +1,32 @@
+DES VINS
+LE VIN.
+D. CORDIER
+BORDEAUX
+Propriétaire
+DEPOSE
+MIS EN BOUTEILLES AU CHATEAU
+
+DES
+VINS
+LE
+VIN.
+D.
+CORDIER
+BORDEAUX
+Propriétaire
+DEPOSE
+MIS
+EN
+BOUTEILLES
+AU
+CHATEAU
+"GRAN VIN 1920\nCHATEAU GRUAUD - LAROSE-SARGET\nLe Roi Des Vins Le Vin Des Rois\nLe rio des vins le vinde rois\nLE ROI DES VINS LE VIN DES ROIS\nBaron Target\nBaron target\nBaron Sarget\nD. CORDIER Proprietaire Bordeaux depose Mis en bouteilles au chateau"
+"GRAN VIN 1920"
+"CHATEAU GRUAUD - LAROSE-SARGET"
+"Le rio des vins le vinde rois"
+"Le Roi Des Vins Le Vin Des Rois"
+"LE ROI DES VINS LE VIN DES ROIS"
+"Baron Target"
+"Baron Sarget"
+"Baron target"
+"D. CORDIER Proprietaire Bordeaux depose Mis en bouteilles au chateau"

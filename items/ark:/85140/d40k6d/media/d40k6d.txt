@@ -1,0 +1,48 @@
+LUID OUNCES
+NET CONTENTS
+PALACE HOTEL
+INTAGES
+THIS WINE IS SPECIALLY SELECTED FOR soUR VAULTs
+AND FOR EXCLUSIVE USE OF OUR GUESTS
+7 M
+Z m
+
+LUID
+OUNCES
+NET
+CONTENTS
+PALACE
+HOTEL
+INTAGES
+THIS
+WINE
+IS
+SPECIALLY
+SELECTED
+FOR
+soUR
+VAULTs
+AND
+FOR
+EXCLUSIVE
+USE
+OF
+OUR
+GUESTS
+7
+M
+Z
+m
+"net contents 12 fluid ounces\nNet Contents 12 Fluid Ounces\nPre-Prohibition\nbottled on bonded premises No. 6 1st District of California\nBottled on Bonded Premises No. 6 1st District of California\nAlcoholic strength 11 1/2% by Volume\nalcoholic strength 11 1/2% by volume\nPalace Hotel\nPalace Hotel Vintages\nZinfandel\nThis wine is specially selected for out vaults and for exclusive use of our guests\nThis wine is specially selected for our vaults and for exclusive use of our guests"
+"net contents 12 fluid ounces"
+"Net Contents 12 Fluid Ounces"
+"Pre-Prohibition"
+"Bottled on Bonded Premises No. 6 1st District of California"
+"bottled on bonded premises No. 6 1st District of California"
+"Alcoholic strength 11 1/2% by Volume"
+"alcoholic strength 11 1/2% by volume"
+"Palace Hotel Vintages"
+"Palace Hotel"
+"Zinfandel"
+"This wine is specially selected for out vaults and for exclusive use of our guests"
+"This wine is specially selected for our vaults and for exclusive use of our guests"

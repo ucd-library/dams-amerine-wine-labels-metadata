@@ -1,0 +1,27 @@
+Federico
+Palerina
+BORGONA
+EN SU 6. ANO
+R. E. 329
+VINA VIAL
+
+Federico
+Palerina
+BORGONA
+EN
+SU
+6.
+ANO
+R.
+E.
+329
+VINA
+VIAL
+"8\nFederico Paternina\nOllauri (Rioja)\nBorgona en su 6 ano\nR.E. 329\nVina vial\nVina Vial"
+"8"
+"Federico Paternina"
+"Ollauri (Rioja)"
+"Borgona en su 6 ano"
+"R.E. 329"
+"Vina Vial"
+"Vina vial"

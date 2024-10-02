@@ -1,0 +1,18 @@
+JEREZ oscuRO SECO
+SANI UCAR
+N932
+
+JEREZ
+oscuRO
+SECO
+SANI
+UCAR
+N932
+"Barbadillo\nSanlucar\nJerez oscuro seco\nJerz oscuro seco\nNo. 32\n\n"
+"Barbadillo"
+"Sanlucar"
+"Jerez oscuro seco"
+"Jerz oscuro seco"
+"No. 32"
+""
+""

@@ -1,0 +1,59 @@
+CHAMPAGNE
+VINTAGE
+S 3 3
+BY APPOINTMENT
+Maison Fondée en 1760 FRANCE
+SOLE DISTRIBUTORS FOR UNITED STATES OF AMERICA
+IMPORT DIVISION
+NEW YORK, N. Y.
+ALCOHOLIC STRENGTH 13 BY VOLUME
+13/16 PINT
+
+CHAMPAGNE
+VINTAGE
+S
+3
+3
+BY
+APPOINTMENT
+Maison
+Fondée
+en
+1760
+FRANCE
+SOLE
+DISTRIBUTORS
+FOR
+UNITED
+STATES
+OF
+AMERICA
+IMPORT
+DIVISION
+NEW
+YORK,
+N.
+Y.
+ALCOHOLIC
+STRENGTH
+13
+BY
+VOLUME
+13/16
+PINT
+"Vintage 1933\nChampagne\nLanson pere & fils\nReims (France)\n\nMaison Fondee en 1760\nSole distributors for United States of America\nSole Distributors for the United States of America\nNational Distillers Products Corp.\nImport Division\nImport Division New York, N.Y.\nAlcoholic strength 13% by volume\nAlcoholic Strength 13% by Volume\n13/16 pint\n13/16 Pint"
+"Vintage 1933"
+"Champagne"
+"Lanson pere & fils"
+"Reims (France)"
+""
+"Maison Fondee en 1760"
+"Sole distributors for United States of America"
+"Sole Distributors for the United States of America"
+"National Distillers Products Corp."
+"Import Division"
+"Import Division New York, N.Y."
+"Alcoholic strength 13% by volume"
+"Alcoholic Strength 13% by Volume"
+"13/16 Pint"
+"13/16 pint"

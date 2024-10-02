@@ -1,0 +1,38 @@
+Product
+Appellation
+of France
+lée
+ONDEE E
+CHABLIS VAILLON
+WHITE BURGUNDY WINE
+RESERVE DES CAVES DE J.MOREAU GUENIER A CHABLIS
+
+Product
+Appellation
+of
+France
+lée
+ONDEE
+E
+CHABLIS
+VAILLON
+WHITE
+BURGUNDY
+WINE
+RESERVE
+DES
+CAVES
+DE
+J.MOREAU
+GUENIER
+A
+CHABLIS
+"Appellation contrôlée\nProduct of France\nCHABLIS-vAILLON\nChablis-Vaillon\nWHITE BURGUNDY WINE\nwhite burgundy wine\nRÉSERVE des CAVES de J. MOREAU-GUÉNIER à CHABLIS\nRéserve des Caves de J. Moreau-Guénier á Chablis"
+"Appellation contrôlée"
+"Product of France"
+"CHABLIS-vAILLON"
+"Chablis-Vaillon"
+"WHITE BURGUNDY WINE"
+"white burgundy wine"
+"Réserve des Caves de J. Moreau-Guénier á Chablis"
+"RÉSERVE des CAVES de J. MOREAU-GUÉNIER à CHABLIS"

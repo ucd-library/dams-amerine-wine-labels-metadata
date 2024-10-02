@@ -1,0 +1,50 @@
+GOLD SEAL
+NEW YORK STATE
+CREAM SHERRY
+WINE
+RICH AND MELLOW
+PRODUCED AND BOTTLED BY
+URBANA WINE COMPANY, INC.
+URBANA, HAMMONDSPORT, N. Y.
+ESTABLISHED 1865
+ALCOHOL 19% BY VOLUME
+
+GOLD
+SEAL
+NEW
+YORK
+STATE
+CREAM
+SHERRY
+WINE
+RICH
+AND
+MELLOW
+PRODUCED
+AND
+BOTTLED
+BY
+URBANA
+WINE
+COMPANY,
+INC.
+URBANA,
+HAMMONDSPORT,
+N.
+Y.
+ESTABLISHED
+1865
+ALCOHOL
+19%
+BY
+VOLUME
+"gold seal\nGold Seal\nGold Seal\nNew York State Cream Sherry Wine Rich and Mellow\nNew York State Cream Sherry Wine Rich and Mellow\nProduced and Bottled by Urbana Wine Compnay, Inc. Urbana, Hammondsport, N.Y. Alcohol 19% by volume -- Established 1865\nPRODUCED AND BOTTLED BY URBANA WINE COMPANY, INC. URBANA, HAMMONDSPORT, N.Y.\nProduced and Bottled by Urbana Wine Company, Inc. Urbana, Hammondsport, N.Y. Alcohol 195 by volume -- Established 1865\nProduced and Bottled by Urbana Wine Company, Inc. Urbana, Hammondsport, N.Y. Alcohol 19% by volume - Established 1865"
+"Gold Seal"
+"gold seal"
+"Gold Seal"
+"New York State Cream Sherry Wine Rich and Mellow"
+"New York State Cream Sherry Wine Rich and Mellow"
+"Produced and Bottled by Urbana Wine Compnay, Inc. Urbana, Hammondsport, N.Y. Alcohol 19% by volume -- Established 1865"
+"PRODUCED AND BOTTLED BY URBANA WINE COMPANY, INC. URBANA, HAMMONDSPORT, N.Y."
+"Produced and Bottled by Urbana Wine Company, Inc. Urbana, Hammondsport, N.Y. Alcohol 195 by volume -- Established 1865"
+"Produced and Bottled by Urbana Wine Company, Inc. Urbana, Hammondsport, N.Y. Alcohol 19% by volume - Established 1865"

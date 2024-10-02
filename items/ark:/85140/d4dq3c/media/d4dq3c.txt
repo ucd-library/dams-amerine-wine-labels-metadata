@@ -1,0 +1,43 @@
+READ CHEVALB
+943
+milion
+DAR i S 78
+FOUR CAUD LAUSSAC
+PROPRIETAIRE
+Mis en bouteille au
+Chateau
+FRANCE
+APPELLATION CONTROLEE
+
+READ
+CHEVALB
+943
+milion
+DAR
+i
+S
+78
+FOUR
+CAUD
+LAUSSAC
+PROPRIETAIRE
+Mis
+en
+bouteille
+au
+Chateau
+FRANCE
+APPELLATION
+CONTROLEE
+"Chateau Cheval Blanc\nCháteau Cheval Blanc\nChateau Cheval Blanc\nSt. Emilion\nProprietaire\nproprietaire\n(France)\nMis en bouteille au Chateau.\nMis en bouteille au Chateau\nAppellation Controlee\nAppellation Controlée"
+"Chateau Cheval Blanc"
+"Cháteau Cheval Blanc"
+"Chateau Cheval Blanc"
+"St. Emilion"
+"Proprietaire"
+"proprietaire"
+"(France)"
+"Mis en bouteille au Chateau."
+"Mis en bouteille au Chateau"
+"Appellation Controlée"
+"Appellation Controlee"

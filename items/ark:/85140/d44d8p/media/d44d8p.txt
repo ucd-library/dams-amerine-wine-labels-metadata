@@ -1,0 +1,41 @@
+Maison Fondée
+123
+en
+Beaune
+ERI.MOINGECON Frisures
+EGOCIANTS EN
+VINS
+A EAUNE
+RANCE
+APPELLATION CONTROLEE
+ME
+EN FRANCE
+
+Maison
+Fondée
+123
+en
+Beaune
+ERI.MOINGECON
+Frisures
+EGOCIANTS
+EN
+VINS
+A
+EAUNE
+RANCE
+APPELLATION
+CONTROLEE
+ME
+EN
+FRANCE
+"Maison Fondee en 1832\nMaison Fondée en 1832\nBeaune\nE&D Moingeon Freres Negociants en Vins a Beaune (France)\nE&D. Moingeon Fréres / Négociants en Vins à Beaune (France)\nAPPELLATION CONTRÔLÉE\nAppellation Controlee\nime en France\n...ME EN FRANCE"
+"Maison Fondée en 1832"
+"Maison Fondee en 1832"
+"Beaune"
+"E&D Moingeon Freres Negociants en Vins a Beaune (France)"
+"E&D. Moingeon Fréres / Négociants en Vins à Beaune (France)"
+"APPELLATION CONTRÔLÉE"
+"Appellation Controlee"
+"...ME EN FRANCE"
+"ime en France"

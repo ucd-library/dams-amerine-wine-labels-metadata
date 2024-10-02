@@ -1,0 +1,28 @@
+5 3 1 9 53
+1951 er
+Oppenheimer Goldberg
+R H E I N H E S S E N
+
+5
+3
+1
+9
+53
+1951
+er
+Oppenheimer
+Goldberg
+R
+H
+E
+I
+N
+H
+E
+S
+S
+E
+N
+"1853-1953\n"
+"1853-1953"
+""

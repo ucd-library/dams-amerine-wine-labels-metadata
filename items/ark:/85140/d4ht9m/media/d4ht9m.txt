@@ -1,0 +1,27 @@
+PRODUCT OF
+PROPRIETAIRES-NEGOCIANTS
+TAIN L'HERMITAGE
+(DROME)
+PRODUCT OF FRANCE
+
+PRODUCT
+OF
+PROPRIETAIRES-NEGOCIANTS
+TAIN
+L'HERMITAGE
+(DROME)
+PRODUCT
+OF
+FRANCE
+"contents 1 pint 9 fluid ozs\nFrench\nthis wine tastes like shit\nAlcohol 13% By Vol.\n1923\nChateauneuf-du-Pape\nDelepine & Cie\nProprietaires-Negociants\nTain-L'Hermitage (DROME)\nTain-L'Hermitage (Drome)\nProduct of France"
+"contents 1 pint 9 fluid ozs"
+"French"
+"this wine tastes like shit"
+"Alcohol 13% By Vol."
+"1923"
+"Chateauneuf-du-Pape"
+"Delepine & Cie"
+"Proprietaires-Negociants"
+"Tain-L'Hermitage (DROME)"
+"Tain-L'Hermitage (Drome)"
+"Product of France"

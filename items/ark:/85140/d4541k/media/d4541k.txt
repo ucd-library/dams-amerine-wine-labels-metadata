@@ -1,0 +1,63 @@
+ALCOHOL BY VOLUME
+CONTENTS
+3,5
+PINT AND 8 FLUID OUNCES
+Miche n
+Grand Vin de Bourgogne
+FERNAND GRIVELET
+Propriétaire
+CHAM BOLLE-MUSIGNY (Cote-d'Or)
+France
+PRODUCE OF FRANCE
+ate de Nuits
+ros m e Romare
+
+ALCOHOL
+BY
+VOLUME
+CONTENTS
+3,5
+PINT
+AND
+8
+FLUID
+OUNCES
+Miche
+n
+Grand
+Vin
+de
+Bourgogne
+FERNAND
+GRIVELET
+Propriétaire
+CHAM
+BOLLE-MUSIGNY
+(Cote-d'Or)
+France
+PRODUCE
+OF
+FRANCE
+ate
+de
+Nuits
+ros
+m
+e
+Romare
+"Cote de Nuits, Vosne-Romanee, Tete de Cuvee\nEliot and Grammy and dadduo\nEliot and hammy \nCONTENTS 1 PINT AND 8 FLUID OUNCES\nALCOHOL BY VOLUME 13.5%\nEliot and Grammy and Daddio\n1929\nRichebourg Grand Vin de Bourgogne\nRichebourg, Grand Vin de Bourgogne\nFERNAND GRIVELET\nFernand Grivelet\nProprieraire Chambolle-Musigny\nProprietaire, CHAMBOLLE-MUSIGNY (Cote-d' Or), France\nPRODUCE OF FRANCE\nProduce of France"
+"Cote de Nuits, Vosne-Romanee, Tete de Cuvee"
+"Eliot and Grammy and dadduo"
+"Eliot and hammy "
+"CONTENTS 1 PINT AND 8 FLUID OUNCES"
+"ALCOHOL BY VOLUME 13.5%"
+"Eliot and Grammy and Daddio"
+"1929"
+"Richebourg Grand Vin de Bourgogne"
+"Richebourg, Grand Vin de Bourgogne"
+"FERNAND GRIVELET"
+"Fernand Grivelet"
+"Proprieraire Chambolle-Musigny"
+"Proprietaire, CHAMBOLLE-MUSIGNY (Cote-d' Or), France"
+"PRODUCE OF FRANCE"
+"Produce of France"

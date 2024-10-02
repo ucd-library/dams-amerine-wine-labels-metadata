@@ -1,0 +1,31 @@
+CAREGISTRADA
+Bodegas Franco Espanolas
+LOGRoNo
+R. E. N 9 43
+
+CAREGISTRADA
+Bodegas
+Franco
+Espanolas
+LOGRoNo
+R.
+E.
+N
+9
+43
+"Red\nRoyal Claret\n\"A fair red wine.\" MAA\n\" a fair red wine\" maa\nVino Fino de Rioja\nm\nM\nMarca Registrada\na\nBodegas Franco-Espanolas\nBodegas Franco-Españolas\nLogrono\nLogroño\nRESERVA 1943\nReserva 1943, R.E. No. 43"
+"Red"
+"Royal Claret"
+"\" a fair red wine\" maa"
+"\"A fair red wine.\" MAA"
+"Vino Fino de Rioja"
+"M"
+"m"
+"a"
+"Marca Registrada"
+"Bodegas Franco-Espanolas"
+"Bodegas Franco-Españolas"
+"Logroño"
+"Logrono"
+"Reserva 1943, R.E. No. 43"
+"RESERVA 1943"

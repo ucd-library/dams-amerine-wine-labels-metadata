@@ -1,0 +1,39 @@
+CHATEAU AUSONE
+ST EMILION
+194
+O
+EDOUARD DUBOIS- CHALLON
+MIS EN BOUTEILLE AU CHATEAU
+ROUSSEAU FRERES, Bx
+1re
+Grand Cru
+
+CHATEAU
+AUSONE
+ST
+EMILION
+194
+O
+EDOUARD
+DUBOIS-
+CHALLON
+MIS
+EN
+BOUTEILLE
+AU
+CHATEAU
+ROUSSEAU
+FRERES,
+Bx
+1re
+Grand
+Cru
+"castle\nchateau & vineyard\nChâteau Ausone\nSt. ÉMILION\n1940\nEdouard DUBOIS-CHALLON\nPropriétaire\nMIS EN BOUTEILLE AU CHÂTEAU"
+"castle"
+"chateau & vineyard"
+"Château Ausone"
+"St. ÉMILION"
+"1940"
+"Edouard DUBOIS-CHALLON"
+"Propriétaire"
+"MIS EN BOUTEILLE AU CHÂTEAU"

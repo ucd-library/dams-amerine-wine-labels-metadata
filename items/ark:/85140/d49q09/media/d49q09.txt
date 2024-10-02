@@ -1,0 +1,38 @@
+TVI AN ZAN I LLA
+BR
+N. 222
+VIVI A MANU ON
+ANLV CAR E BAR, RAM EDA.
+
+TVI
+AN
+ZAN
+I
+LLA
+BR
+N.
+222
+VIVI
+A
+MANU
+ON
+ANLV
+CAR
+E
+BAR,
+RAM
+EDA.
+"Manzanilla\n\"El Rocio\"\nTimbre a Metalico\nTimbre a metalico\nNo. 222\nA. Orge\nA. DAGE\nXXXX, Jerez\nVivda & Manjon\nVIVDA E MANJÓN\nPhleger\nSanlucar de Barrameda\nSanlvcar d Barrameda"
+"Manzanilla"
+"\"El Rocio\""
+"Timbre a Metalico"
+"Timbre a metalico"
+"No. 222"
+"A. DAGE"
+"A. Orge"
+"XXXX, Jerez"
+"VIVDA E MANJÓN"
+"Vivda & Manjon"
+"Phleger"
+"Sanlucar de Barrameda"
+"Sanlvcar d Barrameda"

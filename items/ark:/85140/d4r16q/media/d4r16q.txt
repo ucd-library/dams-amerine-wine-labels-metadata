@@ -1,0 +1,25 @@
+0
+H.HIDALGOYCH
+SaLHLWCAR
+AMONTILLADO FINO
+(ESPANA) N2
+N 20
+
+0
+H.HIDALGOYCH
+SaLHLWCAR
+AMONTILLADO
+FINO
+(
+ESPANA
+)
+N2
+N
+20
+"M. Hidalgo y Cia.\nM. Hidalgo y Cia\nSanlúcar (ESPAÑA)\nSanlucar (Espana) No. 20\nAMONTILLADO FINO\nAmontillado fino"
+"M. Hidalgo y Cia"
+"M. Hidalgo y Cia."
+"Sanlúcar (ESPAÑA)"
+"Sanlucar (Espana) No. 20"
+"Amontillado fino"
+"AMONTILLADO FINO"

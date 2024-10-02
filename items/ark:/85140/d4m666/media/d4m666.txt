@@ -1,0 +1,21 @@
+Chateau
+Leoville Royferré
+1998
+en Bouteille tul Chateau
+
+Chateau
+Leoville
+Royferré
+1998
+en
+Bouteille
+tul
+Chateau
+"Chateau Leoville Poyferre\nChateau Léoville Poyferreé\nSelleck\nSellecto\n1928\n1928\nMis en Bouteille au Chateau"
+"Chateau Léoville Poyferreé"
+"Chateau Leoville Poyferre"
+"Selleck"
+"Sellecto"
+"1928"
+"1928"
+"Mis en Bouteille au Chateau"

@@ -1,0 +1,29 @@
+VINS D'ALSACE
+SCHLUMBERGE
+ORMAVITICOLES SCHLUMBERGER GUEBWILLER
+
+VINS
+D'ALSACE
+SCHLUMBERGE
+ORMAVITICOLES
+SCHLUMBERGER
+GUEBWILLER
+"PRODUCE OF FRANCE\nproduce of france\nVins D'alsace\nvins d'alsace\nSchlumberger\n18/9/48\nRiesling\nDom viticoles schlumberger guebwiller\nDom Viticoles Schlumberger, Guebwiller\nAlsace\n(alsace)\nDaily Milkhouse\nBahy Millhouse\nshipped by: w.e. smith & co; ltd. london\nShipped by: W.E. Smith & Co.; LTD, London\n--- france\nLondon France\n[illegible] from London"
+"produce of france"
+"PRODUCE OF FRANCE"
+"vins d'alsace"
+"Vins D'alsace"
+"Schlumberger"
+"18/9/48"
+"Riesling"
+"Dom viticoles schlumberger guebwiller"
+"Dom Viticoles Schlumberger, Guebwiller"
+"Alsace"
+"(alsace)"
+"Bahy Millhouse"
+"Daily Milkhouse"
+"shipped by: w.e. smith & co; ltd. london"
+"Shipped by: W.E. Smith & Co.; LTD, London"
+"London France"
+"--- france"
+"[illegible] from London"

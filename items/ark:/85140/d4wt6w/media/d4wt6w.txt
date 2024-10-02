@@ -1,0 +1,58 @@
+ALCOHOL 12Va% BY VOLUME
+NET CONTENTS 4/5 QUART
+ALMADEN
+BRUT
+Selected by
+FRANK SCHOON MAKER for WILLIAMSBURG INN
+WILLIAMSBURG, VIRGINIA
+Produced and Bottled by the
+ALMADEN VINEYARDS. LOS GATOS, SANTA CLARA COUNTY, CALIFORNIA
+
+ALCOHOL
+12Va%
+BY
+VOLUME
+NET
+CONTENTS
+4/5
+QUART
+ALMADEN
+BRUT
+Selected
+by
+FRANK
+SCHOON
+MAKER
+for
+WILLIAMSBURG
+INN
+WILLIAMSBURG,
+VIRGINIA
+Produced
+and
+Bottled
+by
+the
+ALMADEN
+VINEYARDS.
+LOS
+GATOS,
+SANTA
+CLARA
+COUNTY,
+CALIFORNIA
+"net contents 4/5 quart\nNET CONENTS 4/5 QUART\nalcohol 12 1/2% by volume\nAlCOHOL 121/2% BY VOLUME\nalmaden\nALMADEN\nbrut\nBRUT\ncalifornia champagne\nCalifornia Champagne\nselected by Frank Schoonmaker for Williamsburg Inn Williamsburg, Virginia\nSelected by\nFRANK SCHOONMAKER for WILLIAMSBURG INN\nWILLIAMSBURG, VIRGINIA\nProduced and bottled by the Alamden Vineyards - Los Gatos, Santa Clara County, California\nProduced and Bottled by the"
+"net contents 4/5 quart"
+"NET CONENTS 4/5 QUART"
+"alcohol 12 1/2% by volume"
+"AlCOHOL 121/2% BY VOLUME"
+"ALMADEN"
+"almaden"
+"BRUT"
+"brut"
+"California Champagne"
+"california champagne"
+"selected by Frank Schoonmaker for Williamsburg Inn Williamsburg, Virginia"
+"Selected by\nFRANK SCHOONMAKER for WILLIAMSBURG INN\nWILLIAMSBURG, VIRGINIA"
+"Produced and Bottled by the"
+"Produced and bottled by the Alamden Vineyards - Los Gatos, Santa Clara County, California"

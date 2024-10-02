@@ -1,0 +1,44 @@
+0
+gra TS&no de (Rioja
+ran, Uno ae
+Lola
+Campeador
+RCA REGIST
+REGISTRADA
+HARO
+P
+Fundadaen 18
+ESPA NA
+
+0
+gra
+TS
+&
+no
+de
+(
+Rioja
+ran
+,
+Uno
+ae
+Lola
+Campeador
+RCA
+REGIST
+REGISTRADA
+HARO
+P
+Fundadaen
+18
+ESPA
+NA
+"Gran Vino de Rioja\nCampeador\nMARCA REGISTRADA\nMarca Registrada\nMartines Lacuesta\nMartine Lacuesta\nHARO ESPANA Fundada en 1895\nHaro Fundada en 1895 Espana"
+"Gran Vino de Rioja"
+"Campeador"
+"MARCA REGISTRADA"
+"Marca Registrada"
+"Martines Lacuesta"
+"Martine Lacuesta"
+"Haro Fundada en 1895 Espana"
+"HARO ESPANA Fundada en 1895"

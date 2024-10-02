@@ -1,0 +1,38 @@
+CREMANT
+GRAND
+DUCHESSEDEBOUR60 (GNE
+MO NO POLE
+GRAND BOURGOGNE MOUSSEUX
+ENTREPOTS.A BORDEAUX ET EPERNAY
+ELLE
+Flus EPERNAY
+
+CREMANT
+GRAND
+DUCHESSEDEBOUR60
+(GNE
+MO
+NO
+POLE
+GRAND
+BOURGOGNE
+MOUSSEUX
+ENTREPOTS.A
+BORDEAUX
+ET
+EPERNAY
+ELLE
+Flus
+EPERNAY
+"Grand Cremant\nGrand cremant\nDuchesse de Bourgogne\nMonopole\nGrand Bourgogne mouisseux\nGrand Bourgogne Mousseux\nEtablissements Adrien Sarrazin Dijon (Bourgogne)\nEstablissements Adrien Larrazin Dijon Bourgognes\nEntrepots A Bordeaux Et Epernay\nEntrepots . A Bourdeaux et Epernay\nMichel Levy Fils Epernay"
+"Grand cremant"
+"Grand Cremant"
+"Duchesse de Bourgogne"
+"Monopole"
+"Grand Bourgogne mouisseux"
+"Grand Bourgogne Mousseux"
+"Etablissements Adrien Sarrazin Dijon (Bourgogne)"
+"Establissements Adrien Larrazin Dijon Bourgognes"
+"Entrepots . A Bourdeaux et Epernay"
+"Entrepots A Bordeaux Et Epernay"
+"Michel Levy Fils Epernay"

@@ -1,0 +1,31 @@
+POR RET
+COYUCHATEL
+FON DE E N
+I 858
+1945
+A. POR RET
+roprietaire viticulteur
+
+POR
+RET
+COYUCHATEL
+FON
+DE
+E
+N
+I
+858
+1945
+A.
+POR
+RET
+roprietaire
+viticulteur
+"fonde en 1858\nFondé en 1858\nNEUCHATEL 1945\nA PORRET CORTAILLOD NEUCHATEL SWISSE\nA. Porret Propriétaire Viticulteur\nA. PORRET proprietaire-viticulteur\nCORTAILLOD"
+"fonde en 1858"
+"Fondé en 1858"
+"NEUCHATEL 1945"
+"A PORRET CORTAILLOD NEUCHATEL SWISSE"
+"A. Porret Propriétaire Viticulteur"
+"A. PORRET proprietaire-viticulteur"
+"CORTAILLOD"

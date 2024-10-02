@@ -1,0 +1,41 @@
+1935
+E CHE ZEAux
+Do MAINE DE LA RoMANEE .CONT
+ROPITE AU FRERES
+PROPRIETAIRES ET NEGocIANTs
+BOURGOGNE
+MEURSAULT
+
+1935
+E
+CHE
+ZEAux
+Do
+MAINE
+DE
+LA
+RoMANEE
+.CONT
+ROPITE
+AU
+FRERES
+PROPRIETAIRES
+ET
+NEGocIANTs
+BOURGOGNE
+MEURSAULT
+"1935\nproduct of france\nProduct of France\nnet contents 1 pint 9 fl oz\n2.75 Net Contents 1 pint 9 fl. oz \nechezeaux\nechezaux\ndomaine de la romanee-conti\ndomane de la romanee conti\nropiteau freres proprietaires et negociants\nropitau freres proprietaires et negociants\na meursault\na mersault\nbourgogne"
+"1935"
+"Product of France"
+"product of france"
+"2.75 Net Contents 1 pint 9 fl. oz "
+"net contents 1 pint 9 fl oz"
+"echezeaux"
+"echezaux"
+"domaine de la romanee-conti"
+"domane de la romanee conti"
+"ropitau freres proprietaires et negociants"
+"ropiteau freres proprietaires et negociants"
+"a meursault"
+"a mersault"
+"bourgogne"

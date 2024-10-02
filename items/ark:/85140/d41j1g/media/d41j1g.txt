@@ -1,0 +1,36 @@
+0
+巫2g
+H.HIDALGOyce
+MANZANILLA FINA o LUCAR
+MANZANILLA FINA e, .NegUU
+(ESPANA)
+NO 20
+
+0
+巫
+2g
+H.HIDALGOyce
+MANZANILLA
+FINA
+o
+LUCAR
+MANZANILLA
+FINA
+e
+,
+.NegUU
+(
+ESPANA
+)
+NO
+20
+"M. Hidalgo y CIA\nM. Hidalgo y Cia..\nSanlùcar\nSanlugar\nMANZANILLA FINA\nManzanilla Fina\nEspana\n(espana)\nNo. 20"
+"M. Hidalgo y CIA"
+"M. Hidalgo y Cia.."
+"Sanlugar"
+"Sanlùcar"
+"Manzanilla Fina"
+"MANZANILLA FINA"
+"Espana"
+"(espana)"
+"No. 20"

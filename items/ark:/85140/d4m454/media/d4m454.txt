@@ -1,0 +1,40 @@
+CAREGISTRADA
+R.E. No 43
+Bodegas Franco-Espanolas
+REGULADOR O
+o Precio
+o en origen
+8
+6 Pts.
+RESERVA 3
+
+CAREGISTRADA
+R.E.
+No
+43
+Bodegas
+Franco-Espanolas
+REGULADOR
+O
+o
+Precio
+o
+en
+origen
+8
+6
+Pts.
+RESERVA
+3
+"Diamante\nVino Blanco de España\nR.E. No. 43\nBodegas Franco-Españolas\nCONSEJO REGULADOR DENOMINACION ORIGEN RIOJA\nCONSEJO EGULADOR DENOMINA CION ORIGEN RIOJA\nPrecio en origen 6 Pts.\nLogroño\nRESERVA 1945\nR. E. NO. 43\nR. E. No. 43"
+"Diamante"
+"Vino Blanco de España"
+"R.E. No. 43"
+"Bodegas Franco-Españolas"
+"CONSEJO EGULADOR DENOMINA CION ORIGEN RIOJA"
+"CONSEJO REGULADOR DENOMINACION ORIGEN RIOJA"
+"Precio en origen 6 Pts."
+"Logroño"
+"RESERVA 1945"
+"R. E. NO. 43"
+"R. E. No. 43"

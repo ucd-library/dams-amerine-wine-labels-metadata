@@ -1,0 +1,28 @@
+PRIx
+GRAND PARIS
+EXPOSITION
+UNIVERS
+GRAVES
+her Cru
+BORDEAUX
+FRANCE
+
+PRIx
+GRAND
+PARIS
+EXPOSITION
+UNIVERS
+GRAVES
+her
+Cru
+BORDEAUX
+FRANCE
+"Grand Prix\nParis 1900\nExposition Universelle\nGRAVES\nGraves\n1er Cru\nBordeaux France\nBORDEAUX FRANCE"
+"Grand Prix"
+"Paris 1900"
+"Exposition Universelle"
+"Graves"
+"GRAVES"
+"1er Cru"
+"Bordeaux France"
+"BORDEAUX FRANCE"

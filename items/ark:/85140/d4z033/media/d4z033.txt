@@ -1,0 +1,22 @@
+GRANDMA UX
+nur
+Moverraz prop
+ZURICH 1939
+MEDAILLE D'OR
+
+GRANDMA
+UX
+nur
+Moverraz
+prop
+ZURICH
+1939
+MEDAILLE
+D'OR
+"Grandvaux Lavaux\nGRANDVAUX Lavaux\nArthur Noverraz, prop.\nJeff\nMedaille d'Or Zurch 1939\nMÉDAILLE D'OR ZURICH 1939"
+"Grandvaux Lavaux"
+"GRANDVAUX Lavaux"
+"Arthur Noverraz, prop."
+"Jeff"
+"MÉDAILLE D'OR ZURICH 1939"
+"Medaille d'Or Zurch 1939"

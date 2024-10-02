@@ -1,0 +1,58 @@
+Classe
+CHATEAU
+lon-Segur
+PREMIER CRU DE
+SAINT-E STEPHE
+ME DOC
+Récolte
+en Bouteille
+1943
+au Chateau
+Appellation Saint-Estephe controlée
+DEPOSE IMP. WETTERWALD FRERES BORDEALUX
+
+Classe
+CHATEAU
+lon-Segur
+PREMIER
+CRU
+DE
+SAINT-E
+STEPHE
+ME
+DOC
+Récolte
+en
+Bouteille
+1943
+au
+Chateau
+Appellation
+Saint-Estephe
+controlée
+DEPOSE
+IMP.
+WETTERWALD
+FRERES
+BORDEALUX
+"growth level\ngrand cru classe\ndepatrion Hoaig\nnote\nDinner a la Cigogne Paris 5/24/52 A-\ntasting note\nchateau calon - segur\nestate\nnote\norigins\npremier cru de saint-estephe medoc\nalch t wainnann\nrecolte 1943\nvintage\nmis en bouteille au chateau\nMis en Bouteille au Chateau\nAppellation Saint-Estéphe controlee\nappelation saint-estephe controlee\ndepose imp. wetterwald freres bordeauz\nDepose im. wetterwald freres bordeaux"
+"grand cru classe"
+"growth level"
+"note"
+"depatrion Hoaig"
+"tasting note"
+"Dinner a la Cigogne Paris 5/24/52 A-"
+"estate"
+"chateau calon - segur"
+"note"
+"origins"
+"premier cru de saint-estephe medoc"
+"alch t wainnann"
+"recolte 1943"
+"vintage"
+"mis en bouteille au chateau"
+"Mis en Bouteille au Chateau"
+"Appellation Saint-Estéphe controlee"
+"appelation saint-estephe controlee"
+"Depose im. wetterwald freres bordeaux"
+"depose imp. wetterwald freres bordeauz"

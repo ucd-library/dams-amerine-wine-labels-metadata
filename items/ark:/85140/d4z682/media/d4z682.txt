@@ -1,0 +1,26 @@
+Mise en Bouteilles au Ghateau
+oronn vin i ord ogne
+3frais
+
+Mise
+en
+Bouteilles
+au
+Ghateau
+oronn
+vin
+i
+ord
+ogne
+3frais
+"Mise en Boutilles au Chateau\nMise en Bouteilles au Chateau\nAPPELLATION BERGERAC CONTROLEE\nChateau de Panisseau\nDordogne\nGrand vin\nGrand Vin\nServir\nServir \nFrais"
+"Mise en Bouteilles au Chateau"
+"Mise en Boutilles au Chateau"
+"APPELLATION BERGERAC CONTROLEE"
+"Chateau de Panisseau"
+"Dordogne"
+"Grand vin"
+"Grand Vin"
+"Servir"
+"Servir "
+"Frais"

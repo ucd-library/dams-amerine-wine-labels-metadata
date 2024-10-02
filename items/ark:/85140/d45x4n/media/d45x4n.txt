@@ -1,0 +1,41 @@
+19 4 3
+TR o a l
+IR estaurante 1porcber
+a dri
+d
+EMBOTELLADO POR BODE GAS RIOJANAS, S. A.
+EMBOTELLADOR NUM. 23
+CEN CERO
+
+19
+4
+3
+TR
+o
+a
+l
+IR
+estaurante
+1porcber
+a
+dri
+d
+EMBOTELLADO
+POR
+BODE
+GAS
+RIOJANAS,
+S.
+A.
+EMBOTELLADOR
+NUM.
+23
+CEN
+CERO
+"\n1943\nRoyal\nRestaurante Horcher Madrid\nEMBOTELLADO POR BODEGAS RIOJANAS, S. A. CENICERO\nEMBOTELLADOR NUM. 123"
+""
+"1943"
+"Royal"
+"Restaurante Horcher Madrid"
+"EMBOTELLADO POR BODEGAS RIOJANAS, S. A. CENICERO"
+"EMBOTELLADOR NUM. 123"

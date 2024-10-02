@@ -1,0 +1,40 @@
+a ca
+BIEN
+AIRE
+DIRE
+ET
+LAISSEz Caves
+Maison
+on dee a Smyane en 840
+ene
+
+a
+ca
+BIEN
+AIRE
+DIRE
+ET
+LAISSEz
+Caves
+Maison
+on
+dee
+a
+Smyane
+en
+840
+ene
+"\"Good standard wine\" maa\n\"Good standard wine.\" MAA\ncaves\nCaves\nCosti\ncosti\nbien faire\nET LAISSEZ DIRE\net laissez dire\nMaison fondee a Smyrne en 1840\nmouson fondee a smyrne en 1840\nAthenes\nathenes"
+"\"Good standard wine\" maa"
+"\"Good standard wine.\" MAA"
+"Caves"
+"caves"
+"Costi"
+"costi"
+"bien faire"
+"et laissez dire"
+"ET LAISSEZ DIRE"
+"mouson fondee a smyrne en 1840"
+"Maison fondee a Smyrne en 1840"
+"athenes"
+"Athenes"

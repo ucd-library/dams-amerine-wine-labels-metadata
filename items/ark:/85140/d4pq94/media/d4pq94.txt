@@ -1,0 +1,37 @@
+POUILLY FUISSE
+Joui faroche
+NEGOCIANT A NUITs ST GEORGES
+SHIPPED AND BOTTLED BY W. H. BAULY LTD., LONDON, EC.3
+PRODUCE OF FRANCE
+
+POUILLY
+FUISSE
+Joui
+faroche
+NEGOCIANT
+A
+NUITs
+ST
+GEORGES
+SHIPPED
+AND
+BOTTLED
+BY
+W.
+H.
+BAULY
+LTD.,
+LONDON,
+EC.3
+PRODUCE
+OF
+FRANCE
+"POUILLY FUISSE\nLouis Laroche\nNegociant a Nuits-St-Georges\nNégociant a Nuits-St-Georges\nSHIPPED AND BOTTLED BY W. H. BAULY LTD., LONDON, E.C.3.\nShipped and bottled by W. H. Bauly ltd., London, E. C. 3.\nPRODUCE OF FRANCE\nProduce of France"
+"POUILLY FUISSE"
+"Louis Laroche"
+"Négociant a Nuits-St-Georges"
+"Negociant a Nuits-St-Georges"
+"Shipped and bottled by W. H. Bauly ltd., London, E. C. 3."
+"SHIPPED AND BOTTLED BY W. H. BAULY LTD., LONDON, E.C.3."
+"Produce of France"
+"PRODUCE OF FRANCE"

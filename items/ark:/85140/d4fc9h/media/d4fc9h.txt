@@ -1,0 +1,61 @@
+FLEUR AC
+AA
+Marcel FLEURAC
+Cg
+COGNAC
+PROPRIETE LA NM ETA IRIE
+82 PROOF
+4/5 QUART
+PRODUCE OF FRANCE
+IMPORTED BY JOHN K. ESQUIN
+SAN FRANCISCO, CALIF.
+FAC COGNAC
+
+FLEUR
+AC
+AA
+Marcel
+FLEURAC
+Cg
+COGNAC
+PROPRIETE
+LA
+NM
+ETA
+IRIE
+82
+PROOF
+4/5
+QUART
+PRODUCE
+OF
+FRANCE
+IMPORTED
+BY
+JOHN
+K.
+ESQUIN
+SAN
+FRANCISCO,
+CALIF.
+FAC
+COGNAC
+"Fleurac\nPRODUCE OF FRANCE\nProduce of France\nMarcel FLEURAC & Cie\nMarcel Fleurac & Cie.\nCOGNAC\nPROPRIETE LA METAIRIE\nproperiete La Metairie\nproduce of France\nPRODUCE OF FRANCE\n82 PROOF\n82 proof\n4/5 QUART\n4.5 quart\nimported by John K Esquin San Francisco, Calif.\nIMPORTED BY JOHN K. ESQUIN SAN FRANCISCO, CALIF.\nFAC - COGNAC\nfac-Cognac"
+"Fleurac"
+"PRODUCE OF FRANCE"
+"Produce of France"
+"Marcel FLEURAC & Cie"
+"Marcel Fleurac & Cie."
+"COGNAC"
+"properiete La Metairie"
+"PROPRIETE LA METAIRIE"
+"PRODUCE OF FRANCE"
+"produce of France"
+"82 proof"
+"82 PROOF"
+"4.5 quart"
+"4/5 QUART"
+"IMPORTED BY JOHN K. ESQUIN SAN FRANCISCO, CALIF."
+"imported by John K Esquin San Francisco, Calif."
+"fac-Cognac"
+"FAC - COGNAC"

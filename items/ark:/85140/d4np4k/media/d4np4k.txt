@@ -1,0 +1,28 @@
+ARCA REG
+TRADA
+R. E. No 43
+Bodegas Franco Espanolas
+L o CR o No
+
+ARCA
+REG
+TRADA
+R.
+E.
+No
+43
+Bodegas
+Franco
+Espanolas
+L
+o
+CR
+o
+No
+"Marca Registrada\nR. E. No. 43\nR.E. No. 43\nRioja Estilo Borgona\nBodegas Franco-Espanolas\nLogrono"
+"Marca Registrada"
+"R. E. No. 43"
+"R.E. No. 43"
+"Rioja Estilo Borgona"
+"Bodegas Franco-Espanolas"
+"Logrono"

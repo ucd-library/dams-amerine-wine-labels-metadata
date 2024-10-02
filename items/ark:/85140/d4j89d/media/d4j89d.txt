@@ -1,0 +1,33 @@
+VALPO LICE LLA VALPA NTE NA
+-SECCO-BERTANI
+CAV.GIO.BATTA BERTANI
+VERONA (ITALIA)
+ARTI GRAF. TA OESENZANO
+
+VALPO
+LICE
+LLA
+VALPA
+NTE
+NA
+-SECCO-BERTANI
+CAV.GIO.BATTA
+BERTANI
+VERONA
+(ITALIA)
+ARTI
+GRAF.
+TA
+OESENZANO
+"VALPOLICELLA VALPANTENA\nValpolicella Valpantena\nDinner Hotel Hassler Rome 4/26/52\nSECCO-BRETANI\nSecco-Bertani\nCAV.GIO.BATTA BERTANI\nCav. Gio. Batta Bertani\n1635\nVerona (Italia)\narti graf votta-desenzano\nArti Graf. Votta - Desenzano"
+"VALPOLICELLA VALPANTENA"
+"Valpolicella Valpantena"
+"Dinner Hotel Hassler Rome 4/26/52"
+"Secco-Bertani"
+"SECCO-BRETANI"
+"CAV.GIO.BATTA BERTANI"
+"Cav. Gio. Batta Bertani"
+"1635"
+"Verona (Italia)"
+"arti graf votta-desenzano"
+"Arti Graf. Votta - Desenzano"

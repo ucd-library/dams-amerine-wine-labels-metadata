@@ -1,0 +1,44 @@
+CASA GRAZIA
+RUM MARTINIQUE
+90 PROOF
+IMPORTED BY
+ALPHA DISTRIBUTING CO.
+SAN FRANCISCO CALIFORNIA
+BOTTLED BY SOUTH END WAREHOUSE. SAN FRANCISCO, CALIF
+
+CASA
+GRAZIA
+RUM
+MARTINIQUE
+90
+PROOF
+IMPORTED
+BY
+ALPHA
+DISTRIBUTING
+CO.
+SAN
+FRANCISCO
+CALIFORNIA
+BOTTLED
+BY
+SOUTH
+END
+WAREHOUSE.
+SAN
+FRANCISCO,
+CALIF
+"Casa-Grazia\nrum martinique\nRum Martinique\n90 Proof\n80 proof\nimported by\nImported by\nalpha distributing co\nAlpha Distributing Co.\nsan francisco - california\nSan Francisco - California\nbottled by south end warehouse, san francisco, calif\nBottled by South End Warehouse, San Francisco, Calif."
+"Casa-Grazia"
+"Rum Martinique"
+"rum martinique"
+"80 proof"
+"90 Proof"
+"imported by"
+"Imported by"
+"alpha distributing co"
+"Alpha Distributing Co."
+"San Francisco - California"
+"san francisco - california"
+"bottled by south end warehouse, san francisco, calif"
+"Bottled by South End Warehouse, San Francisco, Calif."

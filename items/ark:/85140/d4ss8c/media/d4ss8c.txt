@@ -1,0 +1,52 @@
+KAVAKLIDERE
+SARAPLARI LIMITED SIRKETi
+A N K A R A
+ANKARA KIMIZI
+orta Anadolu iziimatinden yapilmstar
+DOMISEK
+Fiat 200
+Kuruselt
+No. 24
+Tel. 36-177
+Derece 11.12
+
+KAVAKLIDERE
+SARAPLARI
+LIMITED
+SIRKETi
+A
+N
+K
+A
+R
+A
+ANKARA
+KIMIZI
+orta
+Anadolu
+iziimatinden
+yapilmstar
+DOMISEK
+Fiat
+200
+Kuruselt
+No.
+24
+Tel.
+36-177
+Derece
+11.12
+"Turkey\nKavaklidere\nSaraplari Limited Sirketi\nAnkara\nAnkara Kimizi\nOrta Anadolu uzumunden yapilmistir\nOrta Anadolu uzumundem yapilmistir\nDomisek\nFiati: 200\nCl. 70\nDerece: 11-12\nKurucesme No 24 -- Tel 36-177\nKurucesme No 24 -- Tel. 36-177"
+"Turkey"
+"Kavaklidere"
+"Saraplari Limited Sirketi"
+"Ankara"
+"Ankara Kimizi"
+"Orta Anadolu uzumundem yapilmistir"
+"Orta Anadolu uzumunden yapilmistir"
+"Domisek"
+"Fiati: 200"
+"Cl. 70"
+"Derece: 11-12"
+"Kurucesme No 24 -- Tel. 36-177"
+"Kurucesme No 24 -- Tel 36-177"

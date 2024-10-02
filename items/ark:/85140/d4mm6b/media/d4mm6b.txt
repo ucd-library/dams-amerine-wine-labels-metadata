@@ -1,0 +1,55 @@
+TRADE
+M A R K
+1 9 39
+GRAVES
+Appellation Graves Controlée
+MARQUE DU CASQUE
+AUDIN ET & BUHAN
+MAISON FONDE EEN 8 8
+NEGOCIANTS A B OR DE AUX (GIRONDE)
+
+TRADE
+M
+A
+R
+K
+1
+9
+39
+GRAVES
+Appellation
+Graves
+Controlée
+MARQUE
+DU
+CASQUE
+AUDIN
+ET
+&
+BUHAN
+MAISON
+FONDE
+EEN
+8
+8
+NEGOCIANTS
+A
+B
+OR
+DE
+AUX
+(GIRONDE)
+"Trade Mark\ntrade mark\n1939\nGraves\nAppellation Graves Controlée\nAppellation Graves Controlee\nMarque Du Casque\nMarque du Casque\nAudinet & Buhan\nMaison Fondee en 1818\nMaison Fondée en 1818\nNegociants a Bordeaux (Gironde)\nJeff Smith Eurpe"
+"Trade Mark"
+"trade mark"
+"1939"
+"Graves"
+"Appellation Graves Controlee"
+"Appellation Graves Controlée"
+"Marque Du Casque"
+"Marque du Casque"
+"Audinet & Buhan"
+"Maison Fondee en 1818"
+"Maison Fondée en 1818"
+"Negociants a Bordeaux (Gironde)"
+"Jeff Smith Eurpe"

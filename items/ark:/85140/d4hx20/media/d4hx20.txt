@@ -1,0 +1,33 @@
+oles de Provence
+E GALOUPE
+Domaine da Galoapet
+Ronde
+classe
+cru
+941
+les maares
+
+oles
+de
+Provence
+E
+GALOUPE
+Domaine
+da
+Galoapet
+Ronde
+classe
+cru
+941
+les
+maares
+"cotes de provence\nCotes de Provence\ndomaine du galoupel\nDomaine du Galoupet\nla londe les-maures (var)\nLa-Londe Les-Maures\nCru Classe\ncru classe\n1947"
+"cotes de provence"
+"Cotes de Provence"
+"domaine du galoupel"
+"Domaine du Galoupet"
+"La-Londe Les-Maures"
+"la londe les-maures (var)"
+"Cru Classe"
+"cru classe"
+"1947"

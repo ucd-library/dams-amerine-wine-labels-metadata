@@ -1,0 +1,31 @@
+LES VERCOTS
+APPELLATION CONTROLEE
+MAISON FON DEE EN 797
+NEGOCIANT A BEAUNE (COTE -D'OR)
+ROUALET BEAUNE
+
+LES
+VERCOTS
+APPELLATION
+CONTROLEE
+MAISON
+FON
+DEE
+EN
+797
+NEGOCIANT
+A
+BEAUNE
+(COTE
+-D'OR)
+ROUALET
+BEAUNE
+"LES VERCOTS\nLes Vercots\nAloxe-Corton APPELLATION CO^NTROLE'E\nAloxe-Corton Appellation Controlée\nLouis Latour MAISON FONDE'E EN 1797 NE'GOCIANT A BEAUNE (COTE - D'OR)\nLouis Latour Maison Fondée en 1797 Négociant a Beaune (Cote-d'Or)\nroualet - beaune\nROUALET - BEAUNE"
+"Les Vercots"
+"LES VERCOTS"
+"Aloxe-Corton Appellation Controlée"
+"Aloxe-Corton APPELLATION CO^NTROLE'E"
+"Louis Latour MAISON FONDE'E EN 1797 NE'GOCIANT A BEAUNE (COTE - D'OR)"
+"Louis Latour Maison Fondée en 1797 Négociant a Beaune (Cote-d'Or)"
+"roualet - beaune"
+"ROUALET - BEAUNE"

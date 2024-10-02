@@ -1,0 +1,25 @@
+l 7 Ho
+Net Contents 100 of a quart.
+TRADE
+MARK.
+RANCIS
+WOODSIDE, SAN MATEO COUNTY
+CALIFORNIA
+
+l
+7
+Ho
+Net
+Contents
+100
+of
+a
+quart.
+TRADE
+MARK.
+RANCIS
+WOODSIDE,
+SAN
+MATEO
+COUNTY
+CALIFORNIA

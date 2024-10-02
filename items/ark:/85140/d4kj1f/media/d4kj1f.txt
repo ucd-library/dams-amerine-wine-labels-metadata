@@ -1,0 +1,43 @@
+EST 1861
+NAPA VALLEY
+MOUNTAIN LINEANDEL
+PRODUCED AND BOTTLED BY
+CHARLES KRUG WINERY
+ST. HELENA CALIFORNIA
+ALCOHOL 12%% BY VOLUME
+
+EST
+1861
+NAPA
+VALLEY
+MOUNTAIN
+LINEANDEL
+PRODUCED
+AND
+BOTTLED
+BY
+CHARLES
+KRUG
+WINERY
+ST.
+HELENA
+CALIFORNIA
+ALCOHOL
+12%%
+BY
+VOLUME
+"Charles Krug logo (CK)\nCK\n1861\nEst 1861\nCharles Krug\n1946\nNapa Valley\nMontain Zinfandel\nProduced and Bottled by\nProduced and Bottled By\nCharles Krug Winery\nSt. Helena - California\nSt Helena - California\nAlcohol 12 1/2% by volume"
+"Charles Krug logo (CK)"
+"CK"
+"Est 1861"
+"1861"
+"Charles Krug"
+"1946"
+"Napa Valley"
+"Montain Zinfandel"
+"Produced and Bottled by"
+"Produced and Bottled By"
+"Charles Krug Winery"
+"St Helena - California"
+"St. Helena - California"
+"Alcohol 12 1/2% by volume"

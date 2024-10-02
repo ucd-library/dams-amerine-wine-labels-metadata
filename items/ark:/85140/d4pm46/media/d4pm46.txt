@@ -1,0 +1,31 @@
+NTROLEE
+Pouilly Fuissé
+APPELLAT 1947
+Gestaurant
+9, Place
+de
+l Madeleine
+PARIS
+
+NTROLEE
+Pouilly
+Fuissé
+APPELLAT
+1947
+Gestaurant
+9,
+Place
+de
+l
+Madeleine
+PARIS
+"Pouilly Fuissé 1947\nAppellation CONTRÔLÉE \nPouilly Fuissé\n1947\nRestaurant Lucas-Carton\nResturant Lucas-Carton\nrestaurant lucas-carton\n9,Place de la Madeleine - Paris\n9. Place de 1 Madeleine - PARIS"
+"Pouilly Fuissé 1947"
+"Appellation CONTRÔLÉE "
+"Pouilly Fuissé"
+"1947"
+"Resturant Lucas-Carton"
+"Restaurant Lucas-Carton"
+"restaurant lucas-carton"
+"9. Place de 1 Madeleine - PARIS"
+"9,Place de la Madeleine - Paris"

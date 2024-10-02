@@ -1,0 +1,49 @@
+Korkenbrand
+Gold. Med.
+LON SANA PWRCHAGE
+XPOSITION
+HLOSS
+Gesetzlich geschitzt.
+St. Louis 1904
+1920er Trockenbeeren-Auslese
+SCHLOSS VOLLRADS
+Bestes Fass.
+GRAFLICH MATUSCHKA-GREIFFENKLAU'sCHE KELLEREI.
+Rh eing av
+
+Korkenbrand
+Gold.
+Med.
+LON
+SANA
+PWRCHAGE
+XPOSITION
+HLOSS
+Gesetzlich
+geschitzt.
+St.
+Louis
+1904
+1920er
+Trockenbeeren-Auslese
+SCHLOSS
+VOLLRADS
+Bestes
+Fass.
+GRAFLICH
+MATUSCHKA-GREIFFENKLAU'sCHE
+KELLEREI.
+Rh
+eing
+av
+"Rheingau winkel\nKorkenbrand\nGold. Med.\nKellerei Schloss Vollrads\nGesetzlich geschutzt.\nSt. Louis 1904.\n1920er Trockenbeeren-Auslese\nSchloss Vollrads\nBestes Fass\nGräflich Matuschka-Greiffenklau'sche Kellerei"
+"Rheingau winkel"
+"Korkenbrand"
+"Gold. Med."
+"Kellerei Schloss Vollrads"
+"Gesetzlich geschutzt."
+"St. Louis 1904."
+"1920er Trockenbeeren-Auslese"
+"Schloss Vollrads"
+"Bestes Fass"
+"Gräflich Matuschka-Greiffenklau'sche Kellerei"

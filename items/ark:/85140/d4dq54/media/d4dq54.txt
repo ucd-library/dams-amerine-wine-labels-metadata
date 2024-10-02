@@ -1,0 +1,23 @@
+DIJON 188
+1889
+BOURGOGNE
+IMP ARNAUD LYON. PARIS
+
+DIJON
+188
+1889
+BOURGOGNE
+IMP
+ARNAUD
+LYON.
+PARIS
+"Burgundy\nBOURGEOGNE\nBourgogne\nEtablissements Adrien Larragin\nEtablissements Adrien Sarrazin\na Dyon Bourgogne\ná Dijon (Bourgogne)\nIMP. B. Arnaud Lyon, Paris\nIMP B. ARNAUD LYON, PARIS"
+"Burgundy"
+"Bourgogne"
+"BOURGEOGNE"
+"Etablissements Adrien Larragin"
+"Etablissements Adrien Sarrazin"
+"á Dijon (Bourgogne)"
+"a Dyon Bourgogne"
+"IMP B. ARNAUD LYON, PARIS"
+"IMP. B. Arnaud Lyon, Paris"
