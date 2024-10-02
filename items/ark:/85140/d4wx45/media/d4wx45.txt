@@ -1,0 +1,20 @@
+GES. GESCHN
+1097
+VEATAS
+GRAACHER
+Konigl. Hoflieferanten
+EMM. Mt.
+
+GES.
+GESCHN
+1097
+VEATAS
+GRAACHER
+Konigl.
+Hoflieferanten
+EMM.
+Mt.
+"GRAACHER\nA. Koch Sohne, Mainz Konigl, Hoflleferanten\nA. Koch Söhne, Mainz Königl. Hoflieferanten"
+"GRAACHER"
+"A. Koch Sohne, Mainz Konigl, Hoflleferanten"
+"A. Koch Söhne, Mainz Königl. Hoflieferanten"

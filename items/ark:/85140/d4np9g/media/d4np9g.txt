@@ -1,0 +1,37 @@
+Embotelladores
+Paris
+Burdeos
+E MAR
+Cadiz
+Matanzas
+FLORIDO 2. C
+SANLUCAR DE BARRAMEDA
+PEDRO XIMENEZ
+VIEJISIMO
+S.
+
+Embotelladores
+Paris
+Burdeos
+E
+MAR
+Cadiz
+Matanzas
+FLORIDO
+2.
+C
+SANLUCAR
+DE
+BARRAMEDA
+PEDRO
+XIMENEZ
+VIEJISIMO
+S.
+"Embotelladores No. 37.\n\n\nFlorido & Co.\nSANLUCAR de BARRAMEDA\nPEDRO XIMENEZ VIJISIMO S. I. \nPEDRO XIMENEZ VIEJISIMO S. I."
+"Embotelladores No. 37."
+""
+""
+"Florido & Co."
+"SANLUCAR de BARRAMEDA"
+"PEDRO XIMENEZ VIJISIMO S. I. "
+"PEDRO XIMENEZ VIEJISIMO S. I."

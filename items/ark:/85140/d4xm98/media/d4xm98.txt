@@ -1,0 +1,25 @@
+R.c.v. N
+DAO
+"REAL VINICOLA
+VINHO DE MESA TINTO
+DA REGIAO
+PRIVILEGIADA
+PORTUGAL
+
+R.c.v.
+N
+DAO
+"REAL
+VINICOLA
+VINHO
+DE
+MESA
+TINTO
+DA
+REGIAO
+PRIVILEGIADA
+PORTUGAL
+"R.C.V.N.P.\nDao \"Real Vinicola\" Vinho de mesa tinto Da regio Privilegiada Portugal\nDÃO / \"REAL VINICOLA\" / VINHO DE MESA TINTO DA REGIÃO PRIVILEGIADA / PORTUGAL"
+"R.C.V.N.P."
+"Dao \"Real Vinicola\" Vinho de mesa tinto Da regio Privilegiada Portugal"
+"DÃO / \"REAL VINICOLA\" / VINHO DE MESA TINTO DA REGIÃO PRIVILEGIADA / PORTUGAL"

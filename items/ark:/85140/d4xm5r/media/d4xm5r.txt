@@ -1,0 +1,63 @@
+le
+1933
+BAR SAC
+PRODUCT OF FRANCE
+HES QUINN & C
+BORDEAUX FRANCE
+IMPORTED BY
+John K. ESQ UIN, 699 Second Street
+SAN FRANCISCO, Californie
+NET CONTENTS 1 PINT 9 FL. OL. ALC. STRENGTH 13% BY VOL
+
+le
+1933
+BAR
+SAC
+PRODUCT
+OF
+FRANCE
+HES
+QUINN
+&
+C
+BORDEAUX
+FRANCE
+IMPORTED
+BY
+John
+K.
+ESQ
+UIN,
+699
+Second
+Street
+SAN
+FRANCISCO,
+Californie
+NET
+CONTENTS
+1
+PINT
+9
+FL.
+OL.
+ALC.
+STRENGTH
+13%
+BY
+VOL
+"Barsac\n1933\nBarsac\nProduct of France\nEsquin & Cie.\nBordeaux - France\nBordeaux- France\nImported By\nImported by\nKohn K. Esquin, 699 Second Street\nJohn K. Esquin, 699 Second Street\nSan Francisco, California\nNet contents 1 pint 9 fl. oz. -- Alc. strength 13% by vol.\nNet contents 1 pint 9 fl. oz. -- Alc. Strength 13% by vol."
+"Barsac"
+"1933"
+"Barsac"
+"Product of France"
+"Esquin & Cie."
+"Bordeaux- France"
+"Bordeaux - France"
+"Imported by"
+"Imported By"
+"John K. Esquin, 699 Second Street"
+"Kohn K. Esquin, 699 Second Street"
+"San Francisco, California"
+"Net contents 1 pint 9 fl. oz. -- Alc. strength 13% by vol."
+"Net contents 1 pint 9 fl. oz. -- Alc. Strength 13% by vol."

@@ -1,0 +1,35 @@
+VOSNE ROMANEE
+CLOS FRANTIN
+Domaines
+GRIVELET
+CHATEAU
+1942
+APPELLATION CONTROLEE
+Mise en bouteille au domaine
+
+VOSNE
+ROMANEE
+CLOS
+FRANTIN
+Domaines
+GRIVELET
+CHATEAU
+1942
+APPELLATION
+CONTROLEE
+Mise
+en
+bouteille
+au
+domaine
+"Vosne Romanee Clos Frantin\nVOSNE-ROMANÉE CLOS FRANTIN\nDomaines Grivelet\n\n1942\nChâteau de Chambolle-Musigny (Côte d'or)\nChateau de Chambolle-Musigny (Cote d'Or)\nAppellation controlée\nAppellation Controlee\nMise en bouteille au domaine"
+"VOSNE-ROMANÉE CLOS FRANTIN"
+"Vosne Romanee Clos Frantin"
+"Domaines Grivelet"
+""
+"1942"
+"Château de Chambolle-Musigny (Côte d'or)"
+"Chateau de Chambolle-Musigny (Cote d'Or)"
+"Appellation Controlee"
+"Appellation controlée"
+"Mise en bouteille au domaine"

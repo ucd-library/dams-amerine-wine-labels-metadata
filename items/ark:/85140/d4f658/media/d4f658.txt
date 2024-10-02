@@ -1,0 +1,17 @@
+egr 185t
+1934
+Brauneberger Riesling
+MOSEL SAAR RuWER
+
+egr
+185t
+1934
+Brauneberger
+Riesling
+MOSEL
+SAAR
+RuWER
+"1934\nBrauneberger Riesling Mosel-Saar-Ruwer\nD. Gebhardt, K.K. Hoflieferant, Mainz"
+"1934"
+"Brauneberger Riesling Mosel-Saar-Ruwer"
+"D. Gebhardt, K.K. Hoflieferant, Mainz"

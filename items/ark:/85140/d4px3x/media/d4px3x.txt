@@ -1,0 +1,39 @@
+R.E.
+MARCA REGISTRADA
+VINA SIMAL
+TINTO SELECTO DE MESA
+DAVILA VILLALOBOS. S. L
+6 ORANO
+VALLADOLID)
+
+R.E.
+MARCA
+REGISTRADA
+VINA
+SIMAL
+TINTO
+SELECTO
+DE
+MESA
+DAVILA
+VILLALOBOS.
+S.
+L
+6
+ORANO
+VALLADOLID)
+"411\nR.E. Solicitado\nR.E.Solicitado\nMarca Registrada\nVina Simal Tinto Selecto de Mesa\nVIÑA SIMAL TINO SELECTO DE MESA\nBODEGAS CASTELLANAS\nBodegas Castellanas\nDAVILA VILLALOBOS. S.L.\nDavila Villalobos. S.L.\nCaberzon (Valladolid)\nCABEZON (VALLADOLID)\n6th AÑO\n6 ano"
+"411"
+"R.E. Solicitado"
+"R.E.Solicitado"
+"Marca Registrada"
+"Vina Simal Tinto Selecto de Mesa"
+"VIÑA SIMAL TINO SELECTO DE MESA"
+"BODEGAS CASTELLANAS"
+"Bodegas Castellanas"
+"DAVILA VILLALOBOS. S.L."
+"Davila Villalobos. S.L."
+"CABEZON (VALLADOLID)"
+"Caberzon (Valladolid)"
+"6 ano"
+"6th AÑO"

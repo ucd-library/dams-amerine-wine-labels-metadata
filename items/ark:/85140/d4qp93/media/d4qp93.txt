@@ -1,0 +1,67 @@
+CONT NETO
+VINO BORG
+CM, 3
+Carro Nilla
+TINTO
+INDUSTRIA ARGENTINA
+ARGENTINE RED BURGANDY
+B. F. Nazar Anchorena Mendoza S. R. L.
+B. F. Nazar Anchorena e Hijos S. R. L
+CAP. 600.000
+CAP. 800.000
+PRODUCT OR
+
+CONT
+NETO
+VINO
+BORG
+CM,
+3
+Carro
+Nilla
+TINTO
+INDUSTRIA
+ARGENTINA
+ARGENTINE
+RED
+BURGANDY
+B.
+F.
+Nazar
+Anchorena
+Mendoza
+S.
+R.
+L.
+B.
+F.
+Nazar
+Anchorena
+e
+Hijos
+S.
+R.
+L
+CAP.
+600.000
+CAP.
+800.000
+PRODUCT
+OR
+"Cont. Neto 700 Cm. 3\ncont. neto 700 cm3\nVino Borgona\nCarrodilla\nTinto\nIndustria Argentina\nArgentine Red Burgandy\nB. F. Nazar Anchorena Mendoza S. R. L.\nB.F. Nazar Anchorena Mendoze S.R.L.\nB.F. Nazar Anchorena e Hijos S.R.L.\nCap. $600.000\nCAP. $ 600.000\nCap. $800.000\ncap. $800,000\nproductor\nProductor"
+"Cont. Neto 700 Cm. 3"
+"cont. neto 700 cm3"
+"Vino Borgona"
+"Carrodilla"
+"Tinto"
+"Industria Argentina"
+"Argentine Red Burgandy"
+"B.F. Nazar Anchorena Mendoze S.R.L."
+"B. F. Nazar Anchorena Mendoza S. R. L."
+"B.F. Nazar Anchorena e Hijos S.R.L."
+"CAP. $ 600.000"
+"Cap. $600.000"
+"Cap. $800.000"
+"cap. $800,000"
+"productor"
+"Productor"

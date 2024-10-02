@@ -1,0 +1,21 @@
+1950
+APPELLATION CONTROLEE
+NAIGEON-CHAUVEAU NEGoCIANT A GEvREY-CHAMBERTIN (COTE D'OR)
+
+1950
+APPELLATION
+CONTROLEE
+NAIGEON-CHAUVEAU
+NEGoCIANT
+A
+GEvREY-CHAMBERTIN
+(COTE
+D'OR)
+"1950\nPouilly-Fuissé\nPouilly Fuisse\nAppelation controlé2\nAppellation Controlee\nNaigeon-Chauveau Negociant a Gevery-Chambertin (Cote D'Or)\nNaigeon-Chauveau négociant à Gevrey-Chambertin (Côte d'Or)"
+"1950"
+"Pouilly-Fuissé"
+"Pouilly Fuisse"
+"Appellation Controlee"
+"Appelation controlé2"
+"Naigeon-Chauveau Negociant a Gevery-Chambertin (Cote D'Or)"
+"Naigeon-Chauveau négociant à Gevrey-Chambertin (Côte d'Or)"

@@ -1,0 +1,31 @@
+Estb
+very
+o m m a r
+Superior
+Avery & Co.,
+.3rishol
+& Cardiff
+
+Estb
+very
+o
+m
+m
+a
+r
+Superior
+Avery
+&
+Co.,
+.3rishol
+&
+Cardiff
+"Côte de Beaune Pommard\nCote de Beaune Pommerol\nEst. 1793\nEstb 1793\nAvery & Co.\nPommard Superior\nAvery & Co., -- Bristol & Cardiff\nAvery & Co., Bristol & Cardiff"
+"Côte de Beaune Pommard"
+"Cote de Beaune Pommerol"
+"Est. 1793"
+"Estb 1793"
+"Avery & Co."
+"Pommard Superior"
+"Avery & Co., Bristol & Cardiff"
+"Avery & Co., -- Bristol & Cardiff"

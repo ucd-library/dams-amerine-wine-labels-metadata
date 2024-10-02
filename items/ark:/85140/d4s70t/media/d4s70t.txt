@@ -1,0 +1,36 @@
+PRODUCE OF FRANCE
+ABB
+PIERRE PONNELLE
+PROPRIETAIRE & NEGOCIANT
+A BEAU NE (COTE D'OR
+DE POSE.
+
+PRODUCE
+OF
+FRANCE
+ABB
+PIERRE
+PONNELLE
+PROPRIETAIRE
+&
+NEGOCIANT
+A
+BEAU
+NE
+(COTE
+D'OR
+DE
+POSE.
+"\nGd. Musigny - Ponelle, Produce of France\nGd. Musigny-Ponnelle, Produce of France\nAbbaye De St. Marzir\nABBAYE DE St. MARTIN\nPierre Ponelle\nPierre Ponnelle\nProprietaire & Negociant\na Baeune (Cote d'Or)\na Beaune (Cote d'Or)\ndepose\nDepose"
+""
+"Gd. Musigny-Ponnelle, Produce of France"
+"Gd. Musigny - Ponelle, Produce of France"
+"ABBAYE DE St. MARTIN"
+"Abbaye De St. Marzir"
+"Pierre Ponnelle"
+"Pierre Ponelle"
+"Proprietaire & Negociant"
+"a Baeune (Cote d'Or)"
+"a Beaune (Cote d'Or)"
+"depose"
+"Depose"

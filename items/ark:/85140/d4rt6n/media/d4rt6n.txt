@@ -1,0 +1,40 @@
+OURD
+WITH 89 o/o COGNAC
+MADE BY
+GA. OUR
+EAUX FRANCE
+4/5 QUART
+80 PROOF
+PRODUCT OF FRANCE
+
+OURD
+WITH
+89
+o/o
+COGNAC
+MADE
+BY
+GA.
+OUR
+EAUX
+FRANCE
+4/5
+QUART
+80
+PROOF
+PRODUCT
+OF
+FRANCE
+"Jourde Pousse-Cafe\nJourde Pousse-Café\nWith 89% Cognac\nwith 89% cognac\nMade by\nMade By\nG.A. Jourde\nBordeaux - France\n4/5 Quart\n4/5 quart\n80 proof\nProduct of France"
+"Jourde Pousse-Café"
+"Jourde Pousse-Cafe"
+"with 89% cognac"
+"With 89% Cognac"
+"Made By"
+"Made by"
+"G.A. Jourde"
+"Bordeaux - France"
+"4/5 Quart"
+"4/5 quart"
+"80 proof"
+"Product of France"

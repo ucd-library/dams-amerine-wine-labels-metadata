@@ -1,0 +1,34 @@
+SPARKLING BURGUNDY
+VV HITE
+MACON
+FRANCE
+MAISON FONDEEEN 1821
+ODE CE TANI PEN OISE
+
+SPARKLING
+BURGUNDY
+VV
+HITE
+MACON
+FRANCE
+MAISON
+FONDEEEN
+1821
+ODE
+CE
+TANI
+PEN
+OISE
+"Sparkling Burgundy\nsparkling burgundy\nwhite\nWhite\nCollin & Bourisset\ncollin & bourisset\nmacon france\nMacon France\nmaison fondee en 1821\nMaison Fondee en 1821\nMethose Champenoise\nMethode Champenoise"
+"sparkling burgundy"
+"Sparkling Burgundy"
+"white"
+"White"
+"Collin & Bourisset"
+"collin & bourisset"
+"Macon France"
+"macon france"
+"maison fondee en 1821"
+"Maison Fondee en 1821"
+"Methose Champenoise"
+"Methode Champenoise"

@@ -1,0 +1,42 @@
+VIN DE PICHON LONGUEVILLE
+1947
+CTESSE DE LALANDE
+PAUILLAC
+APPELLATION PAUILLAC CONTROLEE
+MIS EN BOUTEILLES AU CHATEAU
+DEPOSE
+73
+
+VIN
+DE
+PICHON
+LONGUEVILLE
+1947
+CTESSE
+DE
+LALANDE
+PAUILLAC
+APPELLATION
+PAUILLAC
+CONTROLEE
+MIS
+EN
+BOUTEILLES
+AU
+CHATEAU
+DEPOSE
+73
+"VIN DE PICHON LONGUEVILLE \nvin de pichon longueville\n1947\nctesse de lalande\npauillac\nFrance\nfrance\nAPPELLATION PAUILLAC CONTROLEE\nappellation pauillac controlee\nmis en bouteilles au chateau\nMIS EN BOUTEILLES AU CHATEAU\ndepose\nDeposé"
+"vin de pichon longueville"
+"VIN DE PICHON LONGUEVILLE "
+"1947"
+"ctesse de lalande"
+"pauillac"
+"france"
+"France"
+"appellation pauillac controlee"
+"APPELLATION PAUILLAC CONTROLEE"
+"mis en bouteilles au chateau"
+"MIS EN BOUTEILLES AU CHATEAU"
+"depose"
+"Deposé"

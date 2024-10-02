@@ -1,0 +1,33 @@
+R HEIN GAU
+1943er
+Schloss Vollrads
+Original abfii llung
+GRAF MATUSCHKA-GREIFFENCLAU'SCHE KELLEREI
+Alcohol 9,71% by Volume
+
+R
+HEIN
+GAU
+1943er
+Schloss
+Vollrads
+Original
+abfii
+llung
+GRAF
+MATUSCHKA-GREIFFENCLAU'SCHE
+KELLEREI
+Alcohol
+9,71%
+by
+Volume
+"RheinGau\nRheingau\n1943er Schoss Vollrads\n1943 Scloss Vollrads\nOriginalabfullung\nGraf Matuschka-Greiffenclausche Kellerei\nGraf Matuschka-Greiffenclau'sche Kellerei\nAlcohol 9.71% by Volume\nAlcohol 9,71% by Volume"
+"RheinGau"
+"Rheingau"
+"1943 Scloss Vollrads"
+"1943er Schoss Vollrads"
+"Originalabfullung"
+"Graf Matuschka-Greiffenclau'sche Kellerei"
+"Graf Matuschka-Greiffenclausche Kellerei"
+"Alcohol 9,71% by Volume"
+"Alcohol 9.71% by Volume"

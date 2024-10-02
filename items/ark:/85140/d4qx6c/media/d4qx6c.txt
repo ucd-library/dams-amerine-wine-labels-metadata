@@ -1,0 +1,25 @@
+ME DOC
+MIS EN BOUTEILLE AU CHATEAU
+CHRISTIAN de GUIGNE
+PROPRIETAIRE
+
+ME
+DOC
+MIS
+EN
+BOUTEILLE
+AU
+CHATEAU
+CHRISTIAN
+de
+GUIGNE
+PROPRIETAIRE
+"Château Sénéjac\n1950\nMÉDOC\ndingbat\nMis en Bouteille au Châtèau\nMis en Bouteill au Châtèau\nCHRISTIAN de GUIGNÉ / PROPRIÉTAIRE\nCHRISTIAN de GUIGNÉ PROPRIÉTAIRE"
+"Château Sénéjac"
+"1950"
+"MÉDOC"
+"dingbat"
+"Mis en Bouteill au Châtèau"
+"Mis en Bouteille au Châtèau"
+"CHRISTIAN de GUIGNÉ PROPRIÉTAIRE"
+"CHRISTIAN de GUIGNÉ / PROPRIÉTAIRE"

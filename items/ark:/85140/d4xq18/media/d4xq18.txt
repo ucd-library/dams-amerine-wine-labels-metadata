@@ -1,0 +1,65 @@
+Il a été tiré de ce vin 365 O bouteilles et 50 magnums
+25S0
+-N?
+1937
+MEURSAULT PERRIERES
+Premier Grand Cru Classé
+APPELLATION CONTROLEE
+Maurice
+ROPITEAU
+Propriétaire
+Mis en bouteilles a la propriété
+MEURS AULT COTE D'OR
+
+Il
+a
+été
+tiré
+de
+ce
+vin
+365
+O
+bouteilles
+et
+50
+magnums
+25S0
+-N?
+1937
+MEURSAULT
+PERRIERES
+Premier
+Grand
+Cru
+Classé
+APPELLATION
+CONTROLEE
+Maurice
+ROPITEAU
+Propriétaire
+Mis
+en
+bouteilles
+a
+la
+propriété
+MEURS
+AULT
+COTE
+D'OR
+"Cote de Beamune? Meursault Tete de Cuvee\nIl a été tiré de ce vin 3650 bouteilles et 150 magnums\nIl a ete tire de ce vin 3650 bouteilles et 150 magnums.\nNo 2580\n1937\nMeursault-Perriéres\nMeursault-Perrieres\nPremier Grand Cru Classe\nAppellation Controlee\nAppellation Controlée\nMaurice Ropiteau Proprietaire Meursault (Cote-d'or)\nMaurice Ropiteau Propriétaire Meursault (Cote-D'Or)\nMis en bouteilles a la propriete\nMis en bouteilles á la propriété"
+"Cote de Beamune? Meursault Tete de Cuvee"
+"Il a été tiré de ce vin 3650 bouteilles et 150 magnums"
+"Il a ete tire de ce vin 3650 bouteilles et 150 magnums."
+"No 2580"
+"1937"
+"Meursault-Perrieres"
+"Meursault-Perriéres"
+"Premier Grand Cru Classe"
+"Appellation Controlee"
+"Appellation Controlée"
+"Maurice Ropiteau Propriétaire Meursault (Cote-D'Or)"
+"Maurice Ropiteau Proprietaire Meursault (Cote-d'or)"
+"Mis en bouteilles a la propriete"
+"Mis en bouteilles á la propriété"

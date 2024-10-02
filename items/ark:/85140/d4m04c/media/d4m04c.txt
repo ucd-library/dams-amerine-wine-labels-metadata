@@ -1,0 +1,36 @@
+OSGELLERIEEDV
+OIEVX: PEROGES:
+leg Orig Régionaux
+irieu
+en 15ugey
+blance Chateau d'urfe
+IMP. GOUGENHEIM FR. LYON
+
+OSGELLERIEEDV
+OIEVX:
+PEROGES:
+leg
+Orig
+Régionaux
+irieu
+en
+15ugey
+blance
+Chateau
+d'urfe
+IMP.
+GOUGENHEIM
+FR.
+LYON
+"White upper Rhone ?\nOSTELLERIE DU VIEUX PEROGES\nles Crûs Régionaux\nles Crus Regionaux\nVIRIEU (en Bugey)\nVirieu (en Bugey)\nblanc\nChateau d'Urfe\nChâteau d'Urfé\nimp. Gougenheim Fr. Lyon\nIMP. GOUGENHEIM FR LYON"
+"White upper Rhone ?"
+"OSTELLERIE DU VIEUX PEROGES"
+"les Crûs Régionaux"
+"les Crus Regionaux"
+"Virieu (en Bugey)"
+"VIRIEU (en Bugey)"
+"blanc"
+"Chateau d'Urfe"
+"Château d'Urfé"
+"IMP. GOUGENHEIM FR LYON"
+"imp. Gougenheim Fr. Lyon"

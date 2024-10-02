@@ -1,0 +1,18 @@
+La Cote
+WEINHANDLUNG
+LOUIS SCHNDER
+DIRSFELDEN
+
+La
+Cote
+WEINHANDLUNG
+LOUIS
+SCHNDER
+DIRSFELDEN
+"Fechy\nFéchy\nLa Cote\nWeinhandlung\nLouis Schnyder\nBirsfelden"
+"Fechy"
+"Féchy"
+"La Cote"
+"Weinhandlung"
+"Louis Schnyder"
+"Birsfelden"

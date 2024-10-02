@@ -1,0 +1,37 @@
+PINOT
+SAN VICENTE
+ESTACION SANTA ANA.
+LLANO DE MALPO
+CHILE
+SANTIAGO
+RESERVADO
+UNIVER
+
+PINOT
+SAN
+VICENTE
+ESTACION
+SANTA
+ANA.
+LLANO
+DE
+MALPO
+CHILE
+SANTIAGO
+RESERVADO
+UNIVER
+"Chile Red\nFco R. Undurraga\nFcc R. Undurraga\nPINOT\nPinot\nSan Vicente\nEstacion Santa Ana\nLlano de Maipo\nsantiago\nchile\nRESERVADO\nreservado\nUniverso\nUNIVERSO"
+"Chile Red"
+"Fcc R. Undurraga"
+"Fco R. Undurraga"
+"PINOT"
+"Pinot"
+"San Vicente"
+"Estacion Santa Ana"
+"Llano de Maipo"
+"santiago"
+"chile"
+"reservado"
+"RESERVADO"
+"UNIVERSO"
+"Universo"

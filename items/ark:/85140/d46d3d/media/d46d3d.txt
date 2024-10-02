@@ -1,0 +1,77 @@
+ALCOHOL 12%
+N. Y. LICENSE
+BY NOLUM
+D. W
+25
+US PAT
+TAYLOR'S
+FINEST QUALITY
+NEW YORK STATE
+BURGUNDY
+WINE
+MADE AND BOTTLED BY
+THE TAYLOR WINE COMPANY
+HAMMONDS PORT N. Y
+U, S. A
+ESTABLISHED 1880
+BONDED WINERY No. 17
+
+ALCOHOL
+12%
+N.
+Y.
+LICENSE
+BY
+NOLUM
+D.
+W
+25
+US
+PAT
+TAYLOR'S
+FINEST
+QUALITY
+NEW
+YORK
+STATE
+BURGUNDY
+WINE
+MADE
+AND
+BOTTLED
+BY
+THE
+TAYLOR
+WINE
+COMPANY
+HAMMONDS
+PORT
+N.
+Y
+U,
+S.
+A
+ESTABLISHED
+1880
+BONDED
+WINERY
+No.
+17
+"Alcohol 12% by Volume\nALCOHOL 12% BY VOLUME\nN. Y. LICENSE \nD.W. 25\nN.Y. License D.W. 25\nTAYLOR'S\nTaylor's\nFinest Quality\nNew York State\nBurgundy\nWine\nmade and bottled by\nMade and Bottled by\nThe Taylor Wine Company\nHammondsport, N.Y., U.S.A.\nHAMMONDSPORT, N. Y., U. S. A.\nEstablished 1880\nBonded Winery No. 17"
+"ALCOHOL 12% BY VOLUME"
+"Alcohol 12% by Volume"
+"N.Y. License D.W. 25"
+"N. Y. LICENSE \nD.W. 25"
+"Taylor's"
+"TAYLOR'S"
+"Finest Quality"
+"New York State"
+"Burgundy"
+"Wine"
+"made and bottled by"
+"Made and Bottled by"
+"The Taylor Wine Company"
+"Hammondsport, N.Y., U.S.A."
+"HAMMONDSPORT, N. Y., U. S. A."
+"Established 1880"
+"Bonded Winery No. 17"

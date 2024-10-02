@@ -1,0 +1,24 @@
+CHATEAU
+GUIRAUD PEYREBRUNE
+M DOC
+Appellation Medoc Contro/ee
+
+CHATEAU
+GUIRAUD
+PEYREBRUNE
+M
+DOC
+Appellation
+Medoc
+Contro/ee
+"1947?\nLunch Hotel Moderna Gillsfranche 5/23/50 C\nLunch Hotel Moderna Gillsfranche 5/28/50 C\nPresetn: ELH CEH\nGP Diamond logo\nGP\nChateau Guiraud Peyrebrune\nMedoc\nAppellation Medoc Controlee\nDC"
+"1947?"
+"Lunch Hotel Moderna Gillsfranche 5/23/50 C"
+"Lunch Hotel Moderna Gillsfranche 5/28/50 C"
+"Presetn: ELH CEH"
+"GP"
+"GP Diamond logo"
+"Chateau Guiraud Peyrebrune"
+"Medoc"
+"Appellation Medoc Controlee"
+"DC"

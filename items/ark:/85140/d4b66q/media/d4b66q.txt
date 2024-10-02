@@ -1,0 +1,33 @@
+JEREZ VIEJO
+M BRB
+ETALICO
+DE TAOLAURRUCHI
+SANLUCARDE BARRAMEDA
+23
+LIT MIGVEL SALIDo JEREz
+
+JEREZ
+VIEJO
+M
+BRB
+ETALICO
+DE
+TAOLAURRUCHI
+SANLUCARDE
+BARRAMEDA
+23
+LIT
+MIGVEL
+SALIDo
+JEREz
+"Jerez Viejo\nTimbre a Metálico\nC. de Otaolaurruchi\nC.de Otaolaurruchi\nSanlucar de Barrameda\nSan Lucar de Barrameda\n23\nLit. Miguel Salido-Jerez\nLIT. MIGUEL SALIDO - JEREZ\nPhleger"
+"Jerez Viejo"
+"Timbre a Metálico"
+"C. de Otaolaurruchi"
+"C.de Otaolaurruchi"
+"San Lucar de Barrameda"
+"Sanlucar de Barrameda"
+"23"
+"Lit. Miguel Salido-Jerez"
+"LIT. MIGUEL SALIDO - JEREZ"
+"Phleger"

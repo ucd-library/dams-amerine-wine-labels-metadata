@@ -1,0 +1,49 @@
+GRAND
+VIN
+1928
+ROIS
+DES LEVIN
+ROI DES VINS
+D. CORDER
+BORDEAUX
+Propriétaire
+DE POSE
+MIS EN BOUT EILLES AU CHATEAU
+
+GRAND
+VIN
+1928
+ROIS
+DES
+LEVIN
+ROI
+DES
+VINS
+D.
+CORDER
+BORDEAUX
+Propriétaire
+DE
+POSE
+MIS
+EN
+BOUT
+EILLES
+AU
+CHATEAU
+"2nd Cru St. Julien (Medoc)\n2nd Cru St Julien (Medoc)\nGrand Vin 1928\nLunch Circle de l\"Maison 7/22/44 B-\nLunch Circle de L'Maison 7/22/44 B-\nChateau Gruaud La Rose-Sarget\nChateau Gruard-La Rose-Sarget\nLe Roi des Vins, Le Vin des Rois\nLe Roi de Vins, Le Vin des Rois\nBaron Sarget\nD. Cordier, Proprietaire\nBordeaux\nDepose\nMis en bouteilles au chateau\n"
+"2nd Cru St Julien (Medoc)"
+"2nd Cru St. Julien (Medoc)"
+"Grand Vin 1928"
+"Lunch Circle de l\"Maison 7/22/44 B-"
+"Lunch Circle de L'Maison 7/22/44 B-"
+"Chateau Gruard-La Rose-Sarget"
+"Chateau Gruaud La Rose-Sarget"
+"Le Roi de Vins, Le Vin des Rois"
+"Le Roi des Vins, Le Vin des Rois"
+"Baron Sarget"
+"D. Cordier, Proprietaire"
+"Bordeaux"
+"Depose"
+"Mis en bouteilles au chateau"
+""

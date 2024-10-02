@@ -1,0 +1,37 @@
+CHABLIS
+OF FRANCE
+PRODUC
+PIERRE PONNELLE
+PROPRIETAIRE & NEGOCIANT
+A BEAU NEC COTE D'OR)
+DE POSE
+
+CHABLIS
+OF
+FRANCE
+PRODUC
+PIERRE
+PONNELLE
+PROPRIETAIRE
+&
+NEGOCIANT
+A
+BEAU
+NEC
+COTE
+D'OR)
+DE
+POSE
+"chablis\nChablis\nChablis\nProduce of France\nPRODUCE OF FRANCE\nABBAYE DE St MARTIN\nAbbaye de St. Martin\nPierre Ponnelle\nProprietaire & Negociant a Beaune (Cote D'Or)\nPROPRIETAIRE &NEGOCIANT A BEAUNE ( COTE D'OR)\nDEPOSE\nDepose"
+"chablis"
+"Chablis"
+"Chablis"
+"Produce of France"
+"PRODUCE OF FRANCE"
+"Abbaye de St. Martin"
+"ABBAYE DE St MARTIN"
+"Pierre Ponnelle"
+"PROPRIETAIRE &NEGOCIANT A BEAUNE ( COTE D'OR)"
+"Proprietaire & Negociant a Beaune (Cote D'Or)"
+"Depose"
+"DEPOSE"

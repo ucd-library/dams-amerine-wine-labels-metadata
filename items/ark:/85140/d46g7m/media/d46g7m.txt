@@ -1,0 +1,26 @@
+APPELLATION ST-EMILION CONTROLEE
+MIS EN BOUTEILLES AU CHATEAU
+Propriétaire
+WETTERWALD BORDEAUXT
+
+APPELLATION
+ST-EMILION
+CONTROLEE
+MIS
+EN
+BOUTEILLES
+AU
+CHATEAU
+Propriétaire
+WETTERWALD
+BORDEAUXT
+"Appellation St Emilion Controlée\nAPPELLATION ST. EMILION CONTROLEE\nDinner Massinie? 5/14/50 A (with saddles of lamb) Petite Marmite, Selle d'Agneau, Tarte aux Fraises, Frommage\nChateau Canon 1er Grand Cru St. Emilion\nMis en Bouteilles au Chateau\nMIS EN BOUTEILLES AU CHATEAU\nAndre Fournier Proprietaire\n1937\nWetterwald Bordeaux"
+"APPELLATION ST. EMILION CONTROLEE"
+"Appellation St Emilion Controlée"
+"Dinner Massinie? 5/14/50 A (with saddles of lamb) Petite Marmite, Selle d'Agneau, Tarte aux Fraises, Frommage"
+"Chateau Canon 1er Grand Cru St. Emilion"
+"MIS EN BOUTEILLES AU CHATEAU"
+"Mis en Bouteilles au Chateau"
+"Andre Fournier Proprietaire"
+"1937"
+"Wetterwald Bordeaux"

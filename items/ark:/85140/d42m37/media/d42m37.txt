@@ -1,0 +1,41 @@
+O
+7,'o
+MEDOC SUPERIEUR
+PJ.DE TENET&ED.DE GEORGES
+Proprietal res
+PRODUCE
+à BORDEAUX
+OF FRANCE
+
+O
+7
+,
+'
+o
+MEDOC
+SUPERIEUR
+PJ.DE
+TENET
+&
+ED.DE
+GEORGES
+Proprietal
+res
+PRODUCE
+à
+BORDEAUX
+OF
+FRANCE
+"Alcoholic Strength: 11 Degrees\nAlcoholic strength: 11 degrees\nContents: 1 Pint & 8 Fluid Ounces\nContents: 1 Pinte & 8 Fluid ounces\nMédoc Supérieur\nMedoc Superieur\nP.J. de Tenet & Ed. de Georges\nPropriétaires\nProprietaires\nProduce of France\ná Bordeaux\na Bordeaux"
+"Alcoholic strength: 11 degrees"
+"Alcoholic Strength: 11 Degrees"
+"Contents: 1 Pinte & 8 Fluid ounces"
+"Contents: 1 Pint & 8 Fluid Ounces"
+"Médoc Supérieur"
+"Medoc Superieur"
+"P.J. de Tenet & Ed. de Georges"
+"Propriétaires"
+"Proprietaires"
+"Produce of France"
+"á Bordeaux"
+"a Bordeaux"

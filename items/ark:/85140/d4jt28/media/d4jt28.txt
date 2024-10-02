@@ -1,0 +1,28 @@
+GRAD D VID
+MODULIS MEDOC
+1998
+Mrs EN Bbu TEILLES Au CHATEAU
+
+GRAD
+D
+VID
+MODULIS
+MEDOC
+1998
+Mrs
+EN
+Bbu
+TEILLES
+Au
+CHATEAU
+"Grand Vin\nGRAND VIN\nChateau Poujeaux\nMoulis - Medoc\nMOULIS-MEDOC\nPierre Marley, Pror re\nPierre Marly, Propr\n1928\nMIS EN BOUTEILLES AU CHATEAU\nMis en bouteilles au Chateau"
+"Grand Vin"
+"GRAND VIN"
+"Chateau Poujeaux"
+"Moulis - Medoc"
+"MOULIS-MEDOC"
+"Pierre Marley, Pror re"
+"Pierre Marly, Propr"
+"1928"
+"MIS EN BOUTEILLES AU CHATEAU"
+"Mis en bouteilles au Chateau"

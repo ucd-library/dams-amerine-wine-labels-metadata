@@ -1,0 +1,35 @@
+O
+MONTI
+ILLADO FIN0
+PICO-PLATA
+FLORI DO.H ERMANOS
+SANLUCAR DE BARRA
+RRAMEDA
+(ESPANA)
+
+O
+MONTI
+ILLADO
+FIN0
+PICO
+-
+PLATA
+FLORI
+DO.H
+ERMANOS
+SANLUCAR
+DE
+BARRA
+RRAMEDA
+(
+ESPANA
+)
+"AMONTILLADO FINO\namontillado fine\nPico-Plata\npico-plata\nflorido hermanos\nFLORIDO HERMANOS\nsanlucar de barrameda (espana)\nSan Lucar de Barrameda (Espan~a) (n with tilde)"
+"AMONTILLADO FINO"
+"amontillado fine"
+"Pico-Plata"
+"pico-plata"
+"FLORIDO HERMANOS"
+"florido hermanos"
+"San Lucar de Barrameda (Espan~a) (n with tilde)"
+"sanlucar de barrameda (espana)"

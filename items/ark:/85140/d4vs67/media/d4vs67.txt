@@ -1,0 +1,28 @@
+CHAMPAGNE
+UNION CHAMPENOISE
+E PER NAY
+CARTE ROUGE
+N. M. 6.339.212
+
+CHAMPAGNE
+UNION
+CHAMPENOISE
+E
+PER
+NAY
+CARTE
+ROUGE
+N.
+M.
+6.339.212
+"CHAMPAGNE\nChampagne\nUnion Champenoise\nEpernay\nCarte Rouge\nCarte rouge\nN.M. 6339.212\nN.M. 6.339.212\nF.P. 30058\nJeff Smith Europe"
+"Champagne"
+"CHAMPAGNE"
+"Union Champenoise"
+"Epernay"
+"Carte rouge"
+"Carte Rouge"
+"N.M. 6.339.212"
+"N.M. 6339.212"
+"F.P. 30058"
+"Jeff Smith Europe"

@@ -1,0 +1,53 @@
+N9 302555
+GASGEVID AGE 1950
+des ailles
+appellation Controlee
+e om a été sélectiomme par les Bures-Gommets de
+Confrérie des Chevaliere
+astenin
+aint Georges (Cote D'Or)
+egociants a mutts
+EILIBBR
+ITS
+
+N9
+302555
+GASGEVID
+AGE
+1950
+des
+ailles
+appellation
+Controlee
+e
+om
+a
+été
+sélectiomme
+par
+les
+Bures-Gommets
+de
+Confrérie
+des
+Chevaliere
+astenin
+aint
+Georges
+(Cote
+D'Or)
+egociants
+a
+mutts
+EILIBBR
+ITS
+"Tête de Cuvée\nNo. 302335\nTASTEVINAGE 1950\n\n\nConfrérie des Chevaliers du Tastevin\n\n\n"
+"Tête de Cuvée"
+"No. 302335"
+"TASTEVINAGE 1950"
+""
+""
+"Confrérie des Chevaliers du Tastevin"
+""
+""
+""

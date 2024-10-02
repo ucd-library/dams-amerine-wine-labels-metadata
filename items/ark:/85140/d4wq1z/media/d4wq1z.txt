@@ -1,0 +1,40 @@
+1934
+d D VIN
+LOUIS LATOUR
+A BEAUNE (CCE TE
+D OR)
+IS EN BOUTEILLES DANS MES CAVES
+
+1934
+d
+D
+VIN
+LOUIS
+LATOUR
+A
+BEAUNE
+(CCE
+TE
+D
+OR)
+IS
+EN
+BOUTEILLES
+DANS
+MES
+CAVES
+"Côte de Beaune Puligny-Montrachet Tête de Cuvée \nDinner at Home 5/10/42 BT\nDinner at Home 5/10/42 B+\nAppellation Controlee\n1934\nPresent Mother ELH CSH CSH jr Carolyn\nPresent: Mother ELH CSH CSH Jr. Carolyn\nBatard Montrachet\nGrand Vin\nGrand vin\nLouis Latour\nProprietaire & Negociant a Beaune (Cote d'Or)\nMis en bouteilles dans mes caves\nMis en bouteilles dans mew caves"
+"Côte de Beaune Puligny-Montrachet Tête de Cuvée "
+"Dinner at Home 5/10/42 B+"
+"Dinner at Home 5/10/42 BT"
+"Appellation Controlee"
+"1934"
+"Present: Mother ELH CSH CSH Jr. Carolyn"
+"Present Mother ELH CSH CSH jr Carolyn"
+"Batard Montrachet"
+"Grand Vin"
+"Grand vin"
+"Louis Latour"
+"Proprietaire & Negociant a Beaune (Cote d'Or)"
+"Mis en bouteilles dans mes caves"
+"Mis en bouteilles dans mew caves"

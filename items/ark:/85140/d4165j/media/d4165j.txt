@@ -1,0 +1,40 @@
+CA
+REG STRADA
+PRODUCE OF SPAIN
+OLOROSO
+VINTAGE 1.824
+Ca
+Registro oficial de Embotelladores n 0 37.
+
+CA
+REG
+STRADA
+PRODUCE
+OF
+SPAIN
+OLOROSO
+VINTAGE
+1.824
+Ca
+Registro
+oficial
+de
+Embotelladores
+n
+0
+37.
+"Oloroso\nOLOROSO\nVintage 1824\nVINTAGE 1.824\nSOLERA 32\nFloridoy Cia\nFlorida y Cia\nRegistro oficial de Embotelladores n.o 37.\nregistro oficial de Embotelladores n.° 37.\nRgistro oficial de Emotelladores\nSanlucar de Barrameda\nSanlugar de Barrameda\nprocude of Spain\nPRODUCE OF SPAIN"
+"OLOROSO"
+"Oloroso"
+"VINTAGE 1.824"
+"Vintage 1824"
+"SOLERA 32"
+"Floridoy Cia"
+"Florida y Cia"
+"registro oficial de Embotelladores n.° 37."
+"Registro oficial de Embotelladores n.o 37."
+"Rgistro oficial de Emotelladores"
+"Sanlugar de Barrameda"
+"Sanlucar de Barrameda"
+"PRODUCE OF SPAIN"
+"procude of Spain"

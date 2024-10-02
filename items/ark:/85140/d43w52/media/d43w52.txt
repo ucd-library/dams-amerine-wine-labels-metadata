@@ -1,0 +1,28 @@
+R HEIN GAU
+lflinbeler fiutenberg
+Riesling
+Eigene flbfullung
+WEINGUT RICHARD NAGLER, WINKEL VRHG
+
+R
+HEIN
+GAU
+lflinbeler
+fiutenberg
+Riesling
+Eigene
+flbfullung
+WEINGUT
+RICHARD
+NAGLER,
+WINKEL
+VRHG
+"Nagler A.D. 1700\nNägler A.D. 1700\nWinkeler Guterberg\nWinkeler Gutenberg\nRiesling\nRiesling\nWEINGUT RICHARD NÄGLER, WINKEL i/RHG.\nWeingut Richhard Nagler, Winkel i/RHG"
+"Nägler A.D. 1700"
+"Nagler A.D. 1700"
+"Winkeler Gutenberg"
+"Winkeler Guterberg"
+"Riesling"
+"Riesling"
+"Weingut Richhard Nagler, Winkel i/RHG"
+"WEINGUT RICHARD NÄGLER, WINKEL i/RHG."

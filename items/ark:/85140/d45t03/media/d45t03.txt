@@ -1,0 +1,21 @@
+AUX
+9 O
+MIS EN BOUTEILLE AU CHATEAU
+
+AUX
+9
+O
+MIS
+EN
+BOUTEILLE
+AU
+CHATEAU
+"Margaux chateau Palmer Medoc\nMARGAUX CHATEAU-PALMER MEDOC\n1907\nFrance\nFRANCE\nPichot Depose\nMIS EN BOUTEILLE AU CHATEAU\nMis en Bouteille au Chateau"
+"Margaux chateau Palmer Medoc"
+"MARGAUX CHATEAU-PALMER MEDOC"
+"1907"
+"France"
+"FRANCE"
+"Pichot Depose"
+"MIS EN BOUTEILLE AU CHATEAU"
+"Mis en Bouteille au Chateau"

@@ -1,0 +1,36 @@
+DA7
+NHO
+VELHo
+VINISUL
+LISBOA
+MARCA
+REGISTAD
+TINT)
+LISBOA
+
+DA7
+NHO
+VELHo
+VINISUL
+LISBOA
+MARCA
+REGISTAD
+TINT)
+LISBOA
+"Red\nVelho\n\"Poor\" m a a\n\"Poor\" / MAA\nVinho\n\nVINISUL\nLISBOA\nMARCA REGISTADA\nMARCA REGISTRADA\nAREALUA\nArealva\nTINTO\nDA SOCIEDADE VINICOLA SUL DE PORTUGAL LDA\nDa Sociedade Vinicola Sul de Portugal, Lᵈᵅ.\nLISBOA"
+"Red"
+"Velho"
+"\"Poor\" / MAA"
+"\"Poor\" m a a"
+"Vinho"
+""
+"VINISUL"
+"LISBOA"
+"MARCA REGISTRADA"
+"MARCA REGISTADA"
+"Arealva"
+"AREALUA"
+"TINTO"
+"Da Sociedade Vinicola Sul de Portugal, Lᵈᵅ."
+"DA SOCIEDADE VINICOLA SUL DE PORTUGAL LDA"
+"LISBOA"

@@ -1,0 +1,39 @@
+RCA DEPos
+CASTELLO
+IN CHIANTI
+DI BROLIO
+SIENA (ITALIA)
+BROLIO ROSSO
+CASA VI NICOLA
+BARONE RICASOLI
+FIRENZE
+
+RCA
+DEPos
+CASTELLO
+IN
+CHIANTI
+DI
+BROLIO
+SIENA
+(ITALIA)
+BROLIO
+ROSSO
+CASA
+VI
+NICOLA
+BARONE
+RICASOLI
+FIRENZE
+"Marca Depos.\nIn Chaianti Siena (Italia)\nIn Chianti, Siena (ITALIA)\nCastello de Brolio\nCastello di Brolio\nBROLIO ROSSO\nBrolio Rosso\nCase Vinicola\nCasa Vinicola\nBarone Ricasoli\nFirenze"
+"Marca Depos."
+"In Chianti, Siena (ITALIA)"
+"In Chaianti Siena (Italia)"
+"Castello di Brolio"
+"Castello de Brolio"
+"Brolio Rosso"
+"BROLIO ROSSO"
+"Casa Vinicola"
+"Case Vinicola"
+"Barone Ricasoli"
+"Firenze"

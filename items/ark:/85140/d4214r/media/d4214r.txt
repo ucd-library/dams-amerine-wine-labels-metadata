@@ -1,0 +1,66 @@
+& 1832
+HENKEL
+AGIN
+PRIYAT
+KNE
+312
+EXTRA DRY
+ENG
+HENKELL Co. WIESBADEN-BIEBRICH
+PRO D
+PRODUCT OF
+D'ALLE MAGNE
+DEUTSCHER SEKT
+GERMANY BOTT
+VINO ESPU
+LED AT WIES-
+MANTE ALEMAN
+ADEN (RHINE)
+
+&
+1832
+HENKEL
+AGIN
+PRIYAT
+KNE
+312
+EXTRA
+DRY
+ENG
+HENKELL
+Co.
+WIESBADEN-BIEBRICH
+PRO
+D
+PRODUCT
+OF
+D'ALLE
+MAGNE
+DEUTSCHER
+SEKT
+GERMANY
+BOTT
+VINO
+ESPU
+LED
+AT
+WIES-
+MANTE
+ALEMAN
+ADEN
+(RHINE)
+"Anno 1832\nHenkell\nOriginal\nOriginal Flaschengarung\nPrivat\nExtra Dry\nHenkell & Co. Weisbaden Biebrich\nHenkell & Co. Wiesbaden-Bierbrich\n** PRODUIT D'ALLEMAGNE managethis.Fc README.org VINO ESPUMANTE ALEMAN\nProduit D'Allemagne Vino Espumante Aleman\nProduct of Germany Bottled at Wiesbaden (Rhine)\nPRIDUCT OF GERMANY. BOTTLED AT WIESBADEN (RHINE)\nDeutscher Sekt\nDEUTSCHER SEKT"
+"Anno 1832"
+"Henkell"
+"Original Flaschengarung"
+"Original"
+"Privat"
+"Extra Dry"
+"Henkell & Co. Weisbaden Biebrich"
+"Henkell & Co. Wiesbaden-Bierbrich"
+"** PRODUIT D'ALLEMAGNE managethis.Fc README.org VINO ESPUMANTE ALEMAN"
+"Produit D'Allemagne Vino Espumante Aleman"
+"PRIDUCT OF GERMANY. BOTTLED AT WIESBADEN (RHINE)"
+"Product of Germany Bottled at Wiesbaden (Rhine)"
+"Deutscher Sekt"
+"DEUTSCHER SEKT"

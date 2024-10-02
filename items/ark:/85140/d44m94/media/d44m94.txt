@@ -1,0 +1,31 @@
+a
+(RODO
+R HEIN H E s E N
+Oppenheimer Goldberg
+Carl Ma'zi Weinkellereien
+Darmstadt Oppenheim Rh
+OCOD
+
+a
+(RODO
+R
+HEIN
+H
+E
+s
+E
+N
+Oppenheimer
+Goldberg
+Carl
+Ma'zi
+Weinkellereien
+Darmstadt
+Oppenheim
+Rh
+OCOD
+"Rheinhessen\nOppenheimer Goldberg\n\n"
+"Rheinhessen"
+"Oppenheimer Goldberg"
+""
+""

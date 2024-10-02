@@ -1,0 +1,58 @@
+PARAISO
+DELICIOSO
+Tinto
+DE MESA
+PRODUTO DA IMPERIALVENicOLA.ITASANGALEos- PORt GAL
+VIEST APRECIADO VINHO E UM PRODUTO DE ALTA QuALIDADE
+POR APURADA ESCOLHA DAS MAIS SELECCIONADAS CASTAS, E A
+UINIDADE E GARANTIDA PELA rt
+
+PARAISO
+DELICIOSO
+Tinto
+DE
+MESA
+PRODUTO
+DA
+IMPERIALVENicOLA.ITASANGALEos-
+PORt
+GAL
+VIEST
+APRECIADO
+VINHO
+E
+UM
+PRODUTO
+DE
+ALTA
+QuALIDADE
+POR
+APURADA
+ESCOLHA
+DAS
+MAIS
+SELECCIONADAS
+CASTAS,
+E
+A
+UINIDADE
+E
+GARANTIDA
+PELA
+rt
+"Paraiso\nDelicioso\nVinho Tinto\nVinho tinto\nde mesa\nde Mesa\nProduto de Imperial Vinicola, Lda. Sangalhos, Portugal\nProduto da Imperial Vinicola, Lda. Sangalhos -- Portugal\nApreciado vinho e um produto de alta qualidade\nApreciado vinho e um produto de alta qualidade,\nOBIIOO POR APURADA ESCOLHA DAS MAIS SELECCTIONADAS CASTAS, EA\nIdo por apurada escolha das mais seleccionadas castas, E.A.\nSua genuinidade e garantida pela\nSua Genuindade e Garantida Pela \nImperial Vinicola, Lda."
+"Paraiso"
+"Delicioso"
+"Vinho Tinto"
+"Vinho tinto"
+"de Mesa"
+"de mesa"
+"Produto da Imperial Vinicola, Lda. Sangalhos -- Portugal"
+"Produto de Imperial Vinicola, Lda. Sangalhos, Portugal"
+"Apreciado vinho e um produto de alta qualidade,"
+"Apreciado vinho e um produto de alta qualidade"
+"Ido por apurada escolha das mais seleccionadas castas, E.A."
+"OBIIOO POR APURADA ESCOLHA DAS MAIS SELECCTIONADAS CASTAS, EA"
+"Sua genuinidade e garantida pela"
+"Sua Genuindade e Garantida Pela "
+"Imperial Vinicola, Lda."

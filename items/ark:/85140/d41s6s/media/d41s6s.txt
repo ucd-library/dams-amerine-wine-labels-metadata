@@ -1,0 +1,24 @@
+C
+BLANC
+DE RAISINS BLAN
+TRES SEC
+11 o 5
+
+C
+BLANC
+DE
+RAISINS
+BLAN
+TRES
+SEC
+11
+o
+5
+"Presents : EZH CEH\nPresents : EZH CEH\nLunch Hotel de la Cité Carcassonne 5/04/50 C+\nLunch Hotel de la Cité Carcassonne 5/04/50 C+\nBLANC / DE RAISINS BLANCS / TRÈS SEC / 11°5\nBLANC DE RAISINS BLANCS TRES SEC 11°5\nT14 Blanc de Raisins Blancs Très Sec 11°5"
+"Presents : EZH CEH"
+"Presents : EZH CEH"
+"Lunch Hotel de la Cité Carcassonne 5/04/50 C+"
+"Lunch Hotel de la Cité Carcassonne 5/04/50 C+"
+"T14 Blanc de Raisins Blancs Très Sec 11°5"
+"BLANC DE RAISINS BLANCS TRES SEC 11°5"
+"BLANC / DE RAISINS BLANCS / TRÈS SEC / 11°5"

@@ -1,0 +1,81 @@
+Contents
+Alcohol by volume 12,5
+1 Pint 8 Fluid Ounces
+Produce of Germany
+RHINE WINE
+1947
+DIENHEIMER GULDENMORGEN
+RIESLING
+Produced and bottled by Weingut Louis Guntrum,Nierstein o/Rhine, Germany
+Wachstum und Original tillun
+Weingut Louis Guntrunu Oppenheim u Nierstein
+RHEIN
+HESSEN
+GESCH012T
+w1.H. GERSTUNG, o FFENBACH ALAM
+
+Contents
+Alcohol
+by
+volume
+12,5
+1
+Pint
+8
+Fluid
+Ounces
+Produce
+of
+Germany
+RHINE
+WINE
+1947
+DIENHEIMER
+GULDENMORGEN
+RIESLING
+Produced
+and
+bottled
+by
+Weingut
+Louis
+Guntrum,Nierstein
+o/Rhine,
+Germany
+Wachstum
+und
+Original
+tillun
+Weingut
+Louis
+Guntrunu
+Oppenheim
+u
+Nierstein
+RHEIN
+HESSEN
+GESCH012T
+w1.H.
+GERSTUNG,
+o
+FFENBACH
+ALAM
+"Contents: 1 Pint 8 Fluid Ounces\nContents: 1 pint 8 fluid ounces\nAlcohol by Volume 12,5%\nAlcohol by Volume 12.5%\nProduce of Germany\nRhinewine\n1947\n1947 Dienheimer Guildenmorgen Riesling\nDienheimer Guildenmorgen Riesling\nProduced and bottle by Weingut Louis Guntrum, Nierstein o/ Rhine, Germany\nProduced and bottled by Weingut Louis Guntrum, Nierstein o/Rhine, Germany\nWachstum und Original-Abfullung\nWeingut Louis Guntrum Oppenheim u. Nierstein\nWeingut Luis Guntrum Oppenheim u. Neirstein\nRhein- Hessen\nGeschutzt\nWI. H. Gerstung, Offenbach A/M\nW.H. Gerstung, Offenbach AZM"
+"Contents: 1 Pint 8 Fluid Ounces"
+"Contents: 1 pint 8 fluid ounces"
+"Alcohol by Volume 12.5%"
+"Alcohol by Volume 12,5%"
+"Produce of Germany"
+"Rhinewine"
+"1947"
+"1947 Dienheimer Guildenmorgen Riesling"
+"Dienheimer Guildenmorgen Riesling"
+"Produced and bottled by Weingut Louis Guntrum, Nierstein o/Rhine, Germany"
+"Produced and bottle by Weingut Louis Guntrum, Nierstein o/ Rhine, Germany"
+"Wachstum und Original-Abfullung"
+"Weingut Louis Guntrum Oppenheim u. Nierstein"
+"Weingut Luis Guntrum Oppenheim u. Neirstein"
+"Rhein- Hessen"
+"Geschutzt"
+"W.H. Gerstung, Offenbach AZM"
+"WI. H. Gerstung, Offenbach A/M"

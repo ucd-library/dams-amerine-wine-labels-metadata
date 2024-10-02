@@ -1,0 +1,27 @@
+Federico Paternina
+COSECHA
+1939
+RIOJA
+REGISTRO EMBOTELLADORES 329
+CEPA BORGONA
+
+Federico
+Paternina
+COSECHA
+1939
+RIOJA
+REGISTRO
+EMBOTELLADORES
+329
+CEPA
+BORGONA
+"126\nFederico Paternina\nFrederico Paternina\nOllauri (Rioja)\nCosecha 1939\nRegistro Embotelladores 329\nREGISTERO EMBOTTELLADORES 329\nCEPA BORGOÑA\nCepa Borgona"
+"126"
+"Federico Paternina"
+"Frederico Paternina"
+"Ollauri (Rioja)"
+"Cosecha 1939"
+"Registro Embotelladores 329"
+"REGISTERO EMBOTTELLADORES 329"
+"CEPA BORGOÑA"
+"Cepa Borgona"

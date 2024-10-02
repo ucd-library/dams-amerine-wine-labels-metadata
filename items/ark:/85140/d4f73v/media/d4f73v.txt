@@ -1,0 +1,39 @@
+onen
+on ta
+QUOSA
+Arbois
+is en
+bouteile
+nar la
+FRUITIERE D'ARBoIS JUR
+gundée en 1906
+Sunsuvini, Arbois
+
+onen
+on
+ta
+QUOSA
+Arbois
+is
+en
+bouteile
+nar
+la
+FRUITIERE
+D'ARBoIS
+JUR
+gundée
+en
+1906
+Sunsuvini,
+Arbois
+"Plus on en boit Plus on va droit\nArbois\nAppellation Controlee\nMis en bouteille par la fruitere vinicole d'arbois (Jura)\nMis en bouteille par la Fruitiere vinicole d'Arbois (Jura)\nFondee en 1906\nFundee en 1906\nSunsuvint. Arbois\nSansuvint, Arbois"
+"Plus on en boit Plus on va droit"
+"Arbois"
+"Appellation Controlee"
+"Mis en bouteille par la Fruitiere vinicole d'Arbois (Jura)"
+"Mis en bouteille par la fruitere vinicole d'arbois (Jura)"
+"Fondee en 1906"
+"Fundee en 1906"
+"Sunsuvint. Arbois"
+"Sansuvint, Arbois"

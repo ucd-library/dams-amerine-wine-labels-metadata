@@ -1,0 +1,34 @@
+deingut
+ugust Emheusere
+1924' Mieterbaufer Dermannsboble
+ieeling feine Ausleje
+Origin
+Abfullum
+GESETZL.GESCHUTZr.
+
+deingut
+ugust
+Emheusere
+1924'
+Mieterbaufer
+Dermannsboble
+ieeling
+feine
+Ausleje
+Origin
+Abfullum
+GESETZL.GESCHUTZr.
+"White\nWeingut\nAugust Anheuser\nBad Kreuznach\nWeingut August Anheuser Bad Kreuznach\nNiederhäuser Hermannshöhle\nNiederhaufer Hermannshohle\n1934y\n1934r\nRiesling feine Auslefe\nRiesling feine Auslese\nOrigin al Abfullung\nOriginal Abfüllung\nGesetzl Geschütz\nGesetz L. Geschutzt."
+"White"
+"Weingut\nAugust Anheuser\nBad Kreuznach"
+"Weingut August Anheuser Bad Kreuznach"
+"Niederhäuser Hermannshöhle"
+"Niederhaufer Hermannshohle"
+"1934r"
+"1934y"
+"Riesling feine Auslese"
+"Riesling feine Auslefe"
+"Original Abfüllung"
+"Origin al Abfullung"
+"Gesetz L. Geschutzt."
+"Gesetzl Geschütz"

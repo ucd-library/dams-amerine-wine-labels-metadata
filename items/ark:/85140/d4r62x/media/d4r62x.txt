@@ -1,0 +1,54 @@
+CHATEAU
+GRAND MAYNE
+1937
+grand premier cru
+STEMI LION
+APPELLATION CONTRO LEE
+Jean Mony Proprel aire
+M I SE D U C H A T E A U
+DEPOS
+ROUSSEAU FRERES IMP.
+
+CHATEAU
+GRAND
+MAYNE
+1937
+grand
+premier
+cru
+STEMI
+LION
+APPELLATION
+CONTRO
+LEE
+Jean
+Mony
+Proprel
+aire
+M
+I
+SE
+D
+U
+C
+H
+A
+T
+E
+A
+U
+DEPOS
+ROUSSEAU
+FRERES
+IMP.
+"Chateau Grand-Mayne\n1937\nсдаасд\ngrand premier Cru\nSt. Emilion appellation contrôlée\nJean Nony Proprietaire\nдасд\nMise du Chateau\nасдсадада\nDéposé"
+"Chateau Grand-Mayne"
+"1937"
+"grand premier Cru"
+"сдаасд"
+"St. Emilion appellation contrôlée"
+"дасд"
+"Jean Nony Proprietaire"
+"Mise du Chateau"
+"асдсадада"
+"Déposé"

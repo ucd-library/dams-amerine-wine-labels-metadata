@@ -1,0 +1,61 @@
+ER
+1998
+NG CU
+GLISH RESERVE CUVEE
+CHAMPAGNE
+EXTRA DRY
+Produce of France
+NET CONTENTS
+1 PINT a 10 FLUID oz.- ALCOHOL BY VOLUME 13
+
+ER
+1998
+NG
+CU
+GLISH
+RESERVE
+CUVEE
+CHAMPAGNE
+EXTRA
+DRY
+Produce
+of
+France
+NET
+CONTENTS
+1
+PINT
+a
+10
+FLUID
+oz.-
+ALCOHOL
+BY
+VOLUME
+13
+"\nPERRIER-JOUET\nPERRIER-JOUËT\nENGLISH CUVÉE\nENGLISH CUVÉE\nDinner Sal Lucia Jan. 25, 1947 B (acid)\nDinner Sal Lucin Jan. 25, 1947 B (acid)\nRESERVE CUVÉE\nRESERVE CUVÉE\nChampagne\nChampagne\nPerrier fouet\nPerrier-Jouët & Co.\nPerrier-Jouet & co\nEpernay, France\nEpernay (France)\n\nFinest Quality EXTRA EXTRA DRY\nFinest Quality EXTRA EXTRA DRY\nFinest Quality / EXTRA EXTRA DRY\nProduce of France\nProduce of France\nNET CONTENTS 1 PINT & 10 FLUID OZ._ ALCOHOL BY VOLUME 13 %\nALCOHOL BY VOLUME 13%\nNET CONTENTS 1 PINT & 10 FLUID OZ."
+""
+"PERRIER-JOUËT"
+"PERRIER-JOUET"
+"ENGLISH CUVÉE"
+"ENGLISH CUVÉE"
+"Dinner Sal Lucin Jan. 25, 1947 B (acid)"
+"Dinner Sal Lucia Jan. 25, 1947 B (acid)"
+"RESERVE CUVÉE"
+"RESERVE CUVÉE"
+"Champagne"
+"Champagne"
+"Perrier fouet"
+"Perrier-Jouët & Co."
+"Perrier-Jouet & co"
+"Epernay, France"
+"Epernay (France)"
+""
+"Finest Quality EXTRA EXTRA DRY"
+"Finest Quality EXTRA EXTRA DRY"
+"Finest Quality / EXTRA EXTRA DRY"
+"Produce of France"
+"Produce of France"
+"NET CONTENTS 1 PINT & 10 FLUID OZ._ ALCOHOL BY VOLUME 13 %"
+"ALCOHOL BY VOLUME 13%"
+"NET CONTENTS 1 PINT & 10 FLUID OZ."

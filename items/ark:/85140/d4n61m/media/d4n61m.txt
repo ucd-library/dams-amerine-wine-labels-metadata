@@ -1,0 +1,31 @@
+PoumllY RESERVE
+APPELLATION POUILLY-FUISSE CONTROLEE
+DEGOCIAD S
+DE POSE.
+OUALET BEAUNE
+
+PoumllY
+RESERVE
+APPELLATION
+POUILLY-FUISSE
+CONTROLEE
+DEGOCIAD
+S
+DE
+POSE.
+OUALET
+BEAUNE
+"Dry\n1945\nPouilly Reserve\nPOUILLY RESERVE\nCuvee Speciale\nAppellation Pouilly-Fuisse Controlee\nAPELLATION POUILLY-FUISSE CONTROLEE\nBouchard Aine & Fils\nBOUCHARD AINE & FILS\nnegociants\nNegocianes\nA Berune Cose d'or France\nA BEAUNE, COTE D'OR FRANCE"
+"Dry"
+"1945"
+"POUILLY RESERVE"
+"Pouilly Reserve"
+"Cuvee Speciale"
+"APELLATION POUILLY-FUISSE CONTROLEE"
+"Appellation Pouilly-Fuisse Controlee"
+"BOUCHARD AINE & FILS"
+"Bouchard Aine & Fils"
+"Negocianes"
+"negociants"
+"A Berune Cose d'or France"
+"A BEAUNE, COTE D'OR FRANCE"

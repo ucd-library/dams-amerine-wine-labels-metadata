@@ -1,0 +1,41 @@
+MARCA REGIS TADA
+VINHOS
+DE
+MESA
+SOCIEDADE
+VINICOLA DO DAO, L DA
+EXPORTADORAe
+VISEU PORTUGAL
+
+MARCA
+REGIS
+TADA
+VINHOS
+DE
+MESA
+SOCIEDADE
+VINICOLA
+DO
+DAO,
+L
+DA
+EXPORTADORAe
+VISEU
+PORTUGAL
+"Portugal (Red)\nSOVIDA MARCA REGISTADA\nSovida, Marca Registrada\nVelho\nVINHOS DE MESA\nVinhos de Mesa\nDao\nDAO\nSociedade\nSOCIEDADE\nVINICOLA DO DAD L da EXPORTADORA\nVinicola do Dao, Lda. Exportadora\nTinto\nViseu, Portugal\nVISEU PORTUGAL\n"
+"Portugal (Red)"
+"SOVIDA MARCA REGISTADA"
+"Sovida, Marca Registrada"
+"Velho"
+"Vinhos de Mesa"
+"VINHOS DE MESA"
+"Dao"
+"DAO"
+"Sociedade"
+"SOCIEDADE"
+"VINICOLA DO DAD L da EXPORTADORA"
+"Vinicola do Dao, Lda. Exportadora"
+"Tinto"
+"Viseu, Portugal"
+"VISEU PORTUGAL"
+""

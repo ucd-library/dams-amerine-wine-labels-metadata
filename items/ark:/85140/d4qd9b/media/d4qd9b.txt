@@ -1,0 +1,23 @@
+////min/
+MAISON FONDEE EN 1797 BTAAUN (COTE DOR)
+0
+
+////
+min
+/
+MAISON
+FONDEE
+EN
+1797
+BTAAUN
+(
+COTE
+DOR
+)
+0
+"Côte de Beaune Pommard\nPommard\nLouis Latour\nBeaune (Côte d'Or)\nMaison Fondée en 1797"
+"Côte de Beaune Pommard"
+"Pommard"
+"Louis Latour"
+"Beaune (Côte d'Or)"
+"Maison Fondée en 1797"

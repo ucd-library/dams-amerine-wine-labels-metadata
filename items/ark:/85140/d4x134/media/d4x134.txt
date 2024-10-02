@@ -1,0 +1,22 @@
+POM MARD
+Appellation d'origine Controlee
+CHARLES VIENOT
+Negociant Premeaux par Nuits-Saint-Georges
+
+POM
+MARD
+Appellation
+d'origine
+Controlee
+CHARLES
+VIENOT
+Negociant
+Premeaux
+par
+Nuits-Saint-Georges
+"Pommard\nAppellation d'Origine Controlee\nAppellation d'Origine Contrôlée\nCharles Viénot\nNégociant à Premeaux par Nuits-Saint-Georges\nCharles Vienot Negociant a Premeaux par Nuits-Saint-Georges"
+"Pommard"
+"Appellation d'Origine Controlee"
+"Appellation d'Origine Contrôlée"
+"Charles Viénot\nNégociant à Premeaux par Nuits-Saint-Georges"
+"Charles Vienot Negociant a Premeaux par Nuits-Saint-Georges"

@@ -1,0 +1,33 @@
+VEN BLANC
+DE
+APPELLATION CONTROLEE
+1946
+Mise en bouteilles au chateau
+NEYRET-GACHET, propriétaire de Chateau-Grillet
+Vérin et Saint-Michel (Loire).
+
+VEN
+BLANC
+DE
+APPELLATION
+CONTROLEE
+1946
+Mise
+en
+bouteilles
+au
+chateau
+NEYRET-GACHET,
+propriétaire
+de
+Chateau-Grillet
+Vérin
+et
+Saint-Michel
+(Loire).
+"Vin Blanc de Chateau-Grillet Appellation Controlée\n1946\nMise en bouteilles au château Neyret-Gachet, propriétaire de Château-Grillet Vérin et Saint-Michel (Loire).\nMise en bouteilles au château, Neyret-Gachet, propriétaire de Château-Grillet Vérin et Saint-Michel (Loire).\nJeff"
+"Vin Blanc de Chateau-Grillet Appellation Controlée"
+"1946"
+"Mise en bouteilles au château Neyret-Gachet, propriétaire de Château-Grillet Vérin et Saint-Michel (Loire)."
+"Mise en bouteilles au château, Neyret-Gachet, propriétaire de Château-Grillet Vérin et Saint-Michel (Loire)."
+"Jeff"

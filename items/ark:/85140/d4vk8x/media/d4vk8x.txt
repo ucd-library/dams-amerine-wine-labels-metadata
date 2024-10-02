@@ -1,0 +1,25 @@
+"Be
+FERREIRIN
+DALHETE
+VINHO DE MEZA
+PORTUGAL
+TINTO
+
+"Be
+FERREIRIN
+DALHETE
+VINHO
+DE
+MEZA
+PORTUGAL
+TINTO
+"Ferreirinha\nOrdinary \n\"Ordinary\" M A A\nPalhete\nPALHETE\nVINHO DE MEZA TINTO\nVinho de Meza tinto\nPORTUGAL\nPortugal"
+"Ferreirinha"
+"\"Ordinary\" M A A"
+"Ordinary "
+"Palhete"
+"PALHETE"
+"VINHO DE MEZA TINTO"
+"Vinho de Meza tinto"
+"Portugal"
+"PORTUGAL"

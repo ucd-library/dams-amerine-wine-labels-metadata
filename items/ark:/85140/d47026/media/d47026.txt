@@ -1,0 +1,29 @@
+Federico Paternina
+COSECHA 1942
+RIO JA
+REGISTRO EMBOTELLADORES 329
+ECE PA RH IN
+
+Federico
+Paternina
+COSECHA
+1942
+RIO
+JA
+REGISTRO
+EMBOTELLADORES
+329
+ECE
+PA
+RH
+IN
+"Hotel Alphonses XIII Seville 4/14/52\nDinner Hotel Alphonses XIII Seville 4/14/52\nFederica Paternina\nFederico Paternina\nOllauri\nCosecha 1942\n(Rioja)\nRegistro Embotelladores 329\nCepa Rhin"
+"Hotel Alphonses XIII Seville 4/14/52"
+"Dinner Hotel Alphonses XIII Seville 4/14/52"
+"Federico Paternina"
+"Federica Paternina"
+"Ollauri"
+"Cosecha 1942"
+"(Rioja)"
+"Registro Embotelladores 329"
+"Cepa Rhin"

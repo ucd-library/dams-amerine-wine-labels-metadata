@@ -1,0 +1,31 @@
+12/3 3/4 2.
+1937
+goldlers
+ppenheimer
+cg-isa, enketlere,
+Oppenheim am Rhein
+Rheinhessen n
+
+12/3
+3/4
+2.
+1937
+goldlers
+ppenheimer
+cg-isa,
+enketlere,
+Oppenheim
+am
+Rhein
+Rheinhessen
+n
+"Rehinhessen\nRheinhessen\n1937\nPresent: Harold Price Dave Johnson John Esquire Claude La Pearl Eustace Cullinan Farnham Griffiths Sal Lucia CEH\nPresent: Harold Prince XXXX Johnson John Esquire Charles La Pearl Eustace Cullinan Farnham Griffiths Sal Lucia CEH\nNo Host Dinner Palace Hotel 12/23/42 B+\nOppenheimer Goldberg\nJean Frisch, Weinkellerei, Oppenheim am Rhein\nJean Frisch, Weinkellerei, Oppenheim an Rhein"
+"Rehinhessen"
+"Rheinhessen"
+"1937"
+"Present: Harold Price Dave Johnson John Esquire Claude La Pearl Eustace Cullinan Farnham Griffiths Sal Lucia CEH"
+"Present: Harold Prince XXXX Johnson John Esquire Charles La Pearl Eustace Cullinan Farnham Griffiths Sal Lucia CEH"
+"No Host Dinner Palace Hotel 12/23/42 B+"
+"Oppenheimer Goldberg"
+"Jean Frisch, Weinkellerei, Oppenheim am Rhein"
+"Jean Frisch, Weinkellerei, Oppenheim an Rhein"

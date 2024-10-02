@@ -1,0 +1,48 @@
+NERS 189s
+GONAL 18
+1878
+NACIONAL
+ARIS BURDE
+1900
+N. 125
+MARCA REGISTRADA
+Medalla de Oro en laExposicion de Paris de 1900
+MANZANILLAPASADA
+SAN LUCAR.
+
+NERS
+189s
+GONAL
+18
+1878
+NACIONAL
+ARIS
+BURDE
+1900
+N.
+125
+MARCA
+REGISTRADA
+Medalla
+de
+Oro
+en
+laExposicion
+de
+Paris
+de
+1900
+MANZANILLAPASADA
+SAN
+LUCAR.
+"Paris 1878 Anvers 1895 Burdeaux 1895\nParis 1900 Regional 1879 Nacional 1877\n\nPedro Rodriguez Hijos No. 125\nPastora\nMarca Registrada\nMedalla de Oro en la Exposicion de Paris de 1900\nMedalla de Oro en la Exposicion de Paris 1900\nManzanilla Pasada\nSanlucar"
+"Paris 1878 Anvers 1895 Burdeaux 1895"
+""
+"Paris 1900 Regional 1879 Nacional 1877"
+"Pedro Rodriguez Hijos No. 125"
+"Pastora"
+"Marca Registrada"
+"Medalla de Oro en la Exposicion de Paris 1900"
+"Medalla de Oro en la Exposicion de Paris de 1900"
+"Manzanilla Pasada"
+"Sanlucar"

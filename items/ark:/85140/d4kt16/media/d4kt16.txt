@@ -1,0 +1,45 @@
+1998 WHITE
+INE
+BURG!
+hateau de lingelles
+SAONE
+& LOIRE
+Vicomte de Dormy
+roprietaire
+PRODUCE OF FRANCE
+ORIGINAL CHATEAU BOTTLING
+
+1998
+WHITE
+INE
+BURG!
+hateau
+de
+lingelles
+SAONE
+&
+LOIRE
+Vicomte
+de
+Dormy
+roprietaire
+PRODUCE
+OF
+FRANCE
+ORIGINAL
+CHATEAU
+BOTTLING
+"1928\nWHITE BURGUNDY WINE\nDinner John Esquires's(?) 4/15/44 A-\n\nPouilly\nChateau de Vinzelles\n(SAONE & LOIRE)\nSAONE & LOIRE\nVicomte de Dormy Proprietair\nVicomte de Dormy Proprietaire\nORIGINAL CHATEAU BOTTLING\nPRODUCE OF FRANCE\nIMP B ARNAUD LYON PARIS"
+"1928"
+"WHITE BURGUNDY WINE"
+"Dinner John Esquires's(?) 4/15/44 A-"
+""
+"Pouilly"
+"Chateau de Vinzelles"
+"(SAONE & LOIRE)"
+"SAONE & LOIRE"
+"Vicomte de Dormy Proprietair"
+"Vicomte de Dormy Proprietaire"
+"ORIGINAL CHATEAU BOTTLING"
+"PRODUCE OF FRANCE"
+"IMP B ARNAUD LYON PARIS"

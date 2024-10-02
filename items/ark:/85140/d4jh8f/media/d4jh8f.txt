@@ -1,0 +1,49 @@
+ALCOHOL 8%
+BOTTLED AT
+BY VOLUME
+THE WINERY
+CALIFORNIA
+MOSCATO AMABILE
+A LIGHT, SWEET MUSCAT WINE
+PRODUCED AND BOTTLED BY
+Louis M. Martini
+ST. HELENA, NAPA COUNTY, CALIFORNIA
+
+ALCOHOL
+8%
+BOTTLED
+AT
+BY
+VOLUME
+THE
+WINERY
+CALIFORNIA
+MOSCATO
+AMABILE
+A
+LIGHT,
+SWEET
+MUSCAT
+WINE
+PRODUCED
+AND
+BOTTLED
+BY
+Louis
+M.
+Martini
+ST.
+HELENA,
+NAPA
+COUNTY,
+CALIFORNIA
+"At Home '53 C+\nAlcohol 8% by Volume\nAlcohol 8% by volume\nBottled at the Winery\nLouis Martini\nCALIFORNIA MOSCATO AMABILE A LIGHT, SWEET MUSCAT WINE\nCalifornia Moscato Amabile A light, sweet Muscat Wine\nProduced and Bottled by Louis M. Martini St. Helena, Napa County, California\nPRODUCED AND BOTTLED BY LOUIS M. MARTINI ST. HELENA, NAPA COUNTY, CALIFORNIA"
+"At Home '53 C+"
+"Alcohol 8% by Volume"
+"Alcohol 8% by volume"
+"Bottled at the Winery"
+"Louis Martini"
+"CALIFORNIA MOSCATO AMABILE A LIGHT, SWEET MUSCAT WINE"
+"California Moscato Amabile A light, sweet Muscat Wine"
+"Produced and Bottled by Louis M. Martini St. Helena, Napa County, California"
+"PRODUCED AND BOTTLED BY LOUIS M. MARTINI ST. HELENA, NAPA COUNTY, CALIFORNIA"

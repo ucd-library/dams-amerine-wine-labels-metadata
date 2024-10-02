@@ -1,0 +1,19 @@
+SANDEMAN, BUCK & Co,
+JEREZ
+(SPAIN)
+PEMARTIN SHERRY
+
+SANDEMAN,
+BUCK
+&
+Co,
+JEREZ
+(SPAIN)
+PEMARTIN
+SHERRY
+"Sandeman, Buck & Co.\nsandeman, buck & co.\njerez (spain)\npemartin sherry\nprmartin sherry"
+"sandeman, buck & co."
+"Sandeman, Buck & Co."
+"jerez (spain)"
+"pemartin sherry"
+"prmartin sherry"

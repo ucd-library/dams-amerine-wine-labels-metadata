@@ -1,0 +1,40 @@
+Appel TIor
+CORT ROLE
+Bourgogne Aligote
+1947
+CAves de la GlocHe
+1. Rue Devos
+ge
+DIJOR
+BOURGOGNE, FRANCE
+
+Appel
+TIor
+CORT
+ROLE
+Bourgogne
+Aligote
+1947
+CAves
+de
+la
+GlocHe
+1.
+Rue
+Devos
+ge
+DIJOR
+BOURGOGNE,
+FRANCE
+"Appellation Controlee\nappellation controlee\nBourgogne Aligote\n1947\nCaves de la Cloche\n1 Rue Devosge\n1, Rue Devosge\nDIJON\nDijon\nBourgogne (France)\nBOURGOGNE (FRANCE)"
+"Appellation Controlee"
+"appellation controlee"
+"Bourgogne Aligote"
+"1947"
+"Caves de la Cloche"
+"1 Rue Devosge"
+"1, Rue Devosge"
+"DIJON"
+"Dijon"
+"BOURGOGNE (FRANCE)"
+"Bourgogne (France)"

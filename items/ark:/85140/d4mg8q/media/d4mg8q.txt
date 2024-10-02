@@ -1,0 +1,29 @@
+GREAT BRITAIN
+212
+KRUG
+937
+EXTRA SEC
+30.01
+
+GREAT
+BRITAIN
+212
+KRUG
+937
+EXTRA
+SEC
+30.01
+"Champagne Private Cuvée\nchampagne private cuvee\nkrug\nKRUG\nkrug & co.\nKRUG & Co\nreims\nReims\n1937\nExtra Sex\n1937 extra sec\nGreat Britain\ngreat britain"
+"champagne private cuvee"
+"Champagne Private Cuvée"
+"krug"
+"KRUG"
+"KRUG & Co"
+"krug & co."
+"reims"
+"Reims"
+"1937"
+"1937 extra sec"
+"Extra Sex"
+"great britain"
+"Great Britain"

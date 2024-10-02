@@ -1,0 +1,22 @@
+i Vin rouge de la Moselle Luxembourgeoise
+PINOT NOIR
+rul Jos. Kohll-Kohn, Wintrange
+
+i
+Vin
+rouge
+de
+la
+Moselle
+Luxembourgeoise
+PINOT
+NOIR
+rul
+Jos.
+Kohll-Kohn,
+Wintrange
+"Red\n\n\n"
+"Red"
+""
+""
+""

@@ -1,0 +1,27 @@
+0
+ea
+GONZALEZ,BYASSY
+FR
+JEREZ
+TIO PEPE
+
+0
+ea
+GONZALEZ
+,
+BYASSY
+FR
+JEREZ
+TIO
+PEPE
+"An aperitif in Spain often April '52 AA\n\nGonzalez, Byass 7 Ca.\nGonzalez,BYASSyCa.\nJerez\nEmbotelladot 222\nEmbotelliador 222\nTio Pepe\nJerez Gonzalez\nJerez Gratico."
+"An aperitif in Spain often April '52 AA"
+""
+"Gonzalez,BYASSyCa."
+"Gonzalez, Byass 7 Ca."
+"Jerez"
+"Embotelliador 222"
+"Embotelladot 222"
+"Tio Pepe"
+"Jerez Gonzalez"
+"Jerez Gratico."

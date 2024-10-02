@@ -1,0 +1,49 @@
+GRAND VIN
+CHATEAU
+UHART
+MILON
+Grand cru classe
+1937
+PAAUILLAC.MEDoc
+(FRANCE)
+Mis en bouteille au chateau
+ppellation Pauillac controlée
+IM PRIME EN FRANCE
+
+GRAND
+VIN
+CHATEAU
+UHART
+MILON
+Grand
+cru
+classe
+1937
+PAAUILLAC.MEDoc
+(FRANCE)
+Mis
+en
+bouteille
+au
+chateau
+ppellation
+Pauillac
+controlée
+IM
+PRIME
+EN
+FRANCE
+"4th Growth\nGrand Vin\nChateau Duhart-Milon\nGrand Cru Classe\nGrand cru classe\n1937\nPauillac Medoc (France)\nPauillac-Medoc (France)\nMis en bouteille au château\nMis en bouteille au chateau\nAppellation Pauillac Controlee\nImprime En France\nImprimé en France"
+"4th Growth"
+"Grand Vin"
+"Chateau Duhart-Milon"
+"Grand cru classe"
+"Grand Cru Classe"
+"1937"
+"Pauillac-Medoc (France)"
+"Pauillac Medoc (France)"
+"Mis en bouteille au château"
+"Mis en bouteille au chateau"
+"Appellation Pauillac Controlee"
+"Imprime En France"
+"Imprimé en France"

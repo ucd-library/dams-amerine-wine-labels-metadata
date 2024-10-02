@@ -1,0 +1,25 @@
+LIQUEUR
+E LABB
+DE
+CENON
+ped b
+rete
+of
+
+LIQUEUR
+E
+LABB
+DE
+CENON
+ped
+b
+rete
+of
+"Apricot MAB\n4/5 quart\n70 proof\nLiqueur de l'Abbay de Cenon\nLiqueur de l'Abbaye de Cenon\nVieell Cure S.A. Cenon-France Product of France\nShipped by Vieill Cure S.A. Cenon -- France Product of France"
+"Apricot MAB"
+"4/5 quart"
+"70 proof"
+"Liqueur de l'Abbay de Cenon"
+"Liqueur de l'Abbaye de Cenon"
+"Vieell Cure S.A. Cenon-France Product of France"
+"Shipped by Vieill Cure S.A. Cenon -- France Product of France"

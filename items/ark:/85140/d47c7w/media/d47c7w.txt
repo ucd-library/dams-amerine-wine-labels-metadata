@@ -1,0 +1,31 @@
+DELLA REAL CASA
+PROVVEDITORI
+BARBERA
+A CALISSARO
+IMBOTTIGLIATO
+DAL CLIENTE
+A LBA ITALIA
+
+DELLA
+REAL
+CASA
+PROVVEDITORI
+BARBERA
+A
+CALISSARO
+IMBOTTIGLIATO
+DAL
+CLIENTE
+A
+LBA
+ITALIA
+"Red\nred\nProvveditori Della Real Casa\nBARBERA CALISSANO\nBarbera calissano\nLuigi calissano &figli Alba Italia\nLUIGI CALISSANO & FIGLI ALBA ITALIA\nImbottigliato dal cliente\nIMBOTTIGLIATO DAL CLIENTE"
+"red"
+"Red"
+"Provveditori Della Real Casa"
+"BARBERA CALISSANO"
+"Barbera calissano"
+"Luigi calissano &figli Alba Italia"
+"LUIGI CALISSANO & FIGLI ALBA ITALIA"
+"Imbottigliato dal cliente"
+"IMBOTTIGLIATO DAL CLIENTE"

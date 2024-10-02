@@ -1,0 +1,29 @@
+ALBARINO FEFINANEer
+CAMB ADOS
+(PONTEVEDRA
+Precio en origen: 10 pesetas
+R. O. E. n.0 65
+
+ALBARINO
+FEFINANEer
+CAMB
+ADOS
+(PONTEVEDRA
+Precio
+en
+origen:
+10
+pesetas
+R.
+O.
+E.
+n.0
+65
+"ALBARINO D FEFINANE\nAlbariño D Fefiñane\n(Pontevedra)\n(PONTEVEDRA)\nR O E. a.o 65\nR. O. E. NO 65\nPrecio en origen: 10 pesetas"
+"Albariño D Fefiñane"
+"ALBARINO D FEFINANE"
+"(Pontevedra)"
+"(PONTEVEDRA)"
+"R O E. a.o 65"
+"R. O. E. NO 65"
+"Precio en origen: 10 pesetas"

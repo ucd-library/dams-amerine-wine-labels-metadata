@@ -1,0 +1,20 @@
+MUSCAT
+DE
+SAMOS
+VIN DE LIQUEUR
+
+MUSCAT
+DE
+SAMOS
+VIN
+DE
+LIQUEUR
+"MUSCAT DE SAMOS\nMuscat de Samos\nVIN DE LIQUEUR\nVin de Liqueur\nM. F.\nM F.\nDepose 1104\nJeff"
+"Muscat de Samos"
+"MUSCAT DE SAMOS"
+"VIN DE LIQUEUR"
+"Vin de Liqueur"
+"M. F."
+"M F."
+"Depose 1104"
+"Jeff"

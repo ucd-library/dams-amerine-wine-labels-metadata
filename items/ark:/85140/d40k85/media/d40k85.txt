@@ -1,0 +1,30 @@
+ROYAL
+GRAIN D
+CHAMPAGNE
+VOR
+EPEENAY.
+Concessionnaire: ETA BT ADRIEN SARRAZIN a DIJON-E PERNAY
+
+ROYAL
+GRAIN
+D
+CHAMPAGNE
+VOR
+EPEENAY.
+Concessionnaire:
+ETA
+BT
+ADRIEN
+SARRAZIN
+a
+DIJON-E
+PERNAY
+"GRAND VIN\nROYAL CHAMPAGNE\nRoyal Champagne\nMarquise de Sevigne\nEpernay.\nEpernay\nConcessionnaire Etab Adrien SARRAZIN a Dijon-Epernay\nConcessionnaire: Etabts. Adrien SARRAZIN à Dijon-Epernay."
+"GRAND VIN"
+"ROYAL CHAMPAGNE"
+"Royal Champagne"
+"Marquise de Sevigne"
+"Epernay."
+"Epernay"
+"Concessionnaire: Etabts. Adrien SARRAZIN à Dijon-Epernay."
+"Concessionnaire Etab Adrien SARRAZIN a Dijon-Epernay"

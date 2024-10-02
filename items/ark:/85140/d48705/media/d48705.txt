@@ -1,0 +1,31 @@
+CHATEAU HAUT BRION
+1920
+OTCase en bouteilles au CORateau
+HARIOL
+DE POSE
+
+CHATEAU
+HAUT
+BRION
+1920
+OTCase
+en
+bouteilles
+au
+CORateau
+HARIOL
+DE
+POSE
+"1st Cru Pesana (France)\nDinner / Wine & Food Soc. / Palace Hotel / 10/26/42 / Magnum / A / Great Banquet\nDinner Wine & Food Soc Palace Hotel 10/26/42 Magnum a Great Broiquet\nCHATEAU HAUT BRION\n1920\nMise en bouteilles au Château\nMise en bouteilles au Château\nMISE EN BOUTEILLES AU CHATEAU\nHeritiers Larrieu Proprietaires\nHéritiers Larrieu Propriétaires\nDÉPOSÉ\nDepose"
+"1st Cru Pesana (France)"
+"Dinner Wine & Food Soc Palace Hotel 10/26/42 Magnum a Great Broiquet"
+"Dinner / Wine & Food Soc. / Palace Hotel / 10/26/42 / Magnum / A / Great Banquet"
+"CHATEAU HAUT BRION"
+"1920"
+"Mise en bouteilles au Château"
+"Mise en bouteilles au Château"
+"MISE EN BOUTEILLES AU CHATEAU"
+"Héritiers Larrieu Propriétaires"
+"Heritiers Larrieu Proprietaires"
+"Depose"
+"DÉPOSÉ"

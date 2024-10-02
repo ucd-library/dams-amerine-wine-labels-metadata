@@ -1,0 +1,44 @@
+HOSPICES DE BEAUNE
+1947
+rand din
+Des
+BEAULE
+Cuvée des Dames Hospitalieres
+Appellation Beaune con
+Acquéreur
+Joseph DROUHIN
+Beaune (Cote d'Or)
+
+HOSPICES
+DE
+BEAUNE
+1947
+rand
+din
+Des
+BEAULE
+Cuvée
+des
+Dames
+Hospitalieres
+Appellation
+Beaune
+con
+Acquéreur
+Joseph
+DROUHIN
+Beaune
+(Cote
+d'Or)
+"Beaune\nGrand Din des Hospices de Beaune Beaune Cuvee des Dames Hospitalieres Appellation Beaune controlee\nGrand Din des Hospices de Beaune\nBeaune\nCuvee des Dames Hospitalieres\nAppellation Beaune controlee\nHOSPICES DE BEAUNE\nAcquéreur: Joseph DROUHIN à Beaune (Côte-d'Or)\nAcquereur: Joesph Drouhin a Beaune (Coie-d'Or)\n1947\nFPG"
+"Beaune"
+"Grand Din des Hospices de Beaune Beaune Cuvee des Dames Hospitalieres Appellation Beaune controlee"
+"Grand Din des Hospices de Beaune"
+"Beaune"
+"Cuvee des Dames Hospitalieres"
+"Appellation Beaune controlee"
+"HOSPICES DE BEAUNE"
+"Acquereur: Joesph Drouhin a Beaune (Coie-d'Or)"
+"Acquéreur: Joseph DROUHIN à Beaune (Côte-d'Or)"
+"1947"
+"FPG"

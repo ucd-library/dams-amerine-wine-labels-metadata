@@ -1,0 +1,36 @@
+13 77
+CONTENTS 1 PINT 8 FLUID OUM CEC
+ST-JULIEN
+FRANCE
+St. Julien
+D ist Irin
+
+13
+77
+CONTENTS
+1
+PINT
+8
+FLUID
+OUM
+CEC
+ST-JULIEN
+FRANCE
+St.
+Julien
+D
+ist
+Irin
+"St Julien (Medoc) District Wine\nSt. Julien (Medoc) District Wine\nContents 1 pint 8 fluid ounces\nCONTENTS 1 PINT 8 FLUID OUNCES\nDinner Cercle de l' ??nion Jannuary 1947 C+ Passé\nDinner Circle de l'Maison January 1947 C+ Passe\nPresent: Russ Curtis, Gertrude Curtis, CEH jr., Carolyn, Pam. Marie, ELH, CEH\n1734\nSt-JULIEN\nSt Julien\nFRANCE\nFrance"
+"St Julien (Medoc) District Wine"
+"St. Julien (Medoc) District Wine"
+"Contents 1 pint 8 fluid ounces"
+"CONTENTS 1 PINT 8 FLUID OUNCES"
+"Dinner Circle de l'Maison January 1947 C+ Passe"
+"Dinner Cercle de l' ??nion Jannuary 1947 C+ Passé"
+"Present: Russ Curtis, Gertrude Curtis, CEH jr., Carolyn, Pam. Marie, ELH, CEH"
+"1734"
+"St Julien"
+"St-JULIEN"
+"France"
+"FRANCE"

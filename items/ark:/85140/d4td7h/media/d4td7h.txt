@@ -1,0 +1,37 @@
+Appellation Contro
+SAVIGNY-LES-BEAUNE
+LOUIS, LANGERON BOURSOT
+Propriétaire
+1934
+MISE
+DU DOMAINE
+
+Appellation
+Contro
+SAVIGNY-LES-BEAUNE
+LOUIS,
+LANGERON
+BOURSOT
+Propriétaire
+1934
+MISE
+DU
+DOMAINE
+"Côte de ??; Sovigny\ncote de beaune savigny\nappellation controlee\nAppellation Controlee\nLunch Overland Limited, En route, Chicago to San Francisco, 11/20/44 A (with cold pheasant)\nLunch; ? Limited; En route, Chicago to San Francisco; 11/20/44; A ; (with red pheasant)\nPresent: ELH; CEH\nPresent: ELH, CEH\nSAVIGNY-LES-BEAUNE\nsavigny-les-beaune\nFrom FJG\nFrom: FJS\nlouis langeron-boursot proprietaire\nLOUIS LANGERON-BOURSOT; Propriétaire\n1934\nmise au domaine\nMISE DU DOMAINE"
+"Côte de ??; Sovigny"
+"cote de beaune savigny"
+"Appellation Controlee"
+"appellation controlee"
+"Lunch Overland Limited, En route, Chicago to San Francisco, 11/20/44 A (with cold pheasant)"
+"Lunch; ? Limited; En route, Chicago to San Francisco; 11/20/44; A ; (with red pheasant)"
+"Present: ELH; CEH"
+"Present: ELH, CEH"
+"SAVIGNY-LES-BEAUNE"
+"savigny-les-beaune"
+"From FJG"
+"From: FJS"
+"LOUIS LANGERON-BOURSOT; Propriétaire"
+"louis langeron-boursot proprietaire"
+"1934"
+"mise au domaine"
+"MISE DU DOMAINE"

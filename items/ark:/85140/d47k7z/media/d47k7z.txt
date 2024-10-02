@@ -1,0 +1,30 @@
+ANJOU
+COTEAUX DE
+SAU MUR
+APPELLATION ANJOU SAUMUR CONTROLEE
+PARO.NEGOCIANTS ELEVEURS.MEZE (H
+T) PARIS (12
+
+ANJOU
+COTEAUX
+DE
+SAU
+MUR
+APPELLATION
+ANJOU
+SAUMUR
+CONTROLEE
+PARO.NEGOCIANTS
+ELEVEURS.MEZE
+(H
+T)
+PARIS
+(12
+"anjou saumur\nAnjou Saumur\ncoteaux de saumur\nCoteaux de Saumur\nappellation anjou saumur controlee\nparo negociants-eleveurs.meze(H)Paris(12)\nParo, Négociants-Èleveurs. Méze (Hlt) Paris (12!)"
+"anjou saumur"
+"Anjou Saumur"
+"Coteaux de Saumur"
+"coteaux de saumur"
+"appellation anjou saumur controlee"
+"Paro, Négociants-Èleveurs. Méze (Hlt) Paris (12!)"
+"paro negociants-eleveurs.meze(H)Paris(12)"

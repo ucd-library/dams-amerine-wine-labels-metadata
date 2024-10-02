@@ -1,0 +1,40 @@
+36
+CLEAN
+SELECT
+CALIFORNIA CLARET
+Bottled by
+L. D. McLEAN CO
+San Francisco
+Alcohol 12% by Volume
+Contents One Fifth Gallon
+Withdrawn from Tax Paid Container
+Serial No.
+
+36
+CLEAN
+SELECT
+CALIFORNIA
+CLARET
+Bottled
+by
+L.
+D.
+McLEAN
+CO
+San
+Francisco
+Alcohol
+12%
+by
+Volume
+Contents
+One
+Fifth
+Gallon
+Withdrawn
+from
+Tax
+Paid
+Container
+Serial
+No.

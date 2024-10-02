@@ -1,0 +1,25 @@
+rus D ALSACE
+RIESLING
+Cuvée de Réserve
+1929
+F.WOITNER
+
+rus
+D
+ALSACE
+RIESLING
+Cuvée
+de
+Réserve
+1929
+F.WOITNER
+"Alsace\nGRANDS VINS D'ALSACE\nheraldic arms\nCrest with castle\nRIESLING Cuvée de Réserve\nRiesling Cuvée de Réserve\n1929\nF. WOLTNER\nMAA"
+"Alsace"
+"GRANDS VINS D'ALSACE"
+"heraldic arms"
+"Crest with castle"
+"Riesling Cuvée de Réserve"
+"RIESLING Cuvée de Réserve"
+"1929"
+"F. WOLTNER"
+"MAA"

@@ -1,0 +1,44 @@
+18 74,
+ODD
+1949er
+183 K 074
+e WILHELM GEIGER, HEIDELBERG,
+WEIN GROSS HAND LUNG,
+Deidesheimer Nonnenstuck
+Rheinpfalz
+Wachstum Mayer
+JLLRAT
+24071
+
+18
+74,
+ODD
+1949er
+183
+K
+074
+e
+WILHELM
+GEIGER,
+HEIDELBERG,
+WEIN
+GROSS
+HAND
+LUNG,
+Deidesheimer
+Nonnenstuck
+Rheinpfalz
+Wachstum
+Mayer
+JLLRAT
+24071
+"1874\n1949er\n1874\nWilhelm Geiger, Heidelberg, Weingrosshandlung.\nWilhelm Geiger, Heidelberg, Weingrosshandlung\nDeidesheimer Nonnenstuck\nDeidesheimer Nonnenstück\nRheinpfalz\nWachstum Mayer"
+"1874"
+"1949er"
+"1874"
+"Wilhelm Geiger, Heidelberg, Weingrosshandlung"
+"Wilhelm Geiger, Heidelberg, Weingrosshandlung."
+"Deidesheimer Nonnenstuck"
+"Deidesheimer Nonnenstück"
+"Rheinpfalz"
+"Wachstum Mayer"

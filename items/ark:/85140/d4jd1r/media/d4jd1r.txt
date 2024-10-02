@@ -1,0 +1,27 @@
+PCTLNTI AM
+24
+"LA GorA
+MANZANILLA PASADA
+LIT. SALIDO 71. JEREZ
+
+PCTLNTI
+AM
+24
+"LA
+GorA
+MANZANILLA
+PASADA
+LIT.
+SALIDO
+71.
+JEREZ
+"\"La Goya\"\nManzanilla Pasada\nHijos de José Delgado y Zuleta S.L.\nHijos de Jose Delgado y Zuleta S.L.\nSanlucar de Barrameda\nSanlúcar de Barrameda\n24\nLit. Salido M. Jerez\nPhleger"
+"\"La Goya\""
+"Manzanilla Pasada"
+"Hijos de José Delgado y Zuleta S.L."
+"Hijos de Jose Delgado y Zuleta S.L."
+"Sanlúcar de Barrameda"
+"Sanlucar de Barrameda"
+"24"
+"Lit. Salido M. Jerez"
+"Phleger"

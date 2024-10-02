@@ -1,0 +1,40 @@
+BERT
+ll l
+LANC
+JR
+BOURGEO
+CR
+19
+SE EN
+BOU, E
+AMP, AG, Er, Proprit titi
+LILLE,
+POUILLY FUISSE
+Cuvée de Réserve
+F. WOLTNER
+
+BERT
+ll
+l
+LANC
+JR
+BOURGEO
+CR
+19
+SE
+EN
+BOU,
+E
+AMP,
+AG,
+Er,
+Proprit
+titi
+LILLE,
+POUILLY
+FUISSE
+Cuvée
+de
+Réserve
+F.
+WOLTNER

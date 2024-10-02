@@ -1,0 +1,46 @@
+934
+CHATEAU DE BELLEVUE
+ST AUBIN DE LUIGNE
+ANJOU
+BARON R. DE LUZE
+STHILAIRE-ST FLORENT
+FRANCE
+MAINE ET LOIRE
+
+934
+CHATEAU
+DE
+BELLEVUE
+ST
+AUBIN
+DE
+LUIGNE
+ANJOU
+BARON
+R.
+DE
+LUZE
+STHILAIRE-ST
+FLORENT
+FRANCE
+MAINE
+ET
+LOIRE
+"Loire Anjou\nLoire Anjou\n1934\n1934\nWine Dinner / Bohemian Club / 2/13/41 / (Amerine Sire) / B\nWine dinner Bohemian club 2/13/41 (???? ) B\nCHÂTEAU de BELLEVUE\nChateau de Bellevue\nSt. AUBIN DE LUIGNÉ\nSt. Aubin de Luigne´\nSt. Aubin de Luigné\nANJOU FRANCE\nAnjou France\nAnjou France\nBaron R. de LUZE / St. HILAIRE-St. FLORENT / (MAINE-ET-LOIRE)\nBaron R. de Luze St. Hilaire St. Florent (Maine-et-Loire)\nBaron R. de Luze St. Hilaire-St. Florent"
+"Loire Anjou"
+"Loire Anjou"
+"1934"
+"1934"
+"Wine Dinner / Bohemian Club / 2/13/41 / (Amerine Sire) / B"
+"Wine dinner Bohemian club 2/13/41 (???? ) B"
+"CHÂTEAU de BELLEVUE"
+"Chateau de Bellevue"
+"St. AUBIN DE LUIGNÉ"
+"St. Aubin de Luigné"
+"St. Aubin de Luigne´"
+"ANJOU FRANCE"
+"Anjou France"
+"Anjou France"
+"Baron R. de LUZE / St. HILAIRE-St. FLORENT / (MAINE-ET-LOIRE)"
+"Baron R. de Luze St. Hilaire-St. Florent"
+"Baron R. de Luze St. Hilaire St. Florent (Maine-et-Loire)"

@@ -1,0 +1,34 @@
+BERSANO
+DEL PIE MONTE
+VIN
+PREGIATI
+1090
+NEBBIOLATO
+Dr. ARTURO BERSANO
+NIZZA MONFERRATO
+(Asti-italia)
+
+BERSANO
+DEL
+PIE
+MONTE
+VIN
+PREGIATI
+1090
+NEBBIOLATO
+Dr.
+ARTURO
+BERSANO
+NIZZA
+MONFERRATO
+(Asti-italia)
+"Bersano\nBERSANO\nDel Piemonte\nVini Pregiati\nBarbera\nNebbiolato\nNizza Monferrato (Asti-Italia)\nDr. Arturo Bersano\nDr. Aturo Dersano"
+"BERSANO"
+"Bersano"
+"Del Piemonte"
+"Vini Pregiati"
+"Barbera"
+"Nebbiolato"
+"Nizza Monferrato (Asti-Italia)"
+"Dr. Arturo Bersano"
+"Dr. Aturo Dersano"

@@ -1,0 +1,69 @@
+PRODUCE
+OF
+SP
+AIN
+N S
+MARK
+TRADE
+five o' dock
+SHERRY
+PRODUCED, BOTTLED & SHIPPED BY
+SOUTHARD &Co LTD.
+EST 18 l 4.
+PuERTO DE STA. MARIA & LONDON.
+ALCOHOL 20% BY VOLUME
+25/32 QUART
+PRINTED IN ENGLAND.
+
+PRODUCE
+OF
+SP
+AIN
+N
+S
+MARK
+TRADE
+five
+o'
+dock
+SHERRY
+PRODUCED,
+BOTTLED
+&
+SHIPPED
+BY
+SOUTHARD
+&Co
+LTD.
+EST
+18
+l
+4.
+PuERTO
+DE
+STA.
+MARIA
+&
+LONDON.
+ALCOHOL
+20%
+BY
+VOLUME
+25/32
+QUART
+PRINTED
+IN
+ENGLAND.
+"of Spain.\nOF SPAIN.\nPRODUCE\nProduce\nTRADE\nTrade\nMark\nMARK\nFive o'clock Sherry, produced, bottled & shipped by Southard & Co. Ltd., est'd 1814. Puerto de Sta. Maria & London. 25/32 quart, Alcohol 20% by volume.\nFive o' clock SHERRY PRODCED, BOTTLED & SHIPPED BY Southard & Co. LTD. ESTD. 1814 PUERTO DE STA. MARIA & LONDON. 25/32 QUART ALCOHOL 20% BY VOLUME\nPrinted in England\nPRINTED IN ENGLAND"
+"OF SPAIN."
+"of Spain."
+"PRODUCE"
+"Produce"
+"TRADE"
+"Trade"
+"MARK"
+"Mark"
+"Five o' clock SHERRY PRODCED, BOTTLED & SHIPPED BY Southard & Co. LTD. ESTD. 1814 PUERTO DE STA. MARIA & LONDON. 25/32 QUART ALCOHOL 20% BY VOLUME"
+"Five o'clock Sherry, produced, bottled & shipped by Southard & Co. Ltd., est'd 1814. Puerto de Sta. Maria & London. 25/32 quart, Alcohol 20% by volume."
+"PRINTED IN ENGLAND"
+"Printed in England"

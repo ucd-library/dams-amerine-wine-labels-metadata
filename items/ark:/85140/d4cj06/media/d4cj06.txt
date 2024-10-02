@@ -1,0 +1,26 @@
+prune ier
+4/5 QUART
+Rine Champagne
+de 84 PROOF
+osteuteri
+Ulog
+Prunier
+Cognac
+Produce of France
+
+prune
+ier
+4/5
+QUART
+Rine
+Champagne
+de
+84
+PROOF
+osteuteri
+Ulog
+Prunier
+Cognac
+Produce
+of
+France

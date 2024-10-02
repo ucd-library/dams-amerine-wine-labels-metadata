@@ -1,0 +1,32 @@
+Rbepot (R HLD.)
+Nr. 24250 DM 20.
+00
+Schleife 24251 DM 8. 100
+MOSEL-SAAR RUWER
+erbener Treppdoen
+
+Rbepot
+(R
+HLD.)
+Nr.
+24250
+DM
+20.
+00
+Schleife
+24251
+DM
+8.
+100
+MOSEL-SAAR
+RUWER
+erbener
+Treppdoen
+"h. Schott AO Rheoot (RHLD.)\nH. Schott AG Rheydt (RHLD)\nNr. 24250 DM 20. - %.\nNr. 24250 DM 20. - 0/00 Schleife 24251 DM 8. - 0/00\nMOSEL-SAAR-RUWER\ncabernet\nErdener Treppchen"
+"H. Schott AG Rheydt (RHLD)"
+"h. Schott AO Rheoot (RHLD.)"
+"Nr. 24250 DM 20. - %."
+"Nr. 24250 DM 20. - 0/00 Schleife 24251 DM 8. - 0/00"
+"MOSEL-SAAR-RUWER"
+"Erdener Treppchen"
+"cabernet"

@@ -1,0 +1,50 @@
+Cotes de provence
+VIR DELIHRHE EDE eruALITE SuPERIERIRE
+alme de
+l l o 5
+PROpRIETSHIRE
+SImORE BERRI
+SALIns D'HYERES (Var)
+AUD 104
+
+Cotes
+de
+provence
+VIR
+DELIHRHE
+EDE
+eruALITE
+SuPERIERIRE
+alme
+de
+l
+l
+o
+5
+PROpRIETSHIRE
+SImORE
+BERRI
+SALIns
+D'HYERES
+(Var)
+AUD
+104
+"Cotes de Provence\nCôtes de Provence\nVIN DELIMITE DE QUALITE SUPERIEURE\nVin Delimite de Qualite Superieure\nDomaine de Mauvanne\nCrù Classé\n11°5\n11 5\nPROPRIETAIRE SIMONE BERRIAU\nProprietaire Simone Berriau\nVDOS label\nV.D.O.S. Label\nSalins d'Hyeres (Var)\nSALINS d'HYERES(Var)\nA D 104\nA.D. 104\nFPG\n7 P S"
+"Cotes de Provence"
+"Côtes de Provence"
+"Vin Delimite de Qualite Superieure"
+"VIN DELIMITE DE QUALITE SUPERIEURE"
+"Domaine de Mauvanne"
+"Crù Classé"
+"11 5"
+"11°5"
+"Proprietaire Simone Berriau"
+"PROPRIETAIRE SIMONE BERRIAU"
+"VDOS label"
+"V.D.O.S. Label"
+"Salins d'Hyeres (Var)"
+"SALINS d'HYERES(Var)"
+"A.D. 104"
+"A D 104"
+"7 P S"
+"FPG"

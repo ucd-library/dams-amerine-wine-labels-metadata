@@ -1,0 +1,20 @@
+19 26
+CHATEAU
+GRAND SOUSSANS
+MAAR GAUX
+
+19
+26
+CHATEAU
+GRAND
+SOUSSANS
+MAAR
+GAUX
+"No. 3\nN° 3\n1926\nCHATEAU GRAND-SOUSSANS\nChateau Grand-Soussans\nMARGAUX\nMargaux"
+"N° 3"
+"No. 3"
+"1926"
+"Chateau Grand-Soussans"
+"CHATEAU GRAND-SOUSSANS"
+"MARGAUX"
+"Margaux"

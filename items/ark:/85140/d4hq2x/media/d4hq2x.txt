@@ -1,0 +1,26 @@
+1950
+jen as a,
+nppellation Controlee
+Thorin Chambert
+5.-et-
+
+1950
+jen
+as
+a,
+nppellation
+Controlee
+Thorin
+Chambert
+5.-et-
+"1952\n1952\nRestaurant says this is a Beaujolais\nChenas\nAppellation Controlee\nThorin-Chambert a La Chapelle de Quinchay (S et L)\nThorin-Chambert a La Chapelle de Quinchay (S. et L.)\nFPG\nImp D'Aradillon Paris\n"
+"1952"
+"1952"
+"Restaurant says this is a Beaujolais"
+"Chenas"
+"Appellation Controlee"
+"Thorin-Chambert a La Chapelle de Quinchay (S et L)"
+"Thorin-Chambert a La Chapelle de Quinchay (S. et L.)"
+"FPG"
+"Imp D'Aradillon Paris"
+""

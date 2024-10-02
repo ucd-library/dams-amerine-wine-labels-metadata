@@ -1,0 +1,19 @@
+MARK
+TRADE
+Bordeaux Supérieur
+APPELLATION CONTROLEE
+
+MARK
+TRADE
+Bordeaux
+Supérieur
+APPELLATION
+CONTROLEE
+"TRADE MARK\nTrade Mark\nBordeaux Superieur\nJeff Smith EEr___\n\nAppellation Controlee\nappellation controlee"
+"TRADE MARK"
+"Trade Mark"
+"Bordeaux Superieur"
+""
+"Jeff Smith EEr___"
+"appellation controlee"
+"Appellation Controlee"

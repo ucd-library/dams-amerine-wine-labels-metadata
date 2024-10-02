@@ -1,0 +1,29 @@
+ROUGE
+BOURGOGNE
+PERE
+LOUIS
+Appellation Controlée
+eReserve de
+l'auberge
+ere Touis
+
+ROUGE
+BOURGOGNE
+PERE
+LOUIS
+Appellation
+Controlée
+eReserve
+de
+l'auberge
+ere
+Touis
+"BOURGOGNE ROUGE\nBourgogne Rouge\n\"Père Louis\"\n\"PERE LOUIS\"\nAppellation Controlée\nAppellation Controlee\nReserve de l'auberge du Pere Louis\nRéserve de l'auberge du Père Louis"
+"BOURGOGNE ROUGE"
+"Bourgogne Rouge"
+"\"PERE LOUIS\""
+"\"Père Louis\""
+"Appellation Controlée"
+"Appellation Controlee"
+"Reserve de l'auberge du Pere Louis"
+"Réserve de l'auberge du Père Louis"

@@ -1,0 +1,27 @@
+BLOIS
+GRAND CRU LES CLOS
+1955
+APPELLATION CONTRO LEE
+Place Gaillon.
+
+BLOIS
+GRAND
+CRU
+LES
+CLOS
+1955
+APPELLATION
+CONTRO
+LEE
+Place
+Gaillon.
+"Caves du Restaurant Drouant\nChablis\nCha. Blis\nGrand Cru Les Clos\nGrand Cru les Clos\n1955\nAppellation Controlee\nPlace Gaillon\nParis"
+"Caves du Restaurant Drouant"
+"Chablis"
+"Cha. Blis"
+"Grand Cru les Clos"
+"Grand Cru Les Clos"
+"1955"
+"Appellation Controlee"
+"Place Gaillon"
+"Paris"

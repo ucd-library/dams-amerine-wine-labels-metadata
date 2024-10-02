@@ -1,0 +1,40 @@
+M O S E L
+S A A R
+R U W E R
+Bernkasteler Steinkaul
+HERMANN SCHOTT A.-G., RHEYDT
+Nr. 24,309 DM 22,- 00
+
+M
+O
+S
+E
+L
+S
+A
+A
+R
+R
+U
+W
+E
+R
+Bernkasteler
+Steinkaul
+HERMANN
+SCHOTT
+A.-G.,
+RHEYDT
+Nr.
+24,309
+DM
+22,-
+00
+"MOSEL SAAR RUWER\nMosel Saar Ruwer\nBernkasteler Steinkaul\nHERMANN SCHOTT A.-G., RHEYDT\nHermann Schott A. - G., Rheydt\nNr. 24309 DM 22, - 0/00\nNr. 24309 DM 22,- 0/00"
+"MOSEL SAAR RUWER"
+"Mosel Saar Ruwer"
+"Bernkasteler Steinkaul"
+"HERMANN SCHOTT A.-G., RHEYDT"
+"Hermann Schott A. - G., Rheydt"
+"Nr. 24309 DM 22,- 0/00"
+"Nr. 24309 DM 22, - 0/00"

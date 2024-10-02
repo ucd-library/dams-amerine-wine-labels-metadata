@@ -1,0 +1,18 @@
+RDUGE
+lin erie
+IMPORTATION 1946
+
+RDUGE
+lin
+erie
+IMPORTATION
+1946
+"Djelcara\ndjelcara\nRouge\nrouge\nvin d' algerie\nVin d'Alegérie\nimportation 1946\nImportation 1946"
+"djelcara"
+"Djelcara"
+"rouge"
+"Rouge"
+"Vin d'Alegérie"
+"vin d' algerie"
+"Importation 1946"
+"importation 1946"

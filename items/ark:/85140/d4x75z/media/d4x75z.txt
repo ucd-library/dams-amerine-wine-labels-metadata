@@ -1,0 +1,29 @@
+NON PLUS
+ULTR4
+GRAN VINO DERESERVA
+VENTUOS
+BRUT
+S.SADURNi DE NoYA.
+EMB.
+
+NON
+PLUS
+ULTR4
+GRAN
+VINO
+DERESERVA
+VENTUOS
+BRUT
+S.SADURNi
+DE
+NoYA.
+EMB.
+"NON PLUS ULTRA\nGran Vino de Reserva\nRaventos CORDONIU\nBRUT\nS. Sadurní de Noya\nS.Sadurni de Noya\nEMB. 76\nEMB. '76"
+"NON PLUS ULTRA"
+"Gran Vino de Reserva"
+"Raventos CORDONIU"
+"BRUT"
+"S. Sadurní de Noya"
+"S.Sadurni de Noya"
+"EMB. '76"
+"EMB. 76"

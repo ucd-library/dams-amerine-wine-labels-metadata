@@ -1,0 +1,52 @@
+TAX PAID BY STAMPS
+AFFIX EU CASE
+CALIFORNIA
+CALIFORNIA
+CHABLIS
+PRODUCED BOTTLED BEAULIEU VINEYARD RUTHERFORD, CAL.
+BONDED WINERY ALCOHOL 12% BY VOLUME
+NET CONTENTS 1 PT. 8 FLUID ozs
+
+TAX
+PAID
+BY
+STAMPS
+AFFIX
+EU
+CASE
+CALIFORNIA
+CALIFORNIA
+CHABLIS
+PRODUCED
+BOTTLED
+BEAULIEU
+VINEYARD
+RUTHERFORD,
+CAL.
+BONDED
+WINERY
+ALCOHOL
+12%
+BY
+VOLUME
+NET
+CONTENTS
+1
+PT.
+8
+FLUID
+ozs
+"Tax paid by stamps affixed to case\ntax paid by stamps affixed to case\n14th SUP ADM DIST CALIFORNIA\n14th SUP BUM DIST CALIFORNIA\nBeaulieu Vineyard Rutherford, Napa Co. CALIFORNIA\nBeauliu Vineyard Rutherford, Napa Co. CALIFORNIA\nBV\nCHABLIS\nProduced & bottled by Beaulieu Vineyard Rutherford, Cal. Bonded Winery no. 71\nPRODUCED & BOTTLES BY BEAULIEU VINEYARD RUTHERFORD, CAL. BONDED WINERY No. 71\nNet contents 1 pt. 8 fluid ozs.\nALCOHOL 12% BY VOLUME\nAlcohol 12% by volume"
+"Tax paid by stamps affixed to case"
+"tax paid by stamps affixed to case"
+"14th SUP BUM DIST CALIFORNIA"
+"14th SUP ADM DIST CALIFORNIA"
+"Beauliu Vineyard Rutherford, Napa Co. CALIFORNIA"
+"Beaulieu Vineyard Rutherford, Napa Co. CALIFORNIA"
+"BV"
+"CHABLIS"
+"PRODUCED & BOTTLES BY BEAULIEU VINEYARD RUTHERFORD, CAL. BONDED WINERY No. 71"
+"Produced & bottled by Beaulieu Vineyard Rutherford, Cal. Bonded Winery no. 71"
+"Net contents 1 pt. 8 fluid ozs."
+"ALCOHOL 12% BY VOLUME"
+"Alcohol 12% by volume"

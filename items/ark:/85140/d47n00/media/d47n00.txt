@@ -1,0 +1,38 @@
+MERITO
+MUT SE
+Estilo Marsella
+Marqués del Mérito
+BODEGAS JEREZANAS REUNIDAS, S. R. C
+JEREZ
+2 O 8
+
+MERITO
+MUT
+SE
+Estilo
+Marsella
+Marqués
+del
+Mérito
+BODEGAS
+JEREZANAS
+REUNIDAS,
+S.
+R.
+C
+JEREZ
+2
+O
+8
+"MÉRITO\nMERITO\nVERMUT SECO\nEstilo Marsella\nMarques del Merito\nMarqués del Mérito\nBODEGAS JEREZANAS REUNIDAS. S.R.C.\nBodegas Jerezanas Reunidas, S.R.C.\nJerez\nJEREZ\n208"
+"MÉRITO"
+"MERITO"
+"VERMUT SECO"
+"Estilo Marsella"
+"Marques del Merito"
+"Marqués del Mérito"
+"Bodegas Jerezanas Reunidas, S.R.C."
+"BODEGAS JEREZANAS REUNIDAS. S.R.C."
+"Jerez"
+"JEREZ"
+"208"

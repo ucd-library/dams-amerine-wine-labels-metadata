@@ -1,0 +1,29 @@
+Hall lac
+DEMI SEC
+1 Costes
+lyellation contrite
+IMPORTATION 1945
+
+Hall
+lac
+DEMI
+SEC
+1
+Costes
+lyellation
+contrite
+IMPORTATION
+1945
+"Tarn Département\nFarm Department\nGaillac\nDEMI SEC\nDemi Sec\n1 eres Cotes\n1eres Cotes\nAppellation Controlee\nAppellation controlee\nVin blanc de France\nImportation 1945\nName of a person"
+"Farm Department"
+"Tarn Département"
+"Gaillac"
+"DEMI SEC"
+"Demi Sec"
+"1eres Cotes"
+"1 eres Cotes"
+"Appellation controlee"
+"Appellation Controlee"
+"Vin blanc de France"
+"Importation 1945"
+"Name of a person"

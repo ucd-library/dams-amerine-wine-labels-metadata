@@ -1,0 +1,39 @@
+Al S
+NTRO
+GRAND VIN
+RICH
+195
+AILLE
+deso
+RANCIS TESTUz BUTTICAz
+PROPRIETAIRE, RIVA Z
+DE POSE
+
+Al
+S
+NTRO
+GRAND
+VIN
+RICH
+195
+AILLE
+deso
+RANCIS
+TESTUz
+BUTTICAz
+PROPRIETAIRE,
+RIVA
+Z
+DE
+POSE
+"Dezaley Grand Vin\nMedaille d'Or\nGold Medal Medaille d'or\nZurich 1939\nGold Medal\nClos des Embleyres\nMaison OPV Controlee\nMaison OPV Contolee\nFrancis Testuz-Butticaz Proprietaire, Rivaz\nDepose"
+"Dezaley Grand Vin"
+"Medaille d'Or"
+"Gold Medal Medaille d'or"
+"Gold Medal"
+"Zurich 1939"
+"Clos des Embleyres"
+"Maison OPV Controlee"
+"Maison OPV Contolee"
+"Francis Testuz-Butticaz Proprietaire, Rivaz"
+"Depose"

@@ -1,0 +1,39 @@
+FINE WINES
+WIDMER'S
+NEAPOLITAN
+BRAND
+ALCOHOL 12.5% BY VOLUME
+PRODUCED AND BOTTLE D BY
+
+FINE
+WINES
+WIDMER'S
+NEAPOLITAN
+BRAND
+ALCOHOL
+12.5%
+BY
+VOLUME
+PRODUCED
+AND
+BOTTLE
+D
+BY
+"Vintners of fine wines since 1888\nVINTNERS OF FINE WINES SINCE 1888\nWidmer's\nWIDMER'S\nNeapolitan brand\nNEAPOLITAN BRAND\nNew York State Claret\nAlcohol 12.5% by volume\nALCOHOL 12.5% BY VOLUME\nPRODUCED AND BOTTLED BY Widmer's Wine Cellars, Inc.\n\nWidmer's Wine Cellars. Inc.\nPRODUCED AND BOTTLED BY Widmer's Wine Cellars, Inc.\nNaples, New York\nNaples New York\n785\n7 P G"
+"Vintners of fine wines since 1888"
+"VINTNERS OF FINE WINES SINCE 1888"
+"WIDMER'S"
+"Widmer's"
+"NEAPOLITAN BRAND"
+"Neapolitan brand"
+"New York State Claret"
+"Alcohol 12.5% by volume"
+"ALCOHOL 12.5% BY VOLUME"
+"PRODUCED AND BOTTLED BY Widmer's Wine Cellars, Inc."
+""
+"Widmer's Wine Cellars. Inc."
+"PRODUCED AND BOTTLED BY Widmer's Wine Cellars, Inc."
+"Naples, New York"
+"Naples New York"
+"785"
+"7 P G"

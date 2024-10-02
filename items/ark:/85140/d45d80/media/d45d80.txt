@@ -1,0 +1,52 @@
+APPELLATION CONTROLEE
+ON FONDEE
+EN
+BOUCHARD AINE & FILS
+BOUCHARD AINE & FILS
+NEGOCIANTS A BEAUNE (COTE-D'OR) FRANCE
+MADE IN FRANCE
+DEPOSE
+ROUALET BEAUN
+
+APPELLATION
+CONTROLEE
+ON
+FONDEE
+EN
+BOUCHARD
+AINE
+&
+FILS
+BOUCHARD
+AINE
+&
+FILS
+NEGOCIANTS
+A
+BEAUNE
+(COTE-D'OR)
+FRANCE
+MADE
+IN
+FRANCE
+DEPOSE
+ROUALET
+BEAUN
+"Chambolle-Musigny\nAppellation Controlee\nAPPELLATION CONTROLÉE\n1949\nMadison fondee en 1750\nMaison Fondee en 1750\nBouchard Aîné & Fils\nBouchard Aine & Fils\nBOUCHARD AINÉ & FILS NÉGOCIANTS A BEAUNE (COTE-D'OR) FRANCE\nBouchard Aine & Fils\nDÉPOSÉ\ndepose\nROUALET - BEAUNE\nEqualet - Beaune\nmade in France\nMADE IN FRANCE\nFPG (initials)"
+"Chambolle-Musigny"
+"APPELLATION CONTROLÉE"
+"Appellation Controlee"
+"1949"
+"Maison Fondee en 1750"
+"Madison fondee en 1750"
+"Bouchard Aine & Fils"
+"Bouchard Aîné & Fils"
+"Bouchard Aine & Fils"
+"BOUCHARD AINÉ & FILS NÉGOCIANTS A BEAUNE (COTE-D'OR) FRANCE"
+"depose"
+"DÉPOSÉ"
+"Equalet - Beaune"
+"ROUALET - BEAUNE"
+"MADE IN FRANCE"
+"made in France"
+"FPG (initials)"

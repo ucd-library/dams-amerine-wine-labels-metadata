@@ -1,0 +1,18 @@
+POMEROL
+APPELLATION POMEROL BORDEAUX
+DEPOSE
+CLEDES.
+Br
+
+POMEROL
+APPELLATION
+POMEROL
+BORDEAUX
+DEPOSE
+CLEDES.
+Br
+"Pomerol\nPomerol Appellation Pomerol Contrôlée\nA. Lalande & Co.\nA. Lalande & Co. Bordeaux"
+"Pomerol"
+"Pomerol Appellation Pomerol Contrôlée"
+"A. Lalande & Co."
+"A. Lalande & Co. Bordeaux"

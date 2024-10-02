@@ -1,0 +1,32 @@
+MARK
+TRADE
+EE
+ATION CROZES HERMITAGE CONT
+APP
+PAUL JABOULET AINE
+TAIN D ROME FRANCE
+
+MARK
+TRADE
+EE
+ATION
+CROZES
+HERMITAGE
+CONT
+APP
+PAUL
+JABOULET
+AINE
+TAIN
+D
+ROME
+FRANCE
+"Trade Mark\nCrozes Hermitage\nAppellation Crozes Hermitage controlee\nAppellation controlee\nPaul Jaboulet Aine\n'Paul Jaboulet Aine\nTAIN (DROME) FRANCE\nTain (Drome) France"
+"Trade Mark"
+"Crozes Hermitage"
+"Appellation controlee"
+"Appellation Crozes Hermitage controlee"
+"'Paul Jaboulet Aine"
+"Paul Jaboulet Aine"
+"TAIN (DROME) FRANCE"
+"Tain (Drome) France"

@@ -1,0 +1,52 @@
+CHATEAU
+MEYN EY
+ncien Prieure be douleys
+GRAND VIN
+STE STEPHE
+ME D COC
+1934
+MIS EN BOUTEILLES
+AR LE PROPRIETAIRE
+Proprietaire
+mn mn mn
+
+CHATEAU
+MEYN
+EY
+ncien
+Prieure
+be
+douleys
+GRAND
+VIN
+STE
+STEPHE
+ME
+D
+COC
+1934
+MIS
+EN
+BOUTEILLES
+AR
+LE
+PROPRIETAIRE
+Proprietaire
+mn
+mn
+mn
+"St. Estephe (Medoc)\nDinner Sch......'s Grand Rapids 11/17/44 B- (with wild duck)\nChâteau Meyney\nPresent: LJS, PHS, CEH, ELH, 11/17\nAncien Prieurè de Couleys\nGrand Vin St. Estèphe\nGrand Vin St. Estephe\nMedoc 1934\nMedoc\n1934\nGeorges Cordrey Proprietaire\nGeorges Cordrey\nMis en Bouteilles par le proprietaire\nMis en Bouteilles Par Le Propriétaire"
+"St. Estephe (Medoc)"
+"Dinner Sch......'s Grand Rapids 11/17/44 B- (with wild duck)"
+"Château Meyney"
+"Present: LJS, PHS, CEH, ELH, 11/17"
+"Ancien Prieurè de Couleys"
+"Grand Vin St. Estephe"
+"Grand Vin St. Estèphe"
+"Medoc 1934"
+"Medoc"
+"1934"
+"Georges Cordrey"
+"Georges Cordrey Proprietaire"
+"Mis en Bouteilles par le proprietaire"
+"Mis en Bouteilles Par Le Propriétaire"

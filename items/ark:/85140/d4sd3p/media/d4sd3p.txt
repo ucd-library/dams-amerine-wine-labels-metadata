@@ -1,0 +1,23 @@
+DIPLOMATIC CO
+FRANCISCO GARCIA D VELASCO
+LIT MIGUEL SALIDO UEREZ
+
+DIPLOMATIC
+CO
+FRANCISCO
+GARCIA
+D
+VELASCO
+LIT
+MIGUEL
+SALIDO
+UEREZ
+"Shield\nShield and crest\nDiplomático\ndiplomatico\nFrancisco Garcia D Velasco\nfrancisco garcia de velasco\nLit. – Miguel Salido-Jerez\nlit. - miguel salido - jerez"
+"Shield"
+"Shield and crest"
+"diplomatico"
+"Diplomático"
+"Francisco Garcia D Velasco"
+"francisco garcia de velasco"
+"lit. - miguel salido - jerez"
+"Lit. – Miguel Salido-Jerez"

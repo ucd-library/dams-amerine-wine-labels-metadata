@@ -1,0 +1,52 @@
+NET CONTENTS
+ALCOHOL 12%
+BY VOLUME
+5 QUART
+CALIFORNIA
+BURGUNDY
+PRODUCED & BOTTLED BY
+BEAULIEU VINEYARD, RUTHERFORD,
+NAPA COUNTY, CALIFORNIA
+BOTTLED A THE WINERY
+
+NET
+CONTENTS
+ALCOHOL
+12%
+BY
+VOLUME
+5
+QUART
+CALIFORNIA
+BURGUNDY
+PRODUCED
+&
+BOTTLED
+BY
+BEAULIEU
+VINEYARD,
+RUTHERFORD,
+NAPA
+COUNTY,
+CALIFORNIA
+BOTTLED
+A
+THE
+WINERY
+"1919 vintage\n1919 Vintage\nAt Home 1939-40 A Predominately in Cabernet\nat Home 1939-40 Predominantly in Cabernet\nAwarded only Grand Prize for Red Wine G.G.d.E 1939\nBeaulieu Vineyard\nBV CALIFORNIA\nNET CONTENTS 4/5 QUART\nnet contets 4/5 quart\nalcohol 12% by volume\nALCOHOL 12% BY VOLUME\nBurgundy\nproduced & bottle by\nBeaulieu Vineyard, Rutherford, Napa County, California\nBOTTLED AT THE WINERY\nBottled at the Winery"
+"1919 Vintage"
+"1919 vintage"
+"at Home 1939-40 Predominantly in Cabernet"
+"At Home 1939-40 A Predominately in Cabernet"
+"Awarded only Grand Prize for Red Wine G.G.d.E 1939"
+"Beaulieu Vineyard"
+"BV CALIFORNIA"
+"NET CONTENTS 4/5 QUART"
+"net contets 4/5 quart"
+"alcohol 12% by volume"
+"ALCOHOL 12% BY VOLUME"
+"Burgundy"
+"produced & bottle by"
+"Beaulieu Vineyard, Rutherford, Napa County, California"
+"BOTTLED AT THE WINERY"
+"Bottled at the Winery"

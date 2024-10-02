@@ -1,0 +1,44 @@
+CAVES
+DE LA MAISON PRUNIER
+CHABLIS
+LECHET 1943
+PARIS
+LONDRES
+9, Rue Duphot
+72, St James's Street
+16, Avenue Victor Hugo
+S. W
+
+CAVES
+DE
+LA
+MAISON
+PRUNIER
+CHABLIS
+LECHET
+1943
+PARIS
+LONDRES
+9,
+Rue
+Duphot
+72,
+St
+James's
+Street
+16,
+Avenue
+Victor
+Hugo
+S.
+W
+"Caves de la Maison Prunier\nCaves de la Maison Prunier\nCAves de la Maison Prunier\nChablis Lechet 1943\nChablis Lechet 1943\nLONDRES 72, St James's Street S.W.I.\nLondres 72, St James's Street S. W. I.\nParis 9, Rue Duphot 16, Avenue Victor-Hugo\nPARIS, 9, Rue Duphot, 16, Avenue Victor-Hugo"
+"Caves de la Maison Prunier"
+"CAves de la Maison Prunier"
+"Caves de la Maison Prunier"
+"Chablis Lechet 1943"
+"Chablis Lechet 1943"
+"LONDRES 72, St James's Street S.W.I."
+"Londres 72, St James's Street S. W. I."
+"Paris 9, Rue Duphot 16, Avenue Victor-Hugo"
+"PARIS, 9, Rue Duphot, 16, Avenue Victor-Hugo"

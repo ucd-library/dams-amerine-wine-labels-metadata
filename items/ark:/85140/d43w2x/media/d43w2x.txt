@@ -1,0 +1,30 @@
+LADOR
+MARCA
+CONCEDIDA
+ABOR
+ON
+ESTILO
+SOCIEDAD DE COSECHEROS DE VINO
+FUNDADA EN 1890
+
+LADOR
+MARCA
+CONCEDIDA
+ABOR
+ON
+ESTILO
+SOCIEDAD
+DE
+COSECHEROS
+DE
+VINO
+FUNDADA
+EN
+1890
+"Marca Concedida\nElaboracion Estilo, Blanco Extra, La Rioja Alta, Sociedad de Consecheros de vino, Fundada en 1890\nElaboracion Estilo. Blanco Extra, La Rioja Alta, Sociedad de Cosecheros de Vino. Fundada en 1890\nHaro\nRegistro de Embotelladores No. 97\nRegistro embotelladores No. 97"
+"Marca Concedida"
+"Elaboracion Estilo, Blanco Extra, La Rioja Alta, Sociedad de Consecheros de vino, Fundada en 1890"
+"Elaboracion Estilo. Blanco Extra, La Rioja Alta, Sociedad de Cosecheros de Vino. Fundada en 1890"
+"Haro"
+"Registro embotelladores No. 97"
+"Registro de Embotelladores No. 97"

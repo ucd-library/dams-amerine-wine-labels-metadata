@@ -1,0 +1,20 @@
+FEC ELY
+LA COTE
+ler CHOIX
+DEPOSE
+No 1041
+
+FEC
+ELY
+LA
+COTE
+ler
+CHOIX
+DEPOSE
+No
+1041
+"Féchy / LA CÔTE 1er CHOIX\nFéchy LA CÔTE 1er CHOIX\nDÉPOSÉ\nN° 1041"
+"Féchy / LA CÔTE 1er CHOIX"
+"Féchy LA CÔTE 1er CHOIX"
+"DÉPOSÉ"
+"N° 1041"

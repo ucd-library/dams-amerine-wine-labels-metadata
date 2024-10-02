@@ -1,0 +1,29 @@
+ALSACE
+NIN D ALSACE KUEH N
+N S
+NEGOCIANT. ELE VEUR A AMMERSCHWIHR HT-RHIN:
+
+ALSACE
+NIN
+D
+ALSACE
+KUEH
+N
+N
+S
+NEGOCIANT.
+ELE
+VEUR
+A
+AMMERSCHWIHR
+HT-RHIN:
+"VIN D'ALSACE\nVin D'Alsace\nKaefferkopf\nkaelferkopl\nVINS D'ALSACE KUEHN\nNégociant éleveur a ammerschwihr ht-rhin\nNEGOCIANT ELEVEUR A AMMERSCHWIHR HT-RHIN\n7ps\n705"
+"Vin D'Alsace"
+"VIN D'ALSACE"
+"Kaefferkopf"
+"kaelferkopl"
+"VINS D'ALSACE KUEHN"
+"Négociant éleveur a ammerschwihr ht-rhin"
+"NEGOCIANT ELEVEUR A AMMERSCHWIHR HT-RHIN"
+"7ps"
+"705"

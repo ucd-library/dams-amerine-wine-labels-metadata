@@ -1,0 +1,34 @@
+APPELLATION
+e CONTROLEE
+MMA RAINE
+mis en bouteille par le Proprietaire
+cu.G Ia boulet-Vercherre
+1945
+
+APPELLATION
+e
+CONTROLEE
+MMA
+RAINE
+mis
+en
+bouteille
+par
+le
+Proprietaire
+cu.G
+Ia
+boulet-Vercherre
+1945
+"Pommard\nAppellation Controlee\nAppellaion Pommard Controlee\nCHATEAU DE LA COMMARRAINE\nCHATEAU DE LA COMMARAINE\nClos de la Commaraine\nMis en bouteille par le Propriétaire\nU G Jaboulet-Vercheerre\nU G. Jaboulet-Vercherre\n1945\nCUVERIE"
+"Pommard"
+"Appellation Controlee"
+"Appellaion Pommard Controlee"
+"CHATEAU DE LA COMMARAINE"
+"CHATEAU DE LA COMMARRAINE"
+"Clos de la Commaraine"
+"Mis en bouteille par le Propriétaire"
+"U G Jaboulet-Vercheerre"
+"U G. Jaboulet-Vercherre"
+"1945"
+"CUVERIE"

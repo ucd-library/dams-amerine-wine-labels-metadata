@@ -1,0 +1,26 @@
+PARIS 1889
+DIJON
+HOSPICES DE BEAUNE
+IMP n ARNAUD .LYON
+PARIS
+
+PARIS
+1889
+DIJON
+HOSPICES
+DE
+BEAUNE
+IMP
+n
+ARNAUD
+.LYON
+PARIS
+"Dijon 1886\nParis 1889\nHospices-de-Beaune\nHospices de Beaune\nEstablissments Adrien Sarrazin á Dijon (Bourgogne)\nEstabissements Adrien Sarrazin a Dijon (Bourgogne)\nImp. B. Arnaud - Lyon - Paris\nimp B Arnaud, Lyon, Paris"
+"Dijon 1886"
+"Paris 1889"
+"Hospices-de-Beaune"
+"Hospices de Beaune"
+"Estabissements Adrien Sarrazin a Dijon (Bourgogne)"
+"Establissments Adrien Sarrazin á Dijon (Bourgogne)"
+"imp B Arnaud, Lyon, Paris"
+"Imp. B. Arnaud - Lyon - Paris"

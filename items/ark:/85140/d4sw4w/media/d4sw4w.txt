@@ -1,0 +1,50 @@
+Still Hock
+Produce of Germany
+C2 e Contents: 1 pint 8 fluid ounces
+Alcoholic contents: 10,4% by volume
+1944er
+SchloB Johannisberger
+Rheingau
+Rhein g
+
+Still
+Hock
+Produce
+of
+Germany
+C2
+e
+Contents:
+1
+pint
+8
+fluid
+ounces
+Alcoholic
+contents:
+10,4%
+by
+volume
+1944er
+SchloB
+Johannisberger
+Rheingau
+Rhein
+g
+"Rheingau\nRHEINGAU\nStill Hock\nSTILL HOCK\nProduce of Germany\nCONTENTS: 1 PINT 8 FLUID OUNCES\nContents: 1 pint 8 fluid ounces\nAlcoholic contents: 10,4% by volume\nALCOHOLIC CONTENTS: 10,4% BY VOLUME\nSchloh Johannisberg\nSchloss Johannisberg\n1944er\nSchloß Johannisberger\nSCHLOB JOHANNISBERGER\nRHEINGAU\nRheingau"
+"RHEINGAU"
+"Rheingau"
+"STILL HOCK"
+"Still Hock"
+"Produce of Germany"
+"Contents: 1 pint 8 fluid ounces"
+"CONTENTS: 1 PINT 8 FLUID OUNCES"
+"Alcoholic contents: 10,4% by volume"
+"ALCOHOLIC CONTENTS: 10,4% BY VOLUME"
+"Schloh Johannisberg"
+"Schloss Johannisberg"
+"1944er"
+"Schloß Johannisberger"
+"SCHLOB JOHANNISBERGER"
+"Rheingau"
+"RHEINGAU"

@@ -1,0 +1,39 @@
+Park St.,
+BRISTOL
+EST
+1793
+LIEBFRAUMILCH
+MORGENSPIEL
+1934
+SHIPPED AVERY
+BRISTOL
+Charles St.
+CARDIFF
+
+Park
+St.,
+BRISTOL
+EST
+1793
+LIEBFRAUMILCH
+MORGENSPIEL
+1934
+SHIPPED
+AVERY
+BRISTOL
+Charles
+St.
+CARDIFF
+"EST. 1793\nest 1793\nLiebfraumilch Morgenspiel\nLIEBFRAUMILCH MORGENSPIEL\n1934\nSHIPPED BY\nAvery's of Bristol\nAVERY'S of BRISTOL\nPark St., Bristol\nPark St., BRISTOL\ncharles st. cardiff\nCharles St. CARDIFF"
+"est 1793"
+"EST. 1793"
+"LIEBFRAUMILCH MORGENSPIEL"
+"Liebfraumilch Morgenspiel"
+"1934"
+"SHIPPED BY"
+"AVERY'S of BRISTOL"
+"Avery's of Bristol"
+"Park St., Bristol"
+"Park St., BRISTOL"
+"Charles St. CARDIFF"
+"charles st. cardiff"

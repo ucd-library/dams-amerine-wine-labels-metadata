@@ -1,0 +1,40 @@
+1928
+CAMPO NAC
+MARQUE COMMERCIALE DE PosEE
+MARQUE DEPOSEE
+GRAND VIN
+LOUIS lISCHENAUER
+NEGOCIANT A BORDEAUX
+FRANCE
+
+1928
+CAMPO
+NAC
+MARQUE
+COMMERCIALE
+DE
+PosEE
+MARQUE
+DEPOSEE
+GRAND
+VIN
+LOUIS
+lISCHENAUER
+NEGOCIANT
+A
+BORDEAUX
+FRANCE
+"\n1928 Camponac Marque Commerciale Déposée\nESCHENAUER MONOPOLE\nEschenauer Monopole Marque Déposée\nGRAND VIN\nLouis Eschenauer\nLouis Eschenaur\nNégociant a bordeaux\n\n(France)\n\nG.3.\nG.S."
+""
+"1928 Camponac Marque Commerciale Déposée"
+"ESCHENAUER MONOPOLE"
+"Eschenauer Monopole Marque Déposée"
+"GRAND VIN"
+"Louis Eschenauer"
+"Louis Eschenaur"
+""
+"Négociant a bordeaux"
+""
+"(France)"
+"G.S."
+"G.3."

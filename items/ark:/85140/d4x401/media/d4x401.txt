@@ -1,0 +1,23 @@
+MOREY-SAINT-DENIS
+Clos des Lambrays
+APPELLATION CONTROLEE
+
+MOREY-SAINT-DENIS
+Clos
+des
+Lambrays
+APPELLATION
+CONTROLEE
+"Cote de Bessider?\nCote de Brassider?\n\"Terrible\" maa\n\"Terrible\" maa\nMorey-Saint-Denis\nClose des Lanbrays\nClose des Lambrays\nAppellation Controlee\nAppellation controlee\nCorbet\ncorbet\n?? Filiber Murtz?"
+"Cote de Brassider?"
+"Cote de Bessider?"
+"\"Terrible\" maa"
+"\"Terrible\" maa"
+"Morey-Saint-Denis"
+"Close des Lanbrays"
+"Close des Lambrays"
+"Appellation controlee"
+"Appellation Controlee"
+"Corbet"
+"corbet"
+"?? Filiber Murtz?"

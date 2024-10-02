@@ -1,0 +1,33 @@
+Grand Cru Classé
+CHATEAU LA TOUR CARNET
+ME DO C
+1937
+MLS EN BOUTEILLES AU CHATEAU
+,Appellation Haut-Médoc controlée
+
+Grand
+Cru
+Classé
+CHATEAU
+LA
+TOUR
+CARNET
+ME
+DO
+C
+1937
+MLS
+EN
+BOUTEILLES
+AU
+CHATEAU
+,Appellation
+Haut-Médoc
+controlée
+"Grand Cru Classé\nCHATEAU LA TOUR CARNET\nMÉDOC\n1937\nMIS EN BOUTEILLES AU CHATEAU\nAppellation Haut-Médoc Contrôlée"
+"Grand Cru Classé"
+"CHATEAU LA TOUR CARNET"
+"MÉDOC"
+"1937"
+"MIS EN BOUTEILLES AU CHATEAU"
+"Appellation Haut-Médoc Contrôlée"

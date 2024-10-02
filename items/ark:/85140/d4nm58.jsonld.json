@@ -1,0 +1,63 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@graph": [
+    {
+      "@id": "",
+      "@type": [
+        "schema:CreativeWork",
+        "ucdlib:WineLabel",
+        "schema:VisualArtwork",
+        "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+      ],
+      "ucdlib:describesWine": {
+        "@id": "@base:#wine"
+      },
+      "schema:about": [
+        {
+          "@id": "http://id.worldcat.org/fast/1206081"
+        },
+        {
+          "@id": "http://id.worldcat.org/fast/1746284"
+        }
+      ],
+      "schema:identifier": [
+        "label_3186",
+        "ark:/85140/d4nm58"
+      ],
+      "schema:inLanguage": "fr-FR",
+      "schema:isPartOf": {
+        "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
+      },
+      "schema:keywords": "Burgundy Red",
+      "schema:license": {
+        "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
+      },
+      "schema:name": "Red--Still--Burgundy Red",
+      "schema:publisher": [
+        {
+          "@id": "http://id.loc.gov/authorities/names/no2008108707"
+        },
+        "University of California, Davis. General Library. Dept. of Special Collections"
+      ]
+    },
+    {
+      "@id": "@base:#wine",
+      "@type": "ucdlib:Wine",
+      "ucdlib:WineColor": {
+        "@id": "ucdlib:Red"
+      },
+      "ucdlib:WineType": {
+        "@id": "ucdlib:Still"
+      },
+      "http://www.wikidata.org/prop/direct/P297": "FR"
+    }
+  ]
+}

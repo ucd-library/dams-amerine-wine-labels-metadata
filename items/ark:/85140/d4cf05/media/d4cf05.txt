@@ -1,0 +1,21 @@
+gegr
+1812
+1939
+Enkircher Edelberg
+Light Moselle Wine
+Alcohol by volume 12,5
+%A
+
+gegr
+1812
+1939
+Enkircher
+Edelberg
+Light
+Moselle
+Wine
+Alcohol
+by
+volume
+12,5
+%A

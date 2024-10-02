@@ -1,0 +1,23 @@
+MANZANILLA MUY FINA
+ENRIOUE MORENO
+Colanincarn de c Barrameda
+TIMBRE A METALICO
+
+MANZANILLA
+MUY
+FINA
+ENRIOUE
+MORENO
+Colanincarn
+de
+c
+Barrameda
+TIMBRE
+A
+METALICO
+"MANZANILLA MUY FINA\nLiria\nENRIQUE MORENO Sanlucar de Barrameda\nENRIQUE MORENO\nSanlucar de Barrameda\nTIMBRE A METALICO"
+"MANZANILLA MUY FINA"
+"Liria"
+"ENRIQUE MORENO\nSanlucar de Barrameda"
+"ENRIQUE MORENO Sanlucar de Barrameda"
+"TIMBRE A METALICO"

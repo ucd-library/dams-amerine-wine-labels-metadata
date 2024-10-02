@@ -1,0 +1,26 @@
+1935er
+Brauneberger juffer patleje
+Orig. Abf Offermann Karp
+ORST
+21016
+
+1935er
+Brauneberger
+juffer
+patleje
+Orig.
+Abf
+Offermann
+Karp
+ORST
+21016
+"1935er\nBrauneberger Juffer Spatlese\nBrauneberger Juffer Spätlese\nOrig. Abf. Ostermann Karp\nOrig.-Abf. Ostermann-Karp\nHorst\nHORST\n21016\n21076"
+"1935er"
+"Brauneberger Juffer Spatlese"
+"Brauneberger Juffer Spätlese"
+"Orig. Abf. Ostermann Karp"
+"Orig.-Abf. Ostermann-Karp"
+"Horst"
+"HORST"
+"21016"
+"21076"

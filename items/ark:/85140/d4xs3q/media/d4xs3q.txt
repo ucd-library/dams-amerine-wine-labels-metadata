@@ -1,0 +1,31 @@
+EPO
+SU PER IOR E
+AZIENDAVINICOLA
+A, GRECO
+GAN z IR RI ME
+
+EPO
+SU
+PER
+IOR
+E
+AZIENDAVINICOLA
+A,
+GRECO
+GAN
+z
+IR
+RI
+ME
+"Greco\nMarca Depositata\nMARCA DEPOSITATA\nFaro\nFARO\nSuperiore\nsuperiore\nAzienda Vinicola A. Greco\nAzienda Vinicola A. Greco\nGanzirri-Messina\nGanzirri Messina"
+"Greco"
+"Marca Depositata"
+"MARCA DEPOSITATA"
+"FARO"
+"Faro"
+"superiore"
+"Superiore"
+"Azienda Vinicola A. Greco"
+"Azienda Vinicola A. Greco"
+"Ganzirri-Messina"
+"Ganzirri Messina"

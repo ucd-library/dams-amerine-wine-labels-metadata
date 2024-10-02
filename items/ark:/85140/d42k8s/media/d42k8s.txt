@@ -1,0 +1,18 @@
+X Affentaler
+901
+INNSBRUCK
+OO O
+
+X
+Affentaler
+901
+INNSBRUCK
+OO
+O
+"Affentaler\nFranz Outmann & Co.\nFranz Gutmann & Co.\nFPG\nInnsbruck\nINNSBRUCK"
+"Affentaler"
+"Franz Outmann & Co."
+"Franz Gutmann & Co."
+"FPG"
+"INNSBRUCK"
+"Innsbruck"

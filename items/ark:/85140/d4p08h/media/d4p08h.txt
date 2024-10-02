@@ -1,0 +1,35 @@
+CHATEAU
+PICHON LONGUEVILLE
+PAUILLAC
+1947
+Expédié en barriques par
+BORDEAUX
+MARQUE DEPOSEE
+Appellation Pau
+ac Controlée
+
+CHATEAU
+PICHON
+LONGUEVILLE
+PAUILLAC
+1947
+Expédié
+en
+barriques
+par
+BORDEAUX
+MARQUE
+DEPOSEE
+Appellation
+Pau
+ac
+Controlée
+"CHATEAU PICHON-LONGUEVILLE PAUILLAC 1947\nExpedie en barriques par: Eschenauer & Co. Bordeaux\nExpédié en barriques par: Eschenauer & Co. Bordeaux\nFPG\nMARQUE DEPOSEE\nMARQUE DÉPOSÉE\nAppellation Pauillac Contrôlée\nAppellation Pauillac Controlee"
+"CHATEAU PICHON-LONGUEVILLE PAUILLAC 1947"
+"Expédié en barriques par: Eschenauer & Co. Bordeaux"
+"Expedie en barriques par: Eschenauer & Co. Bordeaux"
+"FPG"
+"MARQUE DEPOSEE"
+"MARQUE DÉPOSÉE"
+"Appellation Pauillac Controlee"
+"Appellation Pauillac Contrôlée"

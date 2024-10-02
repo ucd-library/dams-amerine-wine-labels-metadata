@@ -1,0 +1,38 @@
+1933
+Moulin a ent
+CAROUELIN
+1er Cru Classe
+3tlaurice croset.
+propriétaire
+A VENT CONTROLEE
+
+1933
+Moulin
+a
+ent
+CAROUELIN
+1er
+Cru
+Classe
+3tlaurice
+croset.
+propriétaire
+A
+VENT
+CONTROLEE
+"Beaujolais\n1933\nN0 135\nNO 135\nMoulin A Vent\nMoulin a Vent\nCarquelin\nCARQUELIN\n1er Cru Classe\n1er Cru Classé\nMaurice Crozet\nPropriétaire\nPROPRIETAIRE\nAPPELLATION MOULIN A VENT CONTROLLÉE\nAPPELLATION MOULIN A VENT CONTROLEE"
+"Beaujolais"
+"1933"
+"NO 135"
+"N0 135"
+"Moulin A Vent"
+"Moulin a Vent"
+"CARQUELIN"
+"Carquelin"
+"1er Cru Classé"
+"1er Cru Classe"
+"Maurice Crozet"
+"Propriétaire"
+"PROPRIETAIRE"
+"APPELLATION MOULIN A VENT CONTROLEE"
+"APPELLATION MOULIN A VENT CONTROLLÉE"

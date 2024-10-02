@@ -1,0 +1,22 @@
+R.E. Ne 43
+Franco-Espanolas
+Bodegas LOGRoNo
+
+R.E.
+Ne
+43
+Franco-Espanolas
+Bodegas
+LOGRoNo
+"Rioja\nBordón\nBordon\nR.E. Nº 43\nR.E. No. 43\nBodegas Franco-Espanolas\nBodegas Franco-Españolas\nLogroño\nLOGROÑO\nLogrono\nReserva Especial"
+"Rioja"
+"Bordón"
+"Bordon"
+"R.E. No. 43"
+"R.E. Nº 43"
+"Bodegas Franco-Espanolas"
+"Bodegas Franco-Españolas"
+"Logrono"
+"LOGROÑO"
+"Logroño"
+"Reserva Especial"

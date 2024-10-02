@@ -1,0 +1,50 @@
+CHATEAU
+CHEVALB
+PARIS 878
+LONDRES 1862
+MEDAILLE DOR.
+MEDAILLE PE BRONZE
+FOUR CAU D LAUSSAC
+PROPRIETAIRE
+FRANCE
+Mis en bouteille au Chateau.
+BERTHON, 1.18 OURNE
+
+CHATEAU
+CHEVALB
+PARIS
+878
+LONDRES
+1862
+MEDAILLE
+DOR.
+MEDAILLE
+PE
+BRONZE
+FOUR
+CAU
+D
+LAUSSAC
+PROPRIETAIRE
+FRANCE
+Mis
+en
+bouteille
+au
+Chateau.
+BERTHON,
+1.18
+OURNE
+"Chateau ChevalBlanc\n1933\nSt. Emilion\nParis 1878 Medaille D'or\nParis 1878 Medaille D'Or\nLondres 1802? Medaille de Bronze\nLondres 1862 Medaille de Bronze\nFourcaud-Laussac Proprietaire\nMis en bouteille au Chateau\n(France)\nBenthon Libourne\nBerthon, Libourne"
+"Chateau ChevalBlanc"
+"1933"
+"St. Emilion"
+"Paris 1878 Medaille D'Or"
+"Paris 1878 Medaille D'or"
+"Londres 1802? Medaille de Bronze"
+"Londres 1862 Medaille de Bronze"
+"Fourcaud-Laussac Proprietaire"
+"Mis en bouteille au Chateau"
+"(France)"
+"Benthon Libourne"
+"Berthon, Libourne"

@@ -1,0 +1,19 @@
+ROUGE
+Caves Seorge
+R C B. 83 7
+
+ROUGE
+Caves
+Seorge
+R
+C
+B.
+83
+7
+"Vin de France Carafon Rouge\nVIN DE FRANCE / Carafon / ROUGE\nCaves St. George / R.C.B. 837\nCaves St George / R.C.B. 837\nJeff Smith / Brussels\nJeff Smith Brussels"
+"VIN DE FRANCE / Carafon / ROUGE"
+"Vin de France Carafon Rouge"
+"Caves St. George / R.C.B. 837"
+"Caves St George / R.C.B. 837"
+"Jeff Smith Brussels"
+"Jeff Smith / Brussels"

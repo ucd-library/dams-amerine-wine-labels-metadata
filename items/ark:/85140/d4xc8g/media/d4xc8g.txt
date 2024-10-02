@@ -1,0 +1,32 @@
+1949
+rbo15 D wpullun
+APPELLATION ARBOIS CONTROLEE
+Ottis (Cartier
+négociant poligny et Hrbois (Jura)
+
+1949
+rbo15
+D
+wpullun
+APPELLATION
+ARBOIS
+CONTROLEE
+Ottis
+(Cartier
+négociant
+poligny
+et
+Hrbois
+(Jura)
+"1949\n1949\n? this at lunch at ?????\nAugust 12, 1953\n\nARBOIS PUPILLIN Louis Cartier Negociant a Poligny et a Arbois (Jura)\nArbois Pupillin\nArbois Pupullin\nAppellation Arbois Controlee\nLouis Cartier\nNegociant a Poligny et a Arbois (Jura)"
+"1949"
+"1949"
+"? this at lunch at ?????"
+"August 12, 1953"
+""
+"ARBOIS PUPILLIN Louis Cartier Negociant a Poligny et a Arbois (Jura)"
+"Arbois Pupullin"
+"Arbois Pupillin"
+"Appellation Arbois Controlee"
+"Louis Cartier"
+"Negociant a Poligny et a Arbois (Jura)"

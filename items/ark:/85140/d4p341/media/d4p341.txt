@@ -1,0 +1,25 @@
+OSERROC
+MARQUE DE POSE E
+12
+R PEINDARIES NEGOCIANT CAHORS LOT
+
+OSERROC
+MARQUE
+DE
+POSE
+E
+12
+R
+PEINDARIES
+NEGOCIANT
+CAHORS
+LOT
+"RP\nR P\nROSEROC\nMARQUE DEPOSEE\nUIR ROSE\nvin rose\nR. Peindaries - Negociant - Cahors - Lot\nr peindaries negociant cahors lot"
+"R P"
+"RP"
+"ROSEROC"
+"MARQUE DEPOSEE"
+"UIR ROSE"
+"vin rose"
+"r peindaries negociant cahors lot"
+"R. Peindaries - Negociant - Cahors - Lot"

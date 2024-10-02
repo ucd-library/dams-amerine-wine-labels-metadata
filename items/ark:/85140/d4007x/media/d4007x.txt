@@ -1,0 +1,23 @@
+CARLWIEWELSTRIER
+1929er
+Piesporter Falkenberg
+Wachstum Winzerverein
+WEINE
+
+CARLWIEWELSTRIER
+1929er
+Piesporter
+Falkenberg
+Wachstum
+Winzerverein
+WEINE
+"Middle Moselle\nCarl Wiewels, Trier\n1929er\n1929 er\nPiesporter Falkenberg Wachstum Winzerverein\nPiesporter Falkenberg, Wachstum Winzerverein\nMosel-Saar\nMosel Saarv\nRuwer Weine"
+"Middle Moselle"
+"Carl Wiewels, Trier"
+"1929er"
+"1929 er"
+"Piesporter Falkenberg, Wachstum Winzerverein"
+"Piesporter Falkenberg Wachstum Winzerverein"
+"Mosel-Saar"
+"Mosel Saarv"
+"Ruwer Weine"

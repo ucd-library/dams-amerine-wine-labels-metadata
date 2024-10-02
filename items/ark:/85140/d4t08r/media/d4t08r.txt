@@ -1,0 +1,48 @@
+GRAND VIN
+DE
+CHATEAU LA TOUR
+192 O
+MARQUE
+DE P o s EF
+MIS EN BOUTEILLES
+AU CHATEAU
+C Me do
+c
+
+GRAND
+VIN
+DE
+CHATEAU
+LA
+TOUR
+192
+O
+MARQUE
+DE
+P
+o
+s
+EF
+MIS
+EN
+BOUTEILLES
+AU
+CHATEAU
+C
+Me
+do
+c
+"1st Cru Pauillac (Medoc)\nReserve flo[?] not sell\nReserve ?lo Not Self\nFPG (initials) Stone Dinner\nF P S Store Dinner\n\nGrand Vin de Chateau Latour\n1920\nG. Chariol Bordeaux\nMARQUE DÉPOSÉE\nMarque Deposit\nmis en bouteilles au chateau\nMIs en bouteilles au chateau"
+"1st Cru Pauillac (Medoc)"
+"Reserve ?lo Not Self"
+"Reserve flo[?] not sell"
+"FPG (initials) Stone Dinner"
+"F P S Store Dinner"
+""
+"Grand Vin de Chateau Latour"
+"1920"
+"G. Chariol Bordeaux"
+"Marque Deposit"
+"MARQUE DÉPOSÉE"
+"MIs en bouteilles au chateau"
+"mis en bouteilles au chateau"

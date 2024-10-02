@@ -1,0 +1,71 @@
+CHATEAU FONPETITE
+SAINT-ESTEPHE
+1936
+BORDEAUx
+MARQUE DEPOSEE
+Appellation Control ée
+
+CHATEAU
+FONPETITE
+SAINT-ESTEPHE
+1936
+BORDEAUx
+MARQUE
+DEPOSEE
+Appellation
+Control
+ée
+"[Bourgeois?] Superior Growth St. Estephe (Medoc)\nSuperior Bourgeois Growth St-Estèphe (Médoc)\nBourgeois Superior Growth St. Estephe (???)\nmendoza\nBourgeois Superior Growth St. Estéphe (Médoc)\nBourgeois Superior Growth St. Estephe Medoc\n__________ Superior Growth St. Estehphe (Medoc)\nBourgeois Superior Growth, St. Estephe (Medoc)\nBourgeois ^Superior Growth St. Estèphe (Médoc)\nBordeaux Superior Growth St. Estephe (Medoc)\n\nBourgeois Superior Growth St. Estephe (Medoc)\nSuperior Bourgeois Growth St-Estephe (Medoc)\nSuperior Bourgeois Growth\nBourgeois Superior Growth St. Estèphe (Médoc)\nBourgeois Superior Growth Saint-Estèphe (Médoc)\nChateau Fonpetite\nchateau fonpetite\nChateau \nchatesu fonpetite\nCHATEAU FONPETITE\nChaeteau Fonpetite\nSaint-Estephe 1936\nsaint-estephe 1936\nSAINT-ESTEPHE 1936\n1936\nSaint-Estèphe 1936\nSaint-Estephe\nSAINT-ESTÈPHE\nSAINT ESTEPHE 1936\nSAINT - ESTEPHE 1936\neschenauer & Co\nEschenauer & Co.\nESCHENAUER & Co\nEschenauer & Co\nCo.\nEschenauer & co.\nBordeaux\nBORDEAUX\nbordeaux\nSamuel Eaulogne [signature, difficult to read]\nSaint Estephe\nSmith Enrique\nSmith Europe\n___________ Europe\nAppellation Contrôlée\nappellation controlee\nAppellation Contrôlée \nAppelation Contrôlée\nAappelation Controlee\nAppellation Controlee\nAppellation Controlee [with accents]\nAppelation Controlee"
+"Superior Bourgeois Growth"
+"Bourgeois Superior Growth St. Estéphe (Médoc)"
+"Bourgeois ^Superior Growth St. Estèphe (Médoc)"
+"Bourgeois Superior Growth St. Estephe (???)"
+"Bourgeois Superior Growth St. Estephe Medoc"
+""
+"Bordeaux Superior Growth St. Estephe (Medoc)"
+"Superior Bourgeois Growth St-Estèphe (Médoc)"
+"Bourgeois Superior Growth, St. Estephe (Medoc)"
+"__________ Superior Growth St. Estehphe (Medoc)"
+"[Bourgeois?] Superior Growth St. Estephe (Medoc)"
+"mendoza"
+"Bourgeois Superior Growth St. Estèphe (Médoc)"
+"Superior Bourgeois Growth St-Estephe (Medoc)"
+"Bourgeois Superior Growth Saint-Estèphe (Médoc)"
+"Bourgeois Superior Growth St. Estephe (Medoc)"
+"Chaeteau Fonpetite"
+"CHATEAU FONPETITE"
+"Chateau "
+"chatesu fonpetite"
+"Chateau Fonpetite"
+"chateau fonpetite"
+"SAINT ESTEPHE 1936"
+"SAINT - ESTEPHE 1936"
+"saint-estephe 1936"
+"Saint-Estephe 1936"
+"SAINT-ESTÈPHE"
+"1936"
+"Saint-Estephe"
+"Saint-Estèphe 1936"
+"SAINT-ESTEPHE 1936"
+"Eschenauer & Co."
+"ESCHENAUER & Co"
+"Co."
+"eschenauer & Co"
+"Eschenauer & co."
+"Eschenauer & Co"
+"BORDEAUX"
+"bordeaux"
+"Bordeaux"
+"Saint Estephe"
+"___________ Europe"
+"Samuel Eaulogne [signature, difficult to read]"
+"Smith Europe"
+"Smith Enrique"
+"Appelation Contrôlée"
+"appellation controlee"
+"Appellation Contrôlée"
+"Appelation Controlee"
+"Appellation Controlee"
+"Appellation Controlee [with accents]"
+"Aappelation Controlee"
+"Appellation Contrôlée "

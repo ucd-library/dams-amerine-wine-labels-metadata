@@ -1,0 +1,38 @@
+R H E I N G A U
+114h pr
+iebermallufer malkenberg Riesling
+obriginal-abfiillung meingut J
+B. Berker, Niemermalluf i.
+RhR.
+
+R
+H
+E
+I
+N
+G
+A
+U
+114h
+pr
+iebermallufer
+malkenberg
+Riesling
+obriginal-abfiillung
+meingut
+J
+B.
+Berker,
+Niemermalluf
+i.
+RhR.
+"RHEINGAU\nRheingau\nRHEINGAU\nNeidermallufer Malkenberg Riesling\nNiederwallufer Walkenberg Riesling\nSpatlfe\nSpatlefe\nOriginal-Abfüllung Weingut J.B. Becker, Niederwalluf Rhg\nOriginal-Abfullung Weingut J.B. Becker, Niederwalluf i. Rhg"
+"RHEINGAU"
+"Rheingau"
+"RHEINGAU"
+"Niederwallufer Walkenberg Riesling"
+"Neidermallufer Malkenberg Riesling"
+"Spatlefe"
+"Spatlfe"
+"Original-Abfüllung Weingut J.B. Becker, Niederwalluf Rhg"
+"Original-Abfullung Weingut J.B. Becker, Niederwalluf i. Rhg"

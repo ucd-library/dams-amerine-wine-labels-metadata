@@ -1,0 +1,55 @@
+SELECT
+NAPA VALLEY
+VIN ROSE
+A Light Table Wine made from selected grapes
+grown in the Napa Valley
+PRODUCED AND BOTTLED BY
+CHARLES KRUG WINERY
+Established in 1861
+ST. HELENA CALIFORNIA
+ALCOHOL 12% BY VOLUME
+
+SELECT
+NAPA
+VALLEY
+VIN
+ROSE
+A
+Light
+Table
+Wine
+made
+from
+selected
+grapes
+grown
+in
+the
+Napa
+Valley
+PRODUCED
+AND
+BOTTLED
+BY
+CHARLES
+KRUG
+WINERY
+Established
+in
+1861
+ST.
+HELENA
+CALIFORNIA
+ALCOHOL
+12%
+BY
+VOLUME
+"Charles Krug\nNAPA VALLEY\nVIN ROSÉ\nA Light Table Wine made from selected grapes grown in the Napa Valley\nPRODUCED AND BOTTLED BY CHARLES KRUG WINERY\nEstablished in 1861\nST. HELENA - CALIFORNIA\nALCOHOL 12% BY VOLUME"
+"Charles Krug"
+"NAPA VALLEY"
+"VIN ROSÉ"
+"A Light Table Wine made from selected grapes grown in the Napa Valley"
+"PRODUCED AND BOTTLED BY CHARLES KRUG WINERY"
+"Established in 1861"
+"ST. HELENA - CALIFORNIA"
+"ALCOHOL 12% BY VOLUME"

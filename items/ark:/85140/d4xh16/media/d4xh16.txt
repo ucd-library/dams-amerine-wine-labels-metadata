@@ -1,0 +1,56 @@
+KAVAKLIDERE
+SARAPLARI LiMiTED SIRKETI
+A N K A R A
+DIKMEN KIZI
+Orta Anadolu uziiminden yapulmist
+CI 70
+Fiat P200
+Kuru
+me No. 24 Te
+Derec. 11 12
+
+KAVAKLIDERE
+SARAPLARI
+LiMiTED
+SIRKETI
+A
+N
+K
+A
+R
+A
+DIKMEN
+KIZI
+Orta
+Anadolu
+uziiminden
+yapulmist
+CI
+70
+Fiat
+P200
+Kuru
+me
+No.
+24
+Te
+Derec.
+11
+12
+"Turkey\nKavaklidere\nKAVAKLIDERE\nsaraplari limited sikreti\nSaraplari Limited Sirketi\nAnkara\nA 41\nDIKMEN KIZI\nDikmen Kizi\nOrta Anadolu uzumunden yapilmistir\nFiat| : 200\nFiati: 200\nCl. 70\nDerece: 11-12\nKurucesme No. 24 - Tel\nKurucesme No. 24 - Te'"
+"Turkey"
+"KAVAKLIDERE"
+"Kavaklidere"
+"Saraplari Limited Sirketi"
+"saraplari limited sikreti"
+"Ankara"
+"A 41"
+"DIKMEN KIZI"
+"Dikmen Kizi"
+"Orta Anadolu uzumunden yapilmistir"
+"Fiat| : 200"
+"Fiati: 200"
+"Cl. 70"
+"Derece: 11-12"
+"Kurucesme No. 24 - Tel"
+"Kurucesme No. 24 - Te'"

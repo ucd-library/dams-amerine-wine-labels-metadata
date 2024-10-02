@@ -1,0 +1,18 @@
+R DEET
+N9.
+230
+JEREZ
+FINo SAN PATRICIO
+
+R
+DEET
+N9.
+230
+JEREZ
+FINo
+SAN
+PATRICIO
+"R. de E. No. 235\nGarvey JEREZ\nFino San Patricio"
+"R. de E. No. 235"
+"Garvey JEREZ"
+"Fino San Patricio"

@@ -1,0 +1,20 @@
+ARISETTE
+DE
+F R A N C E
+
+ARISETTE
+DE
+F
+R
+A
+N
+C
+E
+"Anisette\nANISETTE\nM.A.B\nMAB\nde Labbaye de Cenon\nde Abbaye de Cenon\nDepose FRANCE"
+"ANISETTE"
+"Anisette"
+"M.A.B"
+"MAB"
+"de Abbaye de Cenon"
+"de Labbaye de Cenon"
+"Depose FRANCE"

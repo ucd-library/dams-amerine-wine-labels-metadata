@@ -1,0 +1,40 @@
+WALIAN
+REG. U. S. PAT. OFF
+E T
+Est
+1888
+RIESLING
+chaude an
+K-40
+
+WALIAN
+REG.
+U.
+S.
+PAT.
+OFF
+E
+T
+Est
+1888
+RIESLING
+chaude
+an
+K-40
+"3\nValliant\nReg. U.S. Pat. Off.\nRiesling\nCalifornia\nMade and Bottled by\nValliant & Son Vineyards, Division of\nValliant & Son Vineyards, division of\nW. A. Taylor & Co., Santa Rosa, Calif.\nW.A. Taylor & Co., Santa Rosa, Calif.\nAlcohol 13% by volume\nAlcohol 13% by Volume\nDistributed by\nEstablished 1888 W.A. Taylor & Co. New York City\nEstablished 1888. W.A. Taylor & Co., New York City\nK-40"
+"3"
+"Valliant"
+"Reg. U.S. Pat. Off."
+"Riesling"
+"California"
+"Made and Bottled by"
+"Valliant & Son Vineyards, division of"
+"Valliant & Son Vineyards, Division of"
+"W.A. Taylor & Co., Santa Rosa, Calif."
+"W. A. Taylor & Co., Santa Rosa, Calif."
+"Alcohol 13% by Volume"
+"Alcohol 13% by volume"
+"Distributed by"
+"Established 1888. W.A. Taylor & Co., New York City"
+"Established 1888 W.A. Taylor & Co. New York City"
+"K-40"

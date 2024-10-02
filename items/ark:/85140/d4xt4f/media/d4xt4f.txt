@@ -1,0 +1,30 @@
+MISSION HALT BRIDN
+Grand Premier Cru
+1933
+MIS EN BOUTEILLES AU CHATEAU
+BORDEAUX
+RFRANCE.
+
+MISSION
+HALT
+BRIDN
+Grand
+Premier
+Cru
+1933
+MIS
+EN
+BOUTEILLES
+AU
+CHATEAU
+BORDEAUX
+RFRANCE.
+"Chateau\nLa Mission Haut Brion\nGrand Premier Cru\n1933\nMis en bouteilles au chateau\nMis en bouteilles au Chateau\nBordeaux\nFrance"
+"Chateau"
+"La Mission Haut Brion"
+"Grand Premier Cru"
+"1933"
+"Mis en bouteilles au Chateau"
+"Mis en bouteilles au chateau"
+"Bordeaux"
+"France"

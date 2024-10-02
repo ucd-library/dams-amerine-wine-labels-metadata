@@ -1,0 +1,26 @@
+MARQUE DEPOSEE
+GRIGNOLINO
+Produttori ed
+Esportatori Vini
+AUSANNE
+SUISSE
+ITALIA
+
+MARQUE
+DEPOSEE
+GRIGNOLINO
+Produttori
+ed
+Esportatori
+Vini
+AUSANNE
+SUISSE
+ITALIA
+"Red\n\n\n\n\n\n"
+"Red"
+""
+""
+""
+""
+""
+""

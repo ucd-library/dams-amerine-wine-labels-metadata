@@ -1,0 +1,34 @@
+UN
+ANTINOR
+VLA D SANTO R O
+FIRENZE
+MARCHESI L. E P NTINORI
+
+UN
+ANTINOR
+VLA
+D
+SANTO
+R
+O
+FIRENZE
+MARCHESI
+L.
+E
+P
+NTINORI
+"Antinori vino santo rosso\nvino santo rosso\nte duce proficio\nTE DUCE PROFICIO\nantinori\nANTINORI\nantinori\nANTINORI\nvino santo rosso\nVINO SANTO ROSSO\nmarchesi antinori\nMarchesi L.eP Antinori\nfirenze\nFirenze"
+"Antinori vino santo rosso"
+"vino santo rosso"
+"te duce proficio"
+"TE DUCE PROFICIO"
+"ANTINORI"
+"antinori"
+"ANTINORI"
+"antinori"
+"VINO SANTO ROSSO"
+"vino santo rosso"
+"Marchesi L.eP Antinori"
+"marchesi antinori"
+"Firenze"
+"firenze"

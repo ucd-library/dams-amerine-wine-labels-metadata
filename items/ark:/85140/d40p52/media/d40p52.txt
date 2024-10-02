@@ -1,0 +1,23 @@
+Rhein qq
+Hattenheimer Pfaffenberg
+Auslese
+Crescenz Graf von Schonborn
+RHEINOAU
+
+Rhein
+qq
+Hattenheimer
+Pfaffenberg
+Auslese
+Crescenz
+Graf
+von
+Schonborn
+RHEINOAU
+"Hattenheimer Pfaffenberg\nAuslese\nCrescent Graf von Schönborn\nCrescenz Graf von Schonborn\nRheingau\nRHEINGAU"
+"Hattenheimer Pfaffenberg"
+"Auslese"
+"Crescent Graf von Schönborn"
+"Crescenz Graf von Schonborn"
+"RHEINGAU"
+"Rheingau"

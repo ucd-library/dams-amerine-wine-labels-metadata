@@ -1,0 +1,25 @@
+MARK
+TRADE
+homberfin
+(Clos de Beze)
+L. DORET
+COTE D OR)
+
+MARK
+TRADE
+homberfin
+(Clos
+de
+Beze)
+L.
+DORET
+COTE
+D
+OR)
+"Chambertin\n(Clos de Bèze)\nClos de Beze\nL. Poret\nPROPRIÉTAIRE ET NÉGOCIANT À NUITS-St.gEORGES (CÔTE D'OR)\nPROPRIÉTAIRE ET NÉGOCIANT À NUITS-ST.GEORGES (CÔTE D'OR)"
+"Chambertin"
+"(Clos de Bèze)"
+"Clos de Beze"
+"L. Poret"
+"PROPRIÉTAIRE ET NÉGOCIANT À NUITS-ST.GEORGES (CÔTE D'OR)"
+"PROPRIÉTAIRE ET NÉGOCIANT À NUITS-St.gEORGES (CÔTE D'OR)"

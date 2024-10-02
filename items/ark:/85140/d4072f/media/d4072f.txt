@@ -1,0 +1,21 @@
+LAND
+1950et
+Jettiget 2Uingettsbed
+Bettwaltung der Staatlicben 1Beinbaudomanem arist
+
+LAND
+1950et
+Jettiget
+2Uingettsbed
+Bettwaltung
+der
+Staatlicben
+1Beinbaudomanem
+arist
+"MOSEL - SAAR - RUWER\nMosel - Saar - Ruwer - old denomination before sabstituion for just \"Mosel:\nJ. Lintz-Trier (Trier is location of the state winery.\n1950 Herriger Wingertshed\n\n\"Verwaltung der Staatlichen Weinbaudomänen - Trier\" - state winery!\nderwaltung der Staatlichen Weinbaudomanen - Trier"
+"MOSEL - SAAR - RUWER"
+"Mosel - Saar - Ruwer - old denomination before sabstituion for just \"Mosel:"
+"J. Lintz-Trier (Trier is location of the state winery."
+"1950 Herriger Wingertshed"
+"\n\"Verwaltung der Staatlichen Weinbaudomänen - Trier\" - state winery!"
+"derwaltung der Staatlichen Weinbaudomanen - Trier"

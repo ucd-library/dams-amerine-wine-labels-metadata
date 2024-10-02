@@ -1,0 +1,47 @@
+STRO
+D
+N997 as
+RIOROUA
+MARCA
+CONCEDIDA
+SOCIEDAD DE COSECHEROS DE VINO
+FUNDADA EN I 890
+RIOJA CLARETE
+EMBOTELLADO EN SU 6. Ano
+
+STRO
+D
+N997
+as
+RIOROUA
+MARCA
+CONCEDIDA
+SOCIEDAD
+DE
+COSECHEROS
+DE
+VINO
+FUNDADA
+EN
+I
+890
+RIOJA
+CLARETE
+EMBOTELLADO
+EN
+SU
+6.
+Ano
+"rio oja\nDinner Palace Hotel Madrid 4/20/52 C-\nRegistro de embotelladores\nRegistro de Embotelladores No. 97\nmarca concedida\nMarca Concedida\nLa Rioja Alta\nLa Rioja Alta\nHaro\nFundada en 1890\nEmbotellado en su 6. año\nEmbotellado en su 6 ano"
+"rio oja"
+"Dinner Palace Hotel Madrid 4/20/52 C-"
+"Registro de embotelladores"
+"Registro de Embotelladores No. 97"
+"marca concedida"
+"Marca Concedida"
+"La Rioja Alta"
+"La Rioja Alta"
+"Haro"
+"Fundada en 1890"
+"Embotellado en su 6. año"
+"Embotellado en su 6 ano"

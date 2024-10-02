@@ -1,0 +1,19 @@
+ANIS
+PERCHELE
+MARCA REGISTRADA
+M. MARRODAN
+MALAGA
+
+ANIS
+PERCHELE
+MARCA
+REGISTRADA
+M.
+MARRODAN
+MALAGA
+"Anis\nLa Perchelera\nMarca Registrada\nM.M. Marrodan Málaga\nR.E. 411"
+"Anis"
+"La Perchelera"
+"Marca Registrada"
+"M.M. Marrodan Málaga"
+"R.E. 411"

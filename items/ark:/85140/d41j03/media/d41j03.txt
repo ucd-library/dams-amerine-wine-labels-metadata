@@ -1,0 +1,45 @@
+CONSEJO:D
+Federico Pate nina
+BORGONA
+EN SU 6.0 ANO
+R. E. 329
+Precio del contenido en origen Pts
+5475
+VINA VIAL
+
+CONSEJO:D
+Federico
+Pate
+nina
+BORGONA
+EN
+SU
+6.0
+ANO
+R.
+E.
+329
+Precio
+del
+contenido
+en
+origen
+Pts
+5475
+VINA
+VIAL
+"RIOJAOrigen Consejo Regulador Denomina Cion \n\nCONSEJO REGULADOR DENOMINACION ORIGEN RIOJA\nFederico Paternina\nOllauri\nBorgona\nEN SU 6. Ano\nBORGOÑA EN SU 6.º AÑO\n(Rioja)\n(RIOJA)\nPrecio del contenido en origen Pts. 5,75\nPrecio del contenido en origen Pts. 5'75\nR.E. 329\nR. E. 329\nVIÑA VIAL\nVINA VIAL"
+"RIOJAOrigen Consejo Regulador Denomina Cion \n"
+"CONSEJO REGULADOR DENOMINACION ORIGEN RIOJA"
+"Federico Paternina"
+"Ollauri"
+"Borgona\nEN SU 6. Ano"
+"BORGOÑA EN SU 6.º AÑO"
+"(Rioja)"
+"(RIOJA)"
+"Precio del contenido en origen Pts. 5'75"
+"Precio del contenido en origen Pts. 5,75"
+"R.E. 329"
+"R. E. 329"
+"VIÑA VIAL"
+"VINA VIAL"

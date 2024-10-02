@@ -1,0 +1,33 @@
+BLANCO SECO
+COMPANIA VINicOLA DEL NORTE DE ESPANA
+GIST
+N. 44
+EMBOTELLADO EN BODEGA
+HARO BILBAO
+orELLA
+
+BLANCO
+SECO
+COMPANIA
+VINicOLA
+DEL
+NORTE
+DE
+ESPANA
+GIST
+N.
+44
+EMBOTELLADO
+EN
+BODEGA
+HARO
+BILBAO
+orELLA
+"1948\nMonopole\nBlanco Seco\nCompañia Vinícola del Norte de España\n\n\n"
+"1948"
+"Monopole"
+"Blanco Seco"
+"Compañia Vinícola del Norte de España"
+""
+""
+""

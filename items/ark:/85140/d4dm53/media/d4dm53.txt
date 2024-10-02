@@ -1,0 +1,41 @@
+Beaujolais
+APPELLATION
+CONTROLEE
+TE
+PER FRET &
+NEGOCIANTS A BELLEVILLE SUR SAONE (RHONE
+LIVRE. EN FUJ S AU COMMERCE DE GROS
+IMP.Gdu GENHEIM yoN
+
+Beaujolais
+APPELLATION
+CONTROLEE
+TE
+PER
+FRET
+&
+NEGOCIANTS
+A
+BELLEVILLE
+SUR
+SAONE
+(RHONE
+LIVRE.
+EN
+FUJ
+S
+AU
+COMMERCE
+DE
+GROS
+IMP.Gdu
+GENHEIM
+yoN
+"beaujolais\nBeaujolais\nAppellation Controlee\nappelation controlee\np. perret & cie negociants a belleville sur saone (rhone)\nLivre en futs au commerce de gros\nLivre En. Futs Au Commerce de gros"
+"Beaujolais"
+"beaujolais"
+"appelation controlee"
+"Appellation Controlee"
+"p. perret & cie negociants a belleville sur saone (rhone)"
+"Livre En. Futs Au Commerce de gros"
+"Livre en futs au commerce de gros"

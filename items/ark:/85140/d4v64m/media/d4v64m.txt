@@ -1,0 +1,38 @@
+TRES ALAMOS
+BRANDY
+SELECTO
+Este BRANDY es un producto natural de vin
+o recolectado y
+destilado en la zona de JEREZ
+No 25
+
+TRES
+ALAMOS
+BRANDY
+SELECTO
+Este
+BRANDY
+es
+un
+producto
+natural
+de
+vin
+o
+recolectado
+y
+destilado
+en
+la
+zona
+de
+JEREZ
+No
+25
+"Brandy TRES ALAMOS selecto\nBrandy Tres Alamos Selecto\nHijo de P. Romero Sanlucar de Bda.\nHijo de P. Romero Sanlucar de B da\nEste Brandy es un producto natural de vino recolectadao y destilado en la zona de Jerez No. 25\nEste BRANDY es un producto natural de vino recolectado y destilado en la zona de JEREZ. No. 25"
+"Brandy TRES ALAMOS selecto"
+"Brandy Tres Alamos Selecto"
+"Hijo de P. Romero Sanlucar de B da"
+"Hijo de P. Romero Sanlucar de Bda."
+"Este BRANDY es un producto natural de vino recolectado y destilado en la zona de JEREZ. No. 25"
+"Este Brandy es un producto natural de vino recolectadao y destilado en la zona de Jerez No. 25"

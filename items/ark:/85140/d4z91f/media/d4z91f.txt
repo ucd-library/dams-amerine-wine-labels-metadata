@@ -1,0 +1,72 @@
+BARBADILLO
+BRANDY
+Bi ESPECIAL No 1
+RESERVA
+ANDALUCIA ESPANA
+TODOS LOS VINOS DE ESTA CASA PROCEDEN DE VINAS ENCLAVADAS EN LAS
+ZONAS DE SANLUCAR Y JEREZ, CUYA CIRCUNSTANCIA, UNIDA A LA ANTIGUEDAD
+DE SUS SOLERAS, SON LAS MEJORES GARANTIAS DE SUS PRODUCTOS
+industrial
+
+BARBADILLO
+BRANDY
+Bi
+ESPECIAL
+No
+1
+RESERVA
+ANDALUCIA
+ESPANA
+TODOS
+LOS
+VINOS
+DE
+ESTA
+CASA
+PROCEDEN
+DE
+VINAS
+ENCLAVADAS
+EN
+LAS
+ZONAS
+DE
+SANLUCAR
+Y
+JEREZ,
+CUYA
+CIRCUNSTANCIA,
+UNIDA
+A
+LA
+ANTIGUEDAD
+DE
+SUS
+SOLERAS,
+SON
+LAS
+MEJORES
+GARANTIAS
+DE
+SUS
+PRODUCTOS
+industrial
+"Barbadillo\nA B A 1821\nABA 1821\nBRANDY\nBrandy\nEspecial No. 1\nESPECIAL Nº 1\n(Reserva)\n(RESERVA)\nAntonio Barbadillo, S.L.\nSanlucar de Barrameda\n32\n(ANDALUCIA-ESPAÑA)\n(Andalucia-Espana)\nTODOS LOS VINOS DE ESTA CASA PROCEDEN DE VIÑAS ENCLAVADAS EN LAS ZONAS DE SANLÚCAR Y JEREZ, CUYA CIRCUNSTANCIA, UNIDA A LA ANTIGUEDAD DE SUS SOLERAS, SON LAS MEJORES GARANTÍAS DE SUS PRODUCTOS\nTodos los vinos de esta casa proceden de vinas enclavadas en las zonas de Sanlucar y Jerez, cuya circunstancia, unida a la antiguedad de sus soleras, son las mejores garantias de sus productos\nImp Jerez Industrial\nLit Jerez industrial"
+"Barbadillo"
+"ABA 1821"
+"A B A 1821"
+"Brandy"
+"BRANDY"
+"Especial No. 1"
+"ESPECIAL Nº 1"
+"(Reserva)"
+"(RESERVA)"
+"Antonio Barbadillo, S.L."
+"Sanlucar de Barrameda"
+"32"
+"(Andalucia-Espana)"
+"(ANDALUCIA-ESPAÑA)"
+"TODOS LOS VINOS DE ESTA CASA PROCEDEN DE VIÑAS ENCLAVADAS EN LAS ZONAS DE SANLÚCAR Y JEREZ, CUYA CIRCUNSTANCIA, UNIDA A LA ANTIGUEDAD DE SUS SOLERAS, SON LAS MEJORES GARANTÍAS DE SUS PRODUCTOS"
+"Todos los vinos de esta casa proceden de vinas enclavadas en las zonas de Sanlucar y Jerez, cuya circunstancia, unida a la antiguedad de sus soleras, son las mejores garantias de sus productos"
+"Lit Jerez industrial"
+"Imp Jerez Industrial"

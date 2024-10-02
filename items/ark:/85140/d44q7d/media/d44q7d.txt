@@ -1,0 +1,24 @@
+8 5 3 1 9 5.5
+UA
+enheindamyochiffahrt
+1953 er
+Steinberger Kabinett
+Kellerabzug Staatsweinguter im Rheingau, Eltvilie
+
+8
+5
+3
+1
+9
+5.5
+UA
+enheindamyochiffahrt
+1953
+er
+Steinberger
+Kabinett
+Kellerabzug
+Staatsweinguter
+im
+Rheingau,
+Eltvilie

@@ -1,0 +1,59 @@
+LOU SOLEU
+ME FAI CANTA
+ROSE TAILLE
+M A R Q U E
+DE P o SEE
+COSTIERES DU GARD
+11o 5
+NICOLAS
+V. Do O.S.
+Goront
+CHARENTON
+AA. 006
+SEINE
+A
+
+LOU
+SOLEU
+ME
+FAI
+CANTA
+ROSE
+TAILLE
+M
+A
+R
+Q
+U
+E
+DE
+P
+o
+SEE
+COSTIERES
+DU
+GARD
+11o
+5
+NICOLAS
+V.
+Do
+O.S.
+Goront
+CHARENTON
+AA.
+006
+SEINE
+A
+"?\nLOU SOLÉU MÉ FAÏ CANTA\nLou Soleu Me Fai Canta\nROSSETAILLE / MARQUE DÉPOSÉE / COSTIÈRES DU GARD / 11º5\nRosetaille Marque Deposee, Costieres du Gard, 11.5\nRed\nNicolas Charenton, Seine\nNICHOLAS CHARENTON SEINE\nV.D.O.S. LABEL de Garantie AA. 006\nVDQS Label de Garonne, AA. 006\nMAA - 75"
+"?"
+"LOU SOLÉU MÉ FAÏ CANTA"
+"Lou Soleu Me Fai Canta"
+"Rosetaille Marque Deposee, Costieres du Gard, 11.5"
+"ROSSETAILLE / MARQUE DÉPOSÉE / COSTIÈRES DU GARD / 11º5"
+"Red"
+"Nicolas Charenton, Seine"
+"NICHOLAS CHARENTON SEINE"
+"VDQS Label de Garonne, AA. 006"
+"V.D.O.S. LABEL de Garantie AA. 006"
+"MAA - 75"

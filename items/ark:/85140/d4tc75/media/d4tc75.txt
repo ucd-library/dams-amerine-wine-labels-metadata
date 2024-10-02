@@ -1,0 +1,48 @@
+HOUSE OF HOWE
+C
+CABERNET
+Grapes from Rixford
+Vintage 1941
+Bottled June 1943
+PRODUCED AND BOTTLED BY
+GOPHER GULCH RANCH WINE CELLARS
+WALNUT CREEK, CALIFORNIA
+
+HOUSE
+OF
+HOWE
+C
+CABERNET
+Grapes
+from
+Rixford
+Vintage
+1941
+Bottled
+June
+1943
+PRODUCED
+AND
+BOTTLED
+BY
+GOPHER
+GULCH
+RANCH
+WINE
+CELLARS
+WALNUT
+CREEK,
+CALIFORNIA
+"Amerine\nHOUSE OF HOWE\nCabernet\nCABERNET\nGrapes from Rixford\nVintage 1941\nBottled June 1943\nBottles June 1943\nPRODUCED AND BOTTLED BY GOPHER GULCH RANCH WINE CELLARS\nProduced and Bottled by\nWalnut Creek, California\nWALNUT CREEK, CALIFORNIA"
+"Amerine"
+"HOUSE OF HOWE"
+"CABERNET"
+"Cabernet"
+"Grapes from Rixford"
+"Vintage 1941"
+"Bottled June 1943"
+"Bottles June 1943"
+"PRODUCED AND BOTTLED BY GOPHER GULCH RANCH WINE CELLARS"
+"Produced and Bottled by"
+"Walnut Creek, California"
+"WALNUT CREEK, CALIFORNIA"

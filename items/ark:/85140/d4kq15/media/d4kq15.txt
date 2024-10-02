@@ -1,0 +1,39 @@
+ine Sacramental Dine
+AMERICAN
+TOKAY
+MADE AND BOTTLED BY
+Rheims nammon
+dspert,newyork.
+ALCOHOL 182
+BY VOLUME
+
+ine
+Sacramental
+Dine
+AMERICAN
+TOKAY
+MADE
+AND
+BOTTLED
+BY
+Rheims
+nammon
+dspert,newyork.
+ALCOHOL
+182
+BY
+VOLUME
+"Great Western\nFine Sacramental Wine\nAmerican\nToday\nTokay\nmade and bottled by\nmade and bottled by\npleasant valley wine company\nrheims hammondsport new york\nrheims,hammondsport, new york\nalcohol 18%\nBy Volume\nby volume"
+"Great Western"
+"Fine Sacramental Wine"
+"American"
+"Today"
+"Tokay"
+"made and bottled by"
+"made and bottled by"
+"pleasant valley wine company"
+"rheims hammondsport new york"
+"rheims,hammondsport, new york"
+"alcohol 18%"
+"By Volume"
+"by volume"

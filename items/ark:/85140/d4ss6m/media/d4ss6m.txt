@@ -1,0 +1,33 @@
+os VINICULTO
+RACAO EDE VINHO TINTO
+REGIAO DE MAR CADA
+DE VIN HOS DE MESA
+
+os
+VINICULTO
+RACAO
+EDE
+VINHO
+TINTO
+REGIAO
+DE
+MAR
+CADA
+DE
+VIN
+HOS
+DE
+MESA
+"Federação dos vinicultores do dão\nFederacao dos vinicultores do dao\nFEDERACAO DOS VINICULTORES DO DAO\nRED\nRed\nDão\nDAO\ndao\nVINHO TINTO\nvinho tinto\nregiao demarcada de vinhos de mesa\nREGIAO DEMARCADA DE VINHOS DE MESA"
+"Federacao dos vinicultores do dao"
+"Federação dos vinicultores do dão"
+"FEDERACAO DOS VINICULTORES DO DAO"
+"RED"
+"Red"
+"Dão"
+"DAO"
+"dao"
+"vinho tinto"
+"VINHO TINTO"
+"REGIAO DEMARCADA DE VINHOS DE MESA"
+"regiao demarcada de vinhos de mesa"

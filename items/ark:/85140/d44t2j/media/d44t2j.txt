@@ -1,0 +1,47 @@
+1943
+Product
+Appellation
+of France
+controlée
+ONDEE EN
+CHABLIS VAILLON
+WHITE BURGUNDY WINE
+RESERVE DES CAVES DE J.MOREAU GUENIER A CHABLIS
+
+1943
+Product
+Appellation
+of
+France
+controlée
+ONDEE
+EN
+CHABLIS
+VAILLON
+WHITE
+BURGUNDY
+WINE
+RESERVE
+DES
+CAVES
+DE
+J.MOREAU
+GUENIER
+A
+CHABLIS
+"1943\nChablis, Present: Amerine, Houve, Blanquie, Esquire, Weill, Griffiths, Wente, Price, Smith, Juillard, CEH\nDinner by CEH jr. for Maynard Amerine 50 Hazel Lane 12/7/53 A\nProduct of France \nProduct of France\nApellatíon contrôlée\nAppellation controlee\nMaison fondee en 1814\nMAISON FONDEE EN 1814\nCHABLIS - VAILLON\nChablis Vaillon\nWhite Burgundy Wine\nWHITE BURGUNDY WINE\nReserve des Caves de J. Moreau-Guenier a Chablis\nRÉSERVE DES CAVES DE J. MOREAU-GUÉNIER À CHABLIS"
+"1943"
+"Chablis, Present: Amerine, Houve, Blanquie, Esquire, Weill, Griffiths, Wente, Price, Smith, Juillard, CEH"
+"Dinner by CEH jr. for Maynard Amerine 50 Hazel Lane 12/7/53 A"
+"Product of France"
+"Product of France "
+"Apellatíon contrôlée"
+"Appellation controlee"
+"MAISON FONDEE EN 1814"
+"Maison fondee en 1814"
+"CHABLIS - VAILLON"
+"Chablis Vaillon"
+"White Burgundy Wine"
+"WHITE BURGUNDY WINE"
+"RÉSERVE DES CAVES DE J. MOREAU-GUÉNIER À CHABLIS"
+"Reserve des Caves de J. Moreau-Guenier a Chablis"

@@ -1,0 +1,35 @@
+MOSEL-SAAR RUWER
+1949 er
+Bodiftsin
+Spatiefe
+NATURRE
+Staatliche Domanen40einbauverwaltung
+Triet
+Eigener Rellerabyug und Rorkbrand
+
+MOSEL-SAAR
+RUWER
+1949
+er
+Bodiftsin
+Spatiefe
+NATURRE
+Staatliche
+Domanen40einbauverwaltung
+Triet
+Eigener
+Rellerabyug
+und
+Rorkbrand
+"eagle\nA GERMAN EAGLE\nMOSEL-SAAR-RUWER\n1949er\nOckfener Bockstein Spätlese\nDIKFENER BOCKFTEIN SPATLELE\nNATURREIN\nSTAATLICHE DOMÄNEN-WEINBAUVERWALTUNG TRIER\nStaatliche Domänen-Weinbauverwaltung Trier\nEigener Kellerabzug und Korkbrand\nELGENER KELLERABZUG UND KORKBRAND"
+"eagle"
+"A GERMAN EAGLE"
+"MOSEL-SAAR-RUWER"
+"1949er"
+"Ockfener Bockstein Spätlese"
+"DIKFENER BOCKFTEIN SPATLELE"
+"NATURREIN"
+"STAATLICHE DOMÄNEN-WEINBAUVERWALTUNG TRIER"
+"Staatliche Domänen-Weinbauverwaltung Trier"
+"ELGENER KELLERABZUG UND KORKBRAND"
+"Eigener Kellerabzug und Korkbrand"

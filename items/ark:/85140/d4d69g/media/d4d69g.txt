@@ -1,0 +1,36 @@
+AP. UNIVE
+PARIS 1889
+MEDAILLES D'OR 1900
+ATION
+DIPL MME D HONN EUR LIEGE 19o5
+CHAMBER TIN
+
+AP.
+UNIVE
+PARIS
+1889
+MEDAILLES
+D'OR
+1900
+ATION
+DIPL
+MME
+D
+HONN
+EUR
+LIEGE
+19o5
+CHAMBER
+TIN
+"Cote de Nuits Gevrey Chambertin Tete de Cuvee\n1934\nDinner Griffiths 12/28/'49 A-\nPresent FPS MMS John Simpson Mrs \" Bob Spire Ida Spire ELH CEH\nPresent FPS MMS XXX XXXX John Simpson Mrs Simpson Bob Spire Ida Spire ELH CEH\nMÉDAILLES DÓR EXP. UNIVERSELLE PARIS 1889 - 1900\nMedailles d'or exp. Universelle Paris 1889-1900\nDIPLÔME D'HONNEUR LIÈGE 1905\nDiplome d'honneur liege 1905\nChambertin Marion\nCHAMBERTIN Marion"
+"Cote de Nuits Gevrey Chambertin Tete de Cuvee"
+"1934"
+"Dinner Griffiths 12/28/'49 A-"
+"Present FPS MMS John Simpson Mrs \" Bob Spire Ida Spire ELH CEH"
+"Present FPS MMS XXX XXXX John Simpson Mrs Simpson Bob Spire Ida Spire ELH CEH"
+"Medailles d'or exp. Universelle Paris 1889-1900"
+"MÉDAILLES DÓR EXP. UNIVERSELLE PARIS 1889 - 1900"
+"DIPLÔME D'HONNEUR LIÈGE 1905"
+"Diplome d'honneur liege 1905"
+"Chambertin Marion"
+"CHAMBERTIN Marion"

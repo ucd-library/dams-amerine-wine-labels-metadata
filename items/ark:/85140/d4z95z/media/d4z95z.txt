@@ -1,0 +1,43 @@
+PALE DRY
+SHE RRY
+GROWN AND
+ADV
+BoB, E BOTTLED BY
+MANUEL FERNANDEZ & C S. L
+JE RE Z SPAIN
+PRODUCE OF, SPAIN
+
+PALE
+DRY
+SHE
+RRY
+GROWN
+AND
+ADV
+BoB,
+E
+BOTTLED
+BY
+MANUEL
+FERNANDEZ
+&
+C
+S.
+L
+JE
+RE
+Z
+SPAIN
+PRODUCE
+OF,
+SPAIN
+"PALE DRY SHERRY\nPale Dry Sherry\nGROWN AND BOTTLED BY\nGrown and bottled by\nManuel Fernandez & Co., S.L.\nMANUEL FERNANDEZ & Cº S. L.\nJEREZ SPAIN.\nJerez, Spain\n"
+"Pale Dry Sherry"
+"PALE DRY SHERRY"
+"GROWN AND BOTTLED BY"
+"Grown and bottled by"
+"MANUEL FERNANDEZ & Cº S. L."
+"Manuel Fernandez & Co., S.L."
+"Jerez, Spain"
+"JEREZ SPAIN."
+""

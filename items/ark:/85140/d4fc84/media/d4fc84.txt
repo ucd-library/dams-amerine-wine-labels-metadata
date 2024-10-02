@@ -1,0 +1,37 @@
+13
+CAFE DE PARIS
+RESTAURANT FOUQUET
+PAVILLON D'ARMENONVILLE
+LE PRE CATELAN
+Pouilly Fuissé
+LE CLOS
+APPELLATION CONTROLEE
+
+13
+CAFE
+DE
+PARIS
+RESTAURANT
+FOUQUET
+PAVILLON
+D'ARMENONVILLE
+LE
+PRE
+CATELAN
+Pouilly
+Fuissé
+LE
+CLOS
+APPELLATION
+CONTROLEE
+"Al Fresco lunch, pavillon d'Armeonnville, Bois de Boulogne 5/26/57 B+ (handwritten)\nAl Fresco Lunch Pavillon D'Axxxxxxx Bric de Boulogne 5/26/52 B+\nCAFE DE PARIS RETARANT FOUQUET PAVILLON D\"ARMENVILLE LE PRE CATELAN\nCafe de Paris Restaurant Fouquet Pavillon D'Armenonville le Pre Catelan\nCAFE DE PARIS RESTAURANT FOUQUET PAVILLON D'ARMENONVILLE LE PRE CATELAN\nPouilly Fuisse\nPOUILLY FUISSE\nLe Clos\nAppellation Controlée\nAppellation Controlee"
+"Al Fresco lunch, pavillon d'Armeonnville, Bois de Boulogne 5/26/57 B+ (handwritten)"
+"Al Fresco Lunch Pavillon D'Axxxxxxx Bric de Boulogne 5/26/52 B+"
+"CAFE DE PARIS RETARANT FOUQUET PAVILLON D\"ARMENVILLE LE PRE CATELAN"
+"Cafe de Paris Restaurant Fouquet Pavillon D'Armenonville le Pre Catelan"
+"CAFE DE PARIS RESTAURANT FOUQUET PAVILLON D'ARMENONVILLE LE PRE CATELAN"
+"Pouilly Fuisse"
+"POUILLY FUISSE"
+"Le Clos"
+"Appellation Controlée"
+"Appellation Controlee"

@@ -1,0 +1,27 @@
+PROPRIETAIRES-NEGOCIANTs
+TAIN L'HERMITAGE
+DROME
+PRODUCT OF FRANCE
+7, P. S.
+
+PROPRIETAIRES-NEGOCIANTs
+TAIN
+L'HERMITAGE
+DROME
+PRODUCT
+OF
+FRANCE
+7,
+P.
+S.
+"1934\nContents 1 pint 9 fluid ozs\nAlcohol 13% by vol\nHermitage\nDelepine & Cie\nProprietaires - Negociants\nProprietaires -- Negociants\nTain-L'Hermitage (Drome)\nTain - L'Hermitage (Drome)\nProduct of France"
+"1934"
+"Contents 1 pint 9 fluid ozs"
+"Alcohol 13% by vol"
+"Hermitage"
+"Delepine & Cie"
+"Proprietaires - Negociants"
+"Proprietaires -- Negociants"
+"Tain - L'Hermitage (Drome)"
+"Tain-L'Hermitage (Drome)"
+"Product of France"

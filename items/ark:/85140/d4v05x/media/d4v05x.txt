@@ -1,0 +1,27 @@
+PYRAMID
+TRADE
+MARK
+n7
+PYRAMID BRANDY
+PRODUCE OF SOUTH AFRICA
+C.TLTD. RED.
+
+PYRAMID
+TRADE
+MARK
+n7
+PYRAMID
+BRANDY
+PRODUCE
+OF
+SOUTH
+AFRICA
+C.TLTD.
+RED.
+"Pyramid\npyramid\n0072 0072\nExtra Fine Pyramid Brandy. Federal Wine & brandy, CO(Pty) Ltd. Cape Town. Produce of South Africa\nExtra Fine Pyramid Brandy, Federal Wine & Brandy Co (Pty) Ltd., Capetown. Produce of South Africa\nC.T. LTD. RED."
+"pyramid"
+"Pyramid"
+"0072 0072"
+"Extra Fine Pyramid Brandy, Federal Wine & Brandy Co (Pty) Ltd., Capetown. Produce of South Africa"
+"Extra Fine Pyramid Brandy. Federal Wine & brandy, CO(Pty) Ltd. Cape Town. Produce of South Africa"
+"C.T. LTD. RED."

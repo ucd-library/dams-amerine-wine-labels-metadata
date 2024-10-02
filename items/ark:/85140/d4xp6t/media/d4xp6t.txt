@@ -1,0 +1,13 @@
+t tear vigneron
+1245
+
+t
+tear
+vigneron
+1245
+"1945\nRiex\nF. Fauquex, vigneron\nRiex\nRiex."
+"1945"
+"Riex"
+"F. Fauquex, vigneron"
+"Riex"
+"Riex."

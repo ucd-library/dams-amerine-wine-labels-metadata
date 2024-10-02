@@ -1,0 +1,30 @@
+CHAT
+KRE
+LA TOVR MARTILLAC
+CEPTIONNEL
+CRU
+GRAVES
+
+CHAT
+KRE
+LA
+TOVR
+MARTILLAC
+CEPTIONNEL
+CRU
+GRAVES
+"Montillac (Graves)\nmartillac (graves)\nchateau kressmann\nChateau Kressmann\nMise en bouteille par le propriétaire\nmise en bouteille par le proprietaire\nMISE EN BOUTEILLE PAR LE PROPRIÉTAIRE\nMise en bouteille par le proprietaire\nla tour martillac\nLa Tour Martillac\nCru Exceptionnel GRAVES\nCru exceptionnel\nGraves\nCru Exceptionnel\nGraves\n1929"
+"Montillac (Graves)"
+"martillac (graves)"
+"Chateau Kressmann"
+"chateau kressmann"
+"Mise en bouteille par le proprietaire"
+"MISE EN BOUTEILLE PAR LE PROPRIÉTAIRE"
+"Mise en bouteille par le propriétaire"
+"mise en bouteille par le proprietaire"
+"La Tour Martillac"
+"la tour martillac"
+"Cru exceptionnel\nGraves"
+"Cru Exceptionnel GRAVES"
+"Cru Exceptionnel\nGraves"
+"1929"

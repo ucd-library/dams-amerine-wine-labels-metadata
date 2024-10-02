@@ -1,0 +1,30 @@
+APPELLATION ST-EMILION CONTROLEE
+MIS EN BOUTEILLES AU CHATEAU
+1940
+Propriétaire
+
+APPELLATION
+ST-EMILION
+CONTROLEE
+MIS
+EN
+BOUTEILLES
+AU
+CHATEAU
+1940
+Propriétaire
+"St. Emilion\nAPPELLATION ST.-ÉMILION CONTROLÉE\nappelation st-emilion controlee\nChâteau Canon\nChateau Canon\n1'er Grand Crû St. Emilion\n1er Grand Cru St Emilion\nmis en bouteilles au chateau\nMIS EN BOUTEILLES AU CHATEAU\nAndré Fournier\n1940\nPropriétaire\nWesterwald Bordeaux\nWetzarwald-Bordeaux"
+"St. Emilion"
+"APPELLATION ST.-ÉMILION CONTROLÉE"
+"appelation st-emilion controlee"
+"Château Canon"
+"Chateau Canon"
+"1'er Grand Crû St. Emilion"
+"1er Grand Cru St Emilion"
+"MIS EN BOUTEILLES AU CHATEAU"
+"mis en bouteilles au chateau"
+"André Fournier"
+"1940"
+"Propriétaire"
+"Wetzarwald-Bordeaux"
+"Westerwald Bordeaux"

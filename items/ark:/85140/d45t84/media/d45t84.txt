@@ -1,0 +1,32 @@
+RABBI
+REGISTERED
+PRODUCT OF SCOTLAND
+JOHN CR ABBIE & CO, LTD.
+LEITH SCOTLAND
+EST 1801
+
+RABBI
+REGISTERED
+PRODUCT
+OF
+SCOTLAND
+JOHN
+CR
+ABBIE
+&
+CO,
+LTD.
+LEITH
+SCOTLAND
+EST
+1801
+"CRABBIE\nCrabbie\nregistered\nRegistered\nOld Scotch Whisky\nProduct of Scotland\nproduct of scotland\nJohn Crabbie & Co, Ltd. Leith Scotland est. 1801\nJohn Crabbie & Co, LTD. Leith Scotland Estd. 1801"
+"Crabbie"
+"CRABBIE"
+"registered"
+"Registered"
+"Old Scotch Whisky"
+"Product of Scotland"
+"product of scotland"
+"John Crabbie & Co, LTD. Leith Scotland Estd. 1801"
+"John Crabbie & Co, Ltd. Leith Scotland est. 1801"

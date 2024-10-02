@@ -1,0 +1,22 @@
+ABBAYE DE
+TOUJAGUE
+M A R G A U X
+
+ABBAYE
+DE
+TOUJAGUE
+M
+A
+R
+G
+A
+U
+X
+"Not in C. & F.\nNot in C&F\nAbbaye de Toujague\nbonnet-gauteyron\nBonnet-Gauteyron\nMargaux, Soussans (Medoc)\nMargaux, Soussans Medoc"
+"Not in C. & F."
+"Not in C&F"
+"Abbaye de Toujague"
+"bonnet-gauteyron"
+"Bonnet-Gauteyron"
+"Margaux, Soussans (Medoc)"
+"Margaux, Soussans Medoc"

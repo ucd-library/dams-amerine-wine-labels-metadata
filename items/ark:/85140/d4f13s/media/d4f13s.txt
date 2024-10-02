@@ -1,0 +1,52 @@
+Ep2 셔 /1
+POMMA RD
+PB
+PIERRE PoNN ELLE
+PROPRIETA IRE & N E(COTE D'OR)
+PROPRIETA IRE&NEGOCIANT
+A BEAUNE (COTE D'OR)
+DEPOSE
+O
+
+Ep2
+셔
+/
+1
+POMMA
+RD
+PB
+PIERRE
+PoNN
+ELLE
+PROPRIETA
+IRE
+&
+N
+E
+(
+COTE
+D'
+OR
+)
+PROPRIETA
+IRE
+&
+NEGOCIANT
+A
+BEAUNE
+(
+COTE
+D'
+OR
+)
+DEPOSE
+O
+"Pommard Produce of France\nPommard PRODUCE OF FRANCE\nABBAYE DE St. Martin\nAbbaye da St Martin\nPierre Ponnelle\nPROPRIÉTAIRE & NÉGOCIANT / À BEAUNE (CÔTE D'OR)\nPropriétaire & Négociant Á Beaune (CÔTE D'OR)\nDÉPOSÉ"
+"Pommard PRODUCE OF FRANCE"
+"Pommard Produce of France"
+"ABBAYE DE St. Martin"
+"Abbaye da St Martin"
+"Pierre Ponnelle"
+"Propriétaire & Négociant Á Beaune (CÔTE D'OR)"
+"PROPRIÉTAIRE & NÉGOCIANT / À BEAUNE (CÔTE D'OR)"
+"DÉPOSÉ"

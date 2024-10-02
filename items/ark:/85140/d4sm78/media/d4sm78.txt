@@ -1,0 +1,32 @@
+18 5 3 1 9 53
+eAheandampfschaffahmi
+Mofel.
+Saar
+Runoer
+1959er uerziger Wurzgarten
+Wachstum Winzeroerein
+
+18
+5
+3
+1
+9
+53
+eAheandampfschaffahmi
+Mofel.
+Saar
+Runoer
+1959er
+uerziger
+Wurzgarten
+Wachstum
+Winzeroerein
+"1853-1953\nKöln-Düsseldorfer\nRheindampfsschiffahrt\nKoln-Dusseldorfer Rheindampsschiffahrt\nMofel - Saar - Ruwer\nMosel managethis.Fc README.org Saar managethis.Fc README.org Rurver\n1952 er Uerziger Wurzgarten\n1952er Uerziger Wurzgarten\nWachstum Winzerverein"
+"1853-1953"
+"Koln-Dusseldorfer Rheindampsschiffahrt"
+"Köln-Düsseldorfer\nRheindampfsschiffahrt"
+"Mofel - Saar - Ruwer"
+"Mosel managethis.Fc README.org Saar managethis.Fc README.org Rurver"
+"1952 er Uerziger Wurzgarten"
+"1952er Uerziger Wurzgarten"
+"Wachstum Winzerverein"

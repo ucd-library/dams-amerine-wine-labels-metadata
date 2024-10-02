@@ -1,0 +1,63 @@
+Pro
+DE PosE
+IMP-PAMIS NUITS
+1913
+Rowe DEPO
+Alcoholic Content 13 olo by volume
+France
+Net Contents 1 Pint 8 Fl. 0z.
+APPELLATION CONTROL EE
+LEON GRIVELET-CussET, s. A.
+NEGOCIANT ANUITs ST GEORGES ccoTE D'OR
+
+Pro
+DE
+PosE
+IMP-PAMIS
+NUITS
+1913
+Rowe
+DEPO
+Alcoholic
+Content
+13
+olo
+by
+volume
+France
+Net
+Contents
+1
+Pint
+8
+Fl.
+0z.
+APPELLATION
+CONTROL
+EE
+LEON
+GRIVELET-CussET,
+s.
+A.
+NEGOCIANT
+ANUITs
+ST
+GEORGES
+ccoTE
+D'OR
+"1943\n\nGrivelet-Cusset Nuits St. Georges\n\nMarque Déposée\nAlcoholic Content : 13% by volume\nProd... France\nProdu... France\nNet contents 1 Pint 8 Fl. Oz.\nNet Contents 1 Pint 8 Fl. Oz.\nNuits St. Georges\nAPPELLATION CONTROLÉE\nLÉON GRIVELET-CUSSET, S.A. NÉGOCIANT A NUITS-ST-GEORGES (COTE.D'OR)\nLéon Grivelet-Cusset, S. A. NÉGOCIANT A NUITS-St-GEORGES (COTE-D'OR)\nDÉPOSÉ"
+"1943"
+""
+"Grivelet-Cusset Nuits St. Georges"
+""
+"Marque Déposée"
+"Alcoholic Content : 13% by volume"
+"Prod... France"
+"Produ... France"
+"Net Contents 1 Pint 8 Fl. Oz."
+"Net contents 1 Pint 8 Fl. Oz."
+"Nuits St. Georges"
+"APPELLATION CONTROLÉE"
+"Léon Grivelet-Cusset, S. A. NÉGOCIANT A NUITS-St-GEORGES (COTE-D'OR)"
+"LÉON GRIVELET-CUSSET, S.A. NÉGOCIANT A NUITS-ST-GEORGES (COTE.D'OR)"
+"DÉPOSÉ"

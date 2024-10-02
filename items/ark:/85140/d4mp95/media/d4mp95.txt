@@ -1,0 +1,23 @@
+HIJO B.
+PEDRO XIMENEZ
+VANIMCAR BRA
+VIEJISIMO
+LI. J. M. aARRoso. JEREZ.
+
+HIJO
+B.
+PEDRO
+XIMENEZ
+VANIMCAR
+BRA
+VIEJISIMO
+LI.
+J.
+M.
+aARRoso.
+JEREZ.
+"Hijo d. Pero Romero Villarreal\nHijo d. Pedro Romero Villarreal\nSanlvcar d. Bda.\nPEDRO XIMENEZ VIEJÍSIMO"
+"Hijo d. Pero Romero Villarreal"
+"Hijo d. Pedro Romero Villarreal"
+"Sanlvcar d. Bda."
+"PEDRO XIMENEZ VIEJÍSIMO"

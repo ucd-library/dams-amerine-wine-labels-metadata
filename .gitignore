@@ -1,0 +1,9 @@
+*.jpg
+*.ttl
+title.json
+v1
+*-
+convert.jq
+context.json
+titles.rq
+titles.json

@@ -1,0 +1,33 @@
+JEREZ OLOROSO
+ANUEL M. OARRODAN
+VINO FINO DE
+JEREZ DE LA FRONTERA
+POR R.o. to DE 1924
+MARzo 
+JEREZ
+OLOROSO
+ANUEL
+M.
+OARRODAN
+VINO
+FINO
+DE
+JEREZ
+DE
+LA
+FRONTERA
+POR
+R.o.
+to
+DE
+1924
+MARzo
+"\"Jerez Oloroso\"\nManuel M. Marrodan\nPor R.O. 10 de Marzo 1924\nPor R.O. 10 De Marzo 1924\nVino Fino de Jerez de la Frontera\nVino Fino de Jerez Dela Frontera\nPor R.O. 10 de Marzo 1924\nPor R. O. 10 de Marzo 1924"
+"\"Jerez Oloroso\""
+"Manuel M. Marrodan"
+"Por R.O. 10 de Marzo 1924"
+"Por R.O. 10 De Marzo 1924"
+"Vino Fino de Jerez Dela Frontera"
+"Vino Fino de Jerez de la Frontera"
+"Por R.O. 10 de Marzo 1924"
+"Por R. O. 10 de Marzo 1924"

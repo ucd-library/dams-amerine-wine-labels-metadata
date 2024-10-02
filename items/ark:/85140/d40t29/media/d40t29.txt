@@ -1,0 +1,38 @@
+1934
+CHATEAU OLIVIER
+DEPOSE
+er
+CRU
+FRANCE
+GRAVES
+ISE EN BOUTEILLES DU CHATEAU
+MAK. SIDAINE BORDEAUX
+
+1934
+CHATEAU
+OLIVIER
+DEPOSE
+er
+CRU
+FRANCE
+GRAVES
+ISE
+EN
+BOUTEILLES
+DU
+CHATEAU
+MAK.
+SIDAINE
+BORDEAUX
+"Dry\nLeógnan (Graves)\nLéognan (Graves)\n1934\n\nChateau Olivier\nDéposé\n1er Cru\nGraves\nFrance\nMise en Bouteilles du Chateau"
+"Dry"
+"Leógnan (Graves)"
+"Léognan (Graves)"
+"1934"
+""
+"Chateau Olivier"
+"Déposé"
+"1er Cru"
+"Graves"
+"France"
+"Mise en Bouteilles du Chateau"

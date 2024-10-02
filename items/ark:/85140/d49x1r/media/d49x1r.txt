@@ -1,0 +1,51 @@
+Alcoholic Content 13%. by volume
+Net Contents 1 Pint 8 Fl. 02.
+Produce of France
+APPELLATION CONTROLEE
+LEON GRIVE LET-C US SET, s. A.
+NEGOCIANT ANUITS ST GEORGES (COTE D'OR)
+DEPOsE
+
+Alcoholic
+Content
+13%.
+by
+volume
+Net
+Contents
+1
+Pint
+8
+Fl.
+02.
+Produce
+of
+France
+APPELLATION
+CONTROLEE
+LEON
+GRIVE
+LET-C
+US
+SET,
+s.
+A.
+NEGOCIANT
+ANUITS
+ST
+GEORGES
+(COTE
+D'OR)
+DEPOsE
+"alcoholic content: 13 percent by volume\nproduce of france\nProduce of France\nNet contents 1 Pint 8 Fl. Oz.\nnet contents 1 pint 8 fl. oz\nbeaujolais appelation controlee\nBeaujolais\nLeon Grivelet-Cusset, S.A.\nleon grivelet-cusset, s.a. negociant a nuits-st-georges (cote-d'or)\nDepose\ndepose"
+"alcoholic content: 13 percent by volume"
+"produce of france"
+"Produce of France"
+"net contents 1 pint 8 fl. oz"
+"Net contents 1 Pint 8 Fl. Oz."
+"beaujolais appelation controlee"
+"Beaujolais"
+"Leon Grivelet-Cusset, S.A."
+"leon grivelet-cusset, s.a. negociant a nuits-st-georges (cote-d'or)"
+"Depose"
+"depose"

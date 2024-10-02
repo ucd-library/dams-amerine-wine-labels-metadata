@@ -1,0 +1,29 @@
+GRAND VIN D'ALSACE
+GEWURZTRAMINER
+J. BECKER
+PROPRIETAIREA ZELLENBERG
+HA U T R H N
+
+GRAND
+VIN
+D'ALSACE
+GEWURZTRAMINER
+J.
+BECKER
+PROPRIETAIREA
+ZELLENBERG
+HA
+U
+T
+R
+H
+N
+"Tasting at ??? 6/3/50\nGrand vin d'alsace\nGrand Vin d'Alsace\nPresent(?) ELH, CEH, ???, Daughter\nGewurztraminer\nGEWURZTRAMINER\nJ.BECKER \nJ. Becker Proprietaire a ZELLENBERG (Haut-Rhin)"
+"Tasting at ??? 6/3/50"
+"Grand vin d'alsace"
+"Grand Vin d'Alsace"
+"Present(?) ELH, CEH, ???, Daughter"
+"GEWURZTRAMINER"
+"Gewurztraminer"
+"J. Becker Proprietaire a ZELLENBERG (Haut-Rhin)"
+"J.BECKER "

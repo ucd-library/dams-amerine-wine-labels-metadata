@@ -1,0 +1,24 @@
+APPELLATION oONTROLEE
+c Ets BROTTE ET ARMENIER
+NEGOCIANTs A CHATEA UNEUF-DU-PAPE (VAuc LUSE)
+
+APPELLATION
+oONTROLEE
+c
+Ets
+BROTTE
+ET
+ARMENIER
+NEGOCIANTs
+A
+CHATEA
+UNEUF-DU-PAPE
+(VAuc
+LUSE)
+"chatenauneuf du pape\nChâteauneuf du Pape\nAppellation Controlee\nEts Brotte et Armenier\nNegociants a Chateauneuf du Pape (Vaucluse)\nNegociants a Chateauneuf-du-Pape (Vaucluse)"
+"Châteauneuf du Pape"
+"chatenauneuf du pape"
+"Appellation Controlee"
+"Ets Brotte et Armenier"
+"Negociants a Chateauneuf-du-Pape (Vaucluse)"
+"Negociants a Chateauneuf du Pape (Vaucluse)"

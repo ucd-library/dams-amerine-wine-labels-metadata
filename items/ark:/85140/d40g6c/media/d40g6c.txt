@@ -1,0 +1,50 @@
+Legend
+CALIF NI AA
+CLARET
+PRODUCED AND BOTTLED AT
+THE WORLDS LARGEST VINEMARD BY
+I. V. C. WIN ERIES. GUASTI. CALIFORNIA
+Fine California ines, edince 1885
+ALCOHOL 12% BY VOLUME
+
+Legend
+CALIF
+NI
+AA
+CLARET
+PRODUCED
+AND
+BOTTLED
+AT
+THE
+WORLDS
+LARGEST
+VINEMARD
+BY
+I.
+V.
+C.
+WIN
+ERIES.
+GUASTI.
+CALIFORNIA
+Fine
+California
+ines,
+edince
+1885
+ALCOHOL
+12%
+BY
+VOLUME
+"Legend\nCALIFORNIA\nCLARET\nProduced and Bottled at the Worlds Largest Vineyard By\nPRODUCED AND BOTTLED AT THE WORLDS LARGEST VINEYARD BY\nI.V.C. Wineries, Guasti, California\nI.V.C. WINERIES, GUASTI, CALIFORNIA\nFine California Wines...Since 1883\nAlcohol 12% by volume\nALCOHOL 12% BY VOLUME"
+"Legend"
+"CALIFORNIA"
+"CLARET"
+"PRODUCED AND BOTTLED AT THE WORLDS LARGEST VINEYARD BY"
+"Produced and Bottled at the Worlds Largest Vineyard By"
+"I.V.C. Wineries, Guasti, California"
+"I.V.C. WINERIES, GUASTI, CALIFORNIA"
+"Fine California Wines...Since 1883"
+"ALCOHOL 12% BY VOLUME"
+"Alcohol 12% by volume"

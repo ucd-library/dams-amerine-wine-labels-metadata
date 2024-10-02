@@ -1,0 +1,38 @@
+CH VAASSEUR
+VOUVRAY
+APPELLATION vouvRAY CONTROLEE
+GRAND VIN
+CLOS DU BOUCHET RESERVE 1933
+FRANCE
+
+CH
+VAASSEUR
+VOUVRAY
+APPELLATION
+vouvRAY
+CONTROLEE
+GRAND
+VIN
+CLOS
+DU
+BOUCHET
+RESERVE
+1933
+FRANCE
+"Vouvray\nAmoray\nCh. Vavasseur\nVouvray\nAppellation Vouvray Controlée\nAPPELLATION VOUVRAY CONTROLE'E\n\"CLOS DU BOUCHET\"\n\"Clos du Bouchet\"\nRE'SERVE 1933\nréserve 1933\nGrand Vin\nGRAND VIN\nFRANCE\nFrance\nPrie\nPrice"
+"Amoray"
+"Vouvray"
+"Ch. Vavasseur"
+"Vouvray"
+"Appellation Vouvray Controlée"
+"APPELLATION VOUVRAY CONTROLE'E"
+"\"CLOS DU BOUCHET\""
+"\"Clos du Bouchet\""
+"réserve 1933"
+"RE'SERVE 1933"
+"GRAND VIN"
+"Grand Vin"
+"FRANCE"
+"France"
+"Prie"
+"Price"

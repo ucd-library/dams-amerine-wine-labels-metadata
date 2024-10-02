@@ -1,0 +1,55 @@
+O
+ノ乏ーイーンー ーーーーーーー
+5 GALLON
+PAID A
+MIS EN BOUTEILLE
+AU CHATEAU
+CHATEAU LAFAURIE-PEYRAGUEY
+IER GRAND CRUDE SAUTERNES
+t 4 n can noVropPLete.AUConte Duchatel
+AnciennegroprveteauComteCouchiitet
+1918---------
+
+O
+ノ
+乏
+ーイーンー
+ーーーーーーー
+5
+GALLON
+PAID
+A
+MIS
+EN
+BOUTEILLE
+AU
+CHATEAU
+CHATEAU
+LAFAURIE
+-
+PEYRAGUEY
+IER
+GRAND
+CRUDE
+SAUTERNES
+t
+4
+n
+can
+noVropPLete.AUConte
+Duchatel
+AnciennegroprveteauComteCouchiitet
+1918
+---------
+"MIS EN BOUTEILLE AU CHATEAU\nmis en bouteille au chateau\nChâteau Lafaurie-Peyraguey\nChateau Lafaurie-Peyraguey\n1er Grand Cru De Sauternes\n1er Grand Crû de Sauternes\nAncienne Propriété Du Comte Duchâtel\nAncienne Propriete du Comte Duchatel\n1918\nD. Cordier Proprietaire\nD, Cordier Proprietaire"
+"mis en bouteille au chateau"
+"MIS EN BOUTEILLE AU CHATEAU"
+"Château Lafaurie-Peyraguey"
+"Chateau Lafaurie-Peyraguey"
+"1er Grand Crû de Sauternes"
+"1er Grand Cru De Sauternes"
+"Ancienne Propriete du Comte Duchatel"
+"Ancienne Propriété Du Comte Duchâtel"
+"1918"
+"D. Cordier Proprietaire"
+"D, Cordier Proprietaire"

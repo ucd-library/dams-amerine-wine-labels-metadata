@@ -1,0 +1,30 @@
+39
+CHNE BEYCHEELLE
+Grand Vin 1999
+Chille FOULD
+a MDOLENAAR BORDEAUX
+
+39
+CHNE
+BEYCHEELLE
+Grand
+Vin
+1999
+Chille
+FOULD
+a
+MDOLENAAR
+BORDEAUX
+"4th Cru St. Julien (Medoc)\n\nSt. Julien\nMedoc\nMédoc\nDinner Bohemian Club November 1939 .90 Dinner Griffith 1428/49 A\nDinner Bahemian Club November 1939 -- .90 / Dinner Griffiths 12/28/49 A\nChâteau Beychevelle\nCHÂTEAU BEYCHEVELLE\nGrand Vin 1929\nAchille FOULD\nAchille Fould"
+"4th Cru St. Julien (Medoc)"
+""
+"St. Julien"
+"Médoc"
+"Medoc"
+"Dinner Bahemian Club November 1939 -- .90 / Dinner Griffiths 12/28/49 A"
+"Dinner Bohemian Club November 1939 .90 Dinner Griffith 1428/49 A"
+"CHÂTEAU BEYCHEVELLE"
+"Château Beychevelle"
+"Grand Vin 1929"
+"Achille Fould"
+"Achille FOULD"

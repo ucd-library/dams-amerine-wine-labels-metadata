@@ -1,0 +1,32 @@
+CHATEAU COUTET BARSAC
+ler GRAND CRU DE SAUTERNES
+1947
+MIS EN BOUTEILLES AU CHATEAU
+APPELLATION CONTROLEE BARSAC
+
+CHATEAU
+COUTET
+BARSAC
+ler
+GRAND
+CRU
+DE
+SAUTERNES
+1947
+MIS
+EN
+BOUTEILLES
+AU
+CHATEAU
+APPELLATION
+CONTROLEE
+BARSAC
+"Chateau Coutet a Barsac\nChateau Coutet à Barsac\n1er Grand Cru de Sauternes\n1er Grand cru de Sauternes\n1947\nMis en Bouteilles au Chateau\nAppellation Controlee\nAppellation Controllée Barsac"
+"Chateau Coutet a Barsac"
+"Chateau Coutet à Barsac"
+"1er Grand cru de Sauternes"
+"1er Grand Cru de Sauternes"
+"1947"
+"Mis en Bouteilles au Chateau"
+"Appellation Controlee"
+"Appellation Controllée Barsac"

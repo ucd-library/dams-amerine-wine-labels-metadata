@@ -1,0 +1,39 @@
+REG. EMB. N 10
+BILBAINAS
+BODEGAS
+E
+CEPA DE ORO
+COSECHA 1947
+HARO RIOJA
+EMBOTELLADO EN LA BoDEGA
+
+REG.
+EMB.
+N
+10
+BILBAINAS
+BODEGAS
+E
+CEPA
+DE
+ORO
+COSECHA
+1947
+HARO
+RIOJA
+EMBOTELLADO
+EN
+LA
+BoDEGA
+"REG EMB No. 10\nREG.EMB. N*10\nCEPA DE ORO\nBodegas Billainas\nBodegas Bilbainas\nCOSECHA 1947\nCosecha 1947\nHaro - Rioja\nHaro-Rioja\nEmbotellado en la Bodega\nA.G. Lerchundi,"
+"REG EMB No. 10"
+"REG.EMB. N*10"
+"CEPA DE ORO"
+"Bodegas Bilbainas"
+"Bodegas Billainas"
+"Cosecha 1947"
+"COSECHA 1947"
+"Haro-Rioja"
+"Haro - Rioja"
+"Embotellado en la Bodega"
+"A.G. Lerchundi,"

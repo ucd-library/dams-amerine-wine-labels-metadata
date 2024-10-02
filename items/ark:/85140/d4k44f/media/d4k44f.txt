@@ -1,0 +1,41 @@
+CREMA NT
+GRAND
+DUCHESSE DE BOUR606NE
+MONO POLE
+GRAND BOURGOGNE MOUSSEUX
+ENTREPOTS.A BORDEAUX ET EPERNAY
+MICHEL LEVY FI
+RNA
+
+CREMA
+NT
+GRAND
+DUCHESSE
+DE
+BOUR606NE
+MONO
+POLE
+GRAND
+BOURGOGNE
+MOUSSEUX
+ENTREPOTS.A
+BORDEAUX
+ET
+EPERNAY
+MICHEL
+LEVY
+FI
+RNA
+"Grand Crémant\nGRAND CRÉMANT\nDuchesse de Bourgogne\nMonopole\nGrand Bourgogne Mousseux\nEtablissements Adrien Sarrazin\nDigon (Bourgogne)\nDijon (Bourgogne)\nEntrepôts à Bordeaux et Épernay\nEntrepots A Bordeaux et Epernay\nMichel Levy Fils Epernay\nMichel Levy Fils Épernay"
+"Grand Crémant"
+"GRAND CRÉMANT"
+"Duchesse de Bourgogne"
+"Monopole"
+"Grand Bourgogne Mousseux"
+"Etablissements Adrien Sarrazin"
+"Dijon (Bourgogne)"
+"Digon (Bourgogne)"
+"Entrepots A Bordeaux et Epernay"
+"Entrepôts à Bordeaux et Épernay"
+"Michel Levy Fils Epernay"
+"Michel Levy Fils Épernay"

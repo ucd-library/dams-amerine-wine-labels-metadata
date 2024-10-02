@@ -1,0 +1,21 @@
+LES DEMOISELLE
+Mis en bouteilles a la propriete
+
+LES
+DEMOISELLE
+Mis
+en
+bouteilles
+a
+la
+propriete
+"Cote de Beaune Puligny-Montrachet Tête de Cuvée\nCote de Beaune, Puligny-Montrachet, Tete du Cuvee\nPresent: Blanquie, Lyman White, Lucia, Jeff Smith, Farnham, Selleck, Michel Weill, XXXX, ECH\n1935\nDinner Raoul Blanquie 2/19/44 B+\nChevalier-Montrachet\n\"Les Demoiselles\"\n\"LES DEMOISELLES\"\nMis en bouteilles a la propriete"
+"Cote de Beaune Puligny-Montrachet Tête de Cuvée"
+"Cote de Beaune, Puligny-Montrachet, Tete du Cuvee"
+"Present: Blanquie, Lyman White, Lucia, Jeff Smith, Farnham, Selleck, Michel Weill, XXXX, ECH"
+"1935"
+"Dinner Raoul Blanquie 2/19/44 B+"
+"Chevalier-Montrachet"
+"\"LES DEMOISELLES\""
+"\"Les Demoiselles\""
+"Mis en bouteilles a la propriete"

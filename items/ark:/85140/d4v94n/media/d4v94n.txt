@@ -1,0 +1,59 @@
+Alcohol 10
+Contents
+M O SEL SAAR RUw 1 Pint 8 Fl. Oz.
+WER by Volume
+1947
+Piesporter Falkenberg Auslese
+Fuder Nr. 7108
+Original-Abfullung
+WACHSTUM: REICHSGRAF VON KESSELSTATT TRIER
+WEILER, AAR
+AT
+TRIER
+a 
+Alcohol
+10
+Contents
+M
+O
+SEL
+SAAR
+RUw
+1
+Pint
+8
+Fl.
+Oz.
+WER
+by
+Volume
+1947
+Piesporter
+Falkenberg
+Auslese
+Fuder
+Nr.
+7108
+Original-Abfullung
+WACHSTUM:
+REICHSGRAF
+VON
+KESSELSTATT
+TRIER
+WEILER,
+AAR
+AT
+TRIER
+a
+"Alcohol 10% by Volume\nContents 1 Pint 8 Fl. Oz.\nMOSEL-SAAR-RUWER\nMosel-Saar-Ruwer\n1947er\n1947\nPiesporter Falkenberg Auslese\nFuder Nr. 7108\nOriginal -Abfüllung\nOriginal-Abfüllung\nWachstum: Reichsgraf von Kesselstatt, Trier"
+"Alcohol 10% by Volume"
+"Contents 1 Pint 8 Fl. Oz."
+"Mosel-Saar-Ruwer"
+"MOSEL-SAAR-RUWER"
+"1947er"
+"1947"
+"Piesporter Falkenberg Auslese"
+"Fuder Nr. 7108"
+"Original-Abfüllung"
+"Original -Abfüllung"
+"Wachstum: Reichsgraf von Kesselstatt, Trier"

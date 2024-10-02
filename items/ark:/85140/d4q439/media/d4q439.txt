@@ -1,0 +1,41 @@
+DE SETUBAL
+COLHEITA
+1911
+G A R R
+E R A
+SECA, SUCC
+JOSE MAR
+BAL
+AZE
+A L
+1834
+
+DE
+SETUBAL
+COLHEITA
+1911
+G
+A
+R
+R
+E
+R
+A
+SECA,
+SUCC
+JOSE
+MAR
+BAL
+AZE
+A
+L
+1834
+"ECA\nCresc 1954\n1954\nSan Louis Loures France\nDe Setúbal Colheita 1911\nGarrafeira, José Maria Da Fonsecca, Azeitao Setubal, Portugal\nGarrafeira José Maria da Fonseca, Succ. Aze???bal Portugal\n1834"
+"ECA"
+"Cresc 1954"
+"1954"
+"San Louis Loures France"
+"De Setúbal Colheita 1911"
+"Garrafeira, José Maria Da Fonsecca, Azeitao Setubal, Portugal"
+"Garrafeira José Maria da Fonseca, Succ. Aze???bal Portugal"
+"1834"

@@ -1,0 +1,35 @@
+Clos des Dambrays
+1948
+APPELLATION CONT ROLE E
+Place Ga
+On
+A RIS
+CH
+394
+
+Clos
+des
+Dambrays
+1948
+APPELLATION
+CONT
+ROLE
+E
+Place
+Ga
+On
+A
+RIS
+CH
+394
+"Caves du Restaurant Drouant\nCaves du Restaurant Duvuant\nClos des Lambrays\n1948\nAPPELLATION CONTROLEE\nAPPELLATION CONTROLÉE\nPlace Gaillon\nParis\n\nCH. B - PS - 34.3945"
+"Caves du Restaurant Drouant"
+"Caves du Restaurant Duvuant"
+"Clos des Lambrays"
+"1948"
+"APPELLATION CONTROLÉE"
+"APPELLATION CONTROLEE"
+"Place Gaillon"
+"Paris"
+""
+"CH. B - PS - 34.3945"

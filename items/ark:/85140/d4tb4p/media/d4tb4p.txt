@@ -1,0 +1,23 @@
+24
+"LA GorA"
+MANZANILLA PASADA
+LIT. SALIDO M. JEREZ.
+
+24
+"LA
+GorA"
+MANZANILLA
+PASADA
+LIT.
+SALIDO
+M.
+JEREZ.
+"\"La Goya\" Manzanilla pasada\n\"La Goya\" MANZANILLA PASADA\nJHijos de José Delgado y Zuleta\nHIJOS DE JOSE DELGADO Y ZULETA\nS.L. Sanlucar de Barrameda\nS.L. SANLUCAR DE BARRAMEDA\n24\nLit. Salido M. Jerez"
+"\"La Goya\" Manzanilla pasada"
+"\"La Goya\" MANZANILLA PASADA"
+"HIJOS DE JOSE DELGADO Y ZULETA"
+"JHijos de José Delgado y Zuleta"
+"S.L. SANLUCAR DE BARRAMEDA"
+"S.L. Sanlucar de Barrameda"
+"24"
+"Lit. Salido M. Jerez"

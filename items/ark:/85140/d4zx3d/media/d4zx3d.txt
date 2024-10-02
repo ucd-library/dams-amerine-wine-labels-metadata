@@ -1,0 +1,33 @@
+Pommard
+dMichel Faumarque
+&
+R. C. Brnxelles 6110
+Imp' Nola.que-BK
+Depo B é N 163
+
+Pommard
+dMichel
+Faumarque
+&
+R.
+C.
+Brnxelles
+6110
+Imp'
+Nola.que-BK
+Depo
+B
+é
+N
+163
+"Grand Vin de Bourgogne\nPommard\nMichel Fauvarque & Co\nMichel Faudarque & Co\nR.G. Bruxelles 6110\nR. C. Bruxelles 6110\nL\nImpi Nolasque B*\nDepose N 163\nDepose No 163"
+"Grand Vin de Bourgogne"
+"Pommard"
+"Michel Faudarque & Co"
+"Michel Fauvarque & Co"
+"R.G. Bruxelles 6110"
+"R. C. Bruxelles 6110"
+"Impi Nolasque B*"
+"L"
+"Depose No 163"
+"Depose N 163"

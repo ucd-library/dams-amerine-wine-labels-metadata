@@ -1,0 +1,38 @@
+No 97
+OTELLADO
+MARCA
+CONCEDIDA
+SOCIEDAD DE COSECHEROS DE VINO
+FUNDADA EN 189O
+RIOJA CLARETE
+EMBOTELLADO EN SU 6. Ano
+
+No
+97
+OTELLADO
+MARCA
+CONCEDIDA
+SOCIEDAD
+DE
+COSECHEROS
+DE
+VINO
+FUNDADA
+EN
+189O
+RIOJA
+CLARETE
+EMBOTELLADO
+EN
+SU
+6.
+Ano
+"Registro de embotelladores No. 97\nRegistrado de embotelladores No. 97\nLa Rioja Alta\nSociedad de Cosecheros de vino, Fundada en 1890\nSociedad de Cosecheros de vino. Fundada en 1890\nHaro\nRioja Clarete\nEmbotellado en su 6. ano"
+"Registrado de embotelladores No. 97"
+"Registro de embotelladores No. 97"
+"La Rioja Alta"
+"Sociedad de Cosecheros de vino, Fundada en 1890"
+"Sociedad de Cosecheros de vino. Fundada en 1890"
+"Haro"
+"Rioja Clarete"
+"Embotellado en su 6. ano"

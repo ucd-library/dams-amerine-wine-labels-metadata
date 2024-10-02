@@ -1,0 +1,26 @@
+N. 232
+ROMa
+CHEZ
+MARCA REGISTRADA
+ATE
+FINO
+MARISMENU
+
+N.
+232
+ROMa
+CHEZ
+MARCA
+REGISTRADA
+ATE
+FINO
+MARISMENU
+"No. 232\nFino Marismeno\nFino Marismeño\nMarca Registrada\nSanchez Romate Hnos\nExportadores\nPerez de la Fronterac\nPerez de la Frontera"
+"No. 232"
+"Fino Marismeño"
+"Fino Marismeno"
+"Marca Registrada"
+"Sanchez Romate Hnos"
+"Exportadores"
+"Perez de la Frontera"
+"Perez de la Fronterac"

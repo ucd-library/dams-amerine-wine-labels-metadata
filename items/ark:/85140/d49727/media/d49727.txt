@@ -1,0 +1,38 @@
+1951 er
+Walporzheimer Domberg
+Spatburgunder
+Wachsium winzerverein
+Weinkellerei der Preuss isch-Rhein ischen
+Dampfschiffahrt gesellschaft Kijin
+
+1951
+er
+Walporzheimer
+Domberg
+Spatburgunder
+Wachsium
+winzerverein
+Weinkellerei
+der
+Preuss
+isch
+-
+Rhein
+ischen
+Dampfschiffahrt
+gesellschaft
+Kijin
+"1951er\n1951er\n1951 er\nWalporzheimer Domberg\nWalporzheimer Domberg\nSpätburgunder Wachstum Winzerverein\nSpätburgunder Wachstum Winzerverein\nWeinkelleri der Preussich-Rheinishen Dampfschiffahrt geselschaft, Köln\nWeinkellerei der Preussich-Rheinishen Dampfschiffartgesellschaft, Köln\nWeinkellerei der Preussisch-Rheinischen Dampfschiffahrtgesellschaft, Köln\nWeinkellerei der Preussisch-Rheinischen Dampfschifffahrtgesellscahft, Köln\nSchott A.G. Rheydt\n1123"
+"1951er"
+"1951 er"
+"1951er"
+"Walporzheimer Domberg"
+"Walporzheimer Domberg"
+"Spätburgunder Wachstum Winzerverein"
+"Spätburgunder Wachstum Winzerverein"
+"Weinkellerei der Preussich-Rheinishen Dampfschiffartgesellschaft, Köln"
+"Weinkelleri der Preussich-Rheinishen Dampfschiffahrt geselschaft, Köln"
+"Weinkellerei der Preussisch-Rheinischen Dampfschiffahrtgesellschaft, Köln"
+"Weinkellerei der Preussisch-Rheinischen Dampfschifffahrtgesellscahft, Köln"
+"Schott A.G. Rheydt"
+"1123"

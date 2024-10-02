@@ -1,0 +1,59 @@
+Bobadilla Cha
+(ESPANA
+SOLERA LA MERCED
+ANADA 1875
+OLOROSO MUY VIEJO
+BODEGAS DE LA MERCED, FUNDADAS EN 795
+BODEGAS DE
+MANUEL FERNANDEZ Y CIA. S. L.
+JEREZ
+2 2 4
+
+Bobadilla
+Cha
+(ESPANA
+SOLERA
+LA
+MERCED
+ANADA
+1875
+OLOROSO
+MUY
+VIEJO
+BODEGAS
+DE
+LA
+MERCED,
+FUNDADAS
+EN
+795
+BODEGAS
+DE
+MANUEL
+FERNANDEZ
+Y
+CIA.
+S.
+L.
+JEREZ
+2
+2
+4
+"bobadilla y cia\nBobadilla y Cia.\njerez (espana)\nJerez(España)\nsolera \"La Merced\"\nSolera \"La Merced\"\nanada 1875\nAnada 1875\nlion/oak shield\nCoat of arms\noloroso muy viejo\nOloroso Muy Viejo\nbodegas de la merced, fundads en 1795\nBodegas de la Merced, Fundadas en 1.795\nbodegas de manuel fernandez y cia., S.L. jerez\nBODEGAS DE MANUEL FERNANDEZ Y CIA., S.L. JEREZ\n224"
+"bobadilla y cia"
+"Bobadilla y Cia."
+"jerez (espana)"
+"Jerez(España)"
+"Solera \"La Merced\""
+"solera \"La Merced\""
+"anada 1875"
+"Anada 1875"
+"lion/oak shield"
+"Coat of arms"
+"Oloroso Muy Viejo"
+"oloroso muy viejo"
+"bodegas de la merced, fundads en 1795"
+"Bodegas de la Merced, Fundadas en 1.795"
+"BODEGAS DE MANUEL FERNANDEZ Y CIA., S.L. JEREZ"
+"bodegas de manuel fernandez y cia., S.L. jerez"
+"224"

@@ -1,0 +1,28 @@
+HAUT.Po MEROL
+Grand er
+Cru
+LEVANGILE
+19 28
+MME PAUL DUCASSE
+PROPRIETAIRE
+
+HAUT.Po
+MEROL
+Grand
+er
+Cru
+LEVANGILE
+19
+28
+MME
+PAUL
+DUCASSE
+PROPRIETAIRE
+"\nHaut-Pomerol\nGrand 1er. Cru\nl'Evangile\n1928\nMME PAUL DUCASSE PROPRIETAIRE\nMme Paul Ducasse PROPRIÉTAIRE"
+""
+"Haut-Pomerol"
+"Grand 1er. Cru"
+"l'Evangile"
+"1928"
+"Mme Paul Ducasse PROPRIÉTAIRE"
+"MME PAUL DUCASSE PROPRIETAIRE"

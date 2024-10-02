@@ -1,0 +1,33 @@
+CAREGISTRA
+IMPERIAL
+COSECHA 1933
+GIST
+N9 44
+HARO BILBAO
+
+CAREGISTRA
+IMPERIAL
+COSECHA
+1933
+GIST
+N9
+44
+HARO
+BILBAO
+"Marca Registrada\nMARCA REGISTRADA\nMarca Registrada\nmarca registrada\nImperial\nimperial\nCosecha 1933\ncosecha 1933\nCompañia Vinicola del Norte de España\ncompania vinicola del norte de espana\nRegistro №44 Embotelladores\nregistro embotelladores no.44\nHaro Bilbao\nharo-bilbao\nLit: Jerez Industrial\nphleger"
+"Marca Registrada"
+"MARCA REGISTRADA"
+"Marca Registrada"
+"marca registrada"
+"Imperial"
+"imperial"
+"Cosecha 1933"
+"cosecha 1933"
+"compania vinicola del norte de espana"
+"Compañia Vinicola del Norte de España"
+"Registro №44 Embotelladores"
+"registro embotelladores no.44"
+"haro-bilbao"
+"Haro Bilbao"
+"Lit: Jerez Industrial"
+"phleger"

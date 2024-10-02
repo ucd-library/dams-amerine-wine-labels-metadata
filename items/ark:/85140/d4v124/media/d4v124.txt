@@ -1,0 +1,69 @@
+Produce of France
+DEPOSE
+IMP-PARIS, NUITS
+1929
+?Roue Depo
+Alcoholic Contenj 13 by volume
+Net Contents 1 Pint 8 Fl. 02.
+APPELLATION
+CONTROLEE
+LEON GRIVELET-CUSSET, s. A.
+NEGOCIANT A NUITS ST GEORGE S (COTE-D OR)
+
+Produce
+of
+France
+DEPOSE
+IMP-PARIS,
+NUITS
+1929
+?Roue
+Depo
+Alcoholic
+Contenj
+13
+by
+volume
+Net
+Contents
+1
+Pint
+8
+Fl.
+02.
+APPELLATION
+CONTROLEE
+LEON
+GRIVELET-CUSSET,
+s.
+A.
+NEGOCIANT
+A
+NUITS
+ST
+GEORGE
+S
+(COTE-D
+OR)
+"1929\nNuits St. Georges\ngrivelet-cusset\nPresent: Jack Pxxxx Hewitt Davenport Sterling Carr CEH\nLunch Nov. 1950 B\nMarque Deposee\nAlcoholic Content: 13% by volume\nAlcoholic content: 13% by volume\nNet contents 1 pint 8 fl. oz.\nProduce of France\nClos de Vougeot\nClos de Vourgeol\nPomeroy\nAppellation Controlee\nAppellation controlee\nLeon Grivelet-\nLeon Grivelet-Cusset, S.A.\nNegociant a Nuits St. Georges (Cote d'Or)\n\nDepose Imp. Paris-Nuits\nDéposé\nIMP_PARIS_NUITS"
+"1929"
+"Nuits St. Georges"
+"grivelet-cusset"
+"Present: Jack Pxxxx Hewitt Davenport Sterling Carr CEH"
+"Lunch Nov. 1950 B"
+"Marque Deposee"
+"Alcoholic Content: 13% by volume"
+"Alcoholic content: 13% by volume"
+"Net contents 1 pint 8 fl. oz."
+"Produce of France"
+"Clos de Vourgeol"
+"Clos de Vougeot"
+"Pomeroy"
+"Appellation Controlee"
+"Appellation controlee"
+"Leon Grivelet-Cusset, S.A."
+"Leon Grivelet-"
+"Negociant a Nuits St. Georges (Cote d'Or)"
+""
+"Déposé\nIMP_PARIS_NUITS"
+"Depose Imp. Paris-Nuits"

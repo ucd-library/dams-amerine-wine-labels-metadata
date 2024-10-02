@@ -1,0 +1,29 @@
+MUSCADET
+APPELLATION MUSCADET
+DE SEVRE ET MAINE CONTROLEE
+Kernéis Prone LE PALLET (LinF)
+
+MUSCADET
+APPELLATION
+MUSCADET
+DE
+SEVRE
+ET
+MAINE
+CONTROLEE
+Kernéis
+Prone
+LE
+PALLET
+(LinF)
+"MUSCADET\nChâteau de la Mercredière\nChateau de la Mercrediere\nAPPELLATION MUSCADET\nAppellation Muscadet\nDe Sèvre et Maine Controlee\nDE SÈVRE ET MAIN CONTROLÉE\nKerneis Prore Le Pallet (L.Inf)\n'Kernéis Prore. LE PALLET (L.Inf)\nFPG"
+"MUSCADET"
+"Chateau de la Mercrediere"
+"Château de la Mercredière"
+"Appellation Muscadet"
+"APPELLATION MUSCADET"
+"DE SÈVRE ET MAIN CONTROLÉE"
+"De Sèvre et Maine Controlee"
+"Kerneis Prore Le Pallet (L.Inf)"
+"'Kernéis Prore. LE PALLET (L.Inf)"
+"FPG"

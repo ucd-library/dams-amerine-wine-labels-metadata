@@ -1,0 +1,40 @@
+Me R
+VALDIVIESO
+1931
+CHILE AN FABRICACION CHILENA
+EXTRA DRY
+CHAMPAGNE
+ALBERTO .VALDIVIESO M
+SANTIAGO (CHILE)
+SANTA ELENA
+
+Me
+R
+VALDIVIESO
+1931
+CHILE
+AN
+FABRICACION
+CHILENA
+EXTRA
+DRY
+CHAMPAGNE
+ALBERTO
+.VALDIVIESO
+M
+SANTIAGO
+(CHILE)
+SANTA
+ELENA
+"Champagne\nMembers Dinner Wine and Food Society California Golf Club 4/15/41 B Dry - \nMembers Dinner\nWine & Food Society\nCalifornia Golf Club\n4/15/41\nB\nDry - Lacks character\nValdivieso\n1931\nFabricacion Chilena\nChilean Champagne\nExtra-Dry\nAlberto Valdivieso M.\nSanta Elena Santiago (Chile)\n+"
+"Champagne"
+"Members Dinner Wine and Food Society California Golf Club 4/15/41 B Dry - "
+"Members Dinner\nWine & Food Society\nCalifornia Golf Club\n4/15/41\nB\nDry - Lacks character"
+"Valdivieso"
+"1931"
+"Fabricacion Chilena"
+"Chilean Champagne"
+"Extra-Dry"
+"Alberto Valdivieso M."
+"Santa Elena Santiago (Chile)"
+"+"

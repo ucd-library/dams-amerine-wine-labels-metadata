@@ -1,0 +1,36 @@
+MARQUE
+POSEE
+M E D O C
+MAISON FONDEE EN 1780
+LIBOURNE
+(France)
+PRINTED IN FRANCE
+
+MARQUE
+POSEE
+M
+E
+D
+O
+C
+MAISON
+FONDEE
+EN
+1780
+LIBOURNE
+(France)
+PRINTED
+IN
+FRANCE
+"MEDOC\nL.Danglade & Fils\nL. Danglades & Fils\nMAISON FONDEE EN 1780\nLIBOURNE\n(FRANCE)\nbordeaux \nBORDEAUX\nMP Nolasque\nPrinted in France\nprinted in France"
+"MEDOC"
+"L.Danglade & Fils"
+"L. Danglades & Fils"
+"MAISON FONDEE EN 1780"
+"LIBOURNE"
+"(FRANCE)"
+"BORDEAUX"
+"bordeaux "
+"MP Nolasque"
+"Printed in France"
+"printed in France"

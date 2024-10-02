@@ -1,0 +1,26 @@
+ROUALET
+BEAUNE
+BEA UNE-AVAUX
+1947
+CONT. 0,68 0,70 cl.
+R. C. BRUXELLES 197646
+
+ROUALET
+BEAUNE
+BEA
+UNE-AVAUX
+1947
+CONT.
+0,68
+0,70
+cl.
+R.
+C.
+BRUXELLES
+197646
+"Domained du Chateau de Beaune\nDomaines du Chateau de Beaune\nBeaune-Avaux\nCont 0,68/0,70 cl. R.C> Bruxelles 197646\nCont. 0,68/0,70 cl. R.C. Bruxelles 197646"
+"Domained du Chateau de Beaune"
+"Domaines du Chateau de Beaune"
+"Beaune-Avaux"
+"Cont 0,68/0,70 cl. R.C> Bruxelles 197646"
+"Cont. 0,68/0,70 cl. R.C. Bruxelles 197646"

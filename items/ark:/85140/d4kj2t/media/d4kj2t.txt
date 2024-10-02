@@ -1,0 +1,53 @@
+N 63H DEPOSE
+PRODUCE OF F
+CE
+RIESLING
+J. MOUSSARD
+RIQUEWIHR (Haut-Rhin)
+Imported by City of Paris
+Union Square-San Francisco
+Permit Number 667
+Bottled in Riquewihr in July 1930
+GJOUNEAU-PARIS
+
+N
+63H
+DEPOSE
+PRODUCE
+OF
+F
+CE
+RIESLING
+J.
+MOUSSARD
+RIQUEWIHR
+(Haut-Rhin)
+Imported
+by
+City
+of
+Paris
+Union
+Square-San
+Francisco
+Permit
+Number
+667
+Bottled
+in
+Riquewihr
+in
+July
+1930
+GJOUNEAU-PARIS
+"PRODUCE OF FRANCE\nALCOHOLIC STRENGTH 10%8 BY VOLUME\nGRAND VIN D'ALSACE\nCONTENTS: 1 PINT 8 FL. OZS\nRIESLING\nJ. MOUSSARD\nRIQUEWIHR (Haut-Rhin)\nImported by: city of Paris, Union Square-San Francisco Permit Number 667\nImported by: City of Paris / Uniont Square - San Francisco / Permit Number 667\nBottled in Riquewihr in July 1930"
+"PRODUCE OF FRANCE"
+"ALCOHOLIC STRENGTH 10%8 BY VOLUME"
+"GRAND VIN D'ALSACE"
+"CONTENTS: 1 PINT 8 FL. OZS"
+"RIESLING"
+"J. MOUSSARD"
+"RIQUEWIHR (Haut-Rhin)"
+"Imported by: City of Paris / Uniont Square - San Francisco / Permit Number 667"
+"Imported by: city of Paris, Union Square-San Francisco Permit Number 667"
+"Bottled in Riquewihr in July 1930"

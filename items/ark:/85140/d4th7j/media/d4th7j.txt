@@ -1,0 +1,41 @@
+RIESLING
+1943
+PRODUCE OF 1 FRANCE
+PT FLOZ
+0,2
+SHIPPED BY
+CAVES JACO BERT
+ALSAC
+BY
+ALCOHOL
+COL MAAR-ALSACE
+on fondée en 1874
+
+RIESLING
+1943
+PRODUCE
+OF
+1
+FRANCE
+PT
+FLOZ
+0,2
+SHIPPED
+BY
+CAVES
+JACO
+BERT
+ALSAC
+BY
+ALCOHOL
+COL
+MAAR-ALSACE
+on
+fondée
+en
+1874
+"Riesling 1943\nProduce of France Content 1 Pt 8 FlOz\n\nShipped by Caves Jacobert Colmar-Alsace Maison fondee en 1874"
+"Riesling 1943"
+"Produce of France Content 1 Pt 8 FlOz"
+""
+"Shipped by Caves Jacobert Colmar-Alsace Maison fondee en 1874"

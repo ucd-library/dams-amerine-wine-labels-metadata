@@ -1,0 +1,39 @@
+DAILLE D o
+LE DOR
+RIS 187e
+ARIS
+1867
+CHATEAU RAYNE
+1934 CREME DE TETE
+SAUTERNES
+SAUTERNES, APPELLATION CONTROLEE
+
+DAILLE
+D
+o
+LE
+DOR
+RIS
+187e
+ARIS
+1867
+CHATEAU
+RAYNE
+1934
+CREME
+DE
+TETE
+SAUTERNES
+SAUTERNES,
+APPELLATION
+CONTROLEE
+"Chateau de Rayne Vigneau Mis En-Bouteille au Chateau\nchateau de rayne\n1934 creme de tete\nvicomte de pontac\nVicomtede Pontac\nsauternes\nSauternes\nSAUTERNES, APPELLATION CONTROLEE\nSauternes Appellation Controlee"
+"Chateau de Rayne Vigneau Mis En-Bouteille au Chateau"
+"chateau de rayne"
+"1934 creme de tete"
+"Vicomtede Pontac"
+"vicomte de pontac"
+"sauternes"
+"Sauternes"
+"Sauternes Appellation Controlee"
+"SAUTERNES, APPELLATION CONTROLEE"

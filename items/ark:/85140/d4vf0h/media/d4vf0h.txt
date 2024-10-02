@@ -1,0 +1,32 @@
+1952
+CHATEAU PERRON
+G R A V E S
+Appellation GRAVES Controlée
+PEC HEUX, Propriétaire Roaillan
+Mons Cadillac
+
+1952
+CHATEAU
+PERRON
+G
+R
+A
+V
+E
+S
+Appellation
+GRAVES
+Controlée
+PEC
+HEUX,
+Propriétaire
+Roaillan
+Mons
+Cadillac
+"\n1952 Chateau Perron\nGraves Appellation GRAVES Controlee\nGraves Appellation Graves Controlee\nPecheux, Proprietaire a Roaillan\nMons - Cadillac"
+""
+"1952 Chateau Perron"
+"Graves Appellation Graves Controlee"
+"Graves Appellation GRAVES Controlee"
+"Pecheux, Proprietaire a Roaillan"
+"Mons - Cadillac"

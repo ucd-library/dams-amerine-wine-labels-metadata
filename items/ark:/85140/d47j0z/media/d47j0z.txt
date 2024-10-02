@@ -1,0 +1,40 @@
+RHE IN CAU
+1943
+er
+Schloss Vollrads
+Origin a la b fii l un
+GRAF MATUSCHKA-GREIFFENCLATU'SCHE KELLEREI
+Alcohol 9,71% by Volume
+
+RHE
+IN
+CAU
+1943
+er
+Schloss
+Vollrads
+Origin
+a
+la
+b
+fii
+l
+un
+GRAF
+MATUSCHKA-GREIFFENCLATU'SCHE
+KELLEREI
+Alcohol
+9,71%
+by
+Volume
+"Rheingau\n1943er\n1943 er\nSchloss Vollrads\nOriginalabfüllung\nOriginalabfullung\nGraf Matuschka-Greiffenclau'sche Kellerei\nGraf Matuschka-Greiffenclau'Sche Kellerei\nAlcohol 9,71% by Volume\nAlcohol 9.71% by Volume"
+"Rheingau"
+"1943 er"
+"1943er"
+"Schloss Vollrads"
+"Originalabfullung"
+"Originalabfüllung"
+"Graf Matuschka-Greiffenclau'Sche Kellerei"
+"Graf Matuschka-Greiffenclau'sche Kellerei"
+"Alcohol 9,71% by Volume"
+"Alcohol 9.71% by Volume"

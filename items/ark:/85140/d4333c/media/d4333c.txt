@@ -1,0 +1,22 @@
+a Cote
+1947
+LLA GUES VA
+AUD
+
+a
+Cote
+1947
+LLA
+GUES
+VA
+AUD
+"La Côte\nLa Cote\npetillant\n1947\nFBC\nBourgeois Freres & Cie., S.A.\nBourgeois Fréres & Cie. S. A.\nBALLAIGUES VAUD\nBallaigues, Vaud"
+"La Côte"
+"La Cote"
+"petillant"
+"1947"
+"FBC"
+"Bourgeois Freres & Cie., S.A."
+"Bourgeois Fréres & Cie. S. A."
+"BALLAIGUES VAUD"
+"Ballaigues, Vaud"

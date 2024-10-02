@@ -1,0 +1,36 @@
+Weingut hrone
+Weingut hrone
+n
+1949 er
+Mehringer Huxlay Riesling
+Wadstum Kaster
+M 0 SEL SA AR RU WER
+JOS HufnageThronenkellereTASsmannshausen Rhein
+
+Weingut
+hrone
+Weingut
+hrone
+n
+1949
+er
+Mehringer
+Huxlay
+Riesling
+Wadstum
+Kaster
+M
+0
+SEL
+SA
+AR
+RU
+WER
+JOS
+HufnageThronenkellereTASsmannshausen
+Rhein
+"Weingut Krone\nMehringer Huxlay Riesling\nMehringer Huxlay Riesling Wachstum Kaster Mosel-Saar-Ruwer\nMehringer Huxlay Riesling Wachstum Kaster MOSEL-SAAR-RUWER"
+"Weingut Krone"
+"Mehringer Huxlay Riesling"
+"Mehringer Huxlay Riesling Wachstum Kaster MOSEL-SAAR-RUWER"
+"Mehringer Huxlay Riesling Wachstum Kaster Mosel-Saar-Ruwer"

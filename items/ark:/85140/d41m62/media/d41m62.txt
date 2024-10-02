@@ -1,0 +1,37 @@
+1995
+CHATEAU LA TOUR
+UT-BRIO
+GRAND VIN
+GRAVES
+ROUGE S
+TALE NCE
+BORDEAUX
+Mis en Bouteilles au Chateau
+
+1995
+CHATEAU
+LA
+TOUR
+UT-BRIO
+GRAND
+VIN
+GRAVES
+ROUGE
+S
+TALE
+NCE
+BORDEAUX
+Mis
+en
+Bouteilles
+au
+Chateau
+"Graves\n1925\nCHATEAU LA TOUR HAUT-BRION GRAND VIN\nChateau La Tour Haut-Brion Grand Vin\nGraves Rouges Talence\nBordeaux\nMis en bouteilles au Château\nMis en Bouteilles au Chàteau"
+"Graves"
+"1925"
+"CHATEAU LA TOUR HAUT-BRION GRAND VIN"
+"Chateau La Tour Haut-Brion Grand Vin"
+"Graves Rouges Talence"
+"Bordeaux"
+"Mis en Bouteilles au Chàteau"
+"Mis en bouteilles au Château"

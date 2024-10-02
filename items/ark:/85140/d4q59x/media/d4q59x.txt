@@ -1,0 +1,32 @@
+ANTINORI
+FORNITORI DELLA REAL CASA
+DELLA
+UCE PROE
+CHIANTI VECCHIO
+MBOTTIGLIATO DAL CLEENTE
+
+ANTINORI
+FORNITORI
+DELLA
+REAL
+CASA
+DELLA
+UCE
+PROE
+CHIANTI
+VECCHIO
+MBOTTIGLIATO
+DAL
+CLEENTE
+"Italy (Red)\nantinori\nfornitori della real casa\nChianti Vecchio\nchianti vecchio\nCantine dei Marchesi Lodovico Piero Antinori\ncantinedei marchesi lodovico piero antinori\nfirenze\nFirenze\nImbottigliato dal cliente\nDitta G. Alinari Firenze"
+"Italy (Red)"
+"antinori"
+"fornitori della real casa"
+"chianti vecchio"
+"Chianti Vecchio"
+"cantinedei marchesi lodovico piero antinori"
+"Cantine dei Marchesi Lodovico Piero Antinori"
+"Firenze"
+"firenze"
+"Imbottigliato dal cliente"
+"Ditta G. Alinari Firenze"

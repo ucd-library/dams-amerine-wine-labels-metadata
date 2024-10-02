@@ -1,0 +1,59 @@
+ROMA
+ALCOHOL 2
+BY VOLUME
+11 CALIFORNIA
+BULK PRO CESS
+SPARKLING WINE
+de and bottled by ROMA WINE COMPANY, resno, Califot Ri
+sales offices: San Franciseo, Cali
+New ork N Y
+t
+3,0247.46
+
+ROMA
+ALCOHOL
+2
+BY
+VOLUME
+11
+CALIFORNIA
+BULK
+PRO
+CESS
+SPARKLING
+WINE
+de
+and
+bottled
+by
+ROMA
+WINE
+COMPANY,
+resno,
+Califot
+Ri
+sales
+offices:
+San
+Franciseo,
+Cali
+New
+ork
+N
+Y
+t
+3,0247.46
+"ROMA\nALCOHOL 12% BY VOLUME\nEstate\n224\nCALIFORNIA\nChampagne\nBULK PROCESS\nSPARKLING WINE\nNaturally Fermented\nMade and bottled by ROMA WINE COMPANY, Fresno, California\nMade and bottled by ROMA WINE COMPANY Fresno, California\nSales Offices: San Francisco, Calif., New York, N.Y.\nSales Offices: San Francisco, Calif, New York, NY"
+"ROMA"
+"ALCOHOL 12% BY VOLUME"
+"Estate"
+"224"
+"CALIFORNIA"
+"Champagne"
+"BULK PROCESS"
+"SPARKLING WINE"
+"Naturally Fermented"
+"Made and bottled by ROMA WINE COMPANY, Fresno, California"
+"Made and bottled by ROMA WINE COMPANY Fresno, California"
+"Sales Offices: San Francisco, Calif., New York, N.Y."
+"Sales Offices: San Francisco, Calif, New York, NY"

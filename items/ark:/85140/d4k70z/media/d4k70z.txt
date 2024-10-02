@@ -1,0 +1,46 @@
+Grants .lins-
+sic-Bourgogne
+ling
+1929
+193g
+13 05lle:3(011t a nee.
+J. CONFURON-BOR NOT
+95NE-ROMANEE
+ヌ/
+
+Grants
+.lins
+-
+sic
+-
+Bourgogne
+ling
+1929
+193g
+13
+05lle
+:
+3
+(
+011t
+a
+nee
+.
+J.
+CONFURON
+-
+BOR
+NOT
+95NE
+-
+ROMANEE
+ヌ
+/
+"\n\n1929\n1929\nDosne-Romanée\nVosne-Romanée\nJ. Confuron-Bornot VOSNE-ROMANÉE"
+""
+""
+"1929"
+"1929"
+"Vosne-Romanée"
+"Dosne-Romanée"
+"J. Confuron-Bornot VOSNE-ROMANÉE"

@@ -1,0 +1,35 @@
+VIN DE PICHON LONGUEVILLE
+192
+HITESSE
+DE LA LANDE
+PA UIL LAC
+MIS EN BOUTEILLES AU CHATEAU
+DEPOSE
+
+VIN
+DE
+PICHON
+LONGUEVILLE
+192
+HITESSE
+DE
+LA
+LANDE
+PA
+UIL
+LAC
+MIS
+EN
+BOUTEILLES
+AU
+CHATEAU
+DEPOSE
+"Vin de pichon longueville\nVin De Pichon Longueville\nvin de pichon longueville\nCtesse De Lalande\nFrance\npauillac\nPauillac\nmis en bouteilles au chateau"
+"Vin de pichon longueville"
+"Vin De Pichon Longueville"
+"vin de pichon longueville"
+"Ctesse De Lalande"
+"France"
+"Pauillac"
+"pauillac"
+"mis en bouteilles au chateau"

@@ -1,0 +1,25 @@
+Chateau
+Leoville Royferré
+1918
+e en Bouteille au Chateau
+
+Chateau
+Leoville
+Royferré
+1918
+e
+en
+Bouteille
+au
+Chateau
+"2nd Cru St. Julian (Medoc)\n2nd Cru St. Julian (Medoc)\nDinner Joh Esgrini 12/5/41 A+\nDinner John Esgrinini 12/5/41 A+\nPresent: Sam Irving 1928\nPresent: Sam Irving 1928\nChateau Leoville Poyferre\nChâteau Léoville Poyferré\n1918\nMis en Bouteille au Chateau"
+"2nd Cru St. Julian (Medoc)"
+"2nd Cru St. Julian (Medoc)"
+"Dinner Joh Esgrini 12/5/41 A+"
+"Dinner John Esgrinini 12/5/41 A+"
+"Present: Sam Irving 1928"
+"Present: Sam Irving 1928"
+"Chateau Leoville Poyferre"
+"Château Léoville Poyferré"
+"1918"
+"Mis en Bouteille au Chateau"

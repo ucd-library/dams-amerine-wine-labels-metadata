@@ -1,0 +1,30 @@
+GHATEAU HAUT BRION
+1929
+PREMIER GRAND CRU CLASSE
+Lis en bouteuttes au Chaleau
+(FRANCE)
+
+GHATEAU
+HAUT
+BRION
+1929
+PREMIER
+GRAND
+CRU
+CLASSE
+Lis
+en
+bouteuttes
+au
+Chaleau
+(FRANCE)
+"Chateau Haut-Brion\nCHATEAU HAUT-BRION\n1929\n19822\n17822\nPremier Grand Cru Classe\nPremier Grand Cru Classe Mis en bouteilles au Chateau\nAndre Gibert, Prorietaure a Pessac Gironde (France)\nAndre Gilbert, Proprietaire a Pessac Giranda (France)"
+"CHATEAU HAUT-BRION"
+"Chateau Haut-Brion"
+"1929"
+"19822"
+"17822"
+"Premier Grand Cru Classe Mis en bouteilles au Chateau"
+"Premier Grand Cru Classe"
+"Andre Gibert, Prorietaure a Pessac Gironde (France)"
+"Andre Gilbert, Proprietaire a Pessac Giranda (France)"

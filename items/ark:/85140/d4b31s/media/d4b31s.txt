@@ -1,0 +1,46 @@
+los Out
+bateau
+boins Ch Bonvin fils
+aropriétaires
+sion Suisse ,vvv
+mise en bouteilles la Propriété A
+DEPOSE
+
+los
+Out
+bateau
+boins
+Ch
+Bonvin
+fils
+aropriétaires
+sion
+Suisse
+,vvv
+mise
+en
+bouteilles
+la
+Propriété
+A
+DEPOSE
+"Dinner\n6/5/50\nDole\nalso\nDinner\nVictoria Jungfrau\nClos du Chateau\nClos du Château\n6/10/50\nB+\n(red)\nhoirs Ch. Bonvin fils proprietaires\nHoirs Ch. Bonvin fils propriétaires\nSion. Suisse.\nSion, Suisse\nMise en bouteilles a la Propriete\nMise en bouteilles à la Propriété\nDEPOSÉ\nDeposé"
+"Dinner"
+"6/5/50"
+"Dole"
+"also"
+"Dinner"
+"Victoria Jungfrau"
+"Clos du Chateau"
+"Clos du Château"
+"6/10/50"
+"B+"
+"(red)"
+"Hoirs Ch. Bonvin fils propriétaires"
+"hoirs Ch. Bonvin fils proprietaires"
+"Sion. Suisse."
+"Sion, Suisse"
+"Mise en bouteilles a la Propriete"
+"Mise en bouteilles à la Propriété"
+"DEPOSÉ"
+"Deposé"

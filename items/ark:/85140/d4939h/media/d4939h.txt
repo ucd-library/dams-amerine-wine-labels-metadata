@@ -1,0 +1,65 @@
+MARK
+TRADE
+1 9 4 3
+CHATEAU PESSAN
+P O R T E T S
+Appellation Graves Controlée
+MARQUE DU CASQUE
+AUDINET & BUHAN
+MAISON FON DE E EN 8 8
+NEGOCIANTS A BORDE AUX
+GIRO N DE
+
+MARK
+TRADE
+1
+9
+4
+3
+CHATEAU
+PESSAN
+P
+O
+R
+T
+E
+T
+S
+Appellation
+Graves
+Controlée
+MARQUE
+DU
+CASQUE
+AUDINET
+&
+BUHAN
+MAISON
+FON
+DE
+E
+EN
+8
+8
+NEGOCIANTS
+A
+BORDE
+AUX
+GIRO
+N
+DE
+"trade mark\nTRADE MARK\n1943\nChateau Pessan\nPortets\nAppellation Graves Controlee\nAppellation Graves Contrôlée\nMarque du casque\nMarque du Casque\nAudinet & Buhan\nMaison Fondee en 1818\nMAISON FONDÉE EN 1818\nNegociants a Bordeaux (Gironde)\nNÉGOCIANTS A BORDEAU (GIRONDE)"
+"TRADE MARK"
+"trade mark"
+"1943"
+"Chateau Pessan"
+"Portets"
+"Appellation Graves Contrôlée"
+"Appellation Graves Controlee"
+"Marque du Casque"
+"Marque du casque"
+"Audinet & Buhan"
+"MAISON FONDÉE EN 1818"
+"Maison Fondee en 1818"
+"Negociants a Bordeaux (Gironde)"
+"NÉGOCIANTS A BORDEAU (GIRONDE)"

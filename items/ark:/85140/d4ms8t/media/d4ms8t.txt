@@ -1,0 +1,40 @@
+Embotelladores
+N9 37.
+Paris
+Burdeos
+MARK
+RADE
+Cadiz
+Matanzas
+FLORIDO & Co
+MOSCATEL FINO
+
+Embotelladores
+N9
+37.
+Paris
+Burdeos
+MARK
+RADE
+Cadiz
+Matanzas
+FLORIDO
+&
+Co
+MOSCATEL
+FINO
+"Embotelladores\nNo.37.\nNo. 37\nBurdeos\nParis\nTRADE MARK\nTrade Mark\nMatanzas\nCadiz\nFlorido & Co.\nSantucar de Barrameda\nSanlucar de Barrameda\nMOSCATEL FINO\nMoscatel fino"
+"Embotelladores"
+"No. 37"
+"No.37."
+"Burdeos"
+"Paris"
+"TRADE MARK"
+"Trade Mark"
+"Matanzas"
+"Cadiz"
+"Florido & Co."
+"Sanlucar de Barrameda"
+"Santucar de Barrameda"
+"Moscatel fino"
+"MOSCATEL FINO"

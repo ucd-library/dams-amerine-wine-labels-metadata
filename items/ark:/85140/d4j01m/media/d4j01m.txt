@@ -1,0 +1,40 @@
+DA.
+MARCAREGISTRA
+R. E. No 43
+Bodegas Franco-Espanolas
+LOGRONO
+P g in
+a
+C White
+
+DA.
+MARCAREGISTRA
+R.
+E.
+No
+43
+Bodegas
+Franco-Espanolas
+LOGRONO
+P
+g
+in
+a
+C
+White
+"Spain Rioja (White)\nSpain Rioja (white)\nDiamante \nDiamante\nHerman Phlenger\nVino Blanco de Espana\nVino Blanco de España\nMarca Registrada\nR.E. N° 43\nR.E. No. 43\nBodegas Franco-Espanolas\nBodegas Franco-Españolas\nDomicilio Social\nDomicilio Locial\nLogrono"
+"Spain Rioja (white)"
+"Spain Rioja (White)"
+"Diamante "
+"Diamante"
+"Herman Phlenger"
+"Vino Blanco de Espana"
+"Vino Blanco de España"
+"Marca Registrada"
+"R.E. No. 43"
+"R.E. N° 43"
+"Bodegas Franco-Espanolas"
+"Bodegas Franco-Españolas"
+"Domicilio Locial"
+"Domicilio Social"
+"Logrono"

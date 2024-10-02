@@ -1,0 +1,34 @@
+CONAC
+AN LUCAR DE
+BARRAMEDA
+ESPANA
+LIT, S DURA, VALENCIA
+
+CONAC
+AN
+LUCAR
+DE
+BARRAMEDA
+ESPANA
+LIT,
+S
+DURA,
+VALENCIA
+"Conac\nCoñac\nconac\nCOÑAC\nFaraón\nFARAÓN\nFaraon\nM. HIDALGO Y CIA. S. A.\nM. Hidalgo y Cia. S.A.\nm. hidalgo y c.ia s.a.\nSanlucar de Barrameda\nSANLÚCAR DE BARRAMEDA\nPhlegm\n\nespana\nEspana\nESPAÑA"
+"conac"
+"Conac"
+"Coñac"
+"COÑAC"
+"Faraon"
+"FARAÓN"
+"Faraón"
+"m. hidalgo y c.ia s.a."
+"M. Hidalgo y Cia. S.A."
+"M. HIDALGO Y CIA. S. A."
+"Sanlucar de Barrameda"
+"SANLÚCAR DE BARRAMEDA"
+""
+"Phlegm"
+"ESPAÑA"
+"Espana"
+"espana"

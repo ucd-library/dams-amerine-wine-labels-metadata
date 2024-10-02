@@ -1,0 +1,57 @@
+ALCOHOL 12%
+NET CONTENTS
+BY VOLUME
+4/5 QUART
+CALIFORNIA
+RIESLING
+PRODUCED & BOTTLED BY
+BEAULIEU VINEYARD, RUTHERFORD,
+NAPA COUNTY, CALIFORNIA
+C BOTTLED AT THE WINERY
+
+ALCOHOL
+12%
+NET
+CONTENTS
+BY
+VOLUME
+4/5
+QUART
+CALIFORNIA
+RIESLING
+PRODUCED
+&
+BOTTLED
+BY
+BEAULIEU
+VINEYARD,
+RUTHERFORD,
+NAPA
+COUNTY,
+CALIFORNIA
+C
+BOTTLED
+AT
+THE
+WINERY
+"Beaulieu Vineyard\nbeaulieu vineyard\nbv\nBV\nNet contents 4/5 quart\nnet contents 4/5 quart\nalcohol 12% by volume\nALCOHOL 12% BY VOLUME\nCalifornia\ncalifornia\nRiesling\nriesling\nproduced & bottled by\nProduced & Bottled By\nBeaulieu Vineyard, Rutherford\nbeaulieu vineyards, rutherford \nNapa County, California\nnapa county, california\nbottled at the winery\nBottled at the winery"
+"beaulieu vineyard"
+"Beaulieu Vineyard"
+"bv"
+"BV"
+"Net contents 4/5 quart"
+"net contents 4/5 quart"
+"alcohol 12% by volume"
+"ALCOHOL 12% BY VOLUME"
+"california"
+"California"
+"Riesling"
+"riesling"
+"produced & bottled by"
+"Produced & Bottled By"
+"Beaulieu Vineyard, Rutherford"
+"beaulieu vineyards, rutherford "
+"Napa County, California"
+"napa county, california"
+"bottled at the winery"
+"Bottled at the winery"

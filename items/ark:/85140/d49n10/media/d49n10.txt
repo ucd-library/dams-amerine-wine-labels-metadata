@@ -1,0 +1,39 @@
+REG. EME No 10
+VINA PACETA
+BLANCO SECO
+HARO RIOJA
+COSECHA 1935
+Bodegas Buto ainas. S a
+RIELESSAT SA BARCELONA
+
+REG.
+EME
+No
+10
+VINA
+PACETA
+BLANCO
+SECO
+HARO
+RIOJA
+COSECHA
+1935
+Bodegas
+Buto
+ainas.
+S
+a
+RIELESSAT
+SA
+BARCELONA
+"REG. EMB No.10\nVIÑA PACETA\nVina Paceta\nBLANCO SECO\nHARO-RIOJA\nHaro-Rioja\nCOSECHA 1935\nBodegas Bilbainas S.a.\nBodegas Bilbainas. S.A.\nRIEUSSET, S.A. BARCELONA"
+"REG. EMB No.10"
+"VIÑA PACETA"
+"Vina Paceta"
+"BLANCO SECO"
+"HARO-RIOJA"
+"Haro-Rioja"
+"COSECHA 1935"
+"Bodegas Bilbainas S.a."
+"Bodegas Bilbainas. S.A."
+"RIEUSSET, S.A. BARCELONA"

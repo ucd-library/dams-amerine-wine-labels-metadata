@@ -1,0 +1,20 @@
+abli60,
+DEUXIEME GRAND .CRU
+Henri PICQ-BENTAMIN
+Proprié
+CHABLIS
+
+abli60,
+DEUXIEME
+GRAND
+.CRU
+Henri
+PICQ-BENTAMIN
+Proprié
+CHABLIS
+"Chablis\nDEUXIÈME GRAND CRU\nHenri PICQ-BENJAMIN Propriétaire-Viticulteur CHABLIS\nHenri PICQ-BENJAMIN Pripriétaire-Viticulteur CHABLIS\nMAA"
+"Chablis"
+"DEUXIÈME GRAND CRU"
+"Henri PICQ-BENJAMIN Propriétaire-Viticulteur CHABLIS"
+"Henri PICQ-BENJAMIN Pripriétaire-Viticulteur CHABLIS"
+"MAA"

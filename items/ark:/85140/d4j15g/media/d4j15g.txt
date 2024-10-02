@@ -1,0 +1,51 @@
+0
+PLAT CAP
+昏
+NEGOCIANTS AMACON(SZE)
+ReseRUEoe.miDimese
+Des
+MARQUE DEPOSEE EN 1920
+GranD UIn Uteur ーーーーーーーm Teyo
+Uiec
+Li X
+120
+702-241.5 2
+
+0
+PLAT
+CAP
+昏
+NEGOCIANTS
+AMACON
+(
+SZE
+)
+ReseRUEoe.miDimese
+Des
+MARQUE
+DEPOSEE
+EN
+1920
+GranD
+UIn
+Uteur
+ーーーーーーー
+m
+Teyo
+Uiec
+Li
+X
+120
+702-241.5
+2
+"PIAT & CIE NEGOCIANTS A MACON (S & L)\nReserve des Minimes\nRESERVE DES MINIMES\nMarque Deposee en 1920\nMargue Deposee en 1920\nGrand Vin Vieux\n12\n12 o\n702 - 24. 1.52\n702-241.52"
+"PIAT & CIE NEGOCIANTS A MACON (S & L)"
+"RESERVE DES MINIMES"
+"Reserve des Minimes"
+"Margue Deposee en 1920"
+"Marque Deposee en 1920"
+"Grand Vin Vieux"
+"12"
+"12 o"
+"702 - 24. 1.52"
+"702-241.52"

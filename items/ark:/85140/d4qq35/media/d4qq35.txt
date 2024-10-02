@@ -1,0 +1,48 @@
+REM VICI
+O M UM V
+TO CHABLIS GRAND CRU
+MOUTONNE
+APPELLATION CHABLIS GRAND CRU CONTROLEE
+NOP
+LONG DEPAQUIT
+NEGOCIANTACHABLIS (YONNE)
+G DEP
+
+REM
+VICI
+O
+M
+UM
+V
+TO
+CHABLIS
+GRAND
+CRU
+MOUTONNE
+APPELLATION
+CHABLIS
+GRAND
+CRU
+CONTROLEE
+NOP
+LONG
+DEPAQUIT
+NEGOCIANTACHABLIS
+(YONNE)
+G
+DEP
+"Chablis Grand Cru Moutonne\nCHABLIS GRAND CRU MOUTONNE\nAppellation Chablis Grand Cru controlée\nChablis Grand Cru Moutonne\nChablis Grand Cru Moutonne\nAPELLATION CHABLIS GRAND CRU CONTROLÉE\nAppellation Chablis Grand Cru Controlée\nMONOPOLE LONG DEPAQUIT\nMonopole Long Depaquit\nLong Depaquit Negociant a Chablis (Yonne)\nLONG DEPAQUIT NEGOCIANT A CHABLIS (YONNE)\nLong Depaquit Negociant a Chablis (Yonne)\nLong depaquit negociant a Chablis (Yonne)\n7 P S"
+"CHABLIS GRAND CRU MOUTONNE"
+"Chablis Grand Cru Moutonne"
+"Appellation Chablis Grand Cru controlée"
+"Chablis Grand Cru Moutonne"
+"Chablis Grand Cru Moutonne"
+"APELLATION CHABLIS GRAND CRU CONTROLÉE"
+"Appellation Chablis Grand Cru Controlée"
+"MONOPOLE LONG DEPAQUIT"
+"Monopole Long Depaquit"
+"LONG DEPAQUIT NEGOCIANT A CHABLIS (YONNE)"
+"Long Depaquit Negociant a Chablis (Yonne)"
+"Long Depaquit Negociant a Chablis (Yonne)"
+"Long depaquit negociant a Chablis (Yonne)"
+"7 P S"

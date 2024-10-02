@@ -1,0 +1,28 @@
+GES GESC
+09
+TASG
+GRAACHER
+A. Koch Sohne, Mainz
+Konigl. Hoflieferanten
+EM M. M
+
+GES
+GESC
+09
+TASG
+GRAACHER
+A.
+Koch
+Sohne,
+Mainz
+Konigl.
+Hoflieferanten
+EM
+M.
+M
+"GRAACHER\nA. Koch Sohne, Mainz\nA. Koch Söhne, Mainz\nKönigl. Hoflieferanten\nKonigl, Hogileferanfen"
+"GRAACHER"
+"A. Koch Sohne, Mainz"
+"A. Koch Söhne, Mainz"
+"Konigl, Hogileferanfen"
+"Königl. Hoflieferanten"

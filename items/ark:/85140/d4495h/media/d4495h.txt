@@ -1,0 +1,38 @@
+BERRY BROS & CO
+3 STJAM SSST LONDON
+1899
+CHATEAU MARGAUX
+GRAND IN
+BORDEAUX
+France
+
+BERRY
+BROS
+&
+CO
+3
+STJAM
+SSST
+LONDON
+1899
+CHATEAU
+MARGAUX
+GRAND
+IN
+BORDEAUX
+France
+"Served by Alfred Knopf at his home in Purchase, N.Y. Sept. 1951\nEstablished 300 Years\nFPS & MMS say wine in perfect condition. M.M. says been dared she ever drunk.\nBerry Bros & Co.\n3.St James's St London.\n\n1899\nChateau Margaux\nCHÂTEAU MARGAUX\nGrand Vin\nGRAND VIN\nBordeaux\nBORDEAUX\nFrance"
+"Served by Alfred Knopf at his home in Purchase, N.Y. Sept. 1951"
+"Established 300 Years"
+"FPS & MMS say wine in perfect condition. M.M. says been dared she ever drunk."
+"Berry Bros & Co."
+"3.St James's St London."
+""
+"1899"
+"CHÂTEAU MARGAUX"
+"Chateau Margaux"
+"Grand Vin"
+"GRAND VIN"
+"Bordeaux"
+"BORDEAUX"
+"France"

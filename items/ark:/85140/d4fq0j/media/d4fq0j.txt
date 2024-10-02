@@ -1,0 +1,42 @@
+Net contents 1 pint 7 fluid ounces
+NIE R STEIN ER
+Wine: Alcoholic content 9 to 11
+per cent by weight
+Produced and bottled in Germany
+Rheinhessen
+
+Net
+contents
+1
+pint
+7
+fluid
+ounces
+NIE
+R
+STEIN
+ER
+Wine:
+Alcoholic
+content
+9
+to
+11
+per
+cent
+by
+weight
+Produced
+and
+bottled
+in
+Germany
+Rheinhessen
+"Rheinhessen\nNet contents 1 pint 7 fluid ounces\nSelleck\nNiersteiner\n\n\n"
+"Rheinhessen"
+"Net contents 1 pint 7 fluid ounces"
+"Selleck"
+"Niersteiner"
+""
+""
+""

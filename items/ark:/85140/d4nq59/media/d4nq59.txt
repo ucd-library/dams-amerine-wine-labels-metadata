@@ -1,0 +1,37 @@
+G13/4
+Chambertin
+Cuvee Heritters Latour
+Mis en bouteilles
+1934
+dans les caves du propriétaire
+FRANCE
+Déposé
+Registered
+
+G13/4
+Chambertin
+Cuvee
+Heritters
+Latour
+Mis
+en
+bouteilles
+1934
+dans
+les
+caves
+du
+propriétaire
+FRANCE
+Déposé
+Registered
+"Chambertin\nCuvee Heritiers Latour\nMis en bouteilles\nMis en bouteilles dans les caves do proprietaire\nMis en bouteilles dans les caves du proprietaire\n1934\nDepose\nFrance\nRegistered"
+"Chambertin"
+"Cuvee Heritiers Latour"
+"Mis en bouteilles"
+"Mis en bouteilles dans les caves do proprietaire"
+"Mis en bouteilles dans les caves du proprietaire"
+"1934"
+"Depose"
+"France"
+"Registered"

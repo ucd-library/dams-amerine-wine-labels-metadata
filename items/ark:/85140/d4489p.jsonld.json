@@ -1,0 +1,54 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@graph": [
+    {
+      "@id": "",
+      "@type": [
+        "schema:VisualArtwork",
+        "ucdlib:WineLabel",
+        "schema:CreativeWork",
+        "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+      ],
+      "ucdlib:describesWine": {
+        "@id": "@base:#wine"
+      },
+      "schema:about": {
+        "@id": "http://id.worldcat.org/fast/1240997"
+      },
+      "schema:identifier": [
+        "ark:/85140/d4489p",
+        "label_0512"
+      ],
+      "schema:inLanguage": "de",
+      "schema:isPartOf": {
+        "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
+      },
+      "schema:keywords": "Rhinegau",
+      "schema:license": {
+        "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
+      },
+      "schema:name": "Still--Rhinegau",
+      "schema:publisher": [
+        "University of California, Davis. General Library. Dept. of Special Collections",
+        {
+          "@id": "http://id.loc.gov/authorities/names/no2008108707"
+        }
+      ]
+    },
+    {
+      "@id": "@base:#wine",
+      "@type": "ucdlib:Wine",
+      "ucdlib:WineType": {
+        "@id": "ucdlib:Still"
+      }
+    }
+  ]
+}

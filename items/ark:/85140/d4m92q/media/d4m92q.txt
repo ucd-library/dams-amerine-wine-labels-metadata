@@ -1,0 +1,35 @@
+REB
+BER
+GSE
+CUT
+DER
+KELLER
+STADT
+IN NEUEN
+BERN
+STADT
+SCHAFFISER
+LITHARMBRUSTER AG BERN.
+
+REB
+BER
+GSE
+CUT
+DER
+KELLER
+STADT
+IN
+NEUEN
+BERN
+STADT
+SCHAFFISER
+LITHARMBRUSTER
+AG
+BERN.
+"Reb-gut der stadt bern\nreb- -gut .der. stadt .bern.\nber- -ner keller in.neuen- -stadt.\nber-ner keller in-neuen-stadt\nSchaffiser Chavannes\nSchaffiser (Chavannes)"
+"Reb-gut der stadt bern"
+"reb- -gut .der. stadt .bern."
+"ber-ner keller in-neuen-stadt"
+"ber- -ner keller in.neuen- -stadt."
+"Schaffiser (Chavannes)"
+"Schaffiser Chavannes"

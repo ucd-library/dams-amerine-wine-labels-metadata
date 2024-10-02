@@ -1,0 +1,28 @@
+VIGNOBLE DELEIAT
+Encavage dela Station dessa
+Viticoles dAuvernier
+NEUCHATEL
+cri Auvermier
+1945
+
+VIGNOBLE
+DELEIAT
+Encavage
+dela
+Station
+dessa
+Viticoles
+dAuvernier
+NEUCHATEL
+cri
+Auvermier
+1945
+"Switzerland\nVignoble de l'Etat\nEncavage de la Station d'essais Viticoles d'Auvernier\nEncavage de la Station d'essais Viticoles d'Auvenier\nNEUCHATEL\nNeuchatel\nCru d'Auvernier\n1945"
+"Switzerland"
+"Vignoble de l'Etat"
+"Encavage de la Station d'essais Viticoles d'Auvenier"
+"Encavage de la Station d'essais Viticoles d'Auvernier"
+"Neuchatel"
+"NEUCHATEL"
+"Cru d'Auvernier"
+"1945"

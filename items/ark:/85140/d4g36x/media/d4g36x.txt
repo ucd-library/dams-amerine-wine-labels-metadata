@@ -1,0 +1,53 @@
+N9 37
+Embotelladores
+Burdeos
+Paris
+Matanzas
+Cadiz
+FLORID O & Co
+DA
+SAN DE
+EREZ ESPECIAL PARA ENF
+
+N9
+37
+Embotelladores
+Burdeos
+Paris
+Matanzas
+Cadiz
+FLORID
+O
+&
+Co
+DA
+SAN
+DE
+EREZ
+ESPECIAL
+PARA
+ENF
+"no.37\n№ 37.\nembotelladores\nEmbotelladores\nBurdeos\nburdeos\nParis\nparis\ntrade mark\nTRADE MARK\nmatanzas\nMatanzas\nCadiz\ncadiz\nFlorido & Co.\nflorido & co.\nSanlucar de Barrameda\nsanlucar de barrameda\nSANLUCAR de BARRAMEDA\njerez especial para enfermos\nJerez especial para enfermos\nJEREZ ESPECIAL PARA ENFERMOS\nPhlenger"
+"no.37"
+"№ 37."
+"embotelladores"
+"Embotelladores"
+"Burdeos"
+"burdeos"
+"paris"
+"Paris"
+"TRADE MARK"
+"trade mark"
+"Matanzas"
+"matanzas"
+"Cadiz"
+"cadiz"
+"florido & co."
+"Florido & Co."
+"sanlucar de barrameda"
+"SANLUCAR de BARRAMEDA"
+"Sanlucar de Barrameda"
+"jerez especial para enfermos"
+"JEREZ ESPECIAL PARA ENFERMOS"
+"Jerez especial para enfermos"
+"Phlenger"

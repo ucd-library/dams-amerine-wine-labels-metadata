@@ -1,0 +1,49 @@
+Proa use Eranoe
+ARCHAT
+Alcohol by volume 13
+CONTENTS: 12 1/2 Fluid Ounce
+NIN RODET
+MAITRE DE CHAIS
+MERCUREY
+MOULIN AVENT
+
+Proa
+use
+Eranoe
+ARCHAT
+Alcohol
+by
+volume
+13
+CONTENTS:
+12
+1/2
+Fluid
+Ounce
+NIN
+RODET
+MAITRE
+DE
+CHAIS
+MERCUREY
+MOULIN
+AVENT
+"Beaujolais\nBeanjslain\nProduce of France\nARCHAT\nArchat\nCONTENTS: 12 1/2 Fluid Ounces\nContents: 12 1/2 Fluid Ounces\nAlcohol by volume 13 %\nAlcohol by volume 13%\nShipped by\nMISE DE NOS CHAIS\nArltome 1940 .70 C Passi 43 13\nAt Home 1940 C Passé 43 B\nSHIPPED BY ANTONIN RODET MAITRE de CHAIS MERCUREY BOURGOGNE\nShipped by Antonin Rodet Maitre de Chais Mercurey Bourcogne\nFEM\nMOULIN A VENT\nMoulin a Vent"
+"Beanjslain"
+"Beaujolais"
+"Produce of France"
+"ARCHAT"
+"Archat"
+"CONTENTS: 12 1/2 Fluid Ounces"
+"Contents: 12 1/2 Fluid Ounces"
+"Alcohol by volume 13 %"
+"Alcohol by volume 13%"
+"MISE DE NOS CHAIS"
+"Shipped by"
+"Arltome 1940 .70 C Passi 43 13"
+"At Home 1940 C Passé 43 B"
+"SHIPPED BY ANTONIN RODET MAITRE de CHAIS MERCUREY BOURGOGNE"
+"Shipped by Antonin Rodet Maitre de Chais Mercurey Bourcogne"
+"FEM"
+"MOULIN A VENT"
+"Moulin a Vent"

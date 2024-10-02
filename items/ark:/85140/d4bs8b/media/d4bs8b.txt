@@ -1,0 +1,48 @@
+EVA E
+MANZANILLA MUY FINA
+MAAR CA R E G I S T
+R A D A
+ANTONIO BARBADILLO, S. L.
+32
+SAN LUCA R DE BARRA MED A
+LIT SA DURA -VALENCIA
+
+EVA
+E
+MANZANILLA
+MUY
+FINA
+MAAR
+CA
+R
+E
+G
+I
+S
+T
+R
+A
+D
+A
+ANTONIO
+BARBADILLO,
+S.
+L.
+32
+SAN
+LUCA
+R
+DE
+BARRA
+MED
+A
+LIT
+SA
+DURA
+-VALENCIA
+"EVA\nManzanilla Muy Fina Marca Registrada\n\nAntonio Barbadillo, S. L. Sanlucar de Barrameda\n"
+"EVA"
+"Manzanilla Muy Fina Marca Registrada"
+""
+"Antonio Barbadillo, S. L. Sanlucar de Barrameda"
+""

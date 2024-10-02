@@ -1,0 +1,24 @@
+CUINTA DO
+TAMA RIZ
+CARREIRA MINHO
+PORTUGAL
+
+CUINTA
+DO
+TAMA
+RIZ
+CARREIRA
+MINHO
+PORTUGAL
+"\"Very poor. Acid, gassy.\" MAA\n\"Very poor. Acid, gassy\" maa\ndmS\nQdns (logo)\nQuinta do Tamariz\nQuingta do Tamariz\nSoc. Agricola \"Quinta de S. Miguel, L. da\"\nSoc. Agricola \"Quinta de S. Miguel, L.da\"\nCarreira-Minho\nCarreira - Minho\nPortugal"
+"\"Very poor. Acid, gassy\" maa"
+"\"Very poor. Acid, gassy.\" MAA"
+"dmS"
+"Qdns (logo)"
+"Quingta do Tamariz"
+"Quinta do Tamariz"
+"Soc. Agricola \"Quinta de S. Miguel, L.da\""
+"Soc. Agricola \"Quinta de S. Miguel, L. da\""
+"Carreira - Minho"
+"Carreira-Minho"
+"Portugal"

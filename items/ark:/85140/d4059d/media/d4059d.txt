@@ -1,0 +1,34 @@
+EGISTRO
+MARCA
+CONCEDIDA
+SOCIEDAD DE CoSE CHEROs DE VINO
+FUNDADA EN 1890
+COSECHA 189O
+
+EGISTRO
+MARCA
+CONCEDIDA
+SOCIEDAD
+DE
+CoSE
+CHEROs
+DE
+VINO
+FUNDADA
+EN
+1890
+COSECHA
+189O
+"REGISRO DE EMBOTELLADORES Nº 97\nRegistro De Emboteleadores No. 97\nRegistro de No. 97 Embotelladores\nMarca Concedida\nMARCA CONCEDIDA\nLa Rioja Alta\nSociedad de Cosecheros de Vino\nFUNDADA EN 1890\nFundada en 1890\nHaro\nCOSECHA 1890\nCosecha 1890"
+"REGISRO DE EMBOTELLADORES Nº 97"
+"Registro de No. 97 Embotelladores"
+"Registro De Emboteleadores No. 97"
+"MARCA CONCEDIDA"
+"Marca Concedida"
+"La Rioja Alta"
+"Sociedad de Cosecheros de Vino"
+"Fundada en 1890"
+"FUNDADA EN 1890"
+"Haro"
+"COSECHA 1890"
+"Cosecha 1890"

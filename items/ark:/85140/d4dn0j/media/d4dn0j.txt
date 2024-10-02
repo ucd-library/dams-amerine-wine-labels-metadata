@@ -1,0 +1,34 @@
+CORDIAL MEDOC
+OF FRANCE
+PRODU
+4/5 QUART
+88 PROOF
+BY
+G, A URDE
+BORDEAUX FRANCE
+
+CORDIAL
+MEDOC
+OF
+FRANCE
+PRODU
+4/5
+QUART
+88
+PROOF
+BY
+G,
+A
+URDE
+BORDEAUX
+FRANCE
+"Jourde Cordial-Medoc\nProduct of France\n4/5 quart\n88 proof\nMade by G.A. Jourde\nBordeaux FRANCE\nBordeaux France\nHeart\nheart"
+"Jourde Cordial-Medoc"
+"Product of France"
+"4/5 quart"
+"88 proof"
+"Made by G.A. Jourde"
+"Bordeaux France"
+"Bordeaux FRANCE"
+"heart"
+"Heart"

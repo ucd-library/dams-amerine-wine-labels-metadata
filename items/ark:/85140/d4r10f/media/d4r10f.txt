@@ -1,0 +1,45 @@
+CHATEAU
+LYONNAT
+LUSSAC STEMILION
+1937
+APPELLATION LUSSAC-ST. EMILION CONTROLEE
+V ve
+Baudou, Prop
+Mis en Bouteilles au Chameau
+DEPOSE
+BERTIMON L180URWE
+
+CHATEAU
+LYONNAT
+LUSSAC
+STEMILION
+1937
+APPELLATION
+LUSSAC-ST.
+EMILION
+CONTROLEE
+V
+ve
+Baudou,
+Prop
+Mis
+en
+Bouteilles
+au
+Chameau
+DEPOSE
+BERTIMON
+L180URWE
+"chateu\nchateau\nlyonnat\n1937\nAppellation Lussac-St. Emilion Controlee, Vve Baudou, Propre\nAppellation Lussac-St-Emilion Controlée\nMis en Bouteilles au Chateau\nMis en Bouteilles au Château\nDepose\nDÉPOSÉ\nBerthon - Libourne\nBERTHION - LIBOURNE"
+"chateu"
+"chateau"
+"lyonnat"
+"1937"
+"Appellation Lussac-St. Emilion Controlee, Vve Baudou, Propre"
+"Appellation Lussac-St-Emilion Controlée"
+"Mis en Bouteilles au Château"
+"Mis en Bouteilles au Chateau"
+"Depose"
+"DÉPOSÉ"
+"BERTHION - LIBOURNE"
+"Berthon - Libourne"

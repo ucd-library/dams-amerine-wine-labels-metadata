@@ -1,0 +1,29 @@
+CHATEAU COUTET a BARSAC
+1er GRAND CRUDESAUTERNES
+MIS EN BOUTEILLES AU. CHATEAU
+APPELLATION CONTROLEE BARSAC
+
+CHATEAU
+COUTET
+a
+BARSAC
+1er
+GRAND
+CRUDESAUTERNES
+MIS
+EN
+BOUTEILLES
+AU.
+CHATEAU
+APPELLATION
+CONTROLEE
+BARSAC
+"Chateau Coutet a Barsac\n1er GRAND CRU de SAUTERNES\n1er grand cru de Sauternes\n1937\nmis en bouteilles au Chateau\nMis en Bouteilles au Château\nAPPELLATION CONTROLÉE BARSAC\nAppellation Contolee Barsac"
+"Chateau Coutet a Barsac"
+"1er grand cru de Sauternes"
+"1er GRAND CRU de SAUTERNES"
+"1937"
+"Mis en Bouteilles au Château"
+"mis en bouteilles au Chateau"
+"APPELLATION CONTROLÉE BARSAC"
+"Appellation Contolee Barsac"

@@ -1,0 +1,29 @@
+erm
+Nr. 24949
+Schleife 24243
+DM 20
+DM 8.
+MOSEL-SAAR-RUWER
+piinie richer Relterbaues
+Riesling
+
+erm
+Nr.
+24949
+Schleife
+24243
+DM
+20
+DM
+8.
+MOSEL-SAAR-RUWER
+piinie
+richer
+Relterbaues
+Riesling
+"Mosel-Saar-Ruwer\nDündericher Kelterhaus\nPundericher Kelterhaus\nRiesling\nReisling"
+"Mosel-Saar-Ruwer"
+"Dündericher Kelterhaus"
+"Pundericher Kelterhaus"
+"Riesling"
+"Reisling"

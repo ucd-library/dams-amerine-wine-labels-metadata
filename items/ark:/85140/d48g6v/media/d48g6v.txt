@@ -1,0 +1,35 @@
+Sociedad
+Anonima
+BODEGAS FRANCO
+ESPANOLA$
+R. E N
+43
+BLANCO CHABLIS
+LO GRONO
+
+Sociedad
+Anonima
+BODEGAS
+FRANCO
+ESPANOLA$
+R.
+E
+N
+43
+BLANCO
+CHABLIS
+LO
+GRONO
+"white\nSociedad\nAnónima\nAnonima\nESPANOLAS\nEspanolas\nBODEGAS FRANCO\nBodegas Franco\nR.E. No 43\nR. E. No. 43\n(Domicilio Social) LOGRONO\n(Domicilio Social) Logrono"
+"white"
+"Sociedad"
+"Anonima"
+"Anónima"
+"Espanolas"
+"ESPANOLAS"
+"BODEGAS FRANCO"
+"Bodegas Franco"
+"R. E. No. 43"
+"R.E. No 43"
+"(Domicilio Social) LOGRONO"
+"(Domicilio Social) Logrono"

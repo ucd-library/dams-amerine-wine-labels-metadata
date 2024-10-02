@@ -1,0 +1,20 @@
+DEP 1153 EMM
+Oppenbeimer
+A. Kody Sobne, mainz
+Konigl. hoflieferanten
+
+DEP
+1153
+EMM
+Oppenbeimer
+A.
+Kody
+Sobne,
+mainz
+Konigl.
+hoflieferanten
+"Oppenheimer\noppenheimer\nA. Koch Söhne, Mainz, Königl. Hoflieferanten\nA. Koch Söhne, Mainz Königl. Hoflieferanten"
+"oppenheimer"
+"Oppenheimer"
+"A. Koch Söhne, Mainz, Königl. Hoflieferanten"
+"A. Koch Söhne, Mainz Königl. Hoflieferanten"

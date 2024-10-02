@@ -1,0 +1,16 @@
+Langenloiser
+Weinkellarei August Rieyer, Wien, xix., Heiligenstadterstrase 67
+
+Langenloiser
+Weinkellarei
+August
+Rieyer,
+Wien,
+xix.,
+Heiligenstadterstrase
+67
+"Austria\nLangenloiser\nWeinkellerei August Reiger, Wien, XIX., Heiligenstadterstrasse 67\nWeinkellerei August Rieger, Wien, XIX., Heiligenstädterstrasse 67"
+"Austria"
+"Langenloiser"
+"Weinkellerei August Rieger, Wien, XIX., Heiligenstädterstrasse 67"
+"Weinkellerei August Reiger, Wien, XIX., Heiligenstadterstrasse 67"

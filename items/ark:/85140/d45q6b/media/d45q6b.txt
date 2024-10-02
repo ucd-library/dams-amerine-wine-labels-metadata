@@ -1,0 +1,84 @@
+92
+PRODUCE OF FRANCE
+TRADE
+ALCOHOL BY VOLUME
+3.4
+olo
+NTS
+314 QUART
+RTIN
+CH
+AIVELEY
+PRIETAIRE & NEGOCIANT A N UITS (COTE-DOR)
+Imprimé en France
+A P P E L L A T I O N C O N T R O L E E
+
+92
+PRODUCE
+OF
+FRANCE
+TRADE
+ALCOHOL
+BY
+VOLUME
+3.4
+olo
+NTS
+314
+QUART
+RTIN
+CH
+AIVELEY
+PRIETAIRE
+&
+NEGOCIANT
+A
+N
+UITS
+(COTE-DOR)
+Imprimé
+en
+France
+A
+P
+P
+E
+L
+L
+A
+T
+I
+O
+N
+C
+O
+N
+T
+R
+O
+L
+E
+E
+"Cote de Tomita George Chamberlin Tete de Cuvee\nCote de Tomita Garvey Chamberlin Tete de Cuvee\n1029\n1929\nDinner Wine & Food Society Bohemian Club April 27, 1943 A- Slightly sweet\nDinner Wine & Food Society Bohemian Club April 27, 1943 A- Slightly Rancid\nProduce of France\nProduce of France\nTrade Mark\nalcohol by volume: 13.4%\nAlcohol by Volume: 13.4%\nContents: 3/4 Quart\nContents: 3/4 quart\nChambertin\nJ. Faiveley\nProprietaire & Négociant a Nuits (Cote-D'Or)\nProprietaire & Negociant a Nuits (Cote D'Or)\nIMP. PARIS A NUIT\nIMP. Paris A Nuits\nImprime en France\nImprimé en France\nAppellation Controlee"
+"Cote de Tomita Garvey Chamberlin Tete de Cuvee"
+"Cote de Tomita George Chamberlin Tete de Cuvee"
+"1929"
+"1029"
+"Dinner Wine & Food Society Bohemian Club April 27, 1943 A- Slightly sweet"
+"Dinner Wine & Food Society Bohemian Club April 27, 1943 A- Slightly Rancid"
+"Produce of France"
+"Produce of France"
+"Trade Mark"
+"Alcohol by Volume: 13.4%"
+"alcohol by volume: 13.4%"
+"Contents: 3/4 Quart"
+"Contents: 3/4 quart"
+"Chambertin"
+"J. Faiveley"
+"Proprietaire & Négociant a Nuits (Cote-D'Or)"
+"Proprietaire & Negociant a Nuits (Cote D'Or)"
+"IMP. Paris A Nuits"
+"IMP. PARIS A NUIT"
+"Imprimé en France"
+"Imprime en France"
+"Appellation Controlee"

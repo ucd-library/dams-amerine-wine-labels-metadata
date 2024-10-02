@@ -1,0 +1,38 @@
+GV
+VIN BLANC FIN
+DOMAINE ZICRON
+PRODUCE OF ISRAEL
+Cont. 750 Mililitre ?mp 150 Ty
+CARMEL ORIENTAL
+
+GV
+VIN
+BLANC
+FIN
+DOMAINE
+ZICRON
+PRODUCE
+OF
+ISRAEL
+Cont.
+750
+Mililitre
+?mp
+150
+Ty
+CARMEL
+ORIENTAL
+"Israel\nPommeraux\n106\nVin blanc fin\nVin Blanc Fin\nDomaine Zicron\nProduce of Israel\nCont. 750 Millitre\nCont. 750 mililitre\nxxxx 15 xx\nCarmel Oriental\nCarmel oriental\nA"
+"Israel"
+"Pommeraux"
+"106"
+"Vin Blanc Fin"
+"Vin blanc fin"
+"Domaine Zicron"
+"Produce of Israel"
+"Cont. 750 Millitre"
+"Cont. 750 mililitre"
+"xxxx 15 xx"
+"Carmel oriental"
+"Carmel Oriental"
+"A"

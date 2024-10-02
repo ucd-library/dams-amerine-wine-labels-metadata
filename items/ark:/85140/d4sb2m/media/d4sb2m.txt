@@ -1,0 +1,14 @@
+BARSAC
+ent
+BORDEAUX
+PRODUCE OF FRANCE
+
+BARSAC
+ent
+BORDEAUX
+PRODUCE
+OF
+FRANCE
+"Barsac\nSichel & Cie, Bordeaux Produce of France"
+"Barsac"
+"Sichel & Cie, Bordeaux Produce of France"

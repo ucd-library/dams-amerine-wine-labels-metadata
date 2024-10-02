@@ -1,0 +1,31 @@
+NEUCHATEL
+1945
+CRU DE
+LA FAVARGE
+RCESCH.PERROT viticulteur
+DROITS RESERVES
+GIVORD NEUCHATEL
+
+NEUCHATEL
+1945
+CRU
+DE
+LA
+FAVARGE
+RCESCH.PERROT
+viticulteur
+DROITS
+RESERVES
+GIVORD
+NEUCHATEL
+"neuchatel\n1945\ncru de la favarge\ncrudge la favarge\np.oesch - perrot viticulteur\npoesch perrot viticulteur\ndroits reserves\n424\n424\ngivord neuchatel"
+"neuchatel"
+"1945"
+"cru de la favarge"
+"crudge la favarge"
+"p.oesch - perrot viticulteur"
+"poesch perrot viticulteur"
+"droits reserves"
+"424"
+"424"
+"givord neuchatel"

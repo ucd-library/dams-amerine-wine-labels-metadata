@@ -1,0 +1,34 @@
+5 43
+OCORNAL
+GRAN VINO
+1925
+VINA
+SANTIAGO
+SAN
+JOSE
+DE CHIL
+PRODudTO CHILE
+LIT, KEGAN
+
+5
+43
+OCORNAL
+GRAN
+VINO
+1925
+VINA
+SANTIAGO
+SAN
+JOSE
+DE
+CHIL
+PRODudTO
+CHILE
+LIT,
+KEGAN
+"GRAND VINO\nGRAN VINO\n1925\nVina San Jose Producto Chileno\nSantiago de Chile"
+"GRAND VINO"
+"GRAN VINO"
+"1925"
+"Vina San Jose Producto Chileno"
+"Santiago de Chile"

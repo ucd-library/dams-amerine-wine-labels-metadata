@@ -1,0 +1,29 @@
+TRAB
+FINA LIVIANA
+MLGARNA N 33
+MBR
+SAnLICARDEBARRAMEDA
+ETA
+
+TRAB
+FINA
+LIVIANA
+MLGARNA
+N
+33
+MBR
+SAnLICARDEBARRAMEDA
+ETA
+"Garcia Monge\nconstancia trabajo union garcia monge\nfina liviana\nFina Liviana\nM. Garcia Monge\nm. garcia monge\nno. 33\nNo. 33\nTimbre a metalico\ntimbre a metalico\nSanlucar de Barrameda\nsanlucar de barrameda"
+"Garcia Monge"
+"constancia trabajo union garcia monge"
+"fina liviana"
+"Fina Liviana"
+"m. garcia monge"
+"M. Garcia Monge"
+"No. 33"
+"no. 33"
+"Timbre a metalico"
+"timbre a metalico"
+"sanlucar de barrameda"
+"Sanlucar de Barrameda"

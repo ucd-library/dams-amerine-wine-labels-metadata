@@ -1,0 +1,16 @@
+B, H, J NTRAUSS LTD., LONDON, EC 2
+FRANCE
+
+B,
+H,
+J
+NTRAUSS
+LTD.,
+LONDON,
+EC
+2
+FRANCE
+"\nPresent: E L H, C E H\n"
+""
+"Present: E L H, C E H"
+""

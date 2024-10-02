@@ -1,0 +1,27 @@
+VIN D'ALSACE
+a Bouteille du patron
+DI NOT BLANC
+HOTEL VILLE DE NANCY RIBEAUVILLE (HT, RH.
+
+VIN
+D'ALSACE
+a
+Bouteille
+du
+patron
+DI
+NOT
+BLANC
+HOTEL
+VILLE
+DE
+NANCY
+RIBEAUVILLE
+(HT,
+RH.
+"Vin d'Alsace\nVin D'Alsace\nLa Bouteille du Patron Pinto Blanc\nHotel <<Ville de Nancy>>, Ribeauvillé (HT.-RH.)\nHotel \"Ville de Nancy\", Ribeauville\" (HT.-RH.)"
+"Vin d'Alsace"
+"Vin D'Alsace"
+"La Bouteille du Patron Pinto Blanc"
+"Hotel <<Ville de Nancy>>, Ribeauvillé (HT.-RH.)"
+"Hotel \"Ville de Nancy\", Ribeauville\" (HT.-RH.)"

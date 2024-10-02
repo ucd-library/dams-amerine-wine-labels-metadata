@@ -1,0 +1,31 @@
+MAISON FONDEE EN 797
+NEGOCIANT A BEAUNE (COTE D'OR)
+APPELLATION CONTROLEE
+ROUALET BEAUNE
+
+MAISON
+FONDEE
+EN
+797
+NEGOCIANT
+A
+BEAUNE
+(COTE
+D'OR)
+APPELLATION
+CONTROLEE
+ROUALET
+BEAUNE
+"Pommard-Epenots\n1946\nLouis Latour\nMaison Fondee en 1797\nMaison Fondée en 1797\nNegociant a Beaune (Cote-d'Or)\nNégociant a Beaune (Cote-D'Or)\nAppellation Controlee\nAppellation Controlée\nRoualet Beaune\nFPG from Washington says \"Superb\"\n7 P-S from Washington says \"Superb\""
+"Pommard-Epenots"
+"1946"
+"Louis Latour"
+"Maison Fondee en 1797"
+"Maison Fondée en 1797"
+"Négociant a Beaune (Cote-D'Or)"
+"Negociant a Beaune (Cote-d'Or)"
+"Appellation Controlee"
+"Appellation Controlée"
+"Roualet Beaune"
+"7 P-S from Washington says \"Superb\""
+"FPG from Washington says \"Superb\""

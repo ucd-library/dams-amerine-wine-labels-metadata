@@ -1,0 +1,61 @@
+Selma Brand
+SELECT CALIFORNIA PORT
+Bottled by
+L. D. McLEAN CO
+SAN FRANCISCO
+Alcohol 20%
+Contents
+Withdrawn from Tax Paid Container
+By Volume
+1 Gallon
+PERMIT No. CAL, A 65. TH PER DIST, CAL
+
+Selma
+Brand
+SELECT
+CALIFORNIA
+PORT
+Bottled
+by
+L.
+D.
+McLEAN
+CO
+SAN
+FRANCISCO
+Alcohol
+20%
+Contents
+Withdrawn
+from
+Tax
+Paid
+Container
+By
+Volume
+1
+Gallon
+PERMIT
+No.
+CAL,
+A
+65.
+TH
+PER
+DIST,
+CAL
+"Selma Brand\nSelma Brand\nSELECT CALIFORNIA PORT\nSELECT CALIFORNIA PORT\nBottled by L. D. McLEAN CO. SAN FRANCISCO\nBottled by L. D. McLEAN CO. SAN FRANCISCO\nAlcohol 20% By Volume\nContents 1 Gallon\nAlcohol 20% By Volume\nContents 1 Gallon\nWithdrawn from Tax Paid Container Permit No. CAL. A65, 11th Per Dist. Cal.\nWithdrawn from Tax Paid Container\nPermit No. cal. A65. 11th Per Dist. Cal.\nPermit No. cal. A 65, 11th Per Dist. Cal."
+"Selma Brand"
+"Selma Brand"
+"SELECT CALIFORNIA PORT"
+"SELECT CALIFORNIA PORT"
+"Bottled by L. D. McLEAN CO. SAN FRANCISCO"
+"Bottled by L. D. McLEAN CO. SAN FRANCISCO"
+"Alcohol 20% By Volume"
+"Contents 1 Gallon"
+"Alcohol 20% By Volume"
+"Contents 1 Gallon"
+"Withdrawn from Tax Paid Container Permit No. CAL. A65, 11th Per Dist. Cal."
+"Withdrawn from Tax Paid Container"
+"Permit No. cal. A65. 11th Per Dist. Cal."
+"Permit No. cal. A 65, 11th Per Dist. Cal."

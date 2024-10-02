@@ -1,0 +1,21 @@
+Fasss
+Cabine Wein
+4367
+RHEINGAU
+
+Fasss
+Cabine
+Wein
+4367
+RHEINGAU
+"Fürstu. Metternichscher Schloss Johannishberger\nFirsto metternichscher Schloss johannisberger\nCabinet wine\nCabinet-Wein\nFaster cabinet wein 4367\nFass Cabinet-Wein 4367\nRheingau\n1943er\n1943\nLaboule"
+"Firsto metternichscher Schloss johannisberger"
+"Fürstu. Metternichscher Schloss Johannishberger"
+"Cabinet-Wein"
+"Cabinet wine"
+"Faster cabinet wein 4367"
+"Fass Cabinet-Wein 4367"
+"Rheingau"
+"1943er"
+"1943"
+"Laboule"

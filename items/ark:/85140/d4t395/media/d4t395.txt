@@ -1,0 +1,37 @@
+MUSIC; NY
+APPELLATION CONTROLEE
+Comte Georges de VOGUE
+1937
+GRAND VIN DE BOURGOGNE
+mis en bouteilles la propriete
+
+MUSIC;
+NY
+APPELLATION
+CONTROLEE
+Comte
+Georges
+de
+VOGUE
+1937
+GRAND
+VIN
+DE
+BOURGOGNE
+mis
+en
+bouteilles
+la
+propriete
+"côte de nuits ????? musigny tête de cuvée\nMusigny\nMUSIGNY\nAPPELLATION CONTROLÉE\nAppellation Controlée\nComte Georges de Vogüé\nComte Georges de VOGÜE'\n1937\nGrand vin de Bourgogne Mis en bouteilles à la propriété\nGrand Vin de Bourgogne Mis en bouteilles à la proprieté\nCt G de Vogue"
+"côte de nuits ????? musigny tête de cuvée"
+"MUSIGNY"
+"Musigny"
+"Appellation Controlée"
+"APPELLATION CONTROLÉE"
+"Comte Georges de Vogüé"
+"Comte Georges de VOGÜE'"
+"1937"
+"Grand vin de Bourgogne Mis en bouteilles à la propriété"
+"Grand Vin de Bourgogne Mis en bouteilles à la proprieté"
+"Ct G de Vogue"

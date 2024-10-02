@@ -1,0 +1,36 @@
+CHATEAU LA TOUR
+I er GRAND CRU
+POMEROL
+1945
+Produce of France
+B. M. & J. STRAUSS LTD., LONDON, E.C.2
+
+CHATEAU
+LA
+TOUR
+I
+er
+GRAND
+CRU
+POMEROL
+1945
+Produce
+of
+France
+B.
+M.
+&
+J.
+STRAUSS
+LTD.,
+LONDON,
+E.C.2
+"Pressure: ELN CEN\nDimmer London\nDinner\nChateau Latour\nI er Grand Cru\nPomerol 1945 Produce of France\nB. M. & J. Strauss Ltd., London, E.C.2\nB. M. & J. Strauss LTD., London, E.C.2"
+"Pressure: ELN CEN"
+"Dinner"
+"Dimmer London"
+"Chateau Latour"
+"I er Grand Cru"
+"Pomerol 1945 Produce of France"
+"B. M. & J. Strauss LTD., London, E.C.2"
+"B. M. & J. Strauss Ltd., London, E.C.2"

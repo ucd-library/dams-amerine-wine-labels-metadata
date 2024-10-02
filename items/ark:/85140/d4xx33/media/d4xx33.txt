@@ -1,0 +1,33 @@
+CHAMBOLLE-MUSIGNV
+APPELLATION CONTROLEE
+AUL BEAUDET&
+PONTANEVAUX.
+AONE ET- LOIRE
+OURGOGNE
+limp.
+A A L
+
+CHAMBOLLE-MUSIGNV
+APPELLATION
+CONTROLEE
+AUL
+BEAUDET&
+PONTANEVAUX.
+AONE
+ET-
+LOIRE
+OURGOGNE
+limp.
+A
+A
+L
+"CHAMBOLLE-MUSIGNY\nAPPELLATION CONTRÔLÉE\nPaul Beaudet & Cie. S.A\nPontanevaux Saône-et-Loire Bourgogne\nPontanevaus / Saône-et-Loire / Bourgogne\nImp. Alex. Lyon\nModàle Déposé\nModéle Déposé\nMAA - 69"
+"CHAMBOLLE-MUSIGNY"
+"APPELLATION CONTRÔLÉE"
+"Paul Beaudet & Cie. S.A"
+"Pontanevaux Saône-et-Loire Bourgogne"
+"Pontanevaus / Saône-et-Loire / Bourgogne"
+"Imp. Alex. Lyon"
+"Modàle Déposé"
+"Modéle Déposé"
+"MAA - 69"

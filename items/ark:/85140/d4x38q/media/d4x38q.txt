@@ -1,0 +1,39 @@
+1943
+APPELLATION
+CONTROLEE
+J.THORIN
+Les Rouvres PONTANEVAUX (S.&L. France
+POUILLY FUISSE
+66 CLIMATS
+IMP. DEL CEY DOLE
+
+1943
+APPELLATION
+CONTROLEE
+J.THORIN
+Les
+Rouvres
+PONTANEVAUX
+(S.&L.
+France
+POUILLY
+FUISSE
+66
+CLIMATS
+IMP.
+DEL
+CEY
+DOLE
+"1943\nAt Kome May '48 B\nAPPELLATION CONTROLÉE\nappelation controlee\nJ. Thorin\n\"Les Rouvres\" Pontanevaux (S.&L.) France\nPOUILLY\nPouilly ~Fuissé\n\"Climats\"\n\"CLIMATS\"\nImp. Delcey. Dole\nIMP. DELCEY_DOLE"
+"1943"
+"At Kome May '48 B"
+"appelation controlee"
+"APPELLATION CONTROLÉE"
+"J. Thorin"
+"\"Les Rouvres\" Pontanevaux (S.&L.) France"
+"Pouilly ~Fuissé"
+"POUILLY"
+"\"Climats\""
+"\"CLIMATS\""
+"IMP. DELCEY_DOLE"
+"Imp. Delcey. Dole"

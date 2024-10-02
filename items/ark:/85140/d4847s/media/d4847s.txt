@@ -1,0 +1,58 @@
+GRAND CRU
+DU BEAUJOLAIS
+MARQUE
+DE PO SEE
+FILE URI E
+APPELLATION CONTRO LEE
+ELEVE ET MIS EN
+A PONTANEVAUX
+BOUTEILLES PAR
+S & L
+BOURGOGNE
+HOR.3a 01 08
+
+GRAND
+CRU
+DU
+BEAUJOLAIS
+MARQUE
+DE
+PO
+SEE
+FILE
+URI
+E
+APPELLATION
+CONTRO
+LEE
+ELEVE
+ET
+MIS
+EN
+A
+PONTANEVAUX
+BOUTEILLES
+PAR
+S
+&
+L
+BOURGOGNE
+HOR.3a
+01
+08
+"Grand Cru du Beaujolais\nmarque deposee\nMarque Deposee\nFleurie\nAPPELLATION CONTRÔLÉE\nAppellation Controlee\nJ. Thorin\nÉLEVÉ ET MIS EN BOUTEILLES PAR\nEleve et mis en bouteilles par\nA Pontanevaux\nA PONTANEVAUX\n(S & L) Bourgogne\n(S-&-L) BOURGOGNE\nDR.30.0108\nNR. 30 0108"
+"Grand Cru du Beaujolais"
+"Marque Deposee"
+"marque deposee"
+"Fleurie"
+"APPELLATION CONTRÔLÉE"
+"Appellation Controlee"
+"J. Thorin"
+"ÉLEVÉ ET MIS EN BOUTEILLES PAR"
+"Eleve et mis en bouteilles par"
+"A PONTANEVAUX"
+"A Pontanevaux"
+"(S-&-L) BOURGOGNE"
+"(S & L) Bourgogne"
+"NR. 30 0108"
+"DR.30.0108"

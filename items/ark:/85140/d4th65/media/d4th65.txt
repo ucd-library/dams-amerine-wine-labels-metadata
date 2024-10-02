@@ -1,0 +1,22 @@
+N A
+EE
+VAREGNARD & FILS
+CHA BLIS (Yor ree)
+
+N
+A
+EE
+VAREGNARD
+&
+FILS
+CHA
+BLIS
+(Yor
+ree)
+"Chablis\nA.REgnard & Fils\nA. Regnard & Fils\nCHABLIS (Yonne)\nChablis (Yorre)\nPheger Ritz"
+"Chablis"
+"A.REgnard & Fils"
+"A. Regnard & Fils"
+"Chablis (Yorre)"
+"CHABLIS (Yonne)"
+"Pheger Ritz"

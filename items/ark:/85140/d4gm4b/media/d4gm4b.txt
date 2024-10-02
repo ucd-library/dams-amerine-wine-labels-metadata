@@ -1,0 +1,28 @@
+TVTIVS
+eva M.DEG
+APPELLATION
+CONTROLEE
+Maison fondée en 1804 repaianloaa
+
+TVTIVS
+eva
+M.DEG
+APPELLATION
+CONTROLEE
+Maison
+fondée
+en
+1804
+repaianloaa
+"1625-QVO-TVTIVS-EO-MELIVS 1665-NVNQVAM-DEGENERES\n1625 QVO TVTIVS EO MELIVS. 1665 NQNQVAM DEGENERES\nBeaujolais\nAPPELLATION CONTROLÉE\nAppellation controlée\nCabet Fréres\nNégociants à Nuits-St.-Georges (Côte-d'Or)\nNégociantes a Nuits St. Georges Côte'd Or\nMaison Fondée en 1804\nmaison fondée en 1804\nIMP_PARIS_NUITS"
+"1625 QVO TVTIVS EO MELIVS. 1665 NQNQVAM DEGENERES"
+"1625-QVO-TVTIVS-EO-MELIVS 1665-NVNQVAM-DEGENERES"
+"Beaujolais"
+"APPELLATION CONTROLÉE"
+"Appellation controlée"
+"Cabet Fréres"
+"Négociants à Nuits-St.-Georges (Côte-d'Or)"
+"Négociantes a Nuits St. Georges Côte'd Or"
+"maison fondée en 1804"
+"Maison Fondée en 1804"
+"IMP_PARIS_NUITS"
