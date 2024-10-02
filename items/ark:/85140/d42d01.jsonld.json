@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d42d01",
-    "label_0915"
+    "ark:/85140/d42d01"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Sparkling--France Misc White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Château de Beaulon § Le Pineau des Charentes § Saint-Dizant-du-Gua; Charentes-Maritimes",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Saint-Dizant-du-Gua; Charentes-Maritimes",
+  "wine_label:digitization_number": "0915/",
+  "wine_label:folder": "White--Sparkling--France Misc White",
+  "wine_label:marginalia": "\"Charentes\". \"Jeff\"",
+  "wine_label:producer": "Château de Beaulon",
+  "wine_label:wine_type": "Le Pineau des Charentes"
 }

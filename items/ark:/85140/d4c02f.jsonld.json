@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "label_0487",
     "ark:/85140/d4c02f"
   ],
   "schema:inLanguage": "de",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhinegau",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhinegau",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Staatliche Weinbau Domäne\n § Steinberger Kabinett Wein § Rheingau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Rheingau",
+  "wine_label:date": "1921",
+  "wine_label:digitization_number": "0487/",
+  "wine_label:folder": "Still--Rhinegau",
+  "wine_label:marginalia": "\"Price\"",
+  "wine_label:producer": "Staatliche Weinbau Domäne\n",
+  "wine_label:wine_type": "Steinberger Kabinett Wein"
 }

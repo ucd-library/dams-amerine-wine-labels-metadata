@@ -17,21 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "label_0684",
     "ark:/85140/d4ww4t"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Graf von Francken Sierstorpff vorm. Freiherrn von Freiherrn von Stumm-Halberg § Rüdesheimer Ringmauer § Riesling Spätlese § Rüdesheim im Rheingau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Rüdesheimer Ringmauer",
+  "wine_label:city_region": "Rüdesheim im Rheingau",
+  "wine_label:date": "1946",
+  "wine_label:digitization_number": "0684/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Dinner. Brenners Park Hotel. 6.15.50. Baden-Baden. A. (dry). ELH, CEH\"",
+  "wine_label:producer": "Graf von Francken Sierstorpff vorm. Freiherrn von Freiherrn von Stumm-Halberg",
+  "wine_label:wine_type": "Riesling Spätlese"
 }

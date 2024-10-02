@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "ark:/85140/d41h0r",
-    "label_1488"
+    "ark:/85140/d41h0r"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Pleasant Valley Wine Co. § Great Western § American Haut Sauternes § Rheims, NY",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Great Western",
+  "wine_label:city_region": "Rheims, NY",
+  "wine_label:digitization_number": "1488/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "\"(White) Buck\"",
+  "wine_label:producer": "Pleasant Valley Wine Co.",
+  "wine_label:wine_type": "American Haut Sauternes"
 }

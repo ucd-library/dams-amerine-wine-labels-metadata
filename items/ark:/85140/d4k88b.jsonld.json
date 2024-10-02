@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204565"
   },
   "schema:identifier": [
-    "ark:/85140/d4k88b",
-    "label_0137"
+    "ark:/85140/d4k88b"
   ],
   "schema:inLanguage": "it-IT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Italy",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Italy",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Casa Vinicola. G. Kettmeir, G.A. § Riesling § Caldaro; Alto Adige",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Caldaro; Alto Adige",
+  "wine_label:digitization_number": "0137/",
+  "wine_label:folder": "Still--Italy",
+  "wine_label:marginalia": "\"Dinner. W + F Soc. Bohemian Club. 9/16/53. C\"",
+  "wine_label:producer": "Casa Vinicola. G. Kettmeir, G.A.",
+  "wine_label:wine_type": "Riesling"
 }

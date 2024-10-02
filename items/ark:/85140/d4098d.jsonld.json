@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_3106",
     "ark:/85140/d4098d"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Mme Paul Ducasse, Propriétaire. L'Evangile. § Haut-Pomerol. Grand 1er Cru",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1928",
+  "wine_label:digitization_number": "3106/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:marginalia": "\"Dinner by Geo + Helen Selleck in honor of ELH + CEH. 4/1/50 B+\" \"Present: Geo + Helen Selleck, Raoul + Jean Blanquie, Farnham + Marjorie G, Jeff + Dorothy Smith, CEH + ELH\"",
+  "wine_label:producer": "Mme Paul Ducasse, Propriétaire. L'Evangile.",
+  "wine_label:wine_type": "Haut-Pomerol. Grand 1er Cru"
 }

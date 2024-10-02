@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/933048"
   },
   "schema:identifier": [
-    "ark:/85140/d4kq15",
-    "label_2219"
+    "ark:/85140/d4kq15"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Fortified",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Misc Fortified",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Pleasant Valley Wine Co. § Great Western § American Tokay § Rheims; Hammondsport;  New York",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Great Western",
+  "wine_label:city_region": "Rheims; Hammondsport;  New York",
+  "wine_label:digitization_number": "2219/",
+  "wine_label:folder": "Fortified--Misc Fortified",
+  "wine_label:marginalia": "\"Buck\"",
+  "wine_label:producer": "Pleasant Valley Wine Co.",
+  "wine_label:wine_type": "American Tokay"
 }

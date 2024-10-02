@@ -17,7 +17,6 @@
     "@id": "http://id.worldcat.org/fast/1272622"
   },
   "schema:identifier": [
-    "label_2062",
     "ark:/85140/d4vw81"
   ],
   "schema:inLanguage": "de-DE",
@@ -25,11 +24,15 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhein Hessen Rheinfalz",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "J.A.Harth & Co. § Niersteiner Kattenwein § Oppenheim a Rh.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Oppenheim a Rh.",
+  "wine_label:digitization_number": "2062/",
+  "wine_label:folder": "Still--Rhein Hessen Rheinfalz",
+  "wine_label:marginalia": "\"Dinner. Griffiths. December '44. B+\" \"Rheinhessen. Present: FPG, MMG, ELH, CEH\"",
+  "wine_label:producer": "J.A.Harth & Co.",
+  "wine_label:wine_type": "Niersteiner Kattenwein"
 }

@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d48g8m",
-    "label_0805"
+    "ark:/85140/d48g8m"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--France Misc White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "La Doucette Frères, Propriétaires. Château du Nozet § Pouilly sur Loire. Blanc-Fumé. Premier Grand Crû § Nièvre",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Nièvre",
+  "wine_label:digitization_number": "0805/",
+  "wine_label:folder": "White--Still--France Misc White",
+  "wine_label:marginalia": "\"Pouilly sur Loire\" \"FPG\"",
+  "wine_label:producer": "La Doucette Frères, Propriétaires. Château du Nozet",
+  "wine_label:wine_type": "Pouilly sur Loire. Blanc-Fumé. Premier Grand Crû"
 }

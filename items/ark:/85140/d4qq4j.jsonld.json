@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4qq4j",
-    "label_2930"
+    "ark:/85140/d4qq4j"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Bordeaux White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Domaine E. Boeckel. § Mittelbergheim Stein Riesling. Grand Cru d'Alsace § Mittelberghaim",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Mittelberghaim",
+  "wine_label:date": "1934",
+  "wine_label:digitization_number": "2930/",
+  "wine_label:folder": "White--Still--Bordeaux White",
+  "wine_label:marginalia": "\"Picnic lunch. Hallcrest. Oct. 5, 1940. .90\" \"Present: FPG, MG, CEH, ELH\"",
+  "wine_label:producer": "Domaine E. Boeckel.",
+  "wine_label:wine_type": "Mittelbergheim Stein Riesling. Grand Cru d'Alsace"
 }

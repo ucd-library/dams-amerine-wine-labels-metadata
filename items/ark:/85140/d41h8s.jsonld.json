@@ -17,21 +17,20 @@
     "@id": "http://id.worldcat.org/fast/1239515"
   },
   "schema:identifier": [
-    "ark:/85140/d41h8s",
-    "label_4019"
+    "ark:/85140/d41h8s"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "North Africa Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--North Africa Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "S.A. des Domaines Chaudsoleil (DC) § Chaudsoleil. Cuvée Réservée § Sidi Slimane; Maroc",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Sidi Slimane; Maroc",
+  "wine_label:digitization_number": "4019/",
+  "wine_label:folder": "Still--North Africa Folder",
+  "wine_label:producer": "S.A. des Domaines Chaudsoleil (DC)",
+  "wine_label:wine_type": "Chaudsoleil. Cuvée Réservée"
 }

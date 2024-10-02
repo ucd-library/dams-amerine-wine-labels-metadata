@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1272622"
   },
   "schema:identifier": [
-    "ark:/85140/d4nh23",
-    "label_2025"
+    "ark:/85140/d4nh23"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhein Hessen Rheinfalz",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhein Hessen Rheinfalz",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Wilh. Wasum. Weinkellerei Schloss Fürstenberg. § Laubenheimer Rhine Wine § Bacharach a Rh",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Bacharach a Rh",
+  "wine_label:date": "1934",
+  "wine_label:digitization_number": "2025/",
+  "wine_label:folder": "Still--Rhein Hessen Rheinfalz",
+  "wine_label:marginalia": "\"Rheinhessen.\" \"GAS\"",
+  "wine_label:producer": "Wilh. Wasum. Weinkellerei Schloss Fürstenberg.",
+  "wine_label:wine_type": "Laubenheimer Rhine Wine"
 }

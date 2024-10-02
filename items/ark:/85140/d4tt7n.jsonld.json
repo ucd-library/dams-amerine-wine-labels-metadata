@@ -17,7 +17,6 @@
     "@id": "http://id.worldcat.org/fast/1208476"
   },
   "schema:identifier": [
-    "label_4036",
     "ark:/85140/d4tt7n"
   ],
   "schema:inLanguage": "pt-PT",
@@ -25,11 +24,15 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Portugal Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "J.M. da Fonseca, Succs.  § Periquita § Azeitão; Setúbal, Portugal",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Azeitão; Setúbal, Portugal",
+  "wine_label:date": "1938",
+  "wine_label:digitization_number": "4036/",
+  "wine_label:folder": "Still--Portugal Folder",
+  "wine_label:producer": "J.M. da Fonseca, Succs. ",
+  "wine_label:wine_type": "Periquita"
 }

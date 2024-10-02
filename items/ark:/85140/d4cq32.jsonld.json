@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4cq32",
-    "label_2476"
+    "ark:/85140/d4cq32"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Burgundy White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "P.N.. Larenaudie, Propre. Château d'Auvenay § Blagny-Montrachet § Meursault",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Meursault",
+  "wine_label:date": "1921",
+  "wine_label:digitization_number": "2476/",
+  "wine_label:folder": "White--Still--Burgundy White",
+  "wine_label:marginalia": "\"Dinner. Griffiths. 11/24/42. B+\" \"Present: Farnham, Margery, Grace Reyfisch, Farnham Reyfisch, Mrs. Lloyd, Manse? Griffiths, Mildred Griffiths, Penry, Marie, Nelson Hackett, ELH, CEH\" ",
+  "wine_label:producer": "P.N.. Larenaudie, Propre. Château d'Auvenay",
+  "wine_label:wine_type": "Blagny-Montrachet"
 }

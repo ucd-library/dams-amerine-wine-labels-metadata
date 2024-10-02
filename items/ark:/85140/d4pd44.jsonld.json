@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4pd44",
-    "label_1839"
+    "ark:/85140/d4pd44"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Staatliche Hofkeller § Würzburger Innere Leiste Riesling § Würzburg",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Würzburg",
+  "wine_label:date": "1948",
+  "wine_label:digitization_number": "1839/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:marginalia": "\"Lunch. Cercle de l'Union. Lunch. 8/6/51. B+\"",
+  "wine_label:producer": "Staatliche Hofkeller",
+  "wine_label:wine_type": "Würzburger Innere Leiste Riesling"
 }

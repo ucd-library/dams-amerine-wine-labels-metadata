@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d40k85",
-    "label_0900"
+    "ark:/85140/d40k85"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Sparkling--France Misc White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Marquise de Sévigné. Concessionaire Etab. Adrien Sarrazin a Dijon Épernay § Champagne. § Épernay",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Épernay",
+  "wine_label:digitization_number": "0900/",
+  "wine_label:folder": "White--Sparkling--France Misc White",
+  "wine_label:marginalia": "\"Selleck\"",
+  "wine_label:producer": "Marquise de Sévigné. Concessionaire Etab. Adrien Sarrazin a Dijon Épernay",
+  "wine_label:wine_type": "Champagne."
 }

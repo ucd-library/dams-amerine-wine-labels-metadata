@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204565"
   },
   "schema:identifier": [
-    "ark:/85140/d4cs3r",
-    "label_0123"
+    "ark:/85140/d4cs3r"
   ],
   "schema:inLanguage": "it-IT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Italy",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Italy",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Gebr. Illrt, G.m.b.H § Lacrima Christi § Kl. Auheim-Hanau (Allemagne)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Kl. Auheim-Hanau (Allemagne)",
+  "wine_label:digitization_number": "0123/",
+  "wine_label:folder": "Still--Italy",
+  "wine_label:marginalia": "\"Italy.\" \"Jeff\"",
+  "wine_label:producer": "Gebr. Illrt, G.m.b.H",
+  "wine_label:wine_type": "Lacrima Christi"
 }

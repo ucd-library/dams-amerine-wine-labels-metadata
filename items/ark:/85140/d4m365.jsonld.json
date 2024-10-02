@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4m365",
-    "label_1739"
+    "ark:/85140/d4m365"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "A. Weigand § Serriger Volgelsang Spätlese § Bingen a. Rh.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Bingen a. Rh.",
+  "wine_label:date": "1937",
+  "wine_label:digitization_number": "1739/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:marginalia": "\"Sunday lunch at Home.  8/30/42.  A-\" \"Saar\" \"Present: CEH, ELH, CEH, Jr., Carolyn, MH\"",
+  "wine_label:producer": "A. Weigand",
+  "wine_label:wine_type": "Serriger Volgelsang Spätlese"
 }

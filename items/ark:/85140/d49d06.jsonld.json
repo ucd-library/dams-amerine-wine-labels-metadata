@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1205401"
   },
   "schema:identifier": [
-    "ark:/85140/d49d06",
-    "label_1006"
+    "ark:/85140/d49d06"
   ],
   "schema:inLanguage": "de-CH",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Swiss",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Swiss",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "S. Corboz - prop.  § Epesses § Epesses",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Epesses",
+  "wine_label:date": "1941",
+  "wine_label:digitization_number": "1006/",
+  "wine_label:folder": "Still--Swiss",
+  "wine_label:marginalia": "\"John Baur from Switzerland\"",
+  "wine_label:producer": "S. Corboz - prop. ",
+  "wine_label:wine_type": "Epesses"
 }

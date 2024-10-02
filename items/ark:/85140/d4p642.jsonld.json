@@ -28,22 +28,23 @@
     }
   ],
   "schema:identifier": [
-    "label_1692",
     "ark:/85140/d4p642"
   ],
   "schema:inLanguage": "en-CY",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spanish Table Wines Italy (Cypress and Greece)",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spanish Table Wines Italy (Cypress and Greece)",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Cyprus Wine Association, Ltd., successors to Crist. Haggipavlu & sons, ltd. § Cornaro Vermouth § Limassol, Cyprus",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Limassol, Cyprus",
+  "wine_label:digitization_number": "1692/",
+  "wine_label:folder": "Still--Spanish Table Wines Italy (Cyprus and Greece)",
+  "wine_label:marginalia": "\"Cypus Vermouth\"",
+  "wine_label:producer": "Cyprus Wine Association, Ltd., successors to Crist. Haggipavlu & sons, ltd.",
+  "wine_label:questions": "Image is upside down",
+  "wine_label:wine_type": "Cornaro Vermouth"
 }

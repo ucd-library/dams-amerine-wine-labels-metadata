@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_2844",
     "ark:/85140/d4tx1d"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Bordeaux White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Château La Tour Blanche. Donation Osiris. Propriété de l'État § Sauternes 1er Cru",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1924",
+  "wine_label:digitization_number": "2844/",
+  "wine_label:folder": "White--Still--Bordeaux White",
+  "wine_label:marginalia": "\"1er Cru Bommes (Sauternes)\"",
+  "wine_label:producer": "Château La Tour Blanche. Donation Osiris. Propriété de l'État",
+  "wine_label:wine_type": "Sauternes 1er Cru"
 }

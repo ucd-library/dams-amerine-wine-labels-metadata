@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "label_2781",
     "ark:/85140/d40110"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhone Misc & French Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Rhone Misc & French Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": " § Gaillac, Demi Sec, 1ères Côtes",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1945",
+  "wine_label:digitization_number": "2781/",
+  "wine_label:folder": "White--Still--Vin blanc de France (?)",
+  "wine_label:marginalia": "\"Tarn Département\", \"Jeff Smith. Brussels\"",
+  "wine_label:wine_type": "Gaillac, Demi Sec, 1ères Côtes"
 }

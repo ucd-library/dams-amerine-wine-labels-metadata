@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1204289"
   },
   "schema:identifier": [
-    "ark:/85140/d4ft77",
-    "label_4186"
+    "ark:/85140/d4ft77"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--France Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Maison Deutz & Geldermann § Champagne Deutz. Brut § Ay; Champagne",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Ay; Champagne",
+  "wine_label:date": "1947",
+  "wine_label:digitization_number": "4186/",
+  "wine_label:folder": "Still--France Folder",
+  "wine_label:marginalia": "\"Home. 1/3/56\" \"Champagne\"",
+  "wine_label:producer": "Maison Deutz & Geldermann",
+  "wine_label:wine_type": "Champagne Deutz. Brut"
 }

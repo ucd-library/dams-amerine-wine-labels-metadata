@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_2018",
     "ark:/85140/d4jq0g"
   ],
   "schema:inLanguage": "es-ES",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spanish Sherry",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Spanish Sherry",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "A.R. Ruiz y Hermanos § Isabelita § Perfection Sherry § Jerez de la Frontera",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Isabelita",
+  "wine_label:city_region": "Jerez de la Frontera",
+  "wine_label:digitization_number": "2018/",
+  "wine_label:folder": "Fortified--Spanish Sherry",
+  "wine_label:producer": "A.R. Ruiz y Hermanos",
+  "wine_label:wine_type": "Perfection Sherry"
 }

@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_2555",
     "ark:/85140/d45q4k"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Burgundy White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Caves de J. Moreau Fils.  § Grand Cru Chablis-Les Clos § Chablis",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Chablis",
+  "wine_label:date": "1934",
+  "wine_label:digitization_number": "2555/",
+  "wine_label:folder": "White--Still--Burgundy White",
+  "wine_label:marginalia": "\"Dinner. Griffiths. Jan. '46. A\"  \"Chablis 1st Growth\" \"Present: Morris Doyle, FPG, CEH\"",
+  "wine_label:producer": "Caves de J. Moreau Fils. ",
+  "wine_label:wine_type": "Grand Cru Chablis-Les Clos"
 }

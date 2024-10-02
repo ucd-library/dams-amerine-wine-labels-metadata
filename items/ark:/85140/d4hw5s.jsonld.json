@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4hw5s",
-    "label_0834"
+    "ark:/85140/d4hw5s"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--France Misc White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Paul Verdier § Sancerre-Sauvignon",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "0834/",
+  "wine_label:folder": "White--Still--France Misc White",
+  "wine_label:marginalia": "\"Dinner. Cercle de l'Union. August 8, '43. B.\" \"Loire. Sancenne\" \"Present: Russ Curtis, Mrs. Curtis, Dr. Hirschkind, Mrs. Hirschkind; ELH, CEH, etc.\"",
+  "wine_label:producer": "Paul Verdier",
+  "wine_label:wine_type": "Sancerre-Sauvignon"
 }

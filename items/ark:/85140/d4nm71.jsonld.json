@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4nm71",
-    "label_3573"
+    "ark:/85140/d4nm71"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--California White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Albert Haentze, Prop.  Villa Vista Vineyard. § California Sauterne WIne. § Evergreen; San Jose",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Evergreen; San Jose",
+  "wine_label:digitization_number": "3573/",
+  "wine_label:folder": "White--Still--California White",
+  "wine_label:marginalia": "\"maa\"",
+  "wine_label:producer": "Albert Haentze, Prop.  Villa Vista Vineyard.",
+  "wine_label:wine_type": "California Sauterne WIne."
 }

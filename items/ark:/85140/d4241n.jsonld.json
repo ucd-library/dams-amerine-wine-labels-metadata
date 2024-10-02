@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_3121",
     "ark:/85140/d4241n"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "de Lagarcie et Labourin, Proprietaires. Chateau Crusquet § 1ers Cotes de Blaye.1er Crû cars Gironde § Cotes de Blaye",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Cotes de Blaye",
+  "wine_label:date": "1926",
+  "wine_label:digitization_number": "3121/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:marginalia": "\"Cotes de Blaye\" \"FPG\"",
+  "wine_label:producer": "de Lagarcie et Labourin, Proprietaires. Chateau Crusquet",
+  "wine_label:wine_type": "1ers Cotes de Blaye.1er Crû cars Gironde"
 }

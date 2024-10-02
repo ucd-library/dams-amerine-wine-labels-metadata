@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4bf0v",
-    "label_3916"
+    "ark:/85140/d4bf0v"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Naturrein-Unvergoren Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Germany Naturrein-Unvergoren Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Gebrüder Paulus § Pavino § Deutsche Wermut Wein § Rüdesheim a. Rh.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Pavino",
+  "wine_label:city_region": "Rüdesheim a. Rh.",
+  "wine_label:digitization_number": "3916/",
+  "wine_label:folder": "Still--Germany Naturrein-Unvergoren Folder",
+  "wine_label:producer": "Gebrüder Paulus",
+  "wine_label:wine_type": "Deutsche Wermut Wein"
 }

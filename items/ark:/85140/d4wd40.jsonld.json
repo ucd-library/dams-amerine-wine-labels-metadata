@@ -17,21 +17,21 @@
     "@id": "http://id.worldcat.org/fast/933048"
   },
   "schema:identifier": [
-    "ark:/85140/d4wd40",
-    "label_2147"
+    "ark:/85140/d4wd40"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Fortified",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Misc Fortified",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Tarquinio T.  da Camera Lomelino, Lda. § Sercial - Madeira § Madeira; Portugal",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Madeira; Portugal",
+  "wine_label:digitization_number": "2147/",
+  "wine_label:folder": "Fortified--Misc Fortified",
+  "wine_label:marginalia": "\"Dinner. Griffiths. 6/26/41. B. (Too sweet for Sercial) (with soup)\" \"Present: See Chablis Grenoville\" ",
+  "wine_label:producer": "Tarquinio T.  da Camera Lomelino, Lda.",
+  "wine_label:wine_type": "Sercial - Madeira"
 }

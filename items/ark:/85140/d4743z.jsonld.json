@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1208476"
   },
   "schema:identifier": [
-    "ark:/85140/d4743z",
-    "label_4033"
+    "ark:/85140/d4743z"
   ],
   "schema:inLanguage": "pt-PT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Portugal Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Portugal Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Cockburn Smithes & Co., Lda. (CF) § \"Director's Reserve\" Tawny Port § Oporto",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Oporto",
+  "wine_label:digitization_number": "4033/",
+  "wine_label:folder": "Still--Portugal Folder",
+  "wine_label:producer": "Cockburn Smithes & Co., Lda. (CF)",
+  "wine_label:wine_type": "\"Director's Reserve\" Tawny Port"
 }

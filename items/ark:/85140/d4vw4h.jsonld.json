@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1205401"
   },
   "schema:identifier": [
-    "label_1079",
     "ark:/85140/d4vw4h"
   ],
   "schema:inLanguage": "de-CH",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Swiss",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Swiss",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Albert Lozeron Auvernier § Vins de Neuchatel",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1940",
+  "wine_label:digitization_number": "1079/",
+  "wine_label:folder": "Still--Swiss",
+  "wine_label:marginalia": "\"Cercle de l'Union. Lunch. 7/9/44 B-\"  \"Switzerland\" \"Present: Jeff Smith, FPG, Carl Ganter, CEH\"",
+  "wine_label:producer": "Albert Lozeron Auvernier",
+  "wine_label:wine_type": "Vins de Neuchatel"
 }

@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1272622"
   },
   "schema:identifier": [
-    "ark:/85140/d4x08p",
-    "label_2023"
+    "ark:/85140/d4x08p"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhein Hessen Rheinfalz",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhein Hessen Rheinfalz",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Weingut Louis Guntrum § Dienheimer Guldenmorgen Riesling. Rhine Wine. § Oppenheim u. Nierstein; Rhein-Hessen",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Oppenheim u. Nierstein; Rhein-Hessen",
+  "wine_label:date": "1947",
+  "wine_label:digitization_number": "2023/",
+  "wine_label:folder": "Still--Rhein Hessen Rheinfalz",
+  "wine_label:marginalia": "\"Amerine\"",
+  "wine_label:producer": "Weingut Louis Guntrum",
+  "wine_label:wine_type": "Dienheimer Guldenmorgen Riesling. Rhine Wine."
 }

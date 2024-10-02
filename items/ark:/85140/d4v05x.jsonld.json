@@ -17,21 +17,21 @@
     "@id": "http://id.worldcat.org/fast/837918"
   },
   "schema:identifier": [
-    "ark:/85140/d4v05x",
-    "label_1265"
+    "ark:/85140/d4v05x"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Brandy",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Brandy",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Federal Wine & Brandy Co., Pty. Ltd.  § Extra Fine Pyramid Brandy § Cape Town, South Africa",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Cape Town, South Africa",
+  "wine_label:digitization_number": "1265/",
+  "wine_label:folder": "Fortified--Brandy",
+  "wine_label:marginalia": "\"So Africa\" \"GAS\"",
+  "wine_label:producer": "Federal Wine & Brandy Co., Pty. Ltd. ",
+  "wine_label:wine_type": "Extra Fine Pyramid Brandy"
 }

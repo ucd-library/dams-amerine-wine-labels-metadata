@@ -17,21 +17,20 @@
     "@id": "http://id.worldcat.org/fast/1241484"
   },
   "schema:identifier": [
-    "label_4328",
     "ark:/85140/d43t74"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Balkans Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Balkans Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Poljoprivredno dobro § Burgundac bijeli § Kutjevo",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Kutjevo",
+  "wine_label:digitization_number": "4328/",
+  "wine_label:folder": "Still--Balkans Folder",
+  "wine_label:producer": "Poljoprivredno dobro",
+  "wine_label:wine_type": "Burgundac bijeli"
 }

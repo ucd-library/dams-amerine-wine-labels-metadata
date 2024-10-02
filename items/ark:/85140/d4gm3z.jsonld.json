@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_2274",
     "ark:/85140/d4gm3z"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Medoc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Medoc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Château- Margaux. § Premier Grand Cru Classé. Grand Vin.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1934",
+  "wine_label:digitization_number": "2274/",
+  "wine_label:folder": "Red--Still--Medoc Red",
+  "wine_label:marginalia": "\"Dinner. 50 Hazel Lane. 12/10/51. AA\". \"1st Cru Margaux (Medoc)\" \"Present: Amerine, Weill, Juilliard, Blanquie, Esquin, Griffiths, Price, Curtis, Howe, Selleck, CEH\".",
+  "wine_label:producer": "Château- Margaux.",
+  "wine_label:wine_type": "Premier Grand Cru Classé. Grand Vin."
 }

@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4zh85",
-    "label_3470"
+    "ark:/85140/d4zh85"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--California White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Owned and operated by the Brothers of the Christian Schools. Produced and bottled by Mont La Salle Vineyards.  § Christian Brothers § Pure California Chablis § Napa",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Christian Brothers",
+  "wine_label:city_region": "Napa",
+  "wine_label:digitization_number": "3470/",
+  "wine_label:folder": "White--Still--California White",
+  "wine_label:marginalia": "\"Wine Committee. Tasting Dinner. Bhmn Club. 4/5/43. C\" \"Present: Sec. [?] de [?] Chablis\" ",
+  "wine_label:producer": "Owned and operated by the Brothers of the Christian Schools. Produced and bottled by Mont La Salle Vineyards. ",
+  "wine_label:wine_type": "Pure California Chablis"
 }

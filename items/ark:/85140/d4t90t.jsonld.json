@@ -17,21 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d4t90t",
-    "label_0646"
+    "ark:/85140/d4t90t"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Jacques Bouchard et Cie, Propriétaires. Paris. § Pouilly-Fuissé § Burgundy",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Burgundy",
+  "wine_label:date": "1947",
+  "wine_label:digitization_number": "0646/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Dinner. Cochon d'Or. Paris. 5/18/50. B. Champignons ala Grecque, Faux- filet au entrecôte. Fraises de Bois. Present: L.J., Priscilla, ELC, CEH\"",
+  "wine_label:producer": "Jacques Bouchard et Cie, Propriétaires. Paris.",
+  "wine_label:wine_type": "Pouilly-Fuissé"
 }

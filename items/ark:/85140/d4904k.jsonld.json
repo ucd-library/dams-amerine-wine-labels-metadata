@@ -17,21 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d4904k",
-    "label_0712"
+    "ark:/85140/d4904k"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "B.M. & J. Strauss, London. § Nuits \"Clos des Princes\". Monopole. § Burgundy § Produit de France",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Nuits \"Clos des Princes\". Monopole.",
+  "wine_label:city_region": "Produit de France",
+  "wine_label:digitization_number": "0712/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Dinner. Quaglino's. Berry St. St. James. London. 7/22/50. B. Present: ELH, CEH\".",
+  "wine_label:producer": "B.M. & J. Strauss, London.",
+  "wine_label:questions": "See ad from Harper's directory: https://docs.google.com/spreadsheets/d/1Bff8m5uNftPsGJdOmwXmttR68e10tIZkjhOtBk4EJjA/edit#gid=868536261",
+  "wine_label:wine_type": "Burgundy"
 }

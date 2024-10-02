@@ -17,21 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d4hg8s",
-    "label_0718"
+    "ark:/85140/d4hg8s"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Baron de Pichon-Longueville § Château Longueville § Pauillac- Médoc § Bordeaux; Pauillac",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Château Longueville",
+  "wine_label:city_region": "Bordeaux; Pauillac",
+  "wine_label:date": "1943",
+  "wine_label:digitization_number": "0718/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Dinner. Ile de France. 7/29/50. Present: ELH, CEH\"",
+  "wine_label:producer": "Baron de Pichon-Longueville",
+  "wine_label:wine_type": "Pauillac- Médoc"
 }

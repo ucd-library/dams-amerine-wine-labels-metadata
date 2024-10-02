@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204289"
   },
   "schema:identifier": [
-    "ark:/85140/d4nt6q",
-    "label_4107"
+    "ark:/85140/d4nt6q"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--France Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Clerget-Buffet Fils § Bienvenues-Bâtard-Montrachet § Volnay; Côte d'Or",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Volnay; Côte d'Or",
+  "wine_label:date": "1949",
+  "wine_label:digitization_number": "4107/",
+  "wine_label:folder": "Still--France Folder",
+  "wine_label:producer": "Clerget-Buffet Fils",
+  "wine_label:wine_type": "Bienvenues-Bâtard-Montrachet"
 }

@@ -16,21 +16,21 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "label_5044",
     "ark:/85140/d4m46h"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Left & Right: Goldberg, Bowen & Company § Left & Right: Big Tree § Left & Right: California WInes § Left & Right: San Francisco; Oakland",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Left & Right: Big Tree",
+  "wine_label:city_region": "Left & Right: San Francisco; Oakland",
+  "wine_label:digitization_number": "5044/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:producer": "Left & Right: Goldberg, Bowen & Company",
+  "wine_label:wine_type": "Left & Right: California WInes"
 }

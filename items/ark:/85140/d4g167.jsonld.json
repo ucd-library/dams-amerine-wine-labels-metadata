@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4g167",
-    "label_4542"
+    "ark:/85140/d4g167"
   ],
   "schema:inLanguage": "es-ES",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spain Sherry Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Spain Sherry Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Bobadilla y Cia. Bodegas de Manuel Fernandez & Cia, S.L. § Tio Rafa. Amontillado muy fino. § Jerez",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Jerez",
+  "wine_label:digitization_number": "4542/",
+  "wine_label:folder": "Fortified--Spain Sherry Folder",
+  "wine_label:producer": "Bobadilla y Cia. Bodegas de Manuel Fernandez & Cia, S.L.",
+  "wine_label:wine_type": "Tio Rafa. Amontillado muy fino."
 }

@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1204565"
   },
   "schema:identifier": [
-    "label_3742",
     "ark:/85140/d4td98"
   ],
   "schema:inLanguage": "it-IT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Italy Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Italy Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Cte. Serristori § Chianti § San Casciano Val di Pesa (Firenze)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "San Casciano Val di Pesa (Firenze)",
+  "wine_label:digitization_number": "3742/",
+  "wine_label:folder": "Still--Italy Folder",
+  "wine_label:producer": "Cte. Serristori",
+  "wine_label:wine_type": "Chianti"
 }

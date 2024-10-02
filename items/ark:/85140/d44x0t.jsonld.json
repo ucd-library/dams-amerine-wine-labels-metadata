@@ -17,21 +17,22 @@
     "@id": "http://id.worldcat.org/fast/933048"
   },
   "schema:identifier": [
-    "label_2145",
     "ark:/85140/d44x0t"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Fortified",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Misc Fortified",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Justino Henriques Filhos, LDS § Fanal Fine Madeira Wine § Island of Madeira; Portugal",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Island of Madeira; Portugal",
+  "wine_label:date": "1878",
+  "wine_label:digitization_number": "2145/",
+  "wine_label:folder": "Fortified--Misc Fortified",
+  "wine_label:marginalia": "\"White wine dinner in honor of Ernest + Herman Wente, Nov. 12, 1947, 50 Hazel Lane.   A\" \"Present: Ernest Wente, Herman Wente, Raoul Blanquie, Esquin, CEH, Jr., Jim Howe, Sal Lucia, Harold Price, Geo. Selleck, Jeff Smith, Bob Sproul, CEH (host)\" ",
+  "wine_label:producer": "Justino Henriques Filhos, LDS",
+  "wine_label:wine_type": "Fanal Fine Madeira Wine"
 }

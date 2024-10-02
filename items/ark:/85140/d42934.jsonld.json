@@ -28,22 +28,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d42934",
-    "label_1720"
+    "ark:/85140/d42934"
   ],
   "schema:inLanguage": "el-GR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spanish Table Wines Italy (Cypress and Greece)",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spanish Table Wines Italy (Cypress and Greece)",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Valmistaja Marjaviini- ja likööritehdas Marli § Suomuurain Liqueur Marli § Turku",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Turku",
+  "wine_label:digitization_number": "1720/",
+  "wine_label:folder": "Still--Spanish Table Wines Italy (Cyprus and Greece)",
+  "wine_label:marginalia": "\"Turkey\" \"Jeff\"",
+  "wine_label:producer": "Valmistaja Marjaviini- ja likööritehdas Marli",
+  "wine_label:wine_type": "Suomuurain Liqueur Marli"
 }

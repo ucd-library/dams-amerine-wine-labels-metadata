@@ -16,21 +16,22 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "label_5070",
     "ark:/85140/d47r1d"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "A. Repsold Co., San Francisco § Mirando § Burgundy § Napa",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Mirando",
+  "wine_label:city_region": "Napa",
+  "wine_label:date": "1917",
+  "wine_label:digitization_number": "5070/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:producer": "A. Repsold Co., San Francisco",
+  "wine_label:wine_type": "Burgundy"
 }

@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_2920",
     "ark:/85140/d41692"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Bordeaux White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Adolph Wilmm § Gewuerz-traminer § Barr; Alsace",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Barr; Alsace",
+  "wine_label:date": "1940",
+  "wine_label:digitization_number": "2920/",
+  "wine_label:folder": "White--Still--Bordeaux White",
+  "wine_label:marginalia": "\"Dinner. Selleck's. 2/26/49. B\" \"Present: Geo + Helen Selleck, Farnham + Marjorie Grif. , Raoul + Jeanne Blanquie, John Esquin, [??], ELH + CEH\" ",
+  "wine_label:producer": "Adolph Wilmm",
+  "wine_label:wine_type": "Gewuerz-traminer"
 }

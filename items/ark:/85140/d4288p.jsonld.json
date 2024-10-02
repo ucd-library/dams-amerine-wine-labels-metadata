@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_0350",
     "ark:/85140/d4288p"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--California Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Lachryma Montis Vineyard § Sonoma Red Wine § Sonoma Valley",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Sonoma Valley",
+  "wine_label:date": "1858",
+  "wine_label:digitization_number": "0350/",
+  "wine_label:folder": "Red--Still--California Red",
+  "wine_label:marginalia": "\"[J?] [Howe/House]\"",
+  "wine_label:producer": "Lachryma Montis Vineyard",
+  "wine_label:wine_type": "Sonoma Red Wine"
 }

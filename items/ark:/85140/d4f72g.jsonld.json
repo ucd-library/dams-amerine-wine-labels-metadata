@@ -14,22 +14,21 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "ark:/85140/d4f72g",
-    "label_3923"
+    "ark:/85140/d4f72g"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Sleiwerein Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Germany Sleiwerein Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Staatlicher Hofkeller Würzburg § Würzburger Stein Riesling",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1948",
+  "wine_label:digitization_number": "3923/",
+  "wine_label:folder": "Still--Germany Sleiwerein Folder",
+  "wine_label:producer": "Staatlicher Hofkeller Würzburg",
+  "wine_label:wine_type": "Würzburger Stein Riesling"
 }

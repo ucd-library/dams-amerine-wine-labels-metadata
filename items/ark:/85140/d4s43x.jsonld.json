@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204289"
   },
   "schema:identifier": [
-    "ark:/85140/d4s43x",
-    "label_4199"
+    "ark:/85140/d4s43x"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--France Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "A. Courtillié-Roynet, Propriétaire. Château de L'Écharderie. § Quarts de Chaume. Coteaux du Layon. Premier Grand Cru Anjou Layon- § Rochefort -sur- Loire; Maine-et-Loire",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Rochefort -sur- Loire; Maine-et-Loire",
+  "wine_label:digitization_number": "4199/",
+  "wine_label:folder": "Still--France Folder",
+  "wine_label:marginalia": "\"Loire\" \"Anjou\" \"MAA-81+\"",
+  "wine_label:producer": "A. Courtillié-Roynet, Propriétaire. Château de L'Écharderie.",
+  "wine_label:wine_type": "Quarts de Chaume. Coteaux du Layon. Premier Grand Cru Anjou Layon-"
 }

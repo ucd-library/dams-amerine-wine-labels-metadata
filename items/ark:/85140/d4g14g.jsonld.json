@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1272622"
   },
   "schema:identifier": [
-    "ark:/85140/d4g14g",
-    "label_3946"
+    "ark:/85140/d4g14g"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Rheinhessen Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Germany Rheinhessen Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Weingut Oberstleutnant Liebrecht § Bodenheimer Burgweg. Edelbeeren-Auslese.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1921",
+  "wine_label:digitization_number": "3946/",
+  "wine_label:folder": "Still--Germany Rheinhessen Folder",
+  "wine_label:producer": "Weingut Oberstleutnant Liebrecht",
+  "wine_label:wine_type": "Bodenheimer Burgweg. Edelbeeren-Auslese."
 }

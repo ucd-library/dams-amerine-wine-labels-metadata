@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1205401"
   },
   "schema:identifier": [
-    "label_0976",
     "ark:/85140/d45s61"
   ],
   "schema:inLanguage": "de-CH",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Swiss",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Swiss",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Paul Schwob. Schwob Preiswerk & Cie. § La Côte § Liestal",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Liestal",
+  "wine_label:digitization_number": "0976/",
+  "wine_label:folder": "Still--Swiss",
+  "wine_label:marginalia": "\"Jeff\"",
+  "wine_label:producer": "Paul Schwob. Schwob Preiswerk & Cie.",
+  "wine_label:wine_type": "La Côte"
 }

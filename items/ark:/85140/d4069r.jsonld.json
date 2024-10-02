@@ -22,22 +22,24 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4069r",
-    "label_3315"
+    "ark:/85140/d4069r"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Burgundy Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Joseph Drouhin, Négociant à Beaune (Côte d'Or) § Grand Vin de Bourgogne § Nuits-St-Georges § Baune, Côte d'Or, France",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Grand Vin de Bourgogne",
+  "wine_label:city_region": "Baune, Côte d'Or, France",
+  "wine_label:date": "1949",
+  "wine_label:digitization_number": "3315/",
+  "wine_label:folder": "Red--Still--Burgundy Red",
+  "wine_label:marginalia": "\"MAA-77\"",
+  "wine_label:producer": "Joseph Drouhin, Négociant à Beaune (Côte d'Or)",
+  "wine_label:wine_type": "Nuits-St-Georges"
 }

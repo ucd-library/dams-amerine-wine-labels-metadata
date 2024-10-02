@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "label_1311",
     "ark:/85140/d4wp88"
   ],
   "schema:inLanguage": "de-LU",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Avery's of Bristol. § Wintrenger Riesling",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1946",
+  "wine_label:digitization_number": "1311/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "\"Dinner. Harold Price. Cercle de l'Union. 5/3/49. B-\" \"Luxembourg. Present: Harold Price, Farnham Griffiths, Jeff Smith, George Selleck, John Esquin, Maynard Amerine, Sal Lucia, Jim Howe, Marius Francoz, Raoul Blanquie, CEH\"",
+  "wine_label:producer": "Avery's of Bristol.",
+  "wine_label:wine_type": "Wintrenger Riesling"
 }

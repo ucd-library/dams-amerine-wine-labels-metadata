@@ -17,21 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d41s6s",
-    "label_0652"
+    "ark:/85140/d41s6s"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Unlisted § Blanc. De raisins blanc. Très sec § Unlisted",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Unlisted",
+  "wine_label:digitization_number": "0652/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Lunch. Hotel de la Cité. Carcassonne. 5/24/50. C+ Present: ELC, CEH\"\"T14\"",
+  "wine_label:producer": "Unlisted",
+  "wine_label:wine_type": "Blanc. De raisins blanc. Très sec"
 }

@@ -22,22 +22,24 @@
     }
   ],
   "schema:identifier": [
-    "label_3499",
     "ark:/85140/d46t4x"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--California White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Gopher Gulch Ranch Wine Cellars § House of Howe § White Riesling § Walnut Creek",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "House of Howe",
+  "wine_label:city_region": "Walnut Creek",
+  "wine_label:date": "1947",
+  "wine_label:digitization_number": "3499/",
+  "wine_label:folder": "White--Still--California White",
+  "wine_label:marginalia": "\"Jim Howe\" ",
+  "wine_label:producer": "Gopher Gulch Ranch Wine Cellars",
+  "wine_label:wine_type": "White Riesling"
 }

@@ -22,22 +22,24 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4837f",
-    "label_2268"
+    "ark:/85140/d4837f"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Medoc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Medoc Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Chateau Latour § Grand Vin de Chateau Latour § Pauillac.  § Pauillac",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Grand Vin de Chateau Latour",
+  "wine_label:city_region": "Pauillac",
+  "wine_label:date": "1945",
+  "wine_label:digitization_number": "2268/",
+  "wine_label:folder": "Red--Still--Medoc Red",
+  "wine_label:marginalia": "\"Dinner. H. Price. Palace Hotel. 11/5/53. B-\" \"Present: Knudsen, Francoz, Blumen, Weill, Wente, Howe, Blanquie, Selleck, Esquin, CEH\"",
+  "wine_label:producer": "Chateau Latour",
+  "wine_label:wine_type": "Pauillac. "
 }

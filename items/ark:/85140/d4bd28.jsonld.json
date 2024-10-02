@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_1594",
     "ark:/85140/d4bd28"
   ],
   "schema:inLanguage": "es-ES",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spanish Misc Sweet and Fortified",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Spanish Misc Sweet and Fortified",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Juan Pedro Luque § Sucesores § Moscatel Fruta § Sanlúcar",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Sucesores",
+  "wine_label:city_region": "Sanlúcar",
+  "wine_label:digitization_number": "1594/",
+  "wine_label:folder": "Fortified--Spanish Misc Sweet and Fortified",
+  "wine_label:marginalia": "\"Phleger\"",
+  "wine_label:producer": "Juan Pedro Luque",
+  "wine_label:wine_type": "Moscatel Fruta"
 }

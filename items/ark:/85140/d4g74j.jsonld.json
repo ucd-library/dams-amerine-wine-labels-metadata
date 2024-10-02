@@ -22,21 +22,20 @@
     }
   ],
   "schema:identifier": [
-    "label_4689",
     "ark:/85140/d4g74j"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Aperetifs & Liqueurs Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Spirit",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Wm Teacher & Sons, Ltd.  § Teacher's \"Highland Cream\" perfection of Old Scotch Whisky § Glasgow",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Glasgow",
+  "wine_label:digitization_number": "4689/",
+  "wine_label:folder": "Spirit",
+  "wine_label:producer": "Wm Teacher & Sons, Ltd. ",
+  "wine_label:wine_type": "Teacher's \"Highland Cream\" perfection of Old Scotch Whisky"
 }

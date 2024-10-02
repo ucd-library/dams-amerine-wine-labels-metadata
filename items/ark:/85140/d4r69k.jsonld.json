@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "label_2628",
     "ark:/85140/d4r69k"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhone Misc & French Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Rhone Misc & French Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "T, Touvet & Cie. § Fleurie. Red Burgandy Wine § Beaune",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Beaune",
+  "wine_label:digitization_number": "2628/",
+  "wine_label:folder": "Red--Still--Rhone Misc & French Red",
+  "wine_label:producer": "T, Touvet & Cie.",
+  "wine_label:wine_type": "Fleurie. Red Burgandy Wine"
 }

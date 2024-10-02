@@ -14,21 +14,20 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "label_4908",
     "ark:/85140/d45r25"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Additions from 1995 Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "China National Cereal, Oils and Foodstuffs Import and Export Corp.  § Dry White Wine § Tsing Tao; China",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Tsing Tao; China",
+  "wine_label:digitization_number": "4908/",
+  "wine_label:folder": "Still",
+  "wine_label:producer": "China National Cereal, Oils and Foodstuffs Import and Export Corp. ",
+  "wine_label:wine_type": "Dry White Wine"
 }

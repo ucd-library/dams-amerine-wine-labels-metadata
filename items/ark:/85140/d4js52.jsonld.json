@@ -17,22 +17,24 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "label_0439",
     "ark:/85140/d4js52"
   ],
   "schema:inLanguage": "de",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhinegau",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhinegau",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Franz Winkel. Weinbau Weinhandel § Weingut Bossi § Assmannshäuser Spätburgunder § Oestrich i Rheingau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Weingut Bossi",
+  "wine_label:city_region": "Oestrich i Rheingau",
+  "wine_label:date": "1952",
+  "wine_label:digitization_number": "0439/",
+  "wine_label:folder": "Still--Rhinegau",
+  "wine_label:marginalia": "\"MAA.73\"",
+  "wine_label:producer": "Franz Winkel. Weinbau Weinhandel",
+  "wine_label:wine_type": "Assmannshäuser Spätburgunder"
 }

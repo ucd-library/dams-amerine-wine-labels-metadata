@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1204565"
   },
   "schema:identifier": [
-    "label_3767",
     "ark:/85140/d4kq7f"
   ],
   "schema:inLanguage": "it-IT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Italy Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Italy Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Grande Cantina Viticoltori-Trento del Consorzio Cantine Sociali del Trentino Soc. Coop. a.r.l. § Rosato de Trento. Pink table wine. § Trento",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Trento",
+  "wine_label:digitization_number": "3767/",
+  "wine_label:folder": "Still--Italy Folder",
+  "wine_label:producer": "Grande Cantina Viticoltori-Trento del Consorzio Cantine Sociali del Trentino Soc. Coop. a.r.l.",
+  "wine_label:wine_type": "Rosato de Trento. Pink table wine."
 }

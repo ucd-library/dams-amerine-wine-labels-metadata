@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4k42p",
-    "label_3504"
+    "ark:/85140/d4k42p"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--California White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "F. Korbel & Bros., Inc. § California Riesling.  § Guerneville; Sonoma County",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Guerneville; Sonoma County",
+  "wine_label:digitization_number": "3504/",
+  "wine_label:folder": "White--Still--California White",
+  "wine_label:marginalia": "\"Dinner for Sproul + Tressider. Bhmn Club 6/1/44 B-\" \"Present: Russ Curtis, Bob Peck, John Sutton, Joe Sweet, CEH\"",
+  "wine_label:producer": "F. Korbel & Bros., Inc.",
+  "wine_label:wine_type": "California Riesling. "
 }

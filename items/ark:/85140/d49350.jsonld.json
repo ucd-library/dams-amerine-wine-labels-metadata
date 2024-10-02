@@ -28,22 +28,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d49350",
-    "label_1664"
+    "ark:/85140/d49350"
   ],
   "schema:inLanguage": "en-CY",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spanish Table Wines Italy (Cypress and Greece)",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spanish Table Wines Italy (Cypress and Greece)",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Keo.Cyprus Wine & Spirits Co, Ltd. § Four Aces. White sweet wine. § Limasoll, Cyprus",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Limasoll, Cyprus",
+  "wine_label:digitization_number": "1664/",
+  "wine_label:folder": "Still--Spanish Table Wines Italy (Cyprus and Greece)",
+  "wine_label:marginalia": "\"Cyprus White\"",
+  "wine_label:producer": "Keo.Cyprus Wine & Spirits Co, Ltd.",
+  "wine_label:wine_type": "Four Aces. White sweet wine."
 }

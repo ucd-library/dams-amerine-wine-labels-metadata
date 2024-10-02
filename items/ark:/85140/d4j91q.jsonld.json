@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1205401"
   },
   "schema:identifier": [
-    "ark:/85140/d4j91q",
-    "label_1128"
+    "ark:/85140/d4j91q"
   ],
   "schema:inLanguage": "de-CH",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Swiss",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Swiss",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": " René Tsoz, G. Palaz, Propriétaire. Clos des Portes Rouges. § Yvorne",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "1128/",
+  "wine_label:folder": "Still--Swiss",
+  "wine_label:marginalia": "\"maa\"",
+  "wine_label:producer": " René Tsoz, G. Palaz, Propriétaire. Clos des Portes Rouges.",
+  "wine_label:wine_type": "Yvorne"
 }

@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1208476"
   },
   "schema:identifier": [
-    "ark:/85140/d4gm97",
-    "label_4031"
+    "ark:/85140/d4gm97"
   ],
   "schema:inLanguage": "pt-PT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Portugal Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Portugal Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Cockburn Smithes & Co., Lda.  § Dry White Aperitif Port § Oporto; Portugal",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Oporto; Portugal",
+  "wine_label:digitization_number": "4031/",
+  "wine_label:folder": "Still--Portugal Folder",
+  "wine_label:producer": "Cockburn Smithes & Co., Lda. ",
+  "wine_label:wine_type": "Dry White Aperitif Port"
 }

@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "label_3157",
     "ark:/85140/d4d69g"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Burgundy Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Burgundy Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": " § Marion Chambertin",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1934",
+  "wine_label:digitization_number": "3157/",
+  "wine_label:folder": "Red--Still--Burgundy Red",
+  "wine_label:marginalia": "\"Dinner. Griffiths. 12/28/49 A-\" \"Cote de Nuits. Gevrey Chambertin. Tête de Cuvée\" \"Present: FPG, MMG, Steve Bechtell, Mrs Bechtell, John Simpson, Mrs. Simpson, Bob Sproul, Ida Sproul, ELH, CEH\"",
+  "wine_label:wine_type": "Marion Chambertin"
 }

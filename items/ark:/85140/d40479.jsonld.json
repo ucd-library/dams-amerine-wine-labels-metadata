@@ -14,21 +14,21 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "ark:/85140/d40479",
-    "label_4894"
+    "ark:/85140/d40479"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Additions Various Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Establecimientos Viniviticulos Escorihuela § El Zaragozano § Vino Reserva Blanco § Godoy Cruz, Mendoza, Argentina",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "El Zaragozano",
+  "wine_label:city_region": "Godoy Cruz, Mendoza, Argentina",
+  "wine_label:digitization_number": "4894/",
+  "wine_label:folder": "Still",
+  "wine_label:producer": "Establecimientos Viniviticulos Escorihuela",
+  "wine_label:wine_type": "Vino Reserva Blanco"
 }

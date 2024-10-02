@@ -17,21 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d48s46",
-    "label_0743"
+    "ark:/85140/d48s46"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Left: Casa Vinicola. Barone Ricasoli. Firenze.             Right: Francesco Drioli § Left: Arbia                                             Right:  Maraschino § Left: Arbia                                 Right: Mira (Venezia)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Left: Arbia                                 Right: Mira (Venezia)",
+  "wine_label:digitization_number": "0743/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "Left: \"Lunch. Paoli's. Florence. 4/29/52. B. (Dry White)\".                                         Right: \"(with Macedoine of Fruit)\".",
+  "wine_label:producer": "Left: Casa Vinicola. Barone Ricasoli. Firenze.             Right: Francesco Drioli",
+  "wine_label:wine_type": "Left: Arbia                                             Right:  Maraschino"
 }

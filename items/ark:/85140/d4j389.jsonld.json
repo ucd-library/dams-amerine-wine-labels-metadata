@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_2351",
     "ark:/85140/d4j389"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Medoc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Medoc Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Achille Fould. Château Beychevelle § St. Julien. Grand Vin § Médoc",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Médoc",
+  "wine_label:date": "1929",
+  "wine_label:digitization_number": "2351/",
+  "wine_label:folder": "Red--Still--Medoc Red",
+  "wine_label:marginalia": "\"Dinner. Bohemian Club. .90. Dinner Griffiths 12/28/49/ A\" \"4th Cru St. Julien (Medoc)\" \"Present: FPG, MMG, Steve Bechtell, Mrs. Bechtell, John Simpson, Mrs. Simpson, Bob Sproul, Ida Sproul, ELH, CEH\"",
+  "wine_label:producer": "Achille Fould. Château Beychevelle",
+  "wine_label:wine_type": "St. Julien. Grand Vin"
 }

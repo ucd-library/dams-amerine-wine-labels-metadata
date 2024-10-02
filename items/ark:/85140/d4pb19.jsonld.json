@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1204289"
   },
   "schema:identifier": [
-    "label_4192",
     "ark:/85140/d4pb19"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--France Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Nicolas Charenton. §  Rosetaille.  Costières du Gard §  Seine",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": " Seine",
+  "wine_label:digitization_number": "4192/",
+  "wine_label:folder": "Still--France Folder",
+  "wine_label:marginalia": "\"?\" \"Red\" \"MAA-75\"",
+  "wine_label:producer": "Nicolas Charenton.",
+  "wine_label:questions": "The region began the modern era as VDQS ‘Costières de Gard’ in 1951. Since Gard counted as a Languedoc regional département, that put it in the Languedoc family. In 1989, though, it switched to the Rhône family (and remember that around 30% of Côtes de Rhône in fact comes from the Gard) when it acquired its Costières de Nîmes appellation.",
+  "wine_label:wine_type": " Rosetaille.  Costières du Gard"
 }

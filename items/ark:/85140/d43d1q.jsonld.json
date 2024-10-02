@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "label_1294",
     "ark:/85140/d43d1q"
   ],
   "schema:inLanguage": "de-LU",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Schons Kirpach § Felsberger § Stadtbrediumus sur Moselle",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Stadtbrediumus sur Moselle",
+  "wine_label:date": "1919",
+  "wine_label:digitization_number": "1294/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "\"Luxembourg. White\" \"Jeff Smith. Europe\"",
+  "wine_label:producer": "Schons Kirpach",
+  "wine_label:wine_type": "Felsberger"
 }

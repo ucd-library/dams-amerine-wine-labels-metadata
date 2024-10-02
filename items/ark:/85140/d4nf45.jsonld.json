@@ -16,21 +16,20 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "label_4974",
     "ark:/85140/d4nf45"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Top: Chau Pontet-Canet.                                Bottom: Chateau Haut-Brion. Héritiers Larrieu, Propriétaires § Top: Pauilliac. Grand Vin",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "Top: 1929.    Bottom: 1922",
+  "wine_label:digitization_number": "4974/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:producer": "Top: Chau Pontet-Canet.                                Bottom: Chateau Haut-Brion. Héritiers Larrieu, Propriétaires",
+  "wine_label:wine_type": "Top: Pauilliac. Grand Vin"
 }

@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_2649",
     "ark:/85140/d41m49"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhone Misc & French Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Rhone Misc & French Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "[?] Le Président Fondateur. Récolte des Hospices Civile de Romanèsche-Thorins § Moulin à Vent des Hospices § Romanèsche-Thorins",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Romanèsche-Thorins",
+  "wine_label:digitization_number": "2649/",
+  "wine_label:folder": "Red--Still--Rhone Misc & French Red",
+  "wine_label:marginalia": "\"Price\"",
+  "wine_label:producer": "[?] Le Président Fondateur. Récolte des Hospices Civile de Romanèsche-Thorins",
+  "wine_label:wine_type": "Moulin à Vent des Hospices"
 }

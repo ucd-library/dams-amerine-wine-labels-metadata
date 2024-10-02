@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4772m",
-    "label_3615"
+    "ark:/85140/d4772m"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--California White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Beaulieu Vineyard BV § California Moselle § Rutherford",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Rutherford",
+  "wine_label:digitization_number": "3615/",
+  "wine_label:folder": "White--Still--California White",
+  "wine_label:marginalia": "\"At Home. Oct. 1940 (Bottled by Charlie Strong) .80\"",
+  "wine_label:producer": "Beaulieu Vineyard BV",
+  "wine_label:wine_type": "California Moselle"
 }

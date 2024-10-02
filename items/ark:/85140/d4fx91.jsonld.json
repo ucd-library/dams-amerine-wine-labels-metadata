@@ -16,21 +16,21 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "label_4960",
     "ark:/85140/d4fx91"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Left: Château La Ville Haut Brion.                        Right: Clos de la Bère. Domaine de la Rieussec § Left: Premier Cru de Graves.       Right: Sauternes Sec § Left: Bordeaux",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Left: Bordeaux",
+  "wine_label:date": "Left: 1933. Right: 1931",
+  "wine_label:digitization_number": "4960/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:producer": "Left: Château La Ville Haut Brion.                        Right: Clos de la Bère. Domaine de la Rieussec",
+  "wine_label:wine_type": "Left: Premier Cru de Graves.       Right: Sauternes Sec"
 }

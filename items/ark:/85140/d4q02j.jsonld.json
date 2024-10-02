@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "label_0554",
     "ark:/85140/d4q02j"
   ],
   "schema:inLanguage": "de",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhinegau",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhinegau",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Weingut Richard Nagler § Mittelheimer Neuberg Riesling Auslese § Winkel i /Rhg.; Rheingau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Winkel i /Rhg.; Rheingau",
+  "wine_label:date": "1952",
+  "wine_label:digitization_number": "0554/",
+  "wine_label:folder": "Still--Rhinegau",
+  "wine_label:producer": "Weingut Richard Nagler",
+  "wine_label:wine_type": "Mittelheimer Neuberg Riesling Auslese"
 }

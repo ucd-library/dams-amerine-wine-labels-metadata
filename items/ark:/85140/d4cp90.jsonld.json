@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "ark:/85140/d4cp90",
-    "label_1315"
+    "ark:/85140/d4cp90"
   ],
   "schema:inLanguage": "de-LU",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Bernard-Massard  § Imperial § Methóde Champenoise § Luxembourg, GD",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Imperial",
+  "wine_label:city_region": "Luxembourg, GD",
+  "wine_label:digitization_number": "1315/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "\"Schaumwein\" \"Jeff Smith. Brussels\"",
+  "wine_label:producer": "Bernard-Massard ",
+  "wine_label:wine_type": "Methóde Champenoise"
 }

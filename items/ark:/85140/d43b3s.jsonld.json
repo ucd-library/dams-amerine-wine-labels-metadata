@@ -17,22 +17,18 @@
     "@id": "http://id.worldcat.org/fast/1207340"
   },
   "schema:identifier": [
-    "label_4421",
     "ark:/85140/d43b3s"
   ],
   "schema:inLanguage": "es-ES",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spain Rioja Rest to Check 1 Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spain Rioja Rest to Check 1 Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "4421/",
+  "wine_label:folder": "Still--Spain Rioja Rest to Check 1 Folder"
 }

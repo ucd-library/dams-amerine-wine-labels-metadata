@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_2799",
     "ark:/85140/d4nh57"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Bordeaux White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "S.A. du Chau Haut-Brion, Propriétaire § Graves § Pessac (GDE)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Pessac (GDE)",
+  "wine_label:date": "1948",
+  "wine_label:digitization_number": "2799/",
+  "wine_label:folder": "White--Still--Bordeaux White",
+  "wine_label:marginalia": "\"Dinner by Harold Price. Cercle de l'Union. 10/9/50 B\" \"Present: Price, Blanquie, Buck, Esquin, Hall, Howe, Juillard, Selleck, Smith, Strong, Weill, CEH\"",
+  "wine_label:producer": "S.A. du Chau Haut-Brion, Propriétaire",
+  "wine_label:wine_type": "Graves"
 }

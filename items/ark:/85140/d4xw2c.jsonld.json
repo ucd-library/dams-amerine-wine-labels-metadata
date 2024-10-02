@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204565"
   },
   "schema:identifier": [
-    "ark:/85140/d4xw2c",
-    "label_0080"
+    "ark:/85140/d4xw2c"
   ],
   "schema:inLanguage": "it-IT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Italy",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Italy",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "S.A. Mirafiore. Vini Italiani. Castello di Sommariva § Piemonte. Bianco Superiore § Canelli Sommariva Perno",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Canelli Sommariva Perno",
+  "wine_label:digitization_number": "0080/",
+  "wine_label:folder": "Still--Italy",
+  "wine_label:marginalia": "\" \"Sound, clean, well-made white wine\" maa.\" \"White\"",
+  "wine_label:producer": "S.A. Mirafiore. Vini Italiani. Castello di Sommariva",
+  "wine_label:wine_type": "Piemonte. Bianco Superiore"
 }

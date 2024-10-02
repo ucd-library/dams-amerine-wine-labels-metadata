@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1210272"
   },
   "schema:identifier": [
-    "ark:/85140/d4hm85",
-    "label_3814"
+    "ark:/85140/d4hm85"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Germany Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Weingut Schmidt-Kunz § Berkasteler Riesling Natur § Mosel-Saar-Ruwe",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Mosel-Saar-Ruwe",
+  "wine_label:date": "1937",
+  "wine_label:digitization_number": "3814/",
+  "wine_label:folder": "Still--Germany Folder",
+  "wine_label:producer": "Weingut Schmidt-Kunz",
+  "wine_label:wine_type": "Berkasteler Riesling Natur"
 }

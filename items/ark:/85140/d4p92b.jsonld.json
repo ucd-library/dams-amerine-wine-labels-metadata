@@ -28,22 +28,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4p92b",
-    "label_1661"
+    "ark:/85140/d4p92b"
   ],
   "schema:inLanguage": "en-CY",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spanish Table Wines Italy (Cypress and Greece)",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spanish Table Wines Italy (Cypress and Greece)",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Cyprus Wine Association, Ltd., successors to Crist. Haggipavlu & sons, ltd. § Old Commandaria § Limasoll, Cyprus",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Limasoll, Cyprus",
+  "wine_label:digitization_number": "1661/",
+  "wine_label:folder": "Still--Spanish Table Wines Italy (Cyprus and Greece)",
+  "wine_label:marginalia": "\"Cyprus Table\"",
+  "wine_label:producer": "Cyprus Wine Association, Ltd., successors to Crist. Haggipavlu & sons, ltd.",
+  "wine_label:wine_type": "Old Commandaria"
 }

@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204289"
   },
   "schema:identifier": [
-    "ark:/85140/d4844n",
-    "label_4203"
+    "ark:/85140/d4844n"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--France Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "La Cave Coopérative de Belloca § Rosé de Béarn § Pyrénées & Côte Basque",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Pyrénées & Côte Basque",
+  "wine_label:digitization_number": "4203/",
+  "wine_label:folder": "Still--France Folder",
+  "wine_label:marginalia": "\"Pyrenees. MAA-74\"",
+  "wine_label:producer": "La Cave Coopérative de Belloca",
+  "wine_label:wine_type": "Rosé de Béarn"
 }

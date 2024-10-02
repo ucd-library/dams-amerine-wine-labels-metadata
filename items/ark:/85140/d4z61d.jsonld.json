@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "ark:/85140/d4z61d",
-    "label_0614"
+    "ark:/85140/d4z61d"
   ],
   "schema:inLanguage": "de",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhinegau",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhinegau",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Gräflich Matuschka-Greifenclau § Schloss Vollrads § Winkel im Rheingau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Winkel im Rheingau",
+  "wine_label:date": "1937",
+  "wine_label:digitization_number": "0614/",
+  "wine_label:folder": "Still--Rhinegau",
+  "wine_label:marginalia": "\"Selleck\"",
+  "wine_label:producer": "Gräflich Matuschka-Greifenclau",
+  "wine_label:wine_type": "Schloss Vollrads"
 }

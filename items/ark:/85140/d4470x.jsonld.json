@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4470x",
-    "label_3074"
+    "ark:/85140/d4470x"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Chau Haut-Simard § 1er Cru. Saint Émilion. Grand Vin.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1929",
+  "wine_label:digitization_number": "3074/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:marginalia": "\"Dinner. Cercle de l'Union. 9.12.43 B-\" \"1st Cru St. Emilion\" \"Present: CEH, ELH, Bill, Carolyn\"",
+  "wine_label:producer": "Chau Haut-Simard",
+  "wine_label:wine_type": "1er Cru. Saint Émilion. Grand Vin."
 }

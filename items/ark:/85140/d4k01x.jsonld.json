@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204303"
   },
   "schema:identifier": [
-    "label_0021",
     "ark:/85140/d4k01x"
   ],
   "schema:inLanguage": "es-ES",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spain",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spain",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Bodega Bilbainas § Blanco Fino § Haro-Rioja",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Haro-Rioja",
+  "wine_label:digitization_number": "0021/",
+  "wine_label:folder": "Still--Spain",
+  "wine_label:marginalia": "\"white\"",
+  "wine_label:producer": "Bodega Bilbainas",
+  "wine_label:wine_type": "Blanco Fino"
 }

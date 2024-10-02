@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1204303"
   },
   "schema:identifier": [
-    "ark:/85140/d4bc7t",
-    "label_0015"
+    "ark:/85140/d4bc7t"
   ],
   "schema:inLanguage": "es-ES",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spain",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spain",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Bodegas y Caves en san Estebando de sasroviras Haciendas \"Masia Bach\", S.A. § Extrisimo Bach. Especial para pescado.  Cosecha propia. § Barcelona",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Barcelona",
+  "wine_label:date": "Undated",
+  "wine_label:digitization_number": "0015/",
+  "wine_label:folder": "Still--Spain",
+  "wine_label:marginalia": "\"Family m.a.a.\"",
+  "wine_label:producer": "Bodegas y Caves en san Estebando de sasroviras Haciendas \"Masia Bach\", S.A.",
+  "wine_label:wine_type": "Extrisimo Bach. Especial para pescado.  Cosecha propia."
 }

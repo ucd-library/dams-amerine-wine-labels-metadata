@@ -17,21 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "ark:/85140/d47w4x",
-    "label_0751"
+    "ark:/85140/d47w4x"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Vereinigte Kellereien Marsoner u. Rainer in Innsbruck-Salzburg § Schloss Winkelberger Spätlese § Rheinriesling §  Kirchberg am Wagram",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Schloss Winkelberger Spätlese",
+  "wine_label:city_region": " Kirchberg am Wagram",
+  "wine_label:digitization_number": "0751/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Dinner. Hotel Stein. Salzburg. 5/4/52 A-\"",
+  "wine_label:producer": "Vereinigte Kellereien Marsoner u. Rainer in Innsbruck-Salzburg",
+  "wine_label:wine_type": "Rheinriesling"
 }

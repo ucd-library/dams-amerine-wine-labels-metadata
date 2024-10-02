@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_2386",
     "ark:/85140/d40x0k"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Medoc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Medoc Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "H. Cuvelier & Fils, Propriétaire. Château Le Crock. § St. Estèphe § Bordeaux",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Bordeaux",
+  "wine_label:date": "1947",
+  "wine_label:digitization_number": "2386/",
+  "wine_label:folder": "Red--Still--Medoc Red",
+  "wine_label:marginalia": "\"Bourgeois\"",
+  "wine_label:producer": "H. Cuvelier & Fils, Propriétaire. Château Le Crock.",
+  "wine_label:wine_type": "St. Estèphe"
 }

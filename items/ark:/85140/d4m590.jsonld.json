@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4m590",
-    "label_0160"
+    "ark:/85140/d4m590"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--California Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "[Note by Editor: Produced by Chaffee Hall at his property in Felton] § Hall's Pride. (Manuel's labor) § Unlisted § Unlisted",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Hall's Pride. (Manuel's labor)",
+  "wine_label:city_region": "Unlisted",
+  "wine_label:date": "August 1942",
+  "wine_label:digitization_number": "0160/",
+  "wine_label:folder": "Red--Still--California Red",
+  "wine_label:producer": "[Note by Editor: Produced by Chaffee Hall at his property in Felton]",
+  "wine_label:wine_type": "Unlisted"
 }

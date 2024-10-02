@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_3530",
     "ark:/85140/d46q71"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--California White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Paul Masson Champagne Company § Pinot Blanc Vrai. Still Dry White.  § Saratoga",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Saratoga",
+  "wine_label:date": "1936",
+  "wine_label:digitization_number": "3530/",
+  "wine_label:folder": "White--Still--California White",
+  "wine_label:marginalia": "\"Dinner. Cercle de l'Union. April '45. B+  (my cellar)\" \"Present: Alice, Nat, ELH, CEH\"",
+  "wine_label:producer": "Paul Masson Champagne Company",
+  "wine_label:wine_type": "Pinot Blanc Vrai. Still Dry White. "
 }

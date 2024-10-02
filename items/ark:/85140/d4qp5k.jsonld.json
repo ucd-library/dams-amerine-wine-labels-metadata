@@ -17,21 +17,21 @@
     "@id": "http://id.worldcat.org/fast/999516"
   },
   "schema:identifier": [
-    "label_0399",
     "ark:/85140/d4qp5k"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Apperitives and Liqueurs",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Spirit--Apperitives and Liqueurs",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "John D. Kuyper & Son, Inc. § Liqueur Cupéra § Jersey City, NJ",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Jersey City, NJ",
+  "wine_label:digitization_number": "0399/",
+  "wine_label:folder": "Spirit--Apperitives and Liqueurs",
+  "wine_label:producer": "John D. Kuyper & Son, Inc.",
+  "wine_label:proof": "80",
+  "wine_label:wine_type": "Liqueur Cupéra"
 }

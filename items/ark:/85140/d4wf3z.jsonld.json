@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1205401"
   },
   "schema:identifier": [
-    "ark:/85140/d4wf3z",
-    "label_4678"
+    "ark:/85140/d4wf3z"
   ],
   "schema:inLanguage": "de-CH",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Switzerland Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Switzerland Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Jules-Eduard Cornu, Propriétaire § L'Aur[och?]e § Neuchâtel; Cormondrèche",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Neuchâtel; Cormondrèche",
+  "wine_label:date": "1942",
+  "wine_label:digitization_number": "4678/",
+  "wine_label:folder": "Still--Switzerland Folder",
+  "wine_label:producer": "Jules-Eduard Cornu, Propriétaire",
+  "wine_label:wine_type": "L'Aur[och?]e"
 }

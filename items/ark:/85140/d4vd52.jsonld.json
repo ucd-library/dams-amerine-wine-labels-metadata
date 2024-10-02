@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_2364",
     "ark:/85140/d4vd52"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Medoc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Medoc Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Château Grand-Puy-Lacoste. Saint Guirons. § Pauillac. § Médoc",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Médoc",
+  "wine_label:date": "1924",
+  "wine_label:digitization_number": "2364/",
+  "wine_label:folder": "Red--Still--Medoc Red",
+  "wine_label:marginalia": "\"Dinner. John Esquin's. 4/15/44. B+\"\"5th Cru Pauillac (Medoc)\"\"Present: John Esquin, Blanquie, Jeff Smith, Selleck, Harold Price, Bill, CEH\"",
+  "wine_label:producer": "Château Grand-Puy-Lacoste. Saint Guirons.",
+  "wine_label:wine_type": "Pauillac."
 }

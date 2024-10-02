@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204289"
   },
   "schema:identifier": [
-    "ark:/85140/d4cx5w",
-    "label_4202"
+    "ark:/85140/d4cx5w"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--France Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Les Grandes Caves des Cabanes § Flory. Vin Rouge Vieux. § Saint-Féliu-d'Avall; Pyr. Orient.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Saint-Féliu-d'Avall; Pyr. Orient.",
+  "wine_label:digitization_number": "4202/",
+  "wine_label:folder": "Still--France Folder",
+  "wine_label:marginalia": "\"Pyrenees. Red.  MAA-72\"",
+  "wine_label:producer": "Les Grandes Caves des Cabanes",
+  "wine_label:wine_type": "Flory. Vin Rouge Vieux."
 }

@@ -17,21 +17,21 @@
     "@id": "http://id.worldcat.org/fast/933048"
   },
   "schema:identifier": [
-    "ark:/85140/d4k377",
-    "label_2134"
+    "ark:/85140/d4k377"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Fortified",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Misc Fortified",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Sociedad Anonima Viñedos y Bodegas Arizu § Arizu Argentine Port § Oporto Argentino",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Oporto Argentino",
+  "wine_label:digitization_number": "2134/",
+  "wine_label:folder": "Fortified--Misc Fortified",
+  "wine_label:marginalia": "\"Lunch. Wine Comm. Bhmn Club. 3/24/44.  B\" \" Present: FPG, Walter Schaller, Carl Ganter, CEH\" ",
+  "wine_label:producer": "Sociedad Anonima Viñedos y Bodegas Arizu",
+  "wine_label:wine_type": "Arizu Argentine Port"
 }

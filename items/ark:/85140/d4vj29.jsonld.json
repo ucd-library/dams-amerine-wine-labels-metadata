@@ -22,21 +22,20 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4vj29",
-    "label_4686"
+    "ark:/85140/d4vj29"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Aperetifs & Liqueurs Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Spirit",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "John Dewar & Sons, Ltd. Distillers.  § \"White Label\" FInest Scotch Whisky of Great Age. § Perth, Scotland",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Perth, Scotland",
+  "wine_label:digitization_number": "4686/",
+  "wine_label:folder": "Spirit",
+  "wine_label:producer": "John Dewar & Sons, Ltd. Distillers. ",
+  "wine_label:wine_type": "\"White Label\" FInest Scotch Whisky of Great Age."
 }

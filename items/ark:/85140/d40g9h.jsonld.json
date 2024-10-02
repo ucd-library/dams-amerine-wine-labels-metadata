@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "ark:/85140/d40g9h",
-    "label_1318"
+    "ark:/85140/d40g9h"
   ],
   "schema:inLanguage": "pt-PT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Sociedade Agricola da Aguieira, LDA § Quinta d'Aguieira. Conde de Agueda",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "1318/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "\"\"S02 with some character' maa.  Well balanced clean wine. maa\"",
+  "wine_label:producer": "Sociedade Agricola da Aguieira, LDA",
+  "wine_label:wine_type": "Quinta d'Aguieira. Conde de Agueda"
 }

@@ -22,22 +22,24 @@
     }
   ],
   "schema:identifier": [
-    "label_0227",
     "ark:/85140/d4z31c"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--California Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Gopher Gulch Ranch Wine Cellars § House of Howe § Cabernet (Rixford) § Walnut Creek",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "House of Howe",
+  "wine_label:city_region": "Walnut Creek",
+  "wine_label:date": "1945; 1948",
+  "wine_label:digitization_number": "0227/",
+  "wine_label:folder": "Red--Still--California Red",
+  "wine_label:marginalia": "\"JH\"",
+  "wine_label:producer": "Gopher Gulch Ranch Wine Cellars",
+  "wine_label:wine_type": "Cabernet (Rixford)"
 }

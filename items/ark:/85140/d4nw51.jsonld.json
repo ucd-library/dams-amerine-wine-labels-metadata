@@ -17,21 +17,21 @@
     "@id": "http://id.worldcat.org/fast/837918"
   },
   "schema:identifier": [
-    "ark:/85140/d4nw51",
-    "label_1158"
+    "ark:/85140/d4nw51"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Brandy",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Brandy",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Jas. Hennessey & Co. § Cognac",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "1158/",
+  "wine_label:folder": "Fortified--Brandy",
+  "wine_label:marginalia": "\"At Home. Dinner. Feb. '54, A-\" \"Present: Admiral + Mrs. van Hook, Arvid + Marguerite Croonquist,  Herman + Hannah Zisebke, Bill + Alice Oliver, Rapp + Alice Brusch, ELH, CEH\"",
+  "wine_label:producer": "Jas. Hennessey & Co.",
+  "wine_label:proof": "80",
+  "wine_label:wine_type": "Cognac"
 }

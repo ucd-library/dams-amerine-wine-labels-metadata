@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_0318",
     "ark:/85140/d46598"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--California Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Beringer Bros., Inc. § California Red Chianti § St. Helena",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "St. Helena",
+  "wine_label:date": "Undated",
+  "wine_label:digitization_number": "0318/",
+  "wine_label:folder": "Red--Still--California Red",
+  "wine_label:marginalia": "\"maa\"",
+  "wine_label:producer": "Beringer Bros., Inc.",
+  "wine_label:wine_type": "California Red Chianti"
 }

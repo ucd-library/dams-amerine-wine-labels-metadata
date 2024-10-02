@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4js4p",
-    "label_0261"
+    "ark:/85140/d4js4p"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--California Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Charles Krug Winery § Napa Valley Vin Rosé § St. Helena",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "St. Helena",
+  "wine_label:date": "Undated",
+  "wine_label:digitization_number": "0261/",
+  "wine_label:folder": "Red--Still--California Red",
+  "wine_label:marginalia": "\"maa\"",
+  "wine_label:producer": "Charles Krug Winery",
+  "wine_label:wine_type": "Napa Valley Vin Rosé"
 }

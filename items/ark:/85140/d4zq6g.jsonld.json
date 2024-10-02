@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1244296"
   },
   "schema:identifier": [
-    "ark:/85140/d4zq6g",
-    "label_3826"
+    "ark:/85140/d4zq6g"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Frankenwein Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Germany Frankenwein Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Juliusspital Weingutes Würzburg § J.P. Hófer Kronsberg Riesling § Würzburg",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Würzburg",
+  "wine_label:date": "1953",
+  "wine_label:digitization_number": "3826/",
+  "wine_label:folder": "Still--Germany Frankenwein Folder",
+  "wine_label:producer": "Juliusspital Weingutes Würzburg",
+  "wine_label:wine_type": "J.P. Hófer Kronsberg Riesling"
 }

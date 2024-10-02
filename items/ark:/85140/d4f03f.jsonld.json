@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_0858",
     "ark:/85140/d4f03f"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "France Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Sparkling--France Misc White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Dumontel Père et Fils § Champagne. Extra Dry. Grand Vin de Réserve § Épernay",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Épernay",
+  "wine_label:date": "1929",
+  "wine_label:digitization_number": "0858/",
+  "wine_label:folder": "White--Sparkling--France Misc White",
+  "wine_label:marginalia": "\"Dinner. Griffiths. Nov. 1, 1942. C\" \"Present: See  Prisparter. Goldtropfahen '33\"",
+  "wine_label:producer": "Dumontel Père et Fils",
+  "wine_label:wine_type": "Champagne. Extra Dry. Grand Vin de Réserve"
 }

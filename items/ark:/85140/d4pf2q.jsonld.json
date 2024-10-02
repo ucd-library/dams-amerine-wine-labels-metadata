@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1204901"
   },
   "schema:identifier": [
-    "label_4370",
     "ark:/85140/d4pf2q"
   ],
   "schema:inLanguage": "de-AT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Austria Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Austria Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Rudolf Kutschera & Söhne § Kremser Sandgrube. Grüner Veltliner. Spätlese § Krems a.D.; Wien XIX",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Krems a.D.; Wien XIX",
+  "wine_label:digitization_number": "4370/",
+  "wine_label:folder": "Still--Austria Folder",
+  "wine_label:producer": "Rudolf Kutschera & Söhne",
+  "wine_label:wine_type": "Kremser Sandgrube. Grüner Veltliner. Spätlese"
 }

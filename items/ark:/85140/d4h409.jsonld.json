@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_2955",
     "ark:/85140/d4h409"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--Bordeaux White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Château de Mittelwihr § Sylvaner § Mittelwihr; Haut-Rhin",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Mittelwihr; Haut-Rhin",
+  "wine_label:date": "1950",
+  "wine_label:digitization_number": "2955/",
+  "wine_label:folder": "White--Still--Bordeaux White",
+  "wine_label:marginalia": "\"Lunch. Le Gourmet. NY. 4/13/54 B-\" \"Present: ELH, CEH\"",
+  "wine_label:producer": "Château de Mittelwihr",
+  "wine_label:wine_type": "Sylvaner"
 }

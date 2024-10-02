@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1204565"
   },
   "schema:identifier": [
-    "ark:/85140/d4gp41",
-    "label_0099"
+    "ark:/85140/d4gp41"
   ],
   "schema:inLanguage": "it-IT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Italy",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Italy",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Cte Serristori, Proprieta § Chianti dell 'Antica Fattoria di Niccola Machiavelli § S. Andrea in Percussina; San Casciano Val di Pesa; Firenze",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "S. Andrea in Percussina; San Casciano Val di Pesa; Firenze",
+  "wine_label:digitization_number": "0099/",
+  "wine_label:folder": "Still--Italy",
+  "wine_label:producer": "Cte Serristori, Proprieta",
+  "wine_label:wine_type": "Chianti dell 'Antica Fattoria di Niccola Machiavelli"
 }

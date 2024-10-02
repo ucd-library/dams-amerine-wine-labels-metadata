@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_3048",
     "ark:/85140/d4gm5q"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Edouard Dubois-Challon, Propriétaire. Château Ausone. § St. Émilion",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1940",
+  "wine_label:digitization_number": "3048/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:marginalia": "\"Dinner by Jeff Smith. Cercle de l'Union. 1/26/48/ B+\" \"1re Grand Cru St. Émilion\" \"Present: Farnham Griffiths, Herman Wente, Leonard Buck, Marius Francoz, Jim Howe, Michel Weil, Henri Beaujard, Jeff Smith, John Baur, John Esquin, Harold Price, Sal Lucia, George Selleck, Raoul Blanquie, CEH\"",
+  "wine_label:producer": "Edouard Dubois-Challon, Propriétaire. Château Ausone.",
+  "wine_label:wine_type": "St. Émilion"
 }

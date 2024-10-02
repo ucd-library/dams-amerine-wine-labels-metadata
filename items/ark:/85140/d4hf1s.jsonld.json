@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1206043"
   },
   "schema:identifier": [
-    "label_4054",
     "ark:/85140/d4hf1s"
   ],
   "schema:inLanguage": "es-ES",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spain - Catalonia Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Spain - Catalonia Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Cavas del Ampurdán § Perelada. Viña Cresta Azul § Perelada",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Perelada",
+  "wine_label:digitization_number": "4054/",
+  "wine_label:folder": "Still--Spain - Catalonia Folder",
+  "wine_label:producer": "Cavas del Ampurdán",
+  "wine_label:wine_type": "Perelada. Viña Cresta Azul"
 }

@@ -14,21 +14,20 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "label_4893",
     "ark:/85140/d43z0v"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Additions Various Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Establecimientos Viniviticulos Escorihuela § Pont Leveque. Vino Fino Tinto § Goday Cruz; Mendoza; Argentina",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Goday Cruz; Mendoza; Argentina",
+  "wine_label:digitization_number": "4893/",
+  "wine_label:folder": "Still",
+  "wine_label:producer": "Establecimientos Viniviticulos Escorihuela",
+  "wine_label:wine_type": "Pont Leveque. Vino Fino Tinto"
 }

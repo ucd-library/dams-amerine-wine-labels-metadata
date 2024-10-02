@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1746582"
   },
   "schema:identifier": [
-    "label_1456",
     "ark:/85140/d45d2q"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Misc Table Wines",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Misc Table Wines",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "American Wine Co. § Cook's Imperial American Champaign. § St. Louis",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "St. Louis",
+  "wine_label:digitization_number": "1456/",
+  "wine_label:folder": "Still--Misc Table Wines",
+  "wine_label:marginalia": "\"Curtis 30th Wedding Anniversary Dinner. Cercle de l'Union. Sept. '45. B+\" \"Champagne\" \"Present: Mr. & Mrs. Curtis, Mr. & Mrs. Jeff F. Smith, Mr. & Mrs. Bacigalupi, Mr. & Mrs. Raeburn, Mr. & Mrs. Rollo Wheeler, Mr & Mrs. CEH\"",
+  "wine_label:producer": "American Wine Co.",
+  "wine_label:wine_type": "Cook's Imperial American Champaign."
 }

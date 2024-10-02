@@ -16,21 +16,22 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "label_5043",
     "ark:/85140/d4qz0f"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Left: Italian Swiss Colony                                      Right: Italian Swiss Colony  § Left: Table d'Hôte § Left: California White Wine.         Right: Burgundy § Left: Asti; Sonoma     ",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Left: Table d'Hôte",
+  "wine_label:city_region": "Left: Asti; Sonoma     ",
+  "wine_label:date": "Right: 1933",
+  "wine_label:digitization_number": "5043/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:producer": "Left: Italian Swiss Colony                                      Right: Italian Swiss Colony ",
+  "wine_label:wine_type": "Left: California White Wine.         Right: Burgundy"
 }

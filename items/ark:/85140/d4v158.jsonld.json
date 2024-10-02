@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "label_4005",
     "ark:/85140/d4v158"
   ],
   "schema:inLanguage": "en-JM",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Jamaica Rum Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Spirit--Jamaica Rum Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Compagnie Rhumiere Usine Sainte Marie § Rum Martinique § Sainte Marie; Martinique",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Sainte Marie; Martinique",
+  "wine_label:digitization_number": "4005/",
+  "wine_label:folder": "Spirit--Jamaica Rum Folder",
+  "wine_label:producer": "Compagnie Rhumiere Usine Sainte Marie",
+  "wine_label:wine_type": "Rum Martinique"
 }

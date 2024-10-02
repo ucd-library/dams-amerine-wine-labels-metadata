@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4s40s",
-    "label_3038"
+    "ark:/85140/d4s40s"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Edouard Dubois-Challon, Propriétaire. Château Ausone.  § St. Émilion",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1909",
+  "wine_label:digitization_number": "3038/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:marginalia": "\"Ansone Dinner. Wine + Food Society. Palace Hotel. Oct. 8, 1940. .88\" \"1re Grand Cru St. Emilion\" \"At the Arsone dinner, members rated the wines as follows: 24, 29, 23, 09\"",
+  "wine_label:producer": "Edouard Dubois-Challon, Propriétaire. Château Ausone. ",
+  "wine_label:wine_type": "St. Émilion"
 }

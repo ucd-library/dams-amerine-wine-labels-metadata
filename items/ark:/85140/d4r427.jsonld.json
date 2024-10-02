@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1208476"
   },
   "schema:identifier": [
-    "ark:/85140/d4r427",
-    "label_4029"
+    "ark:/85140/d4r427"
   ],
   "schema:inLanguage": "pt-PT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Portugal Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Portugal Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Companhia Agricola e Comercial dos Vinhos do Porto § Ferreirinha § Porto",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Porto",
+  "wine_label:date": "1943",
+  "wine_label:digitization_number": "4029/",
+  "wine_label:folder": "Still--Portugal Folder",
+  "wine_label:producer": "Companhia Agricola e Comercial dos Vinhos do Porto",
+  "wine_label:wine_type": "Ferreirinha"
 }

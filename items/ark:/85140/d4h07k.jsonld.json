@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_1794",
     "ark:/85140/d4h07k"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Wachsturm Reichsgraf von Kesselstatt § Kaseler Hitzlay Spätlese § Trier; Mosel-Saar-Ruwer",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Trier; Mosel-Saar-Ruwer",
+  "wine_label:date": "1943",
+  "wine_label:digitization_number": "1794/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:producer": "Wachsturm Reichsgraf von Kesselstatt",
+  "wine_label:wine_type": "Kaseler Hitzlay Spätlese"
 }

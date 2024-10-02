@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "label_1746",
     "ark:/85140/d4pw73"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Adolf Huesgen § Berncasteler Braunes. Moselle-wine.  § Traben; Trarbach",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Traben; Trarbach",
+  "wine_label:date": "1949",
+  "wine_label:digitization_number": "1746/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:marginalia": "\"Jeff\"",
+  "wine_label:producer": "Adolf Huesgen",
+  "wine_label:wine_type": "Berncasteler Braunes. Moselle-wine. "
 }

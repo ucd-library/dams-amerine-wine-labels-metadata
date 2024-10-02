@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1204565"
   },
   "schema:identifier": [
-    "ark:/85140/d47w25",
-    "label_0155"
+    "ark:/85140/d47w25"
   ],
   "schema:inLanguage": "it-IT",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Italy",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Italy",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Cantina Sociale § Valpolicella § Negrar; Verona",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Negrar; Verona",
+  "wine_label:digitization_number": "0155/",
+  "wine_label:folder": "Still--Italy",
+  "wine_label:marginalia": "\"Italy. Red.\"  \"Buck\"",
+  "wine_label:producer": "Cantina Sociale",
+  "wine_label:wine_type": "Valpolicella"
 }

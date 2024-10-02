@@ -17,21 +17,19 @@
     "@id": "http://id.worldcat.org/fast/1241484"
   },
   "schema:identifier": [
-    "label_4353",
     "ark:/85140/d4w45m"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Balkans Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Balkans Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Zadruzno Trgovsko in Izvovno Podjetje.  § \"Slovenske Gorice\" Ptuj. Burgundec",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "4353/",
+  "wine_label:folder": "Still--Balkans Folder",
+  "wine_label:producer": "Zadruzno Trgovsko in Izvovno Podjetje. ",
+  "wine_label:wine_type": "\"Slovenske Gorice\" Ptuj. Burgundec"
 }

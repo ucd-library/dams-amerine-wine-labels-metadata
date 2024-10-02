@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1343792"
   },
   "schema:identifier": [
-    "label_3897",
     "ark:/85140/d4sm78"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Mosel Saar Ruwer Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Germany Mosel Saar Ruwer Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Köln-Düsseldorfer Rheindampfschiffahrt § Ürziger Würzgarten § Mosel-Saar-Ruwer",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Mosel-Saar-Ruwer",
+  "wine_label:date": "1952",
+  "wine_label:digitization_number": "3897/",
+  "wine_label:folder": "Still--Germany Mosel Saar Ruwer Folder",
+  "wine_label:producer": "Köln-Düsseldorfer Rheindampfschiffahrt",
+  "wine_label:wine_type": "Ürziger Würzgarten"
 }

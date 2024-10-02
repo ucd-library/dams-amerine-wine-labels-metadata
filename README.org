@@ -1,5 +1,9 @@
 * Amerine Wine Labels
 
+    #+begin_src jq
+      (.[1] |
+    #+end_src
+
 ** 2024-10 Add Titles
    I need a method to add the wine label information from Eric into the label
    data.
@@ -7,10 +11,8 @@
    Eric has a [[https://docs.google.com/spreadsheets/d/1wzO62YKaYBojdMveLapXRMJ2U9Yi4lXS50Q42N-Zl4g/edit#gid=868536261][spreadsheet]], that includes producer, brand, wine type, date
    city/region, abv, proof marginalia.  This was saved as ~titles.csv~.
 
-*** Add titles
-
-    I need to update the jq files first. This script updates the titles from the
-    csv file.
+    I need to update the jq files first. This script creates a titles.json file from the
+    csv file.  It includes titles and other information
 
     #+begin_src sparql :tangle titles.rq
       PREFIX wine_label: <ark:/87287/d7794w/schema#>
@@ -24,6 +26,7 @@
           schema:name ?name;
           rdfs:label ?labelValue;
           wine_label:folder ?old_title;
+          wine_label:digitization_number ?label_number;
           wine_label:producer ?producer;
           wine_label:brand ?brand;
           wine_label:wine_type ?wine_type;
@@ -37,6 +40,7 @@
           .
         }
       WHERE {
+        BIND(replace(?url,"https://digital.ucdavis.edu/collection/amerine-wine-labels/labels/label_","") as ?label_number)
         BIND('ark:/87287/d7794w' AS ?collection)
         BIND(uri(concat("ark:/85140/", replace(?filename,".jpg",""))) AS ?ark)
         BIND(coalesce(?producer, "") AS ?p)
@@ -52,24 +56,27 @@
     #+begin_src bash
    tarql titles.rq  titles.csv | \
        riot --syntax=turtle --formatted=jsonld | \
-       jsonld compact -c $(pwd)/context.json | tee titles.json
+       jsonld compact -c $(pwd)/context.json > titles.json
  #+end_src
 
- Then you can make individual files with something like:
+ #+RESULTS:
+
+ Then you can make individual titles.json files with something like:
 
  #+begin_src bash
    for i in $(cd items; echo ark:/85140/d4????); do \
-       jq --arg ark "$i"  '.["@graph"][] | select(.["@id"]==$ark) | del(.["@id"]) | del(.["@type"])' titles.json | tee items/$i/title.json;
+       echo $i;
+       jq --arg ark "$i"  '.["@graph"][] | select(.["@id"]==$ark) | del(.["@id"]) | del(.["@type"])' titles.json > items/$i/title.json;
    done
  #+end_src
 
- And you can join these together with the following jq conversion:
-    #+begin_src jq :tangle convert.jq
+ And you can join these together with the following jq conversion.  I'm also
+ removing the isPartOf, and adding a better publisher
+    #+begin_src jq :tangle add_titles.jq
       .[0]
        +
-      (.[1]["@graph"][0] |
+      (.[1] |
         del(.["schema:isPartOf"]) |
-        del(.["ucdlib:describesWine"]) |
         del(.["schema:identifier"][] | select(contains("ark:") | not )))
       + .[2]
       + {
@@ -80,18 +87,14 @@
       }
     #+end_src
 
-#+begin_src bash
+    #+begin_src bash
   c=context.json
-  for i in $(cd items; echo ark:/85140/d4????); do \
-      echo $i;
-      cp items/${i}.jsonld.json save/${i}.jsonld.json;\
-      jq -s -f convert.jq $c save/${i}.jsonld.json ${i}/title.json > items/${i}.jsonld.json;\
+  for d in items/ark:/85140/d4????; do \
+      echo -n -e "$d\r";\
+      cp ${d}.jsonld.json ${d}.jsonld.json-;\
+      jq -s -f add_titles.jq ${c} ${d}.jsonld.json- ${d}/title.json  > ${i};
   done
 #+end_src
-
-#+RESULTS:
-: jq -s -f convert.jq items/ark:/85140/d4001n.jsonld.json items/ark:/85140/d4001n/title.json
-
 
 ** 2024-10 remove ~@graph~
 

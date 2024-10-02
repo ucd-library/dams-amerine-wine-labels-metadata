@@ -17,18 +17,20 @@
     "@id": "http://id.worldcat.org/fast/933048"
   },
   "schema:identifier": [
-    "ark:/85140/d4j37x",
-    "label_2142"
+    "ark:/85140/d4j37x"
   ],
   "schema:keywords": "Misc Fortified",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Misc Fortified",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "E. Eyde & Co. § Dry Madeira § Horsens",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Horsens",
+  "wine_label:digitization_number": "2142/",
+  "wine_label:folder": "Fortified--Misc Fortified",
+  "wine_label:producer": "E. Eyde & Co.",
+  "wine_label:wine_type": "Dry Madeira"
 }

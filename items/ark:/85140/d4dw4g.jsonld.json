@@ -17,22 +17,25 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "ark:/85140/d4dw4g",
-    "label_0471"
+    "ark:/85140/d4dw4g"
   ],
   "schema:inLanguage": "de",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhinegau",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhinegau",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Scholl & Hillebrand § Geisenheimer Rothenberg § Spätlese Cabinet § Rüdesheim am Rhein; Rheingau",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:brand": "Geisenheimer Rothenberg",
+  "wine_label:city_region": "Rüdesheim am Rhein; Rheingau",
+  "wine_label:date": "1945",
+  "wine_label:digitization_number": "0471/",
+  "wine_label:folder": "Still--Rhinegau",
+  "wine_label:marginalia": "\"At home.dinner for Carl Ganter 12/16/55 B+\" \"Present: Ganter, May, [?], Adm.Van Hook, Win. Van Hook, Rapp, Alice, Farnham, Marjorie ,ELH, CEH\"",
+  "wine_label:producer": "Scholl & Hillebrand",
+  "wine_label:questions": "http://cdn.calisphere.org/data/13030/jh/tf3k4006jh/files/tf3k4006jh-FID4.jpg",
+  "wine_label:wine_type": "Spätlese Cabinet"
 }

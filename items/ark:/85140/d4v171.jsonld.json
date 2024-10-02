@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1204928"
   },
   "schema:identifier": [
-    "ark:/85140/d4v171",
-    "label_4779"
+    "ark:/85140/d4v171"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "U.S. California Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--U.S. California Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Beringer Bros., Inc.. Los Hermanos VIneyards. § Napa Valley Burgundy § St. Helena",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "St. Helena",
+  "wine_label:digitization_number": "4779/",
+  "wine_label:folder": "Still--U.S. California Folder",
+  "wine_label:producer": "Beringer Bros., Inc.. Los Hermanos VIneyards.",
+  "wine_label:wine_type": "Napa Valley Burgundy"
 }

@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_1771",
     "ark:/85140/d4g65k"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "With. Wasum § Berncasteler Riesling. Mosel wine.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1934",
+  "wine_label:digitization_number": "1771/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:marginalia": "\"Dinner. Bhmn Club. July 1940. .80\" \"Middle Moselle\" \"FPG, CEH\"",
+  "wine_label:producer": "With. Wasum",
+  "wine_label:wine_type": "Berncasteler Riesling. Mosel wine."
 }

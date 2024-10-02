@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1272622"
   },
   "schema:identifier": [
-    "label_3951",
     "ark:/85140/d4tb2x"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Rheinhessen Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Germany Rheinhessen Folder",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Weingut Oberstleutnant Liebrecht § Bodenheimer Leidhecke. Riesling Auslese. § Rheinhessen",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Rheinhessen",
+  "wine_label:date": "1950",
+  "wine_label:digitization_number": "3951/",
+  "wine_label:folder": "Still--Germany Rheinhessen Folder",
+  "wine_label:producer": "Weingut Oberstleutnant Liebrecht",
+  "wine_label:wine_type": "Bodenheimer Leidhecke. Riesling Auslese."
 }

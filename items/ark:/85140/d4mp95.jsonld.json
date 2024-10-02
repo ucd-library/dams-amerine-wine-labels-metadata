@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4mp95",
-    "label_1615"
+    "ark:/85140/d4mp95"
   ],
   "schema:inLanguage": "es-ES",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Spanish Misc Sweet and Fortified",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Spanish Misc Sweet and Fortified",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Hijo de Pedro Romero Villareal § Pedro Ximenez Viejisimo  § Sanlúcar de Bda",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Sanlúcar de Bda",
+  "wine_label:digitization_number": "1615/",
+  "wine_label:folder": "Fortified--Spanish Misc Sweet and Fortified",
+  "wine_label:marginalia": "\"Phleger\"",
+  "wine_label:producer": "Hijo de Pedro Romero Villareal",
+  "wine_label:wine_type": "Pedro Ximenez Viejisimo "
 }

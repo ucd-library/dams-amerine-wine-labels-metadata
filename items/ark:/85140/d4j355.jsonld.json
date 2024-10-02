@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4j355",
-    "label_1755"
+    "ark:/85140/d4j355"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Moselle Misc German",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Moselle Misc German",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Deinhard & Co § Berncasteler Doctor § Coblenz an Rhein; Mosel",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Coblenz an Rhein; Mosel",
+  "wine_label:date": "1933",
+  "wine_label:digitization_number": "1755/",
+  "wine_label:folder": "Still--Moselle Misc German",
+  "wine_label:marginalia": "\"Dinner. George Selleck's. 11/9/46. B+\" \"Middle Moselle\" \"Present: Geo Selleck, Sal Lucia, Maynard Amerine, Farnham Griffiths, Michel Weill, Leonard Buck, Frank Belgrano, Harold Price, Jeff Smith, CEH\"",
+  "wine_label:producer": "Deinhard & Co",
+  "wine_label:wine_type": "Berncasteler Doctor"
 }

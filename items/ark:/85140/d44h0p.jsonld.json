@@ -17,21 +17,20 @@
     "@id": "http://id.worldcat.org/fast/837918"
   },
   "schema:identifier": [
-    "label_1255",
     "ark:/85140/d44h0p"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Brandy",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Fortified--Brandy",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Domaine Lempé Labazan Gerd.   § Grand Vieil Armagnac.  Réserve.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:digitization_number": "1255/",
+  "wine_label:folder": "Fortified--Brandy",
+  "wine_label:marginalia": "\"Jeff Smith\" \"Brussels\"",
+  "wine_label:producer": "Domaine Lempé Labazan Gerd.  ",
+  "wine_label:wine_type": "Grand Vieil Armagnac.  Réserve."
 }

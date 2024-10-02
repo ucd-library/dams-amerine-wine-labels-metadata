@@ -17,22 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1204155"
   },
   "schema:identifier": [
-    "label_4810",
     "ark:/85140/d4tx82"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "United States Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--United States Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Beaulieu Vineyard (BV) § Napa Valley Pinot Chardonnay § Rutherford; Napa County",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Rutherford; Napa County",
+  "wine_label:digitization_number": "4810/",
+  "wine_label:folder": "Still--United States Folder",
+  "wine_label:producer": "Beaulieu Vineyard (BV)",
+  "wine_label:wine_type": "Napa Valley Pinot Chardonnay"
 }

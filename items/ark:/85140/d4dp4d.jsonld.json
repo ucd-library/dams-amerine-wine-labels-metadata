@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_0324",
     "ark:/85140/d4dp4d"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--California Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Concannon Vineyards § California Claret § Livermore",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Livermore",
+  "wine_label:digitization_number": "0324/",
+  "wine_label:folder": "Red--Still--California Red",
+  "wine_label:marginalia": "\"At home. 1944. B.  From Channing's cellar\"",
+  "wine_label:producer": "Concannon Vineyards",
+  "wine_label:wine_type": "California Claret"
 }

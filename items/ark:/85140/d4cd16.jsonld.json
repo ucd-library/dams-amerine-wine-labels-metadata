@@ -17,22 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1205401"
   },
   "schema:identifier": [
-    "label_0990",
     "ark:/85140/d4cd16"
   ],
   "schema:inLanguage": "de-CH",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Swiss",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Swiss",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Frèd Fonjallaz, propriétaire § Dézaley. Grand Vin Extra § Epesses",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Epesses",
+  "wine_label:digitization_number": "0990/",
+  "wine_label:folder": "Still--Swiss",
+  "wine_label:marginalia": "\"Switzerland. Jeff Smith. Europe\"",
+  "wine_label:producer": "Frèd Fonjallaz, propriétaire",
+  "wine_label:wine_type": "Dézaley. Grand Vin Extra"
 }

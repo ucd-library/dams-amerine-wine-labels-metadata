@@ -22,22 +22,23 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4872x",
-    "label_3607"
+    "ark:/85140/d4872x"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--California White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "California Wine Association. CalWA .  Greystone § Light hock  § San Francisco",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "San Francisco",
+  "wine_label:digitization_number": "3607/",
+  "wine_label:folder": "White--Still--California White",
+  "wine_label:marginalia": "\"maa\"",
+  "wine_label:producer": "California Wine Association. CalWA .  Greystone",
+  "wine_label:questions": "Hock is a British term for German white wine. Note: Greystone cellars was in St. Helena but was a member of CalWA, an assoc. in San Francisco.",
+  "wine_label:wine_type": "Light hock "
 }

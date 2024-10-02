@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d43m72",
-    "label_3585"
+    "ark:/85140/d43m72"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--California White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Wente Bros.  § Livermore Sauvignon Blanc § Livermore",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Livermore",
+  "wine_label:digitization_number": "3585/",
+  "wine_label:folder": "White--Still--California White",
+  "wine_label:marginalia": "\"Dinner. Bohemian Club. 1/24/43. A\" \"Present: Virgil Jorgensen (host), Florence Jorgensen,  [E?] Littell, CEH, Jr., Carolyn, Emmy, CEH\"",
+  "wine_label:producer": "Wente Bros. ",
+  "wine_label:wine_type": "Livermore Sauvignon Blanc"
 }

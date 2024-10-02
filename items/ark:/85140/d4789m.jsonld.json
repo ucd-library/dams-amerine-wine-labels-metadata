@@ -17,21 +17,22 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "label_0666",
     "ark:/85140/d4789m"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Caves de la Cloche § Charmes Chambertin § Dijon, Bourgogne",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Dijon, Bourgogne",
+  "wine_label:date": "1929",
+  "wine_label:digitization_number": "0666/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Dinner. Hotel de la Cloche. Dijon. 5/31/50. B+. (but manhandled). With Chateaubriand. Present: ELH, CEH\". ",
+  "wine_label:producer": "Caves de la Cloche",
+  "wine_label:wine_type": "Charmes Chambertin"
 }

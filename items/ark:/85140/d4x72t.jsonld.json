@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4x72t",
-    "label_3927"
+    "ark:/85140/d4x72t"
   ],
   "schema:inLanguage": "de-DE",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Germany Sparkling Wine Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Sparkling--Germany Sparkling Wine Folder",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Carl Graeger § Hochheimer Cabinet Sekt  § Hochheim a.M.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Hochheim a.M.",
+  "wine_label:digitization_number": "3927/",
+  "wine_label:folder": "Sparkling--Germany Sparkling Wine Folder",
+  "wine_label:producer": "Carl Graeger",
+  "wine_label:wine_type": "Hochheimer Cabinet Sekt "
 }

@@ -14,21 +14,20 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "ark:/85140/d4nv0s",
-    "label_4881"
+    "ark:/85140/d4nv0s"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Additions Various Folder",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Bodegas y Viñedos Santa Ana S.A. § Seleccion Santa Ana. Vino Fino Tinto § Villa Nueva de Guaymallén - Mendoza",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Villa Nueva de Guaymallén - Mendoza",
+  "wine_label:digitization_number": "4881/",
+  "wine_label:folder": "Still",
+  "wine_label:producer": "Bodegas y Viñedos Santa Ana S.A.",
+  "wine_label:wine_type": "Seleccion Santa Ana. Vino Fino Tinto"
 }

@@ -17,22 +17,23 @@
     "@id": "http://id.worldcat.org/fast/1240997"
   },
   "schema:identifier": [
-    "ark:/85140/d4fg85",
-    "label_0556"
+    "ark:/85140/d4fg85"
   ],
   "schema:inLanguage": "de",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Rhinegau",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--Rhinegau",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Weingut J.B. Becker § Niederwallufer Walkenberg Riesling Spätlese § Niederwalluf i. Rhg.",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Niederwalluf i. Rhg.",
+  "wine_label:date": "1946",
+  "wine_label:digitization_number": "0556/",
+  "wine_label:folder": "Still--Rhinegau",
+  "wine_label:marginalia": "\"Niederwallufer. Esquin\"",
+  "wine_label:producer": "Weingut J.B. Becker",
+  "wine_label:wine_type": "Niederwallufer Walkenberg Riesling Spätlese"
 }

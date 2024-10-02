@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "label_3045",
     "ark:/85140/d4vt4t"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "Bordeaux Misc Red",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Edouard Dubois-Challon, Propriétaire. Château Ausone. § St. Émilion",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:date": "1929",
+  "wine_label:digitization_number": "3045/",
+  "wine_label:folder": "Red--Still--Bordeaux Misc Red",
+  "wine_label:marginalia": "\"Dinner. Bohemian Club. March 1940. .95. Also, Ausone Dinner. Wine + Food Society. Palace Hotel. Oct. 8, 1940\" \"1er Grand Cru. St. Émilion\"",
+  "wine_label:producer": "Edouard Dubois-Challon, Propriétaire. Château Ausone.",
+  "wine_label:wine_type": "St. Émilion"
 }

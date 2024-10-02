@@ -22,22 +22,21 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4713x",
-    "label_3468"
+    "ark:/85140/d4713x"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--California White",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Produced & Bottled by Beringer Brothers, Inc.. Los Hermanos Vineyards. § Napa Valley Chablis. Private Stock. § St. Helena",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "St. Helena",
+  "wine_label:digitization_number": "3468/",
+  "wine_label:folder": "White--Still--California White",
+  "wine_label:producer": "Produced & Bottled by Beringer Brothers, Inc.. Los Hermanos Vineyards.",
+  "wine_label:wine_type": "Napa Valley Chablis. Private Stock."
 }

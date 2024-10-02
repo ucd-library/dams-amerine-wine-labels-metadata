@@ -17,21 +17,21 @@
     "@id": "http://id.worldcat.org/fast/1245064"
   },
   "schema:identifier": [
-    "label_0737",
     "ark:/85140/d42892"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "European Trip 1950-1952",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Still--European Trip 1950-1952",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Casa Vinicola Fazi Battaglia § Verdicchio dei Castelli di Jesi § Cupramontana (Ancona)",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Cupramontana (Ancona)",
+  "wine_label:digitization_number": "0737/",
+  "wine_label:folder": "Still--European Trip 1950-1952",
+  "wine_label:marginalia": "\"Lunch. Passeth. Rome. 4/23/52.  B- Pethlan's\"",
+  "wine_label:producer": "Casa Vinicola Fazi Battaglia",
+  "wine_label:wine_type": "Verdicchio dei Castelli di Jesi"
 }

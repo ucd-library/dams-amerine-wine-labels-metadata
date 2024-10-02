@@ -22,22 +22,22 @@
     }
   ],
   "schema:identifier": [
-    "ark:/85140/d4kh8r",
-    "label_3620"
+    "ark:/85140/d4kh8r"
   ],
   "schema:inLanguage": "en-US",
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "California White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "White--Still--California White",
-  "schema:publisher": [
-    "University of California, Davis. General Library. Dept. of Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ]
+  "schema:name": "Inglenook GN § Napa Valley Navalle White Wine § Rutherford",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Rutherford",
+  "wine_label:digitization_number": "3620/",
+  "wine_label:folder": "White--Still--California White",
+  "wine_label:marginalia": "\"Wine Committee. Tasting Dinner. Bhmn Club 4/5/43 C\" \"Present: Sec. [?] de [?]\"",
+  "wine_label:producer": "Inglenook GN",
+  "wine_label:wine_type": "Napa Valley Navalle White Wine"
 }

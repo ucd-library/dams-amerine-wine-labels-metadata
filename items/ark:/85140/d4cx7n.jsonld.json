@@ -16,21 +16,21 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "ark:/85140/d4cx7n",
-    "label_4976"
+    "ark:/85140/d4cx7n"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Jobard Jeune & Bernard. Clos de la Pucelle § Puligny-Montrachet § Beaune; Côte-d'Or",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Beaune; Côte-d'Or",
+  "wine_label:date": "1919",
+  "wine_label:digitization_number": "4976/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:producer": "Jobard Jeune & Bernard. Clos de la Pucelle",
+  "wine_label:wine_type": "Puligny-Montrachet"
 }

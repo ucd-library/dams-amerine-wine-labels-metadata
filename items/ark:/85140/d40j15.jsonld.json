@@ -16,21 +16,21 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:identifier": [
-    "ark:/85140/d40j15",
-    "label_5010"
+    "ark:/85140/d40j15"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
-  },
   "schema:keywords": "UC Reporters Notebook",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "UC Reporters Notebook",
-  "schema:publisher": [
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "University of California, Davis. General Library. Dept. of Special Collections"
-  ]
+  "schema:name": "Manuel Fernandez & Co. § The Oloroso Sherry § Jerez",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
+  },
+  "wine_label:city_region": "Jerez",
+  "wine_label:digitization_number": "5010/",
+  "wine_label:folder": "UC Reporters Notebook",
+  "wine_label:producer": "Manuel Fernandez & Co.",
+  "wine_label:proof": "39",
+  "wine_label:wine_type": "The Oloroso Sherry"
 }
