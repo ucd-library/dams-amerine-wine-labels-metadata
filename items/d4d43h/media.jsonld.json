@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "wine_label": "ark:/87287/d7794w/schema#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "http://schema.org/",
+    "ldp": "http://www.w3.org/ns/ldp#"
+  },
+  "@id": "",
+  "@type": [ "ldp:DirectContainer" ],
+  "ldp:hasMemberRelation": {
+    "@id": "schema:associatedMedia"
+  },
+  "ldp:isMemberOfRelation": {
+    "@id": "schema:encodesCreativeWork"
+  },
+  "ldp:membershipResource": {
+    "@id": "@base:.."
+  }
+}
