@@ -1,17 +1,21 @@
 {
-  "@id": "",
   "@context": {
     "fast": "http://id.worldcat.org/fast/",
     "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
     "name": {
-      "@id": "http://schema.org/name"
+      "@id": "http://schema.org/name",
+      "@type": "xsd:string"
     }
   },
-  "@type": [
-    "ucdlib:LabelService",
-    "ucdlib:Service"
-  ],
   "@graph": [
+    {
+      "@id":"",
+      "@type": [
+        "ucdlib:LabelService",
+        "ucdlib:Service"
+      ]
+    },
     {
       "@id": "fast:1101236",
       "name": "Rum"
