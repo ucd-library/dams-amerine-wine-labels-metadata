@@ -10,7 +10,7 @@
   "@type": [
     "ucdlib:WineLabel",
     "schema:CreativeWork",
-    "schema:VisualArtwork",
+    "schema:ImageObject",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:about": {

@@ -8,7 +8,7 @@
   },
   "@id": "",
   "@type": [
-    "schema:VisualArtwork",
+    "schema:ImageObject",
     "ucdlib:WineLabel",
     "schema:CreativeWork",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
