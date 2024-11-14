@@ -24,12 +24,11 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "in Chinese. Can't do it.",
+  "schema:name": "Produce of Portugal",
   "schema:publisher": {
     "@id": "http://id.loc.gov/authorities/names/no2008108707",
     "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
   },
   "wine_label:digitization_number": "4175/",
-  "wine_label:folder": "Still--France Folder",
-  "wine_label:producer": "in Chinese. Can't do it."
+  "wine_label:folder": "Still--France Folder"
 }
