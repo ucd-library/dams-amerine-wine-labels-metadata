@@ -22,7 +22,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": " Left:  Golden [State Wines Inc]                          Right: Lamblin & FIls.  Château de Milly. § Left: Rex.                                Right: \"Mont de Milieu\"  § Left: Old California Cabernet.        Right: Chablis Premeir Cru § Right: Chablis; France",
+  "schema:name": "UC Reporters Notebook",
   "schema:publisher": {
     "@id": "http://id.loc.gov/authorities/names/no2008108707",
     "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
