@@ -22,7 +22,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Left & Right: Goldberg, Bowen & Company § Left & Right: Big Tree § Left & Right: California WInes § Left & Right: San Francisco; Oakland",
+  "schema:name": "UC Reporters Notebook",
   "schema:publisher": {
     "@id": "http://id.loc.gov/authorities/names/no2008108707",
     "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
