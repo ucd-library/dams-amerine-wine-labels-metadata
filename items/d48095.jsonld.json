@@ -29,7 +29,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Boisseux -Estivant BE",
+  "schema:name": "White--Still--Burgundy White",
   "schema:publisher": {
     "@id": "http://id.loc.gov/authorities/names/no2008108707",
     "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
@@ -37,7 +37,7 @@
   "wine_label:city_region": "Beaune; Meursanges; Côte d'Or",
   "wine_label:date": "1937",
   "wine_label:digitization_number": "2477/",
-  "wine_label:folder": "Boisseux -Estivant BE",
+  "wine_label:folder": "White--Still--Burgundy White",
   "wine_label:marginalia": "\"\"Quite decent wine\"\" \"maa\"",
   "wine_label:producer": "Boisseux -Estivant BE",
   "wine_label:wine_type": "Chassagne-Montrachet"
