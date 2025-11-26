@@ -15,7 +15,7 @@
   ],
   "schema:about": [
     {
-      "@id": "http://id.worldcat.org/fast/1746284"
+      "@id": "http://id.worldcat.org/fast/1746285"
     },
     {
       "@id": "http://id.worldcat.org/fast/1759083"
@@ -25,11 +25,12 @@
     "ark:/85140/d44x4b"
   ],
   "schema:inLanguage": "fr-FR",
-  "schema:keywords": "Bordeaux Misc Red",
+  "schema:keywords": "Bordeaux Misc White",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Red--Still--Bordeaux Misc Red",
+  "schema:description": "Amerine grouped this label in a category he called \‘Bordeaux Miscellaneous Red.\’ However, until 2023, only white wines were approved for production in Entre-Deux-Mers."
+  "schema:name": "White--Still--Bordeaux White",
   "schema:publisher": {
     "@id": "http://id.loc.gov/authorities/names/no2008108707",
     "schema:name": "University of California, Davis. General Library. Dept. of Special Collections"
