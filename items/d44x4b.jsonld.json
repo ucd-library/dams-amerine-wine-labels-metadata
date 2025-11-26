@@ -29,7 +29,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:description": "Amerine grouped this label in a category he called \‘Bordeaux Miscellaneous Red.\’ However, until 2023, only white wines were approved for production in Entre-Deux-Mers."
+  "schema:description": "Amerine grouped this label in a category he called \"Bordeaux Miscellaneous Red.\" However, until 2023, only white wines were approved for production in Entre-Deux-Mers.",
   "schema:name": "White--Still--Bordeaux White",
   "schema:publisher": {
     "@id": "http://id.loc.gov/authorities/names/no2008108707",
